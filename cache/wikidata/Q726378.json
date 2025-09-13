@@ -1,0 +1,50 @@
+{
+  "id": "Q726378",
+  "label": "microkernel",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2777127024"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/microkernel"
+    },
+    {
+      "property": "P227",
+      "value": "4684244-5"
+    },
+    {
+      "property": "P279",
+      "value": "Q9662"
+    },
+    {
+      "property": "P3417",
+      "value": "Microkernel"
+    },
+    {
+      "property": "P461",
+      "value": "Q720353"
+    },
+    {
+      "property": "P6366",
+      "value": "2777127024"
+    },
+    {
+      "property": "P646",
+      "value": "/m/050w3"
+    },
+    {
+      "property": "P8408",
+      "value": "Microkernel"
+    },
+    {
+      "property": "P910",
+      "value": "Q8625184"
+    },
+    {
+      "property": "P9100",
+      "value": "microkernel"
+    }
+  ]
+}

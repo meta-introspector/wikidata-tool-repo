@@ -1,0 +1,50 @@
+{
+  "id": "Q79598",
+  "label": "Cyclone",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2777864850"
+    },
+    {
+      "property": "P178",
+      "value": "Q35476"
+    },
+    {
+      "property": "P287",
+      "value": "Q4654544"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P571",
+      "value": "+2002-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/024v8"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q736866"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P856",
+      "value": "http://cyclone.thelanguage.org"
+    }
+  ]
+}

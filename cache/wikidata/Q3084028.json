@@ -1,0 +1,30 @@
+{
+  "id": "Q3084028",
+  "label": "MozillaZine",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P571",
+      "value": "+1998-01-01T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01zshc"
+    },
+    {
+      "property": "P6720",
+      "value": "mozillazinekb"
+    },
+    {
+      "property": "P6720",
+      "value": "mozillazinekb"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozillazine.org/"
+    }
+  ]
+}

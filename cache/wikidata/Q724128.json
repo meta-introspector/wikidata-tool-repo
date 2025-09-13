@@ -1,0 +1,106 @@
+{
+  "id": "Q724128",
+  "label": "ChatZilla",
+  "facts": [
+    {
+      "property": "P12086",
+      "value": "ChatZilla"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/chatzilla"
+    },
+    {
+      "property": "P154",
+      "value": "ChatZilla logo.svg"
+    },
+    {
+      "property": "P18",
+      "value": "Chatzilla en.png"
+    },
+    {
+      "property": "P1972",
+      "value": "chatzilla"
+    },
+    {
+      "property": "P2537",
+      "value": "ChatZilla"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q10417670"
+    },
+    {
+      "property": "P31",
+      "value": "Q15008061"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.93"
+    },
+    {
+      "property": "P373",
+      "value": "ChatZilla"
+    },
+    {
+      "property": "P400",
+      "value": "Q698"
+    },
+    {
+      "property": "P4162",
+      "value": "chatzilla"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0l_9s"
+    },
+    {
+      "property": "P6931",
+      "value": "chatzilla"
+    },
+    {
+      "property": "P856",
+      "value": "http://chatzilla.hacksrus.com/"
+    },
+    {
+      "property": "P910",
+      "value": "Q55322758"
+    },
+    {
+      "property": "P935",
+      "value": "ChatZilla"
+    },
+    {
+      "property": "P9618",
+      "value": "chatzilla"
+    },
+    {
+      "property": "P9849",
+      "value": "{59c81df5-4b7a-477b-912d-4e0fdf64e5f2}"
+    }
+  ]
+}

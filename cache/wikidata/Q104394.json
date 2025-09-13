@@ -1,0 +1,210 @@
+{
+  "id": "Q104394",
+  "label": ";",
+  "facts": [
+    {
+      "property": "P11586",
+      "value": "punto-e-virgola-uso-del-prontuario"
+    },
+    {
+      "property": "P11642",
+      "value": "punto-e-virgola"
+    },
+    {
+      "property": "P12086",
+      "value": "Puntkomma"
+    },
+    {
+      "property": "P12385",
+      "value": "punt-i-coma"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Point-virgule"
+    },
+    {
+      "property": "P12946",
+      "value": "semicolon"
+    },
+    {
+      "property": "P1296",
+      "value": "0154004"
+    },
+    {
+      "property": "P1299",
+      "value": "Q87544588"
+    },
+    {
+      "property": "P1299",
+      "value": "Q87544144"
+    },
+    {
+      "property": "P1299",
+      "value": "Q87544006"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19219752"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/752e16d4-6ba8-4fcf-b987-de7d47c0b2f1"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/semicolon"
+    },
+    {
+      "property": "P18",
+      "value": "Semicolon.svg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q87498632"
+    },
+    {
+      "property": "P2263",
+      "value": "4313"
+    },
+    {
+      "property": "P2263",
+      "value": "1446"
+    },
+    {
+      "property": "P244",
+      "value": "sh85119889"
+    },
+    {
+      "property": "P2444",
+      "value": "Q87498632"
+    },
+    {
+      "property": "P2444",
+      "value": "Q87500229"
+    },
+    {
+      "property": "P2444",
+      "value": "Q87523445"
+    },
+    {
+      "property": "P268",
+      "value": "17780557b"
+    },
+    {
+      "property": "P279",
+      "value": "Q10617810"
+    },
+    {
+      "property": "P31",
+      "value": "Q29654788"
+    },
+    {
+      "property": "P3295",
+      "value": "-.-.-."
+    },
+    {
+      "property": "P361",
+      "value": "Q31963"
+    },
+    {
+      "property": "P366",
+      "value": "Q1641420"
+    },
+    {
+      "property": "P366",
+      "value": "Q189756"
+    },
+    {
+      "property": "P366",
+      "value": "Q1141067"
+    },
+    {
+      "property": "P366",
+      "value": "Q2287715"
+    },
+    {
+      "property": "P373",
+      "value": "Semicolons"
+    },
+    {
+      "property": "P4213",
+      "value": "003B"
+    },
+    {
+      "property": "P4342",
+      "value": "semikolon"
+    },
+    {
+      "property": "P4575",
+      "value": "&semi;"
+    },
+    {
+      "property": "P4575",
+      "value": "&#x3b;"
+    },
+    {
+      "property": "P4575",
+      "value": "&#59;"
+    },
+    {
+      "property": "P4736",
+      "value": "SP140000"
+    },
+    {
+      "property": "P487",
+      "value": ";"
+    },
+    {
+      "property": "P508",
+      "value": "67244"
+    },
+    {
+      "property": "P5467",
+      "value": "u003b"
+    },
+    {
+      "property": "P5467",
+      "value": "u003b-sans"
+    },
+    {
+      "property": "P5522",
+      "value": "Q2493832"
+    },
+    {
+      "property": "P575",
+      "value": "+1494-00-00T00:00:00Z"
+    },
+    {
+      "property": "P61",
+      "value": "Q213220"
+    },
+    {
+      "property": "P6366",
+      "value": "2777696440"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0g5c7"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/8591"
+    },
+    {
+      "property": "P8189",
+      "value": "987007531764805171"
+    },
+    {
+      "property": "P8313",
+      "value": "semikolon"
+    },
+    {
+      "property": "P8669",
+      "value": "bodkociarka"
+    },
+    {
+      "property": "P9382",
+      "value": "SEMICOLON"
+    }
+  ]
+}

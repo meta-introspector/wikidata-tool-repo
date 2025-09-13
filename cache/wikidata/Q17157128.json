@@ -1,0 +1,42 @@
+{
+  "id": "Q17157128",
+  "label": "object lifetime",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q2308807"
+    },
+    {
+      "property": "P1269",
+      "value": "Q17156588"
+    },
+    {
+      "property": "P1382",
+      "value": "Q1034415"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1034415"
+    },
+    {
+      "property": "P279",
+      "value": "Q5412715"
+    },
+    {
+      "property": "P279",
+      "value": "Q135550416"
+    },
+    {
+      "property": "P31",
+      "value": "Q186081"
+    },
+    {
+      "property": "P6366",
+      "value": "2778866541"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01h_kr"
+    }
+  ]
+}

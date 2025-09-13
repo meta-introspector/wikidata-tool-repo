@@ -1,0 +1,254 @@
+{
+  "id": "Q81571",
+  "label": "Pascal",
+  "facts": [
+    {
+      "property": "P1051",
+      "value": "13864"
+    },
+    {
+      "property": "P11129",
+      "value": "Pascal"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-pascal"
+    },
+    {
+      "property": "P1195",
+      "value": "pp"
+    },
+    {
+      "property": "P1195",
+      "value": "p"
+    },
+    {
+      "property": "P1195",
+      "value": "pas"
+    },
+    {
+      "property": "P12385",
+      "value": "pascal"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Pascal_(langage)"
+    },
+    {
+      "property": "P12946",
+      "value": "Pascal"
+    },
+    {
+      "property": "P1296",
+      "value": "0049253"
+    },
+    {
+      "property": "P13572",
+      "value": "Pascal"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/718e5233-f60e-432b-8708-71f6d64b0a0c"
+    },
+    {
+      "property": "P138",
+      "value": "Q1290"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Pascal-computer-language"
+    },
+    {
+      "property": "P178",
+      "value": "Q92604"
+    },
+    {
+      "property": "P2163",
+      "value": "1054264"
+    },
+    {
+      "property": "P244",
+      "value": "sh85098423"
+    },
+    {
+      "property": "P268",
+      "value": "11941547z"
+    },
+    {
+      "property": "P287",
+      "value": "Q92604"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q275596"
+    },
+    {
+      "property": "P31",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3417",
+      "value": "Pascal-Programming-Language"
+    },
+    {
+      "property": "P348",
+      "value": "ISO/IEC 10206:1991 Stage: 90.93 (29 июля 2008 года)"
+    },
+    {
+      "property": "P373",
+      "value": "Pascal (programming language)"
+    },
+    {
+      "property": "P3827",
+      "value": "pascal-programming-language"
+    },
+    {
+      "property": "P3847",
+      "value": "pascal_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3984",
+      "value": "pascal"
+    },
+    {
+      "property": "P4342",
+      "value": "Pascal_-_IT"
+    },
+    {
+      "property": "P4969",
+      "value": "Q633894"
+    },
+    {
+      "property": "P4969",
+      "value": "Q25245640"
+    },
+    {
+      "property": "P4969",
+      "value": "Q11813208"
+    },
+    {
+      "property": "P571",
+      "value": "+1970-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1972-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "3940"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Pascal"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Pascal"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Pascal"
+    },
+    {
+      "property": "P6366",
+      "value": "94176051"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05y49"
+    },
+    {
+      "property": "P6706",
+      "value": "Pascal"
+    },
+    {
+      "property": "P6900",
+      "value": "pascal"
+    },
+    {
+      "property": "P691",
+      "value": "ph117098"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q736866"
+    },
+    {
+      "property": "P737",
+      "value": "Q188436"
+    },
+    {
+      "property": "P737",
+      "value": "Q1209759"
+    },
+    {
+      "property": "P737",
+      "value": "Q1538458"
+    },
+    {
+      "property": "P737",
+      "value": "Q212569"
+    },
+    {
+      "property": "P8189",
+      "value": "987007529588505171"
+    },
+    {
+      "property": "P8313",
+      "value": "Pascal"
+    },
+    {
+      "property": "P8885",
+      "value": "파스칼(프로그래밍 언어)"
+    },
+    {
+      "property": "P910",
+      "value": "Q6360016"
+    },
+    {
+      "property": "P9100",
+      "value": "pascal"
+    },
+    {
+      "property": "P9287",
+      "value": "12003"
+    },
+    {
+      "property": "P9621",
+      "value": "pascal"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.standardpascal.org"
+    }
+  ]
+}

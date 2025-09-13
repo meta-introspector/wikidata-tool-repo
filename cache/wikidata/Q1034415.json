@@ -1,0 +1,66 @@
+{
+  "id": "Q1034415",
+  "label": "scope",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2778012447"
+    },
+    {
+      "property": "P1482",
+      "value": "https://langdev.stackexchange.com/tags/scoping"
+    },
+    {
+      "property": "P1482",
+      "value": "https://softwareengineering.stackexchange.com/tags/scope"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/scope"
+    },
+    {
+      "property": "P1889",
+      "value": "Q726718"
+    },
+    {
+      "property": "P1889",
+      "value": "Q7097769"
+    },
+    {
+      "property": "P1889",
+      "value": "Q17122913"
+    },
+    {
+      "property": "P1889",
+      "value": "Q17157128"
+    },
+    {
+      "property": "P279",
+      "value": "Q128751"
+    },
+    {
+      "property": "P279",
+      "value": "Q88392887"
+    },
+    {
+      "property": "P31",
+      "value": "Q4897819"
+    },
+    {
+      "property": "P361",
+      "value": "Q128751"
+    },
+    {
+      "property": "P361",
+      "value": "Q288510"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0gsnt"
+    },
+    {
+      "property": "P6611",
+      "value": "35299"
+    }
+  ]
+}

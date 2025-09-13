@@ -1,0 +1,42 @@
+{
+  "id": "Q11230172",
+  "label": "linux.conf.au",
+  "facts": [
+    {
+      "property": "P156",
+      "value": "Q117139499"
+    },
+    {
+      "property": "P31",
+      "value": "Q56220509"
+    },
+    {
+      "property": "P31",
+      "value": "Q15900647"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P373",
+      "value": "Linux.conf.au"
+    },
+    {
+      "property": "P571",
+      "value": "+1999-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03s7r5"
+    },
+    {
+      "property": "P822",
+      "value": "Q38806"
+    },
+    {
+      "property": "P856",
+      "value": "http://conf.linux.org.au"
+    }
+  ]
+}

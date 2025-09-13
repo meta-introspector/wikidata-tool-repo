@@ -1,0 +1,2302 @@
+{
+  "id": "Q160120",
+  "label": "Huawei",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "1470399608274"
+    },
+    {
+      "property": "P10283",
+      "value": "I2250955327"
+    },
+    {
+      "property": "P10296",
+      "value": "huawei"
+    },
+    {
+      "property": "P1037",
+      "value": "Q712802"
+    },
+    {
+      "property": "P10439",
+      "value": "6b242b475738f45a4dd180564d029aa9"
+    },
+    {
+      "property": "P10470",
+      "value": "huawei"
+    },
+    {
+      "property": "P1056",
+      "value": "Q15057100"
+    },
+    {
+      "property": "P1056",
+      "value": "Q22645"
+    },
+    {
+      "property": "P1056",
+      "value": "Q155972"
+    },
+    {
+      "property": "P1056",
+      "value": "Q16796509"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1546066"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1813651"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1363408"
+    },
+    {
+      "property": "P1056",
+      "value": "Q3962"
+    },
+    {
+      "property": "P1056",
+      "value": "Q5362345"
+    },
+    {
+      "property": "P10780",
+      "value": "huawei"
+    },
+    {
+      "property": "P11079",
+      "value": "huaweisocial"
+    },
+    {
+      "property": "P11196",
+      "value": "华为"
+    },
+    {
+      "property": "P112",
+      "value": "Q712802"
+    },
+    {
+      "property": "P1128",
+      "value": "+180000"
+    },
+    {
+      "property": "P1128",
+      "value": "+180000"
+    },
+    {
+      "property": "P1128",
+      "value": "+197000"
+    },
+    {
+      "property": "P1128",
+      "value": "+105000"
+    },
+    {
+      "property": "P1167",
+      "value": "12d1"
+    },
+    {
+      "property": "P11961",
+      "value": "1953016339157211197"
+    },
+    {
+      "property": "P12086",
+      "value": "Huawei"
+    },
+    {
+      "property": "P1213",
+      "value": "000621034"
+    },
+    {
+      "property": "P1213",
+      "value": "000621033"
+    },
+    {
+      "property": "P127",
+      "value": "Q712802"
+    },
+    {
+      "property": "P127",
+      "value": "Q712802"
+    },
+    {
+      "property": "P1278",
+      "value": "300300G4NLFHF8PDPY52"
+    },
+    {
+      "property": "P1329",
+      "value": "+34-900-483-303"
+    },
+    {
+      "property": "P13591",
+      "value": "group/f410e621-4511-467d-965a-a3d87b75dc92"
+    },
+    {
+      "property": "P13738",
+      "value": "19e5"
+    },
+    {
+      "property": "P13746",
+      "value": "HUAWEI"
+    },
+    {
+      "property": "P1375",
+      "value": "000732723"
+    },
+    {
+      "property": "P1424",
+      "value": "Q13107223"
+    },
+    {
+      "property": "P1448",
+      "value": "Huawei Technologies Co., Ltd."
+    },
+    {
+      "property": "P1451",
+      "value": "Make it possible"
+    },
+    {
+      "property": "P1454",
+      "value": "Q129989713"
+    },
+    {
+      "property": "P154",
+      "value": "Huawei wordmark.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Huawei wordmark 2019.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q15174"
+    },
+    {
+      "property": "P1617",
+      "value": "a61843ab-8ea2-4c93-88cd-fbb29f1993bf"
+    },
+    {
+      "property": "P169",
+      "value": "Q712802"
+    },
+    {
+      "property": "P17",
+      "value": "Q148"
+    },
+    {
+      "property": "P18",
+      "value": "HuaweiShenzhen.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "20211213 Huawei store at Yoyo Park.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Huawei store at Guotai Life Plaza, Airport (20220831142844).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Huawei counter, Tonlin Plaza Taoyuan 2019-07-13.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Huawei Store in Fujian Fuding Nanda Road.jpg"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4040805"
+    },
+    {
+      "property": "P1830",
+      "value": "Q63986220"
+    },
+    {
+      "property": "P1830",
+      "value": "Q86729107"
+    },
+    {
+      "property": "P1889",
+      "value": "Q782"
+    },
+    {
+      "property": "P2002",
+      "value": "Huawei"
+    },
+    {
+      "property": "P2003",
+      "value": "huawei"
+    },
+    {
+      "property": "P2013",
+      "value": "huaweimobile"
+    },
+    {
+      "property": "P2088",
+      "value": "huawei"
+    },
+    {
+      "property": "P213",
+      "value": "0000000087435787"
+    },
+    {
+      "property": "P2137",
+      "value": "+21000"
+    },
+    {
+      "property": "P2139",
+      "value": "+521574000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+395009000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+721202000000"
+    },
+    {
+      "property": "P214",
+      "value": "126906150"
+    },
+    {
+      "property": "P227",
+      "value": "1068466766"
+    },
+    {
+      "property": "P2295",
+      "value": "+37052000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+36910000000"
+    },
+    {
+      "property": "P2397",
+      "value": "UCtjV1_XU6gvPYyreaFScxBQ"
+    },
+    {
+      "property": "P2403",
+      "value": "+443634000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+372155000000"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.453400.6"
+    },
+    {
+      "property": "P244",
+      "value": "n2010015606"
+    },
+    {
+      "property": "P2657",
+      "value": "114467111412-38"
+    },
+    {
+      "property": "P268",
+      "value": "17074707w"
+    },
+    {
+      "property": "P269",
+      "value": "196228581"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q6881511"
+    },
+    {
+      "property": "P31",
+      "value": "Q18388277"
+    },
+    {
+      "property": "P3153",
+      "value": "501100003816"
+    },
+    {
+      "property": "P3185",
+      "value": "huaweirussiaofficial"
+    },
+    {
+      "property": "P3185",
+      "value": "huaweimobilerus"
+    },
+    {
+      "property": "P3225",
+      "value": "7700150070749"
+    },
+    {
+      "property": "P3347",
+      "value": "4296309931"
+    },
+    {
+      "property": "P3362",
+      "value": "+47515000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+45786000000"
+    },
+    {
+      "property": "P3377",
+      "value": "40978Z:CH"
+    },
+    {
+      "property": "P3393",
+      "value": "164492"
+    },
+    {
+      "property": "P3417",
+      "value": "Huawei-company"
+    },
+    {
+      "property": "P349",
+      "value": "001123785"
+    },
+    {
+      "property": "P3500",
+      "value": "115371"
+    },
+    {
+      "property": "P355",
+      "value": "Q3135124"
+    },
+    {
+      "property": "P355",
+      "value": "Q28974624"
+    },
+    {
+      "property": "P355",
+      "value": "Q28974626"
+    },
+    {
+      "property": "P355",
+      "value": "Q30338231"
+    },
+    {
+      "property": "P355",
+      "value": "Q30338232"
+    },
+    {
+      "property": "P355",
+      "value": "Q41567675"
+    },
+    {
+      "property": "P355",
+      "value": "Q58218756"
+    },
+    {
+      "property": "P355",
+      "value": "Q15929999"
+    },
+    {
+      "property": "P355",
+      "value": "Q131428217"
+    },
+    {
+      "property": "P3553",
+      "value": "19565956"
+    },
+    {
+      "property": "P3579",
+      "value": "huaweiweibo"
+    },
+    {
+      "property": "P373",
+      "value": "Huawei"
+    },
+    {
+      "property": "P3984",
+      "value": "Huawei"
+    },
+    {
+      "property": "P4013",
+      "value": "huawei_mobile"
+    },
+    {
+      "property": "P4204",
+      "value": "Huawei"
+    },
+    {
+      "property": "P4264",
+      "value": "huawei"
+    },
+    {
+      "property": "P452",
+      "value": "Q2401742"
+    },
+    {
+      "property": "P452",
+      "value": "Q5358497"
+    },
+    {
+      "property": "P452",
+      "value": "Q5268834"
+    },
+    {
+      "property": "P4527",
+      "value": "364782"
+    },
+    {
+      "property": "P463",
+      "value": "Q537395"
+    },
+    {
+      "property": "P463",
+      "value": "Q858851"
+    },
+    {
+      "property": "P463",
+      "value": "Q37033"
+    },
+    {
+      "property": "P463",
+      "value": "Q1361045"
+    },
+    {
+      "property": "P463",
+      "value": "Q67904121"
+    },
+    {
+      "property": "P463",
+      "value": "Q7389502"
+    },
+    {
+      "property": "P463",
+      "value": "Q15731702"
+    },
+    {
+      "property": "P463",
+      "value": "Q105394699"
+    },
+    {
+      "property": "P463",
+      "value": "Q3616482"
+    },
+    {
+      "property": "P463",
+      "value": "Q376047"
+    },
+    {
+      "property": "P463",
+      "value": "Q4007363"
+    },
+    {
+      "property": "P463",
+      "value": "Q15846374"
+    },
+    {
+      "property": "P4776",
+      "value": "001882"
+    },
+    {
+      "property": "P4776",
+      "value": "001E10"
+    },
+    {
+      "property": "P4776",
+      "value": "002568"
+    },
+    {
+      "property": "P4776",
+      "value": "00259E"
+    },
+    {
+      "property": "P4776",
+      "value": "002EC7"
+    },
+    {
+      "property": "P4776",
+      "value": "0034FE"
+    },
+    {
+      "property": "P4776",
+      "value": "00464B"
+    },
+    {
+      "property": "P4776",
+      "value": "005A13"
+    },
+    {
+      "property": "P4776",
+      "value": "00664B"
+    },
+    {
+      "property": "P4776",
+      "value": "009ACD"
+    },
+    {
+      "property": "P4776",
+      "value": "00BE3B"
+    },
+    {
+      "property": "P4776",
+      "value": "00E0FC"
+    },
+    {
+      "property": "P4776",
+      "value": "00F81C"
+    },
+    {
+      "property": "P4776",
+      "value": "04021F"
+    },
+    {
+      "property": "P4776",
+      "value": "0425C5"
+    },
+    {
+      "property": "P4776",
+      "value": "042758"
+    },
+    {
+      "property": "P4776",
+      "value": "043389"
+    },
+    {
+      "property": "P4776",
+      "value": "044F4C"
+    },
+    {
+      "property": "P4776",
+      "value": "047503"
+    },
+    {
+      "property": "P4776",
+      "value": "047970"
+    },
+    {
+      "property": "P4776",
+      "value": "049FCA"
+    },
+    {
+      "property": "P4776",
+      "value": "04B0E7"
+    },
+    {
+      "property": "P4776",
+      "value": "04BD70"
+    },
+    {
+      "property": "P4776",
+      "value": "04C06F"
+    },
+    {
+      "property": "P4776",
+      "value": "04F938"
+    },
+    {
+      "property": "P4776",
+      "value": "04FE8D"
+    },
+    {
+      "property": "P4776",
+      "value": "0819A6"
+    },
+    {
+      "property": "P4776",
+      "value": "086361"
+    },
+    {
+      "property": "P4776",
+      "value": "087A4C"
+    },
+    {
+      "property": "P4776",
+      "value": "08C021"
+    },
+    {
+      "property": "P4776",
+      "value": "08E84F"
+    },
+    {
+      "property": "P4776",
+      "value": "0C2C54"
+    },
+    {
+      "property": "P4776",
+      "value": "0C37DC"
+    },
+    {
+      "property": "P4776",
+      "value": "0C41E9"
+    },
+    {
+      "property": "P4776",
+      "value": "0C45BA"
+    },
+    {
+      "property": "P4776",
+      "value": "0C704A"
+    },
+    {
+      "property": "P4776",
+      "value": "0C8FFF"
+    },
+    {
+      "property": "P4776",
+      "value": "0C96BF"
+    },
+    {
+      "property": "P4776",
+      "value": "0CC6CC"
+    },
+    {
+      "property": "P4776",
+      "value": "0CD6BD"
+    },
+    {
+      "property": "P4776",
+      "value": "101B54"
+    },
+    {
+      "property": "P4776",
+      "value": "104400"
+    },
+    {
+      "property": "P4776",
+      "value": "104780"
+    },
+    {
+      "property": "P4776",
+      "value": "105172"
+    },
+    {
+      "property": "P4776",
+      "value": "10B1F8"
+    },
+    {
+      "property": "P4776",
+      "value": "10C61F"
+    },
+    {
+      "property": "P4776",
+      "value": "1409DC"
+    },
+    {
+      "property": "P4776",
+      "value": "143004"
+    },
+    {
+      "property": "P4776",
+      "value": "145F94"
+    },
+    {
+      "property": "P4776",
+      "value": "149D09"
+    },
+    {
+      "property": "P4776",
+      "value": "14A0F8"
+    },
+    {
+      "property": "P4776",
+      "value": "14A51A"
+    },
+    {
+      "property": "P4776",
+      "value": "14B968"
+    },
+    {
+      "property": "P4776",
+      "value": "14D11F"
+    },
+    {
+      "property": "P4776",
+      "value": "18C58A"
+    },
+    {
+      "property": "P4776",
+      "value": "18D276"
+    },
+    {
+      "property": "P4776",
+      "value": "18DED7"
+    },
+    {
+      "property": "P4776",
+      "value": "1C151F"
+    },
+    {
+      "property": "P4776",
+      "value": "1C1D67"
+    },
+    {
+      "property": "P4776",
+      "value": "1C6758"
+    },
+    {
+      "property": "P4776",
+      "value": "1C8E5C"
+    },
+    {
+      "property": "P4776",
+      "value": "2008ED"
+    },
+    {
+      "property": "P4776",
+      "value": "200BC7"
+    },
+    {
+      "property": "P4776",
+      "value": "202BC1"
+    },
+    {
+      "property": "P4776",
+      "value": "203DB2"
+    },
+    {
+      "property": "P4776",
+      "value": "2054FA"
+    },
+    {
+      "property": "P4776",
+      "value": "20A680"
+    },
+    {
+      "property": "P4776",
+      "value": "20F17C"
+    },
+    {
+      "property": "P4776",
+      "value": "20F3A3"
+    },
+    {
+      "property": "P4776",
+      "value": "2400BA"
+    },
+    {
+      "property": "P4776",
+      "value": "240995"
+    },
+    {
+      "property": "P4776",
+      "value": "241FA0"
+    },
+    {
+      "property": "P4776",
+      "value": "242E02"
+    },
+    {
+      "property": "P4776",
+      "value": "244427"
+    },
+    {
+      "property": "P4776",
+      "value": "244C07"
+    },
+    {
+      "property": "P4776",
+      "value": "2469A5"
+    },
+    {
+      "property": "P4776",
+      "value": "247F3C"
+    },
+    {
+      "property": "P4776",
+      "value": "249EAB"
+    },
+    {
+      "property": "P4776",
+      "value": "24BCF8"
+    },
+    {
+      "property": "P4776",
+      "value": "24DBAC"
+    },
+    {
+      "property": "P4776",
+      "value": "24DF6A"
+    },
+    {
+      "property": "P4776",
+      "value": "283152"
+    },
+    {
+      "property": "P4776",
+      "value": "283CE4"
+    },
+    {
+      "property": "P4776",
+      "value": "285FDB"
+    },
+    {
+      "property": "P4776",
+      "value": "286ED4"
+    },
+    {
+      "property": "P4776",
+      "value": "28A6DB"
+    },
+    {
+      "property": "P4776",
+      "value": "28B448"
+    },
+    {
+      "property": "P4776",
+      "value": "2C55D3"
+    },
+    {
+      "property": "P4776",
+      "value": "2C9D1E"
+    },
+    {
+      "property": "P4776",
+      "value": "2CAB00"
+    },
+    {
+      "property": "P4776",
+      "value": "2CCF58"
+    },
+    {
+      "property": "P4776",
+      "value": "307496"
+    },
+    {
+      "property": "P4776",
+      "value": "308730"
+    },
+    {
+      "property": "P4776",
+      "value": "30D17E"
+    },
+    {
+      "property": "P4776",
+      "value": "30F335"
+    },
+    {
+      "property": "P4776",
+      "value": "3400A3"
+    },
+    {
+      "property": "P4776",
+      "value": "341E6B"
+    },
+    {
+      "property": "P4776",
+      "value": "346AC2"
+    },
+    {
+      "property": "P4776",
+      "value": "346BD3"
+    },
+    {
+      "property": "P4776",
+      "value": "34A2A2"
+    },
+    {
+      "property": "P4776",
+      "value": "34B354"
+    },
+    {
+      "property": "P4776",
+      "value": "34CDBE"
+    },
+    {
+      "property": "P4776",
+      "value": "38378B"
+    },
+    {
+      "property": "P4776",
+      "value": "384C4F"
+    },
+    {
+      "property": "P4776",
+      "value": "38BC01"
+    },
+    {
+      "property": "P4776",
+      "value": "38F889"
+    },
+    {
+      "property": "P4776",
+      "value": "3C15FB"
+    },
+    {
+      "property": "P4776",
+      "value": "3C4711"
+    },
+    {
+      "property": "P4776",
+      "value": "3C678C"
+    },
+    {
+      "property": "P4776",
+      "value": "3C7843"
+    },
+    {
+      "property": "P4776",
+      "value": "3CCD5D"
+    },
+    {
+      "property": "P4776",
+      "value": "3CDFBD"
+    },
+    {
+      "property": "P4776",
+      "value": "3CE824"
+    },
+    {
+      "property": "P4776",
+      "value": "3CF808"
+    },
+    {
+      "property": "P4776",
+      "value": "3CFA43"
+    },
+    {
+      "property": "P4776",
+      "value": "404D8E"
+    },
+    {
+      "property": "P4776",
+      "value": "407D0F"
+    },
+    {
+      "property": "P4776",
+      "value": "40CBA8"
+    },
+    {
+      "property": "P4776",
+      "value": "4455B1"
+    },
+    {
+      "property": "P4776",
+      "value": "446A2E"
+    },
+    {
+      "property": "P4776",
+      "value": "446EE5"
+    },
+    {
+      "property": "P4776",
+      "value": "4482E5"
+    },
+    {
+      "property": "P4776",
+      "value": "44C346"
+    },
+    {
+      "property": "P4776",
+      "value": "480031"
+    },
+    {
+      "property": "P4776",
+      "value": "483C0C"
+    },
+    {
+      "property": "P4776",
+      "value": "48435A"
+    },
+    {
+      "property": "P4776",
+      "value": "4846FB"
+    },
+    {
+      "property": "P4776",
+      "value": "486276"
+    },
+    {
+      "property": "P4776",
+      "value": "487B6B"
+    },
+    {
+      "property": "P4776",
+      "value": "488EEF"
+    },
+    {
+      "property": "P4776",
+      "value": "48AD08"
+    },
+    {
+      "property": "P4776",
+      "value": "48D539"
+    },
+    {
+      "property": "P4776",
+      "value": "48DB50"
+    },
+    {
+      "property": "P4776",
+      "value": "48FD8E"
+    },
+    {
+      "property": "P4776",
+      "value": "4C1FCC"
+    },
+    {
+      "property": "P4776",
+      "value": "4C5499"
+    },
+    {
+      "property": "P4776",
+      "value": "4C8BEF"
+    },
+    {
+      "property": "P4776",
+      "value": "4CB16C"
+    },
+    {
+      "property": "P4776",
+      "value": "4CD0CB"
+    },
+    {
+      "property": "P4776",
+      "value": "4CF95D"
+    },
+    {
+      "property": "P4776",
+      "value": "4CFB45"
+    },
+    {
+      "property": "P4776",
+      "value": "50016B"
+    },
+    {
+      "property": "P4776",
+      "value": "5001D9"
+    },
+    {
+      "property": "P4776",
+      "value": "5004B8"
+    },
+    {
+      "property": "P4776",
+      "value": "501D93"
+    },
+    {
+      "property": "P4776",
+      "value": "505DAC"
+    },
+    {
+      "property": "P4776",
+      "value": "50680A"
+    },
+    {
+      "property": "P4776",
+      "value": "506F77"
+    },
+    {
+      "property": "P4776",
+      "value": "509F27"
+    },
+    {
+      "property": "P4776",
+      "value": "50A72B"
+    },
+    {
+      "property": "P4776",
+      "value": "5425EA"
+    },
+    {
+      "property": "P4776",
+      "value": "5439DF"
+    },
+    {
+      "property": "P4776",
+      "value": "54511B"
+    },
+    {
+      "property": "P4776",
+      "value": "548998"
+    },
+    {
+      "property": "P4776",
+      "value": "54A51B"
+    },
+    {
+      "property": "P4776",
+      "value": "54B121"
+    },
+    {
+      "property": "P4776",
+      "value": "581F28"
+    },
+    {
+      "property": "P4776",
+      "value": "582AF7"
+    },
+    {
+      "property": "P4776",
+      "value": "58605F"
+    },
+    {
+      "property": "P4776",
+      "value": "587F66"
+    },
+    {
+      "property": "P4776",
+      "value": "58BAD4"
+    },
+    {
+      "property": "P4776",
+      "value": "58D759"
+    },
+    {
+      "property": "P4776",
+      "value": "58F987"
+    },
+    {
+      "property": "P4776",
+      "value": "5C0339"
+    },
+    {
+      "property": "P4776",
+      "value": "5C0979"
+    },
+    {
+      "property": "P4776",
+      "value": "5C4CA9"
+    },
+    {
+      "property": "P4776",
+      "value": "5C546D"
+    },
+    {
+      "property": "P4776",
+      "value": "5C7D5E"
+    },
+    {
+      "property": "P4776",
+      "value": "5CA86A"
+    },
+    {
+      "property": "P4776",
+      "value": "5CB395"
+    },
+    {
+      "property": "P4776",
+      "value": "5CB43E"
+    },
+    {
+      "property": "P4776",
+      "value": "5CC307"
+    },
+    {
+      "property": "P4776",
+      "value": "5CF96A"
+    },
+    {
+      "property": "P4776",
+      "value": "600810"
+    },
+    {
+      "property": "P4776",
+      "value": "602E20"
+    },
+    {
+      "property": "P4776",
+      "value": "608334"
+    },
+    {
+      "property": "P4776",
+      "value": "60DE44"
+    },
+    {
+      "property": "P4776",
+      "value": "60DEF3"
+    },
+    {
+      "property": "P4776",
+      "value": "60E701"
+    },
+    {
+      "property": "P4776",
+      "value": "6416F0"
+    },
+    {
+      "property": "P4776",
+      "value": "643E8C"
+    },
+    {
+      "property": "P4776",
+      "value": "64A651"
+    },
+    {
+      "property": "P4776",
+      "value": "6889C1"
+    },
+    {
+      "property": "P4776",
+      "value": "688F84"
+    },
+    {
+      "property": "P4776",
+      "value": "68A0F6"
+    },
+    {
+      "property": "P4776",
+      "value": "68A828"
+    },
+    {
+      "property": "P4776",
+      "value": "68CC6E"
+    },
+    {
+      "property": "P4776",
+      "value": "6CB749"
+    },
+    {
+      "property": "P4776",
+      "value": "7054F5"
+    },
+    {
+      "property": "P4776",
+      "value": "70723C"
+    },
+    {
+      "property": "P4776",
+      "value": "707990"
+    },
+    {
+      "property": "P4776",
+      "value": "707BE8"
+    },
+    {
+      "property": "P4776",
+      "value": "708A09"
+    },
+    {
+      "property": "P4776",
+      "value": "70A8E3"
+    },
+    {
+      "property": "P4776",
+      "value": "745AAA"
+    },
+    {
+      "property": "P4776",
+      "value": "74882A"
+    },
+    {
+      "property": "P4776",
+      "value": "749D8F"
+    },
+    {
+      "property": "P4776",
+      "value": "74A063"
+    },
+    {
+      "property": "P4776",
+      "value": "74A528"
+    },
+    {
+      "property": "P4776",
+      "value": "74D21D"
+    },
+    {
+      "property": "P4776",
+      "value": "781DBA"
+    },
+    {
+      "property": "P4776",
+      "value": "785860"
+    },
+    {
+      "property": "P4776",
+      "value": "786256"
+    },
+    {
+      "property": "P4776",
+      "value": "786A89"
+    },
+    {
+      "property": "P4776",
+      "value": "78D752"
+    },
+    {
+      "property": "P4776",
+      "value": "78F557"
+    },
+    {
+      "property": "P4776",
+      "value": "78F5FD"
+    },
+    {
+      "property": "P4776",
+      "value": "7C11CB"
+    },
+    {
+      "property": "P4776",
+      "value": "7C1CF1"
+    },
+    {
+      "property": "P4776",
+      "value": "7C6097"
+    },
+    {
+      "property": "P4776",
+      "value": "7C7668"
+    },
+    {
+      "property": "P4776",
+      "value": "7C7D3D"
+    },
+    {
+      "property": "P4776",
+      "value": "7CA177"
+    },
+    {
+      "property": "P4776",
+      "value": "7CA23E"
+    },
+    {
+      "property": "P4776",
+      "value": "7CB15D"
+    },
+    {
+      "property": "P4776",
+      "value": "801382"
+    },
+    {
+      "property": "P4776",
+      "value": "8038BC"
+    },
+    {
+      "property": "P4776",
+      "value": "804126"
+    },
+    {
+      "property": "P4776",
+      "value": "80717A"
+    },
+    {
+      "property": "P4776",
+      "value": "80B686"
+    },
+    {
+      "property": "P4776",
+      "value": "80D09B"
+    },
+    {
+      "property": "P4776",
+      "value": "80D4A5"
+    },
+    {
+      "property": "P4776",
+      "value": "80FB06"
+    },
+    {
+      "property": "P4776",
+      "value": "8421F1"
+    },
+    {
+      "property": "P4776",
+      "value": "844765"
+    },
+    {
+      "property": "P4776",
+      "value": "845B12"
+    },
+    {
+      "property": "P4776",
+      "value": "849FB5"
+    },
+    {
+      "property": "P4776",
+      "value": "84A8E4"
+    },
+    {
+      "property": "P4776",
+      "value": "84A9C4"
+    },
+    {
+      "property": "P4776",
+      "value": "84AD58"
+    },
+    {
+      "property": "P4776",
+      "value": "84BE52"
+    },
+    {
+      "property": "P4776",
+      "value": "84DBAC"
+    },
+    {
+      "property": "P4776",
+      "value": "881196"
+    },
+    {
+      "property": "P4776",
+      "value": "8828B3"
+    },
+    {
+      "property": "P4776",
+      "value": "883FD3"
+    },
+    {
+      "property": "P4776",
+      "value": "884477"
+    },
+    {
+      "property": "P4776",
+      "value": "8853D4"
+    },
+    {
+      "property": "P4776",
+      "value": "886639"
+    },
+    {
+      "property": "P4776",
+      "value": "888603"
+    },
+    {
+      "property": "P4776",
+      "value": "88A2D7"
+    },
+    {
+      "property": "P4776",
+      "value": "88CEFA"
+    },
+    {
+      "property": "P4776",
+      "value": "88CF98"
+    },
+    {
+      "property": "P4776",
+      "value": "88E3AB"
+    },
+    {
+      "property": "P4776",
+      "value": "8C0D76"
+    },
+    {
+      "property": "P4776",
+      "value": "8C2505"
+    },
+    {
+      "property": "P4776",
+      "value": "8C34FD"
+    },
+    {
+      "property": "P4776",
+      "value": "8CEBC6"
+    },
+    {
+      "property": "P4776",
+      "value": "900325"
+    },
+    {
+      "property": "P4776",
+      "value": "9017AC"
+    },
+    {
+      "property": "P4776",
+      "value": "904E2B"
+    },
+    {
+      "property": "P4776",
+      "value": "90671C"
+    },
+    {
+      "property": "P4776",
+      "value": "909497"
+    },
+    {
+      "property": "P4776",
+      "value": "94049C"
+    },
+    {
+      "property": "P4776",
+      "value": "940E6B"
+    },
+    {
+      "property": "P4776",
+      "value": "94772B"
+    },
+    {
+      "property": "P4776",
+      "value": "94DBDA"
+    },
+    {
+      "property": "P4776",
+      "value": "94FE22"
+    },
+    {
+      "property": "P4776",
+      "value": "989C57"
+    },
+    {
+      "property": "P4776",
+      "value": "98E7F5"
+    },
+    {
+      "property": "P4776",
+      "value": "9C28EF"
+    },
+    {
+      "property": "P4776",
+      "value": "9C37F4"
+    },
+    {
+      "property": "P4776",
+      "value": "9C52F8"
+    },
+    {
+      "property": "P4776",
+      "value": "9C741A"
+    },
+    {
+      "property": "P4776",
+      "value": "9C7DA3"
+    },
+    {
+      "property": "P4776",
+      "value": "9CB2B2"
+    },
+    {
+      "property": "P4776",
+      "value": "9CC172"
+    },
+    {
+      "property": "P4776",
+      "value": "9CE374"
+    },
+    {
+      "property": "P4776",
+      "value": "A0086F"
+    },
+    {
+      "property": "P4776",
+      "value": "A057E3"
+    },
+    {
+      "property": "P4776",
+      "value": "A08CF8"
+    },
+    {
+      "property": "P4776",
+      "value": "A08D16"
+    },
+    {
+      "property": "P4776",
+      "value": "A0A33B"
+    },
+    {
+      "property": "P4776",
+      "value": "A0F479"
+    },
+    {
+      "property": "P4776",
+      "value": "A47174"
+    },
+    {
+      "property": "P4776",
+      "value": "A4933F"
+    },
+    {
+      "property": "P4776",
+      "value": "A49947"
+    },
+    {
+      "property": "P4776",
+      "value": "A4BA76"
+    },
+    {
+      "property": "P4776",
+      "value": "A4C64F"
+    },
+    {
+      "property": "P4776",
+      "value": "A4CAA0"
+    },
+    {
+      "property": "P4776",
+      "value": "A4DCBE"
+    },
+    {
+      "property": "P4776",
+      "value": "A80C63"
+    },
+    {
+      "property": "P4776",
+      "value": "A8C83A"
+    },
+    {
+      "property": "P4776",
+      "value": "A8CA7B"
+    },
+    {
+      "property": "P4776",
+      "value": "A8F5AC"
+    },
+    {
+      "property": "P4776",
+      "value": "AC075F"
+    },
+    {
+      "property": "P4776",
+      "value": "AC4E91"
+    },
+    {
+      "property": "P4776",
+      "value": "AC6175"
+    },
+    {
+      "property": "P4776",
+      "value": "AC853D"
+    },
+    {
+      "property": "P4776",
+      "value": "ACCF85"
+    },
+    {
+      "property": "P4776",
+      "value": "ACE215"
+    },
+    {
+      "property": "P4776",
+      "value": "ACE87B"
+    },
+    {
+      "property": "P4776",
+      "value": "ACF970"
+    },
+    {
+      "property": "P4776",
+      "value": "B05508"
+    },
+    {
+      "property": "P4776",
+      "value": "B05B67"
+    },
+    {
+      "property": "P4776",
+      "value": "B08900"
+    },
+    {
+      "property": "P4776",
+      "value": "B0E17E"
+    },
+    {
+      "property": "P4776",
+      "value": "B0E5ED"
+    },
+    {
+      "property": "P4776",
+      "value": "B41513"
+    },
+    {
+      "property": "P4776",
+      "value": "B43052"
+    },
+    {
+      "property": "P4776",
+      "value": "B4CD27"
+    },
+    {
+      "property": "P4776",
+      "value": "B4FBF9"
+    },
+    {
+      "property": "P4776",
+      "value": "B808D7"
+    },
+    {
+      "property": "P4776",
+      "value": "B89436"
+    },
+    {
+      "property": "P4776",
+      "value": "B8BC1B"
+    },
+    {
+      "property": "P4776",
+      "value": "BC25E0"
+    },
+    {
+      "property": "P4776",
+      "value": "BC3D85"
+    },
+    {
+      "property": "P4776",
+      "value": "BC3F8F"
+    },
+    {
+      "property": "P4776",
+      "value": "BC620E"
+    },
+    {
+      "property": "P4776",
+      "value": "BC7574"
+    },
+    {
+      "property": "P4776",
+      "value": "BC7670"
+    },
+    {
+      "property": "P4776",
+      "value": "BC9C31"
+    },
+    {
+      "property": "P4776",
+      "value": "C07009"
+    },
+    {
+      "property": "P4776",
+      "value": "C0BFC0"
+    },
+    {
+      "property": "P4776",
+      "value": "C40528"
+    },
+    {
+      "property": "P4776",
+      "value": "C4072F"
+    },
+    {
+      "property": "P4776",
+      "value": "C4473F"
+    },
+    {
+      "property": "P4776",
+      "value": "C486E9"
+    },
+    {
+      "property": "P4776",
+      "value": "C49F4C"
+    },
+    {
+      "property": "P4776",
+      "value": "C4F081"
+    },
+    {
+      "property": "P4776",
+      "value": "C4FF1F"
+    },
+    {
+      "property": "P4776",
+      "value": "C80CC8"
+    },
+    {
+      "property": "P4776",
+      "value": "C81451"
+    },
+    {
+      "property": "P4776",
+      "value": "C81FBE"
+    },
+    {
+      "property": "P4776",
+      "value": "C85195"
+    },
+    {
+      "property": "P4776",
+      "value": "C88D83"
+    },
+    {
+      "property": "P4776",
+      "value": "C894BB"
+    },
+    {
+      "property": "P4776",
+      "value": "C8D15E"
+    },
+    {
+      "property": "P4776",
+      "value": "CC53B5"
+    },
+    {
+      "property": "P4776",
+      "value": "CC96A0"
+    },
+    {
+      "property": "P4776",
+      "value": "CCA223"
+    },
+    {
+      "property": "P4776",
+      "value": "CCCC81"
+    },
+    {
+      "property": "P4776",
+      "value": "D02DB3"
+    },
+    {
+      "property": "P4776",
+      "value": "D03E5C"
+    },
+    {
+      "property": "P4776",
+      "value": "D065CA"
+    },
+    {
+      "property": "P4776",
+      "value": "D06F82"
+    },
+    {
+      "property": "P4776",
+      "value": "D07AB5"
+    },
+    {
+      "property": "P4776",
+      "value": "D0D04B"
+    },
+    {
+      "property": "P4776",
+      "value": "D0FF98"
+    },
+    {
+      "property": "P4776",
+      "value": "D440F0"
+    },
+    {
+      "property": "P4776",
+      "value": "D4612E"
+    },
+    {
+      "property": "P4776",
+      "value": "D46AA8"
+    },
+    {
+      "property": "P4776",
+      "value": "D46E5C"
+    },
+    {
+      "property": "P4776",
+      "value": "D494E8"
+    },
+    {
+      "property": "P4776",
+      "value": "D4A148"
+    },
+    {
+      "property": "P4776",
+      "value": "D4B110"
+    },
+    {
+      "property": "P4776",
+      "value": "D4F9A1"
+    },
+    {
+      "property": "P4776",
+      "value": "D8490B"
+    },
+    {
+      "property": "P4776",
+      "value": "D8C771"
+    },
+    {
+      "property": "P4776",
+      "value": "DC094C"
+    },
+    {
+      "property": "P4776",
+      "value": "DC729B"
+    },
+    {
+      "property": "P4776",
+      "value": "DCC64B"
+    },
+    {
+      "property": "P4776",
+      "value": "DCD2FC"
+    },
+    {
+      "property": "P4776",
+      "value": "DCD916"
+    },
+    {
+      "property": "P4776",
+      "value": "DCEE06"
+    },
+    {
+      "property": "P4776",
+      "value": "E0191D"
+    },
+    {
+      "property": "P4776",
+      "value": "E0247F"
+    },
+    {
+      "property": "P4776",
+      "value": "E02861"
+    },
+    {
+      "property": "P4776",
+      "value": "E03676"
+    },
+    {
+      "property": "P4776",
+      "value": "E09796"
+    },
+    {
+      "property": "P4776",
+      "value": "E0A3AC"
+    },
+    {
+      "property": "P4776",
+      "value": "E40EEE"
+    },
+    {
+      "property": "P4776",
+      "value": "E435C8"
+    },
+    {
+      "property": "P4776",
+      "value": "E468A3"
+    },
+    {
+      "property": "P4776",
+      "value": "E472E2"
+    },
+    {
+      "property": "P4776",
+      "value": "E47E66"
+    },
+    {
+      "property": "P4776",
+      "value": "E4A7C5"
+    },
+    {
+      "property": "P4776",
+      "value": "E4A8B6"
+    },
+    {
+      "property": "P4776",
+      "value": "E4C2D1"
+    },
+    {
+      "property": "P4776",
+      "value": "E4FB5D"
+    },
+    {
+      "property": "P4776",
+      "value": "E8088B"
+    },
+    {
+      "property": "P4776",
+      "value": "E84DD0"
+    },
+    {
+      "property": "P4776",
+      "value": "E86819"
+    },
+    {
+      "property": "P4776",
+      "value": "E8ABF3"
+    },
+    {
+      "property": "P4776",
+      "value": "E8BDD1"
+    },
+    {
+      "property": "P4776",
+      "value": "E8CD2D"
+    },
+    {
+      "property": "P4776",
+      "value": "EC233D"
+    },
+    {
+      "property": "P4776",
+      "value": "EC388F"
+    },
+    {
+      "property": "P4776",
+      "value": "EC4D47"
+    },
+    {
+      "property": "P4776",
+      "value": "EC8914"
+    },
+    {
+      "property": "P4776",
+      "value": "ECCB30"
+    },
+    {
+      "property": "P4776",
+      "value": "F00FEC"
+    },
+    {
+      "property": "P4776",
+      "value": "F02FA7"
+    },
+    {
+      "property": "P4776",
+      "value": "F04347"
+    },
+    {
+      "property": "P4776",
+      "value": "F09838"
+    },
+    {
+      "property": "P4776",
+      "value": "F0C850"
+    },
+    {
+      "property": "P4776",
+      "value": "F44C7F"
+    },
+    {
+      "property": "P4776",
+      "value": "F4559C"
+    },
+    {
+      "property": "P4776",
+      "value": "F48E92"
+    },
+    {
+      "property": "P4776",
+      "value": "F49FF3"
+    },
+    {
+      "property": "P4776",
+      "value": "F4C714"
+    },
+    {
+      "property": "P4776",
+      "value": "F4CB52"
+    },
+    {
+      "property": "P4776",
+      "value": "F4DCF9"
+    },
+    {
+      "property": "P4776",
+      "value": "F4E3FB"
+    },
+    {
+      "property": "P4776",
+      "value": "F80113"
+    },
+    {
+      "property": "P4776",
+      "value": "F823B2"
+    },
+    {
+      "property": "P4776",
+      "value": "F83DFF"
+    },
+    {
+      "property": "P4776",
+      "value": "F84ABF"
+    },
+    {
+      "property": "P4776",
+      "value": "F86EEE"
+    },
+    {
+      "property": "P4776",
+      "value": "F87588"
+    },
+    {
+      "property": "P4776",
+      "value": "F898B9"
+    },
+    {
+      "property": "P4776",
+      "value": "F898EF"
+    },
+    {
+      "property": "P4776",
+      "value": "F8BF09"
+    },
+    {
+      "property": "P4776",
+      "value": "F8E811"
+    },
+    {
+      "property": "P4776",
+      "value": "FC3F7C"
+    },
+    {
+      "property": "P4776",
+      "value": "FC48EF"
+    },
+    {
+      "property": "P4776",
+      "value": "FCE33C"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREZ4YTJ3eEVnSmxiaWdBUAE"
+    },
+    {
+      "property": "P5587",
+      "value": "rp36f2z901n5405"
+    },
+    {
+      "property": "P571",
+      "value": "+1987-01-01T00:00:00Z"
+    },
+    {
+      "property": "P5909",
+      "value": "9811112558803406"
+    },
+    {
+      "property": "P6200",
+      "value": "cjnwl8q4qz2t"
+    },
+    {
+      "property": "P6262",
+      "value": "logo:Huawei"
+    },
+    {
+      "property": "P6366",
+      "value": "2250955327"
+    },
+    {
+      "property": "P6455",
+      "value": "578227337"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01qkl1"
+    },
+    {
+      "property": "P6782",
+      "value": "00cmhce21"
+    },
+    {
+      "property": "P6795",
+      "value": "914403001922038216"
+    },
+    {
+      "property": "P6900",
+      "value": "華為技術"
+    },
+    {
+      "property": "P691",
+      "value": "ko20201093059"
+    },
+    {
+      "property": "P7085",
+      "value": "huawei"
+    },
+    {
+      "property": "P7264",
+      "value": "QIS"
+    },
+    {
+      "property": "P7273",
+      "value": "E1984"
+    },
+    {
+      "property": "P7283",
+      "value": "6369A"
+    },
+    {
+      "property": "P7293",
+      "value": "9810567927605606"
+    },
+    {
+      "property": "P7369",
+      "value": "000862312"
+    },
+    {
+      "property": "P740",
+      "value": "Q15174"
+    },
+    {
+      "property": "P7502",
+      "value": "Huawei-88XY4"
+    },
+    {
+      "property": "P7699",
+      "value": "LNB:DPfV;=Bm"
+    },
+    {
+      "property": "P8060",
+      "value": "9304"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf11844490"
+    },
+    {
+      "property": "P8189",
+      "value": "987007352531705171"
+    },
+    {
+      "property": "P8253",
+      "value": "huawei-667935"
+    },
+    {
+      "property": "P8253",
+      "value": "huawei-a9769c"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.huawei.com/"
+    },
+    {
+      "property": "P856",
+      "value": "https://huaweitechcafeteria.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+7675717"
+    },
+    {
+      "property": "P8687",
+      "value": "+189000"
+    },
+    {
+      "property": "P8687",
+      "value": "+10246537"
+    },
+    {
+      "property": "P8687",
+      "value": "+246000"
+    },
+    {
+      "property": "P8687",
+      "value": "+297000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1380000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1390000"
+    },
+    {
+      "property": "P8885",
+      "value": "화웨이"
+    },
+    {
+      "property": "P906",
+      "value": "399309"
+    },
+    {
+      "property": "P910",
+      "value": "Q6448858"
+    },
+    {
+      "property": "P9100",
+      "value": "huawei"
+    },
+    {
+      "property": "P9346",
+      "value": "huawei"
+    },
+    {
+      "property": "P935",
+      "value": "Huawei"
+    },
+    {
+      "property": "P946",
+      "value": "HK0000HWEI11"
+    },
+    {
+      "property": "P949",
+      "value": "004359721"
+    },
+    {
+      "property": "P9961",
+      "value": "huawei"
+    }
+  ]
+}

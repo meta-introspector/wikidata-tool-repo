@@ -1,0 +1,18 @@
+{
+  "id": "Q1352761",
+  "label": "reference counting",
+  "facts": [
+    {
+      "property": "P279",
+      "value": "Q322202"
+    },
+    {
+      "property": "P6366",
+      "value": "130335069"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06lqf"
+    }
+  ]
+}

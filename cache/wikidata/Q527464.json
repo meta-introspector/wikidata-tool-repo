@@ -1,0 +1,94 @@
+{
+  "id": "Q527464",
+  "label": "MIPS architecture",
+  "facts": [
+    {
+      "property": "P10565",
+      "value": "31380"
+    },
+    {
+      "property": "P12695",
+      "value": "MIPS"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/45daf2b9-6d33-4725-95dd-441dbe0f5ce1"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/mips"
+    },
+    {
+      "property": "P244",
+      "value": "sh99000179"
+    },
+    {
+      "property": "P2561",
+      "value": "Microprocessor without Interlocked Pipelined Stages"
+    },
+    {
+      "property": "P287",
+      "value": "Q1631366"
+    },
+    {
+      "property": "P31",
+      "value": "Q272683"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P31",
+      "value": "Q30167277"
+    },
+    {
+      "property": "P3417",
+      "value": "MIPS-Architecture"
+    },
+    {
+      "property": "P3417",
+      "value": "MIPS-processor-architecture"
+    },
+    {
+      "property": "P373",
+      "value": "MIPS microprocessors"
+    },
+    {
+      "property": "P4969",
+      "value": "Q1881518"
+    },
+    {
+      "property": "P5019",
+      "value": "mips-informatik"
+    },
+    {
+      "property": "P580",
+      "value": "+1985-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/051_g"
+    },
+    {
+      "property": "P8189",
+      "value": "987007556392005171"
+    },
+    {
+      "property": "P8313",
+      "value": "MIPS"
+    },
+    {
+      "property": "P8408",
+      "value": "MIPSArchitecture"
+    },
+    {
+      "property": "P8885",
+      "value": "MIPS 아키텍처"
+    },
+    {
+      "property": "P910",
+      "value": "Q6276821"
+    }
+  ]
+}

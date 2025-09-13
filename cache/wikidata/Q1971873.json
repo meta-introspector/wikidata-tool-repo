@@ -1,0 +1,30 @@
+{
+  "id": "Q1971873",
+  "label": "trait",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C106934330"
+    },
+    {
+      "property": "P1269",
+      "value": "Q79872"
+    },
+    {
+      "property": "P1889",
+      "value": "Q9185399"
+    },
+    {
+      "property": "P6366",
+      "value": "106934330"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0b5hsj"
+    },
+    {
+      "property": "P6611",
+      "value": "353"
+    }
+  ]
+}

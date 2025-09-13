@@ -1,0 +1,82 @@
+{
+  "id": "Q2470517",
+  "label": "record",
+  "facts": [
+    {
+      "property": "P11567",
+      "value": "record"
+    },
+    {
+      "property": "P11567",
+      "value": "data-record"
+    },
+    {
+      "property": "P1268",
+      "value": "Q600590"
+    },
+    {
+      "property": "P13411",
+      "value": "Q173"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/records"
+    },
+    {
+      "property": "P1889",
+      "value": "Q107435521"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1241356"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1366302"
+    },
+    {
+      "property": "P279",
+      "value": "Q107435521"
+    },
+    {
+      "property": "P279",
+      "value": "Q877977"
+    },
+    {
+      "property": "P279",
+      "value": "Q16939392"
+    },
+    {
+      "property": "P31",
+      "value": "Q1413465"
+    },
+    {
+      "property": "P3219",
+      "value": "enregistrement"
+    },
+    {
+      "property": "P361",
+      "value": "Q8513"
+    },
+    {
+      "property": "P527",
+      "value": "Q1172412"
+    },
+    {
+      "property": "P5398",
+      "value": "000000140"
+    },
+    {
+      "property": "P6366",
+      "value": "52996675"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03gq2v5"
+    },
+    {
+      "property": "P8168",
+      "value": "Q394146"
+    }
+  ]
+}

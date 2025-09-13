@@ -1,0 +1,362 @@
+{
+  "id": "Q47607",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C32145003"
+    },
+    {
+      "property": "P10283",
+      "value": "C510870499"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/structured-query-language"
+    },
+    {
+      "property": "P10407",
+      "value": "1091-2"
+    },
+    {
+      "property": "P1051",
+      "value": "12536"
+    },
+    {
+      "property": "P10565",
+      "value": "45981"
+    },
+    {
+      "property": "P10565",
+      "value": "227626"
+    },
+    {
+      "property": "P11167",
+      "value": "NF00416"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-sql"
+    },
+    {
+      "property": "P1163",
+      "value": "application/sql"
+    },
+    {
+      "property": "P11947",
+      "value": "sql@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "sql"
+    },
+    {
+      "property": "P1245",
+      "value": "662510"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:SQL"
+    },
+    {
+      "property": "P12946",
+      "value": "Structured+Query+Language"
+    },
+    {
+      "property": "P12946",
+      "value": "SQL"
+    },
+    {
+      "property": "P13397",
+      "value": "sql"
+    },
+    {
+      "property": "P13397",
+      "value": "language%253Asql"
+    },
+    {
+      "property": "P13411",
+      "value": "Q165"
+    },
+    {
+      "property": "P1343",
+      "value": "Q5974436"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/60031704-2bce-4f59-bb1c-c5cac9d77584"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/SQL"
+    },
+    {
+      "property": "P1424",
+      "value": "Q10724710"
+    },
+    {
+      "property": "P144",
+      "value": "Q4055684"
+    },
+    {
+      "property": "P1448",
+      "value": "Structured Query Language"
+    },
+    {
+      "property": "P1448",
+      "value": "SQL"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/sql"
+    },
+    {
+      "property": "P1535",
+      "value": "Q192588"
+    },
+    {
+      "property": "P154",
+      "value": "Sql data base with logo.svg"
+    },
+    {
+      "property": "P155",
+      "value": "Q12775712"
+    },
+    {
+      "property": "P1557",
+      "value": "Q840540"
+    },
+    {
+      "property": "P178",
+      "value": "Q15028"
+    },
+    {
+      "property": "P178",
+      "value": "Q93007"
+    },
+    {
+      "property": "P178",
+      "value": "Q93071"
+    },
+    {
+      "property": "P18",
+      "value": "SQL ANATOMY wiki.svg"
+    },
+    {
+      "property": "P1813",
+      "value": "SQL"
+    },
+    {
+      "property": "P1889",
+      "value": "Q62625630"
+    },
+    {
+      "property": "P2163",
+      "value": "1102869"
+    },
+    {
+      "property": "P227",
+      "value": "4134010-3"
+    },
+    {
+      "property": "P2347",
+      "value": "2669"
+    },
+    {
+      "property": "P244",
+      "value": "sh86006628"
+    },
+    {
+      "property": "P2581",
+      "value": "02266432n"
+    },
+    {
+      "property": "P268",
+      "value": "12101816f"
+    },
+    {
+      "property": "P279",
+      "value": "Q845739"
+    },
+    {
+      "property": "P287",
+      "value": "Q93071"
+    },
+    {
+      "property": "P287",
+      "value": "Q93007"
+    },
+    {
+      "property": "P31",
+      "value": "Q1144882"
+    },
+    {
+      "property": "P31",
+      "value": "Q845739"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q691358"
+    },
+    {
+      "property": "P3222",
+      "value": "sql"
+    },
+    {
+      "property": "P3365",
+      "value": "sql"
+    },
+    {
+      "property": "P3381",
+      "value": "SQL"
+    },
+    {
+      "property": "P3417",
+      "value": "SQL"
+    },
+    {
+      "property": "P348",
+      "value": "SQL:2016 (2016)"
+    },
+    {
+      "property": "P348",
+      "value": "SQL:2023"
+    },
+    {
+      "property": "P3553",
+      "value": "19553557"
+    },
+    {
+      "property": "P366",
+      "value": "Q3932296"
+    },
+    {
+      "property": "P373",
+      "value": "Structured Query Language"
+    },
+    {
+      "property": "P3827",
+      "value": "sql"
+    },
+    {
+      "property": "P3847",
+      "value": "sql_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q531152"
+    },
+    {
+      "property": "P3984",
+      "value": "SQL"
+    },
+    {
+      "property": "P4644",
+      "value": "598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5398",
+      "value": "000000132"
+    },
+    {
+      "property": "P571",
+      "value": "+1974-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1986-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6262",
+      "value": "code:SQL"
+    },
+    {
+      "property": "P6366",
+      "value": "510870499"
+    },
+    {
+      "property": "P646",
+      "value": "/m/075st"
+    },
+    {
+      "property": "P6857",
+      "value": "X3005"
+    },
+    {
+      "property": "P6900",
+      "value": "sql"
+    },
+    {
+      "property": "P691",
+      "value": "ph118067"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/16499"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P737",
+      "value": "Q1172264"
+    },
+    {
+      "property": "P737",
+      "value": "Q4055684"
+    },
+    {
+      "property": "P7502",
+      "value": "SQL-39EW6"
+    },
+    {
+      "property": "P8189",
+      "value": "987007529742105171"
+    },
+    {
+      "property": "P8408",
+      "value": "SQL-Language"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.iso.org/standard/76583.html"
+    },
+    {
+      "property": "P8885",
+      "value": "SQL"
+    },
+    {
+      "property": "P898",
+      "value": "ˈɛs kjuː ˈɛl"
+    },
+    {
+      "property": "P898",
+      "value": "ˈsiːkwəl"
+    },
+    {
+      "property": "P910",
+      "value": "Q7237520"
+    },
+    {
+      "property": "P9100",
+      "value": "sql"
+    },
+    {
+      "property": "P950",
+      "value": "XX531785"
+    }
+  ]
+}

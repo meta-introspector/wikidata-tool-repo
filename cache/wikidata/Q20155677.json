@@ -1,0 +1,254 @@
+{
+  "id": "Q20155677",
+  "label": "WebAssembly",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q111051396"
+    },
+    {
+      "property": "P1073",
+      "value": "Q56827096"
+    },
+    {
+      "property": "P1073",
+      "value": "Q111051396"
+    },
+    {
+      "property": "P11144",
+      "value": "5453022515691520"
+    },
+    {
+      "property": "P1163",
+      "value": "application/wasm"
+    },
+    {
+      "property": "P11947",
+      "value": "webassembly@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "wast"
+    },
+    {
+      "property": "P1195",
+      "value": "wasm"
+    },
+    {
+      "property": "P12468",
+      "value": "Environment :: WebAssembly"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/WebAssembly/design"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/WebAssembly/spec"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/webassembly"
+    },
+    {
+      "property": "P1535",
+      "value": "Q114968900"
+    },
+    {
+      "property": "P154",
+      "value": "WebAssembly Logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q37033"
+    },
+    {
+      "property": "P178",
+      "value": "Q2283"
+    },
+    {
+      "property": "P178",
+      "value": "Q95"
+    },
+    {
+      "property": "P178",
+      "value": "Q9661"
+    },
+    {
+      "property": "P178",
+      "value": "Q312"
+    },
+    {
+      "property": "P2037",
+      "value": "WebAssembly"
+    },
+    {
+      "property": "P2078",
+      "value": "https://www.w3.org/TR/wasm-core-1/"
+    },
+    {
+      "property": "P2078",
+      "value": "http://webassembly.github.io/spec/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://www.w3.org/TR/wasm-js-api-1/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://www.w3.org/TR/wasm-web-api-1/"
+    },
+    {
+      "property": "P2088",
+      "value": "webassembly"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11c3kj4zzq"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P287",
+      "value": "Q37033"
+    },
+    {
+      "property": "P31",
+      "value": "Q837330"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P31",
+      "value": "Q235557"
+    },
+    {
+      "property": "P31",
+      "value": "Q5421696"
+    },
+    {
+      "property": "P31",
+      "value": "Q170584"
+    },
+    {
+      "property": "P3381",
+      "value": "WebAssembly"
+    },
+    {
+      "property": "P3417",
+      "value": "WebAssembly"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.0"
+    },
+    {
+      "property": "P373",
+      "value": "WebAssembly"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q52845127"
+    },
+    {
+      "property": "P3984",
+      "value": "WebAssembly"
+    },
+    {
+      "property": "P4152",
+      "value": "00 61 73 6d"
+    },
+    {
+      "property": "P4215",
+      "value": "WebAssembly"
+    },
+    {
+      "property": "P571",
+      "value": "+2015-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6378",
+      "value": "https://webassembly.github.io/cg-charter/"
+    },
+    {
+      "property": "P6378",
+      "value": "https://www.w3.org/2020/03/webassembly-wg-charter"
+    },
+    {
+      "property": "P6900",
+      "value": "webassembly"
+    },
+    {
+      "property": "P737",
+      "value": "Q13496636"
+    },
+    {
+      "property": "P737",
+      "value": "Q1011995"
+    },
+    {
+      "property": "P749",
+      "value": "Q37033"
+    },
+    {
+      "property": "P7502",
+      "value": "WebAssembly-WYXWZX"
+    },
+    {
+      "property": "P8205",
+      "value": "WebAssembly"
+    },
+    {
+      "property": "P856",
+      "value": "https://webassembly.org/"
+    },
+    {
+      "property": "P9100",
+      "value": "webassembly"
+    },
+    {
+      "property": "P9100",
+      "value": "wasm"
+    },
+    {
+      "property": "P9100",
+      "value": "web-assembly"
+    },
+    {
+      "property": "P9151",
+      "value": "wasm"
+    },
+    {
+      "property": "P9618",
+      "value": "webassembly"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.w3.org/community/webassembly/"
+    }
+  ]
+}

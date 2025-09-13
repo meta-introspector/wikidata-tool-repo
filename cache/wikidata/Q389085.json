@@ -1,0 +1,18 @@
+{
+  "id": "Q389085",
+  "label": "list of programming languages by type",
+  "facts": [
+    {
+      "property": "P1754",
+      "value": "Q9591327"
+    },
+    {
+      "property": "P31",
+      "value": "Q13406463"
+    },
+    {
+      "property": "P360",
+      "value": "Q9143"
+    }
+  ]
+}

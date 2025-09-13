@@ -1,0 +1,350 @@
+{
+  "id": "Q486860",
+  "label": "Mountain View",
+  "facts": [
+    {
+      "property": "P10",
+      "value": "Google Timelapse- Mountain View, California.webm"
+    },
+    {
+      "property": "P10622",
+      "value": "+82216"
+    },
+    {
+      "property": "P10786",
+      "value": "+1902-11-07T00:00:00Z"
+    },
+    {
+      "property": "P1082",
+      "value": "+74066"
+    },
+    {
+      "property": "P1082",
+      "value": "+82376"
+    },
+    {
+      "property": "P10832",
+      "value": "E39PBJj4pDCVk6Q3RWKMmF8cT3"
+    },
+    {
+      "property": "P1281",
+      "value": "2455920"
+    },
+    {
+      "property": "P131",
+      "value": "Q110739"
+    },
+    {
+      "property": "P13337",
+      "value": "mtnview.ca.us"
+    },
+    {
+      "property": "P13337",
+      "value": "mountain-view.ca.us"
+    },
+    {
+      "property": "P13591",
+      "value": "place/9cecaf52-55b8-4547-bd54-556e32c76136"
+    },
+    {
+      "property": "P138",
+      "value": "Q1669849"
+    },
+    {
+      "property": "P138",
+      "value": "Q13359059"
+    },
+    {
+      "property": "P138",
+      "value": "Q1950508"
+    },
+    {
+      "property": "P1417",
+      "value": "place/Mountain-View-California"
+    },
+    {
+      "property": "P1448",
+      "value": "Mountain View"
+    },
+    {
+      "property": "P1464",
+      "value": "Q18857607"
+    },
+    {
+      "property": "P1465",
+      "value": "Q18857702"
+    },
+    {
+      "property": "P1538",
+      "value": "+33029"
+    },
+    {
+      "property": "P154",
+      "value": "Logo of Mountain View, California (1).svg"
+    },
+    {
+      "property": "P1566",
+      "value": "5375480"
+    },
+    {
+      "property": "P1566",
+      "value": "7173909"
+    },
+    {
+      "property": "P158",
+      "value": "Seal of Mountain View, CA.png"
+    },
+    {
+      "property": "P1667",
+      "value": "2012847"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1705",
+      "value": "Mountain View"
+    },
+    {
+      "property": "P1792",
+      "value": "Q10181178"
+    },
+    {
+      "property": "P18",
+      "value": "2008 05 01 8.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q248217"
+    },
+    {
+      "property": "P190",
+      "value": "Q386651"
+    },
+    {
+      "property": "P190",
+      "value": "Q58780"
+    },
+    {
+      "property": "P1937",
+      "value": "USNUQ"
+    },
+    {
+      "property": "P2002",
+      "value": "mtnviewcityhall"
+    },
+    {
+      "property": "P2044",
+      "value": "+32"
+    },
+    {
+      "property": "P2046",
+      "value": "+31.782541"
+    },
+    {
+      "property": "P2046",
+      "value": "+31.787511"
+    },
+    {
+      "property": "P214",
+      "value": "243575920"
+    },
+    {
+      "property": "P2163",
+      "value": "1213955"
+    },
+    {
+      "property": "P2184",
+      "value": "Q25021869"
+    },
+    {
+      "property": "P227",
+      "value": "4298018-5"
+    },
+    {
+      "property": "P242",
+      "value": "Santa Clara County California Incorporated and Unincorporated areas Mountain View Highlighted.svg"
+    },
+    {
+      "property": "P244",
+      "value": "n81071485"
+    },
+    {
+      "property": "P2581",
+      "value": "00200556n"
+    },
+    {
+      "property": "P281",
+      "value": "94035, 94039-94043"
+    },
+    {
+      "property": "P2927",
+      "value": "+2.2642"
+    },
+    {
+      "property": "P31",
+      "value": "Q1093829"
+    },
+    {
+      "property": "P31",
+      "value": "Q13218391"
+    },
+    {
+      "property": "P3347",
+      "value": "5044266115"
+    },
+    {
+      "property": "P3417",
+      "value": "Mountain-View-CA"
+    },
+    {
+      "property": "P373",
+      "value": "Mountain View, California"
+    },
+    {
+      "property": "P3749",
+      "value": "8941849000641539995"
+    },
+    {
+      "property": "P402",
+      "value": "1544956"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of Mountain View, California.gif"
+    },
+    {
+      "property": "P421",
+      "value": "Q847142"
+    },
+    {
+      "property": "P421",
+      "value": "Q2204"
+    },
+    {
+      "property": "P421",
+      "value": "Q2212"
+    },
+    {
+      "property": "P47",
+      "value": "Q208459"
+    },
+    {
+      "property": "P47",
+      "value": "Q864124"
+    },
+    {
+      "property": "P47",
+      "value": "Q47265"
+    },
+    {
+      "property": "P473",
+      "value": "650"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"City\", {\"MountainView\", \"California\", \"UnitedStates\"}]"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNSEkyWXpRU0FtVnVLQUFQAQ"
+    },
+    {
+      "property": "P5573",
+      "value": "6190"
+    },
+    {
+      "property": "P590",
+      "value": "277611"
+    },
+    {
+      "property": "P590",
+      "value": "2411186"
+    },
+    {
+      "property": "P6378",
+      "value": "https://library.municode.com/ca/mountain_view/codes/code_of_ordinances?nodeId=PTITHCH"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0r6c4"
+    },
+    {
+      "property": "P6766",
+      "value": "85835865"
+    },
+    {
+      "property": "P706",
+      "value": "Q163820"
+    },
+    {
+      "property": "P7471",
+      "value": "50587"
+    },
+    {
+      "property": "P774",
+      "value": "06-49670"
+    },
+    {
+      "property": "P797",
+      "value": "Q123570816"
+    },
+    {
+      "property": "P8138",
+      "value": "Q5797419"
+    },
+    {
+      "property": "P8168",
+      "value": "Q236302"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf12008832"
+    },
+    {
+      "property": "P8189",
+      "value": "987007566851205171"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mountainview.gov"
+    },
+    {
+      "property": "P8687",
+      "value": "+5560"
+    },
+    {
+      "property": "P8687",
+      "value": "+4772"
+    },
+    {
+      "property": "P8887",
+      "value": "+0.719721"
+    },
+    {
+      "property": "P910",
+      "value": "Q7485046"
+    },
+    {
+      "property": "P948",
+      "value": "Mtn View banner.jpg"
+    },
+    {
+      "property": "P949",
+      "value": "000985774"
+    },
+    {
+      "property": "P982",
+      "value": "5dec97e4-5873-4ac0-af25-cf23e929cc16"
+    },
+    {
+      "property": "P9957",
+      "value": "65846"
+    },
+    {
+      "property": "P998",
+      "value": "Regional/North_America/United_States/California/Localities/M/Mountain_View/"
+    }
+  ]
+}

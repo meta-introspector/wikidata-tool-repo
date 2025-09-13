@@ -1,0 +1,38 @@
+{
+  "id": "Q104870483",
+  "label": "Project Verona",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://github.com/microsoft/verona"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11lgxmv3_t"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P571",
+      "value": "+2019-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P737",
+      "value": "Q51160093"
+    },
+    {
+      "property": "P856",
+      "value": "https://microsoft.github.io/verona/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Q1013763",
+  "label": "Swiftweasel",
+  "facts": [
+    {
+      "property": "P154",
+      "value": "Swiftweasel-3.png"
+    },
+    {
+      "property": "P275",
+      "value": "Q26737735"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02rmhrr"
+    },
+    {
+      "property": "P6665",
+      "value": "11330"
+    },
+    {
+      "property": "P856",
+      "value": "http://swiftweasel.tuxfamily.org/"
+    }
+  ]
+}

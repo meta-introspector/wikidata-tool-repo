@@ -1,0 +1,34 @@
+{
+  "id": "Q2006368",
+  "label": "overhead",
+  "facts": [
+    {
+      "property": "P1889",
+      "value": "Q973933"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P461",
+      "value": "Q1424639"
+    },
+    {
+      "property": "P6366",
+      "value": "100850083"
+    },
+    {
+      "property": "P6366",
+      "value": "2779913931"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07mph7"
+    },
+    {
+      "property": "P8814",
+      "value": "15323254-n"
+    }
+  ]
+}

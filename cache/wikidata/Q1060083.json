@@ -1,0 +1,50 @@
+{
+  "id": "Q1060083",
+  "label": "Firefox Portable",
+  "facts": [
+    {
+      "property": "P154",
+      "value": "Firefox 57 Windows.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P178",
+      "value": "Q548475"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P31",
+      "value": "Q386197"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P600",
+      "value": "3057"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/08rlhv"
+    },
+    {
+      "property": "P856",
+      "value": "https://portableapps.com/apps/internet/firefox_portable"
+    }
+  ]
+}

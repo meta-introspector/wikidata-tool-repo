@@ -1,0 +1,798 @@
+{
+  "id": "Q206904",
+  "label": "R",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "mathematics/r-programming-language"
+    },
+    {
+      "property": "P1051",
+      "value": "14153"
+    },
+    {
+      "property": "P10565",
+      "value": "94892"
+    },
+    {
+      "property": "P10565",
+      "value": "546678"
+    },
+    {
+      "property": "P1072",
+      "value": "Q40672098"
+    },
+    {
+      "property": "P1072",
+      "value": "Q935809"
+    },
+    {
+      "property": "P1072",
+      "value": "Q279979"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105860462"
+    },
+    {
+      "property": "P1072",
+      "value": "Q111520019"
+    },
+    {
+      "property": "P1072",
+      "value": "Q1069215"
+    },
+    {
+      "property": "P1073",
+      "value": "Q40672098"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105860462"
+    },
+    {
+      "property": "P1073",
+      "value": "Q111520019"
+    },
+    {
+      "property": "P1073",
+      "value": "Q1069215"
+    },
+    {
+      "property": "P10766",
+      "value": "R.Project"
+    },
+    {
+      "property": "P11410",
+      "value": "r"
+    },
+    {
+      "property": "P12030",
+      "value": "R-base"
+    },
+    {
+      "property": "P12077",
+      "value": "academic/R"
+    },
+    {
+      "property": "P126",
+      "value": "Q111430684"
+    },
+    {
+      "property": "P12695",
+      "value": "R"
+    },
+    {
+      "property": "P12873",
+      "value": "R"
+    },
+    {
+      "property": "P1324",
+      "value": "https://svn.r-project.org/R/trunk/"
+    },
+    {
+      "property": "P13397",
+      "value": "R"
+    },
+    {
+      "property": "P135",
+      "value": "Q1076638"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/3d3f5ad1-d560-481c-9391-f726b4d127b2"
+    },
+    {
+      "property": "P1401",
+      "value": "https://bugs.r-project.org/bugzilla3/"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/r"
+    },
+    {
+      "property": "P1482",
+      "value": "https://or.stackexchange.com/tags/r"
+    },
+    {
+      "property": "P154",
+      "value": "R logo 2000.png"
+    },
+    {
+      "property": "P154",
+      "value": "R logo.svg"
+    },
+    {
+      "property": "P170",
+      "value": "Q7344712"
+    },
+    {
+      "property": "P170",
+      "value": "Q7369420"
+    },
+    {
+      "property": "P18",
+      "value": "R Terminal.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q9852"
+    },
+    {
+      "property": "P1889",
+      "value": "Q18665344"
+    },
+    {
+      "property": "P1889",
+      "value": "Q112162285"
+    },
+    {
+      "property": "P1889",
+      "value": "Q21068"
+    },
+    {
+      "property": "P1889",
+      "value": "Q113585511"
+    },
+    {
+      "property": "P195",
+      "value": "Q131847864"
+    },
+    {
+      "property": "P195",
+      "value": "Q3979414"
+    },
+    {
+      "property": "P2078",
+      "value": "https://cran.r-project.org/manuals.html"
+    },
+    {
+      "property": "P214",
+      "value": "7154440112035341758"
+    },
+    {
+      "property": "P2163",
+      "value": "1086207"
+    },
+    {
+      "property": "P227",
+      "value": "4705956-4"
+    },
+    {
+      "property": "P2347",
+      "value": "24355"
+    },
+    {
+      "property": "P244",
+      "value": "sh2002004407"
+    },
+    {
+      "property": "P2537",
+      "value": "R"
+    },
+    {
+      "property": "P268",
+      "value": "14568271t"
+    },
+    {
+      "property": "P269",
+      "value": "08080859X"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513450"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q83303"
+    },
+    {
+      "property": "P277",
+      "value": "Q206904"
+    },
+    {
+      "property": "P287",
+      "value": "Q7369420"
+    },
+    {
+      "property": "P287",
+      "value": "Q7344712"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q13199995"
+    },
+    {
+      "property": "P31",
+      "value": "Q20825628"
+    },
+    {
+      "property": "P31",
+      "value": "Q2267705"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3381",
+      "value": "R"
+    },
+    {
+      "property": "P3417",
+      "value": "R-programming-language"
+    },
+    {
+      "property": "P3417",
+      "value": "GNU-R"
+    },
+    {
+      "property": "P3417",
+      "value": "Lenguaje-R"
+    },
+    {
+      "property": "P3417",
+      "value": "R语言"
+    },
+    {
+      "property": "P3442",
+      "value": "r-base"
+    },
+    {
+      "property": "P3442",
+      "value": "r-base-core"
+    },
+    {
+      "property": "P3454",
+      "value": "r"
+    },
+    {
+      "property": "P3463",
+      "value": "R"
+    },
+    {
+      "property": "P3471",
+      "value": "67825"
+    },
+    {
+      "property": "P3473",
+      "value": "r-base"
+    },
+    {
+      "property": "P3473",
+      "value": "r-base-core"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.15.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.4-revised"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.5.1"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/R"
+    },
+    {
+      "property": "P3553",
+      "value": "19674181"
+    },
+    {
+      "property": "P3587",
+      "value": "CVE-2024-27322"
+    },
+    {
+      "property": "P366",
+      "value": "Q5157340"
+    },
+    {
+      "property": "P366",
+      "value": "Q2374463"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819227"
+    },
+    {
+      "property": "P366",
+      "value": "Q6504956"
+    },
+    {
+      "property": "P366",
+      "value": "Q217602"
+    },
+    {
+      "property": "P366",
+      "value": "Q95832426"
+    },
+    {
+      "property": "P366",
+      "value": "Q123750937"
+    },
+    {
+      "property": "P366",
+      "value": "Q1172378"
+    },
+    {
+      "property": "P373",
+      "value": "GNU R"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4307787"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1056451"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3984",
+      "value": "Rlanguage"
+    },
+    {
+      "property": "P4107",
+      "value": "r"
+    },
+    {
+      "property": "P4162",
+      "value": "r-mkl"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-R.wav"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q9288 (heb)-Uziel302-R.wav"
+    },
+    {
+      "property": "P4969",
+      "value": "Q2888953"
+    },
+    {
+      "property": "P4969",
+      "value": "Q2086703"
+    },
+    {
+      "property": "P571",
+      "value": "+1993-08-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1993-08-00T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "10560"
+    },
+    {
+      "property": "P6104",
+      "value": "Q15659621"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0212jm"
+    },
+    {
+      "property": "P6665",
+      "value": "872"
+    },
+    {
+      "property": "P6765",
+      "value": "r"
+    },
+    {
+      "property": "P6830",
+      "value": "771"
+    },
+    {
+      "property": "P691",
+      "value": "ph986737"
+    },
+    {
+      "property": "P6931",
+      "value": "r"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P737",
+      "value": "Q1283865"
+    },
+    {
+      "property": "P737",
+      "value": "Q849146"
+    },
+    {
+      "property": "P737",
+      "value": "Q187560"
+    },
+    {
+      "property": "P737",
+      "value": "Q3570412"
+    },
+    {
+      "property": "P7427",
+      "value": "math/R"
+    },
+    {
+      "property": "P7427",
+      "value": "math/libRmath"
+    },
+    {
+      "property": "P7788",
+      "value": "R-base"
+    },
+    {
+      "property": "P7966",
+      "value": "math/R"
+    },
+    {
+      "property": "P7967",
+      "value": "math/R"
+    },
+    {
+      "property": "P8168",
+      "value": "Q1194805"
+    },
+    {
+      "property": "P8189",
+      "value": "987007539738205171"
+    },
+    {
+      "property": "P8209",
+      "value": "278"
+    },
+    {
+      "property": "P8443",
+      "value": "r"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.r-project.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+34451"
+    },
+    {
+      "property": "P8778",
+      "value": "library/r-base"
+    },
+    {
+      "property": "P8885",
+      "value": "R(프로그래밍 언어)"
+    },
+    {
+      "property": "P910",
+      "value": "Q8617502"
+    },
+    {
+      "property": "P9100",
+      "value": "r"
+    },
+    {
+      "property": "P9128",
+      "value": "r-base"
+    },
+    {
+      "property": "P9287",
+      "value": "19343"
+    },
+    {
+      "property": "P9602",
+      "value": "freshmeat_r"
+    },
+    {
+      "property": "P9618",
+      "value": "r-project"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/238"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/vehc3B"
+    }
+  ]
+}

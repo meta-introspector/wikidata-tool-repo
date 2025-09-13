@@ -1,0 +1,54 @@
+{
+  "id": "Q5300971",
+  "label": "Doug Turner",
+  "facts": [
+    {
+      "property": "P106",
+      "value": "Q82594"
+    },
+    {
+      "property": "P106",
+      "value": "Q81096"
+    },
+    {
+      "property": "P18",
+      "value": "Doug Turner Camera Capture.png"
+    },
+    {
+      "property": "P19",
+      "value": "Q486860"
+    },
+    {
+      "property": "P21",
+      "value": "Q6581097"
+    },
+    {
+      "property": "P27",
+      "value": "Q30"
+    },
+    {
+      "property": "P31",
+      "value": "Q5"
+    },
+    {
+      "property": "P551",
+      "value": "Q988721"
+    },
+    {
+      "property": "P569",
+      "value": "+1975-01-26T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0hgp2h5"
+    },
+    {
+      "property": "P734",
+      "value": "Q12804512"
+    },
+    {
+      "property": "P735",
+      "value": "Q18533467"
+    }
+  ]
+}

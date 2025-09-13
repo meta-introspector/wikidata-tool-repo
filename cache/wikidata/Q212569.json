@@ -1,0 +1,186 @@
+{
+  "id": "Q212569",
+  "label": "Simula",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C32155586"
+    },
+    {
+      "property": "P1245",
+      "value": "1084836"
+    },
+    {
+      "property": "P13397",
+      "value": "simula"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/ca7c2538-a485-4c17-9504-14e471cbf866"
+    },
+    {
+      "property": "P138",
+      "value": "Q7521336"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/SIMULA"
+    },
+    {
+      "property": "P154",
+      "value": "Simula - logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q92744"
+    },
+    {
+      "property": "P2163",
+      "value": "1102823"
+    },
+    {
+      "property": "P227",
+      "value": "4191599-9"
+    },
+    {
+      "property": "P244",
+      "value": "sh85122757"
+    },
+    {
+      "property": "P2581",
+      "value": "02313753n"
+    },
+    {
+      "property": "P287",
+      "value": "Q92745"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q283705"
+    },
+    {
+      "property": "P306",
+      "value": "Q1670222"
+    },
+    {
+      "property": "P306",
+      "value": "Q781443"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q7521336"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P3222",
+      "value": "simula"
+    },
+    {
+      "property": "P3417",
+      "value": "Simula-simulation-language"
+    },
+    {
+      "property": "P348",
+      "value": "Simula I"
+    },
+    {
+      "property": "P348",
+      "value": "Simula 67"
+    },
+    {
+      "property": "P348",
+      "value": "Standard SIMULA"
+    },
+    {
+      "property": "P373",
+      "value": "Simula"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P4342",
+      "value": "Simula"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"Simula::5x98v\"]"
+    },
+    {
+      "property": "P571",
+      "value": "+1962-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "22088"
+    },
+    {
+      "property": "P6366",
+      "value": "32155586"
+    },
+    {
+      "property": "P646",
+      "value": "/m/079l6"
+    },
+    {
+      "property": "P691",
+      "value": "ph459466"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P737",
+      "value": "Q1209759"
+    },
+    {
+      "property": "P737",
+      "value": "Q7390408"
+    },
+    {
+      "property": "P7554",
+      "value": "Simula"
+    },
+    {
+      "property": "P8189",
+      "value": "987007546248105171"
+    },
+    {
+      "property": "P9100",
+      "value": "simula"
+    }
+  ]
+}

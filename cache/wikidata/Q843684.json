@@ -1,0 +1,74 @@
+{
+  "id": "Q843684",
+  "label": "radix",
+  "facts": [
+    {
+      "property": "P12385",
+      "value": "base-13"
+    },
+    {
+      "property": "P1269",
+      "value": "Q1747853"
+    },
+    {
+      "property": "P1296",
+      "value": "0152475"
+    },
+    {
+      "property": "P1687",
+      "value": "P3264"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/121mks3s"
+    },
+    {
+      "property": "P279",
+      "value": "Q28920044"
+    },
+    {
+      "property": "P279",
+      "value": "Q11563"
+    },
+    {
+      "property": "P2812",
+      "value": "Base"
+    },
+    {
+      "property": "P31",
+      "value": "Q4897819"
+    },
+    {
+      "property": "P4342",
+      "value": "grunntall"
+    },
+    {
+      "property": "P6104",
+      "value": "Q8487137"
+    },
+    {
+      "property": "P6366",
+      "value": "204248692"
+    },
+    {
+      "property": "P646",
+      "value": "/m/033z20"
+    },
+    {
+      "property": "P6564",
+      "value": "number-base"
+    },
+    {
+      "property": "P6781",
+      "value": "Definition:Number_Base"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/2431"
+    },
+    {
+      "property": "P8313",
+      "value": "grundtal"
+    }
+  ]
+}

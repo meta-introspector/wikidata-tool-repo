@@ -1,0 +1,150 @@
+{
+  "id": "Q334661",
+  "label": "MIT License",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C174183944"
+    },
+    {
+      "property": "P12468",
+      "value": "License :: OSI Approved :: MIT License"
+    },
+    {
+      "property": "P12468",
+      "value": "License :: OSI Approved :: MIT License"
+    },
+    {
+      "property": "P13397",
+      "value": "license-mit"
+    },
+    {
+      "property": "P1343",
+      "value": "Q108928644"
+    },
+    {
+      "property": "P1343",
+      "value": "Q110670654"
+    },
+    {
+      "property": "P1424",
+      "value": "Q8117901"
+    },
+    {
+      "property": "P1482",
+      "value": "https://opensource.stackexchange.com/tags/mit"
+    },
+    {
+      "property": "P1813",
+      "value": "MIT"
+    },
+    {
+      "property": "P2479",
+      "value": "MIT"
+    },
+    {
+      "property": "P2537",
+      "value": "License:Expat"
+    },
+    {
+      "property": "P2561",
+      "value": "MIT License"
+    },
+    {
+      "property": "P279",
+      "value": "Q1437937"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P31",
+      "value": "Q1437937"
+    },
+    {
+      "property": "P31",
+      "value": "Q1156659"
+    },
+    {
+      "property": "P3417",
+      "value": "MIT-License"
+    },
+    {
+      "property": "P366",
+      "value": "Q1004415"
+    },
+    {
+      "property": "P373",
+      "value": "MIT licenses"
+    },
+    {
+      "property": "P460",
+      "value": "Q18526202"
+    },
+    {
+      "property": "P4969",
+      "value": "Q67538600"
+    },
+    {
+      "property": "P4969",
+      "value": "Q125312814"
+    },
+    {
+      "property": "P4969",
+      "value": "Q128408917"
+    },
+    {
+      "property": "P50",
+      "value": "Q49108"
+    },
+    {
+      "property": "P571",
+      "value": "+1984-01-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1988-01-01T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1984-01-25T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "3287"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04vpm"
+    },
+    {
+      "property": "P747",
+      "value": "Q18526198"
+    },
+    {
+      "property": "P747",
+      "value": "Q18526202"
+    },
+    {
+      "property": "P790",
+      "value": "Q845918"
+    },
+    {
+      "property": "P790",
+      "value": "Q48413"
+    },
+    {
+      "property": "P953",
+      "value": "https://opensource.org/licenses/MIT"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.osadl.org/fileadmin/checklists/unreflicenses/MIT.txt"
+    }
+  ]
+}

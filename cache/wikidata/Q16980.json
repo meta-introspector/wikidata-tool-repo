@@ -1,0 +1,158 @@
+{
+  "id": "Q16980",
+  "label": "ARM architecture",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C26771161"
+    },
+    {
+      "property": "P1068",
+      "value": "Q189376"
+    },
+    {
+      "property": "P11408",
+      "value": "ARMアーキテクチャ"
+    },
+    {
+      "property": "P12695",
+      "value": "ARM"
+    },
+    {
+      "property": "P127",
+      "value": "Q296782"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/774d48f6-3a5d-495a-9e37-a46e76a545d8"
+    },
+    {
+      "property": "P1424",
+      "value": "Q20357043"
+    },
+    {
+      "property": "P144",
+      "value": "Q189376"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/arm"
+    },
+    {
+      "property": "P154",
+      "value": "ARM powered Badge.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Arm logo 2025.svg"
+    },
+    {
+      "property": "P1617",
+      "value": "66a2b552-7744-459d-97fa-f32c7c9abe75"
+    },
+    {
+      "property": "P178",
+      "value": "Q342149"
+    },
+    {
+      "property": "P178",
+      "value": "Q296782"
+    },
+    {
+      "property": "P227",
+      "value": "4706184-4"
+    },
+    {
+      "property": "P244",
+      "value": "sh2015001756"
+    },
+    {
+      "property": "P268",
+      "value": "16243194b"
+    },
+    {
+      "property": "P279",
+      "value": "Q1303814"
+    },
+    {
+      "property": "P279",
+      "value": "Q259864"
+    },
+    {
+      "property": "P279",
+      "value": "Q241317"
+    },
+    {
+      "property": "P279",
+      "value": "Q1074539"
+    },
+    {
+      "property": "P287",
+      "value": "Q296782"
+    },
+    {
+      "property": "P2910",
+      "value": "ARM CPU icon.svg"
+    },
+    {
+      "property": "P3374",
+      "value": "Q23651349"
+    },
+    {
+      "property": "P3374",
+      "value": "Q12745768"
+    },
+    {
+      "property": "P3417",
+      "value": "ARM-architecture-1"
+    },
+    {
+      "property": "P373",
+      "value": "ARM microprocessors"
+    },
+    {
+      "property": "P580",
+      "value": "+1985-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "26771161"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0gfzw"
+    },
+    {
+      "property": "P691",
+      "value": "ph534648"
+    },
+    {
+      "property": "P737",
+      "value": "Q3638583"
+    },
+    {
+      "property": "P8189",
+      "value": "987007412687105171"
+    },
+    {
+      "property": "P8309",
+      "value": "18-297261"
+    },
+    {
+      "property": "P8408",
+      "value": "ARMArchitecture"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.arm.com"
+    },
+    {
+      "property": "P910",
+      "value": "Q7581643"
+    },
+    {
+      "property": "P973",
+      "value": "http://www.heyrick.co.uk/assembler/"
+    }
+  ]
+}

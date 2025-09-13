@@ -1,0 +1,70 @@
+{
+  "id": "Q544927",
+  "label": "Limbo",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q130225235"
+    },
+    {
+      "property": "P1073",
+      "value": "Q130225235"
+    },
+    {
+      "property": "P138",
+      "value": "Q270710"
+    },
+    {
+      "property": "P178",
+      "value": "Q217365"
+    },
+    {
+      "property": "P227",
+      "value": "4786435-7"
+    },
+    {
+      "property": "P244",
+      "value": "sh2003001159"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P361",
+      "value": "Q908615"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P3966",
+      "value": "Q6453666"
+    },
+    {
+      "property": "P571",
+      "value": "+1995-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01j9gq"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P8189",
+      "value": "987007535175805171"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.vitanuova.com/inferno/limbo.html"
+    }
+  ]
+}

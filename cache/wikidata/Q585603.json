@@ -1,0 +1,170 @@
+{
+  "id": "Q585603",
+  "label": "Rhino",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/rhino"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/rhino"
+    },
+    {
+      "property": "P154",
+      "value": "Inicio de ldp para 260px50px moziyarinocrnt.jpg"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P1814",
+      "value": "ライノー"
+    },
+    {
+      "property": "P1972",
+      "value": "rhino"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q251"
+    },
+    {
+      "property": "P31",
+      "value": "Q591919"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3442",
+      "value": "rhino"
+    },
+    {
+      "property": "P3454",
+      "value": "rhino"
+    },
+    {
+      "property": "P3454",
+      "value": "rhino-javadoc"
+    },
+    {
+      "property": "P3454",
+      "value": "java-rhino"
+    },
+    {
+      "property": "P3463",
+      "value": "rhino"
+    },
+    {
+      "property": "P3473",
+      "value": "rhino"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.14"
+    },
+    {
+      "property": "P348",
+      "value": "1.7R4"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.15"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.0"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-java/rhino"
+    },
+    {
+      "property": "P571",
+      "value": "+1997-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01ykvd"
+    },
+    {
+      "property": "P6665",
+      "value": "20394"
+    },
+    {
+      "property": "P6931",
+      "value": "rhino"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/rhino"
+    },
+    {
+      "property": "P8443",
+      "value": "rhino"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/rhino/"
+    },
+    {
+      "property": "P856",
+      "value": "https://mozilla.github.io/rhino/"
+    }
+  ]
+}

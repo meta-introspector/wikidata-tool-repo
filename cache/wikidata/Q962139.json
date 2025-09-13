@@ -1,0 +1,46 @@
+{
+  "id": "Q962139",
+  "label": "programming style",
+  "facts": [
+    {
+      "property": "P101",
+      "value": "Q21198"
+    },
+    {
+      "property": "P10283",
+      "value": "C2776245389"
+    },
+    {
+      "property": "P279",
+      "value": "Q1292119"
+    },
+    {
+      "property": "P2959",
+      "value": "Q898314"
+    },
+    {
+      "property": "P3417",
+      "value": "Programming-Style"
+    },
+    {
+      "property": "P3553",
+      "value": "19560369"
+    },
+    {
+      "property": "P3553",
+      "value": "19873600"
+    },
+    {
+      "property": "P6366",
+      "value": "2776245389"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01c3j_"
+    },
+    {
+      "property": "P910",
+      "value": "Q32763179"
+    }
+  ]
+}

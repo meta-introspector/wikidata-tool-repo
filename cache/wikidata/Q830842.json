@@ -1,0 +1,62 @@
+{
+  "id": "Q830842",
+  "label": "BETA",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2776174256"
+    },
+    {
+      "property": "P178",
+      "value": "Q92744"
+    },
+    {
+      "property": "P2347",
+      "value": "14009"
+    },
+    {
+      "property": "P244",
+      "value": "sh93001787"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P571",
+      "value": "+1992-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/010134"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P8189",
+      "value": "987007551435605171"
+    },
+    {
+      "property": "P856",
+      "value": "http://daimi.au.dk/~beta"
+    },
+    {
+      "property": "P856",
+      "value": "http://cs.au.dk/~beta"
+    }
+  ]
+}

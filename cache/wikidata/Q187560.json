@@ -1,0 +1,210 @@
+{
+  "id": "Q187560",
+  "label": "Scheme",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q34305425"
+    },
+    {
+      "property": "P1073",
+      "value": "Q34305425"
+    },
+    {
+      "property": "P11201",
+      "value": "https://try.scheme.org/"
+    },
+    {
+      "property": "P11947",
+      "value": "scheme@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "scm"
+    },
+    {
+      "property": "P1195",
+      "value": "ss"
+    },
+    {
+      "property": "P12873",
+      "value": "Scheme"
+    },
+    {
+      "property": "P12873",
+      "value": "Scheme_(Русский)"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/115bb3b7-bd6e-4913-88a8-bb228f8aef5b"
+    },
+    {
+      "property": "P154",
+      "value": "Lambda lc.svg"
+    },
+    {
+      "property": "P227",
+      "value": "4378962-6"
+    },
+    {
+      "property": "P2347",
+      "value": "18238"
+    },
+    {
+      "property": "P244",
+      "value": "sh87003834"
+    },
+    {
+      "property": "P287",
+      "value": "Q92991"
+    },
+    {
+      "property": "P287",
+      "value": "Q92981"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922887"
+    },
+    {
+      "property": "P31",
+      "value": "Q50843083"
+    },
+    {
+      "property": "P3417",
+      "value": "Scheme-programming-language-1"
+    },
+    {
+      "property": "P348",
+      "value": "R7RS-small"
+    },
+    {
+      "property": "P3553",
+      "value": "19593327"
+    },
+    {
+      "property": "P373",
+      "value": "Scheme (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "scheme_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q661075"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3984",
+      "value": "scheme"
+    },
+    {
+      "property": "P571",
+      "value": "+1975-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6293",
+      "value": "Y108009"
+    },
+    {
+      "property": "P6366",
+      "value": "24493144"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06zrb"
+    },
+    {
+      "property": "P6900",
+      "value": "scheme"
+    },
+    {
+      "property": "P691",
+      "value": "ph117126"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q6495507"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q188436"
+    },
+    {
+      "property": "P737",
+      "value": "Q6715155"
+    },
+    {
+      "property": "P8131",
+      "value": "Q132874"
+    },
+    {
+      "property": "P8189",
+      "value": "987007539007505171"
+    },
+    {
+      "property": "P8408",
+      "value": "Scheme"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.scheme-reports.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.scheme.org/"
+    },
+    {
+      "property": "P8885",
+      "value": "Scheme"
+    },
+    {
+      "property": "P910",
+      "value": "Q8707205"
+    },
+    {
+      "property": "P9100",
+      "value": "scheme"
+    }
+  ]
+}

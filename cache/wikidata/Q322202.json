@@ -1,0 +1,98 @@
+{
+  "id": "Q322202",
+  "label": "garbage collection",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C105122174"
+    },
+    {
+      "property": "P10565",
+      "value": "171798"
+    },
+    {
+      "property": "P11129",
+      "value": "Garbage_Collection"
+    },
+    {
+      "property": "P1245",
+      "value": "1222471"
+    },
+    {
+      "property": "P1269",
+      "value": "Q9135"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/garbage-collection"
+    },
+    {
+      "property": "P1542",
+      "value": "Q110279643"
+    },
+    {
+      "property": "P18",
+      "value": "Garbage collection.gif"
+    },
+    {
+      "property": "P1813",
+      "value": "GC"
+    },
+    {
+      "property": "P1814",
+      "value": "ガベージコレクション"
+    },
+    {
+      "property": "P227",
+      "value": "4269286-6"
+    },
+    {
+      "property": "P279",
+      "value": "Q115715673"
+    },
+    {
+      "property": "P3417",
+      "value": "Garbage-Collection-programming"
+    },
+    {
+      "property": "P373",
+      "value": "Garbage collection (computer science)"
+    },
+    {
+      "property": "P3827",
+      "value": "garbage-collection"
+    },
+    {
+      "property": "P3847",
+      "value": "garbage_collection_(computer_science)"
+    },
+    {
+      "property": "P6009",
+      "value": "1083"
+    },
+    {
+      "property": "P6366",
+      "value": "105122174"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01z4f"
+    },
+    {
+      "property": "P6900",
+      "value": "ガベージコレクション"
+    },
+    {
+      "property": "P8309",
+      "value": "18-278161"
+    },
+    {
+      "property": "P8885",
+      "value": "쓰레기 수집"
+    },
+    {
+      "property": "P910",
+      "value": "Q6889955"
+    }
+  ]
+}

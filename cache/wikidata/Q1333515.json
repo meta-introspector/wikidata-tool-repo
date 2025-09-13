@@ -1,0 +1,34 @@
+{
+  "id": "Q1333515",
+  "label": "type conversion",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q865760"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/data-type-conversion"
+    },
+    {
+      "property": "P2579",
+      "value": "Q1056428"
+    },
+    {
+      "property": "P279",
+      "value": "Q65757353"
+    },
+    {
+      "property": "P279",
+      "value": "Q1079196"
+    },
+    {
+      "property": "P6366",
+      "value": "83137451"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02pjbc"
+    }
+  ]
+}

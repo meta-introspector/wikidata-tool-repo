@@ -1,0 +1,114 @@
+{
+  "id": "Q538588",
+  "label": "Mozilla Application Suite",
+  "facts": [
+    {
+      "property": "P138",
+      "value": "Q133067"
+    },
+    {
+      "property": "P138",
+      "value": "Q6567"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Suite Logo.png"
+    },
+    {
+      "property": "P156",
+      "value": "Q156197"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Mozilla 1.7.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q55672"
+    },
+    {
+      "property": "P1889",
+      "value": "Q9661"
+    },
+    {
+      "property": "P2184",
+      "value": "Q5865554"
+    },
+    {
+      "property": "P2669",
+      "value": "+2006-04-21T00:00:00Z"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P31",
+      "value": "Q955452"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.8b1"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla Application Suite"
+    },
+    {
+      "property": "P4969",
+      "value": "Q156197"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06lwcz"
+    },
+    {
+      "property": "P6665",
+      "value": "1"
+    },
+    {
+      "property": "P856",
+      "value": "http://www-archive.mozilla.org/products/mozilla1.x/"
+    },
+    {
+      "property": "P910",
+      "value": "Q8645390"
+    }
+  ]
+}

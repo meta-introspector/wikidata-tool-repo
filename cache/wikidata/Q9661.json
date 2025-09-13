@@ -1,0 +1,298 @@
+{
+  "id": "Q9661",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P1019",
+      "value": "https://blog.mozilla.org/en/feed/"
+    },
+    {
+      "property": "P10311",
+      "value": "https://www.mozilla.org/en-US/careers/listings/?team=Marketing"
+    },
+    {
+      "property": "P1056",
+      "value": "Q698"
+    },
+    {
+      "property": "P11136",
+      "value": "https://mzl.la/$1"
+    },
+    {
+      "property": "P112",
+      "value": "Q210057"
+    },
+    {
+      "property": "P11212",
+      "value": "https://www.mozilla.org/sitemap.xml"
+    },
+    {
+      "property": "P11245",
+      "value": "Mozilla"
+    },
+    {
+      "property": "P11556",
+      "value": "https://www.mozilla.org/credits/"
+    },
+    {
+      "property": "P11810",
+      "value": "https://mozilla.social"
+    },
+    {
+      "property": "P12361",
+      "value": "mozilla.org"
+    },
+    {
+      "property": "P13327",
+      "value": "1090"
+    },
+    {
+      "property": "P138",
+      "value": "Q381047"
+    },
+    {
+      "property": "P138",
+      "value": "Q6567"
+    },
+    {
+      "property": "P1424",
+      "value": "Q5484181"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla 2024 logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla dinosaur head logo.png"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla logo (2017–2024).svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.mozilla.org/en/"
+    },
+    {
+      "property": "P159",
+      "value": "Q62"
+    },
+    {
+      "property": "P169",
+      "value": "Q445250"
+    },
+    {
+      "property": "P169",
+      "value": "Q454092"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6927986"
+    },
+    {
+      "property": "P1830",
+      "value": "Q550315"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20820972"
+    },
+    {
+      "property": "P1830",
+      "value": "Q64828890"
+    },
+    {
+      "property": "P1830",
+      "value": "Q56316099"
+    },
+    {
+      "property": "P1889",
+      "value": "Q398558"
+    },
+    {
+      "property": "P1889",
+      "value": "Q55672"
+    },
+    {
+      "property": "P1889",
+      "value": "Q169925"
+    },
+    {
+      "property": "P1889",
+      "value": "Q6886158"
+    },
+    {
+      "property": "P2002",
+      "value": "mozilla"
+    },
+    {
+      "property": "P2013",
+      "value": "mozilla"
+    },
+    {
+      "property": "P2037",
+      "value": "mozilla"
+    },
+    {
+      "property": "P2397",
+      "value": "UCajipi80aORRDz6gZ8ZyCWw"
+    },
+    {
+      "property": "P2561",
+      "value": "Mozilla"
+    },
+    {
+      "property": "P31",
+      "value": "Q163740"
+    },
+    {
+      "property": "P31",
+      "value": "Q1360517"
+    },
+    {
+      "property": "P3417",
+      "value": "Mozilla"
+    },
+    {
+      "property": "P3553",
+      "value": "19552651"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla"
+    },
+    {
+      "property": "P3797",
+      "value": "36856"
+    },
+    {
+      "property": "P3984",
+      "value": "mozilla"
+    },
+    {
+      "property": "P4033",
+      "value": "mozilla@mastodon.social"
+    },
+    {
+      "property": "P4033",
+      "value": "mozilla@mozilla.social"
+    },
+    {
+      "property": "P4033",
+      "value": "mozillaofficial@mastodon.social"
+    },
+    {
+      "property": "P4264",
+      "value": "mozilla-corporation"
+    },
+    {
+      "property": "P452",
+      "value": "Q880371"
+    },
+    {
+      "property": "P463",
+      "value": "Q80656429"
+    },
+    {
+      "property": "P463",
+      "value": "Q15731702"
+    },
+    {
+      "property": "P463",
+      "value": "Q845918"
+    },
+    {
+      "property": "P571",
+      "value": "+1998-02-28T00:00:00Z"
+    },
+    {
+      "property": "P571",
+      "value": "+2005-08-03T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0n8_kfy"
+    },
+    {
+      "property": "P7085",
+      "value": "mozilla"
+    },
+    {
+      "property": "P749",
+      "value": "Q55672"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/en-US/"
+    },
+    {
+      "property": "P8687",
+      "value": "+278189"
+    },
+    {
+      "property": "P8687",
+      "value": "+18929"
+    },
+    {
+      "property": "P8687",
+      "value": "+5866"
+    },
+    {
+      "property": "P8687",
+      "value": "+25283"
+    },
+    {
+      "property": "P8687",
+      "value": "+5831"
+    },
+    {
+      "property": "P8687",
+      "value": "+26230"
+    },
+    {
+      "property": "P8687",
+      "value": "+5815"
+    },
+    {
+      "property": "P8687",
+      "value": "+26845"
+    },
+    {
+      "property": "P8687",
+      "value": "+27360"
+    },
+    {
+      "property": "P8687",
+      "value": "+25300"
+    },
+    {
+      "property": "P8934",
+      "value": "https://marc.info/?l=mozilla-announce"
+    },
+    {
+      "property": "P8939",
+      "value": "Mozilla"
+    },
+    {
+      "property": "P910",
+      "value": "Q10059779"
+    },
+    {
+      "property": "P9100",
+      "value": "mozilla"
+    },
+    {
+      "property": "P9346",
+      "value": "mozilla"
+    },
+    {
+      "property": "P935",
+      "value": "Mozilla"
+    }
+  ]
+}

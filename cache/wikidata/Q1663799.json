@@ -1,0 +1,26 @@
+{
+  "id": "Q1663799",
+  "label": "inline expansion",
+  "facts": [
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/inline"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1189936"
+    },
+    {
+      "property": "P31",
+      "value": "Q5375155"
+    },
+    {
+      "property": "P6366",
+      "value": "199624775"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01frnm"
+    }
+  ]
+}

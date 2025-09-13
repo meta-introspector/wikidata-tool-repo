@@ -1,0 +1,162 @@
+{
+  "id": "Q105623664",
+  "label": "LibreWolf",
+  "facts": [
+    {
+      "property": "P10",
+      "value": "LibreWolf – An open source Web browser with hardened privacy (Firefox fork).webm"
+    },
+    {
+      "property": "P10766",
+      "value": "LibreWolf"
+    },
+    {
+      "property": "P11947",
+      "value": "librewolf@lemmy.ml"
+    },
+    {
+      "property": "P12077",
+      "value": "network/librewolf"
+    },
+    {
+      "property": "P12695",
+      "value": "LibreWolf"
+    },
+    {
+      "property": "P1324",
+      "value": "https://gitlab.com/librewolf-community"
+    },
+    {
+      "property": "P1324",
+      "value": "https://codeberg.org/librewolf/source"
+    },
+    {
+      "property": "P1401",
+      "value": "https://codeberg.org/librewolf/issues/issues"
+    },
+    {
+      "property": "P144",
+      "value": "Q698"
+    },
+    {
+      "property": "P154",
+      "value": "LibreWolf icon.svg"
+    },
+    {
+      "property": "P18",
+      "value": "LibreWolf 137.0.1 on Linux screenshot.webp"
+    },
+    {
+      "property": "P2078",
+      "value": "https://librewolf-community.gitlab.io/docs"
+    },
+    {
+      "property": "P2572",
+      "value": "LibreWolf"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P2910",
+      "value": "LibreWolf icon.svg"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P31",
+      "value": "Q15477174"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P348",
+      "value": "125.0.3-3"
+    },
+    {
+      "property": "P348",
+      "value": "99.0"
+    },
+    {
+      "property": "P348",
+      "value": "130.0.0-3"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.3-1"
+    },
+    {
+      "property": "P348",
+      "value": "136.0-2"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.1-1"
+    },
+    {
+      "property": "P348",
+      "value": "142.0-1"
+    },
+    {
+      "property": "P373",
+      "value": "LibreWolf"
+    },
+    {
+      "property": "P3984",
+      "value": "LibreWolf"
+    },
+    {
+      "property": "P4033",
+      "value": "librewolf@chaos.social"
+    },
+    {
+      "property": "P4162",
+      "value": "librewolf"
+    },
+    {
+      "property": "P4655",
+      "value": "io.gitlab.librewolf-community"
+    },
+    {
+      "property": "P4945",
+      "value": "https://librewolf.net/installation"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6931",
+      "value": "librewolf"
+    },
+    {
+      "property": "P750",
+      "value": "Q43089335"
+    },
+    {
+      "property": "P856",
+      "value": "https://librewolf-community.gitlab.io/"
+    },
+    {
+      "property": "P856",
+      "value": "https://librewolf.net"
+    },
+    {
+      "property": "P9618",
+      "value": "librewolf"
+    }
+  ]
+}

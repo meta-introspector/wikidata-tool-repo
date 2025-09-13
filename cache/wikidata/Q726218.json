@@ -1,0 +1,158 @@
+{
+  "id": "Q726218",
+  "label": "XML User Interface Language",
+  "facts": [
+    {
+      "property": "P1056",
+      "value": "Q117833103"
+    },
+    {
+      "property": "P1163",
+      "value": "application/vnd.mozilla.xul+xml"
+    },
+    {
+      "property": "P1163",
+      "value": "text/xul"
+    },
+    {
+      "property": "P1195",
+      "value": "xul"
+    },
+    {
+      "property": "P13572",
+      "value": "XUL"
+    },
+    {
+      "property": "P1366",
+      "value": "Q47904718"
+    },
+    {
+      "property": "P1414",
+      "value": "Q828191"
+    },
+    {
+      "property": "P1414",
+      "value": "Q189464"
+    },
+    {
+      "property": "P1414",
+      "value": "Q1051988"
+    },
+    {
+      "property": "P144",
+      "value": "Q2115"
+    },
+    {
+      "property": "P1535",
+      "value": "Q698"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Boxes-ex1.png"
+    },
+    {
+      "property": "P1813",
+      "value": "XUL"
+    },
+    {
+      "property": "P1813",
+      "value": "XUL"
+    },
+    {
+      "property": "P227",
+      "value": "7560706-2"
+    },
+    {
+      "property": "P244",
+      "value": "sh2002007597"
+    },
+    {
+      "property": "P268",
+      "value": "150215315"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q4052124"
+    },
+    {
+      "property": "P31",
+      "value": "Q235557"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q20155966"
+    },
+    {
+      "property": "P3417",
+      "value": "XUL"
+    },
+    {
+      "property": "P366",
+      "value": "Q47146"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"FileFormat\", \"XUL-1\"]"
+    },
+    {
+      "property": "P571",
+      "value": "+1999-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "24392"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:XUL"
+    },
+    {
+      "property": "P6366",
+      "value": "120249511"
+    },
+    {
+      "property": "P646",
+      "value": "/m/011y70"
+    },
+    {
+      "property": "P737",
+      "value": "Q8811"
+    },
+    {
+      "property": "P737",
+      "value": "Q2115"
+    },
+    {
+      "property": "P7510",
+      "value": "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+    },
+    {
+      "property": "P8189",
+      "value": "987007556763205171"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL"
+    }
+  ]
+}

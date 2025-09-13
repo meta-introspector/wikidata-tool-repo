@@ -1,0 +1,50 @@
+{
+  "id": "Q613299",
+  "label": "statement",
+  "facts": [
+    {
+      "property": "P11129",
+      "value": "Anweisung"
+    },
+    {
+      "property": "P1343",
+      "value": "Q55152191"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1206110"
+    },
+    {
+      "property": "P1889",
+      "value": "Q925783"
+    },
+    {
+      "property": "P227",
+      "value": "4458688-7"
+    },
+    {
+      "property": "P2581",
+      "value": "00020945n"
+    },
+    {
+      "property": "P279",
+      "value": "Q868299"
+    },
+    {
+      "property": "P279",
+      "value": "Q6486712"
+    },
+    {
+      "property": "P361",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P361",
+      "value": "Q128751"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03rstf"
+    }
+  ]
+}

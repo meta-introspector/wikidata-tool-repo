@@ -1,0 +1,78 @@
+{
+  "id": "Q1118153",
+  "label": "Caml",
+  "facts": [
+    {
+      "property": "P12030",
+      "value": "ocaml"
+    },
+    {
+      "property": "P12077",
+      "value": "development/camlp4"
+    },
+    {
+      "property": "P178",
+      "value": "Q1146208"
+    },
+    {
+      "property": "P287",
+      "value": "Q974366"
+    },
+    {
+      "property": "P31",
+      "value": "Q2458742"
+    },
+    {
+      "property": "P348",
+      "value": "4.07"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P571",
+      "value": "+1985-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "2780710800"
+    },
+    {
+      "property": "P646",
+      "value": "/m/076kx1"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P737",
+      "value": "Q860654"
+    },
+    {
+      "property": "P8131",
+      "value": "Q860654"
+    },
+    {
+      "property": "P856",
+      "value": "http://caml.inria.fr"
+    }
+  ]
+}

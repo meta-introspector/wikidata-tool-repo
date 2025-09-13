@@ -1,0 +1,22 @@
+{
+  "id": "Q2872462",
+  "label": "self-hosting",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q47506"
+    },
+    {
+      "property": "P1889",
+      "value": "Q65090671"
+    },
+    {
+      "property": "P31",
+      "value": "Q151885"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01b8j5"
+    }
+  ]
+}

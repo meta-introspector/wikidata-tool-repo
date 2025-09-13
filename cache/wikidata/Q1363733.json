@@ -1,0 +1,110 @@
+{
+  "id": "Q1363733",
+  "label": "The Register",
+  "facts": [
+    {
+      "property": "P12361",
+      "value": "theregister.com"
+    },
+    {
+      "property": "P13337",
+      "value": "theregister.com"
+    },
+    {
+      "property": "P13337",
+      "value": "theregister.co.uk"
+    },
+    {
+      "property": "P136",
+      "value": "Q2155573"
+    },
+    {
+      "property": "P1661",
+      "value": "+6379"
+    },
+    {
+      "property": "P17",
+      "value": "Q145"
+    },
+    {
+      "property": "P2002",
+      "value": "TheRegister"
+    },
+    {
+      "property": "P2013",
+      "value": "VultureCentral"
+    },
+    {
+      "property": "P2847",
+      "value": "+theregister"
+    },
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P3417",
+      "value": "The-Register"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P4264",
+      "value": "the-register"
+    },
+    {
+      "property": "P452",
+      "value": "Q11030"
+    },
+    {
+      "property": "P4527",
+      "value": "445358"
+    },
+    {
+      "property": "P50",
+      "value": "Q6847758"
+    },
+    {
+      "property": "P571",
+      "value": "+1994-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6157",
+      "value": "CAAiEMir8tA8XLG0S0CkITsoLRwqFAgKIhDIq_LQPFyxtEtApCE7KC0c"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0cp7c"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.theregister.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+96831"
+    },
+    {
+      "property": "P8687",
+      "value": "+100581"
+    },
+    {
+      "property": "P8687",
+      "value": "+102910"
+    },
+    {
+      "property": "P9035",
+      "value": "theregister"
+    },
+    {
+      "property": "P921",
+      "value": "Q11016"
+    },
+    {
+      "property": "P9852",
+      "value": "the-register-uk"
+    }
+  ]
+}

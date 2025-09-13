@@ -1,0 +1,38 @@
+{
+  "id": "Q1898746",
+  "label": "Mozilla Europe",
+  "facts": [
+    {
+      "property": "P1416",
+      "value": "Q55672"
+    },
+    {
+      "property": "P159",
+      "value": "Q90"
+    },
+    {
+      "property": "P17",
+      "value": "Q142"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P571",
+      "value": "+2004-02-17T00:00:00Z"
+    },
+    {
+      "property": "P576",
+      "value": "+2011-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03pj0b"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozilla-europe.org/"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "Q8767",
+  "label": "Domain Name Server",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C35026560"
+    },
+    {
+      "property": "P10565",
+      "value": "106794"
+    },
+    {
+      "property": "P11514",
+      "value": "dns-internet-servis-c4d6f5"
+    },
+    {
+      "property": "P1163",
+      "value": "application/dns"
+    },
+    {
+      "property": "P1163",
+      "value": "text/dns"
+    },
+    {
+      "property": "P12521",
+      "value": "DNS"
+    },
+    {
+      "property": "P12521",
+      "value": "The_Domain_Name_System"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Domain_Name_System"
+    },
+    {
+      "property": "P1296",
+      "value": "0522736"
+    },
+    {
+      "property": "P13397",
+      "value": "dns"
+    },
+    {
+      "property": "P13411",
+      "value": "Q693"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47258511"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47270073"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47316384"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47455571"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47458939"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47480163"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47475628"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47466503"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47473760"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47466206"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/DNS"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/dns"
+    },
+    {
+      "property": "P1617",
+      "value": "ae1f8c07-3e85-4ae3-8af9-962d8fbedef3"
+    },
+    {
+      "property": "P1641",
+      "value": "+53"
+    },
+    {
+      "property": "P1641",
+      "value": "+53"
+    },
+    {
+      "property": "P1889",
+      "value": "Q232651"
+    },
+    {
+      "property": "P227",
+      "value": "4348318-5"
+    },
+    {
+      "property": "P31",
+      "value": "Q290378"
+    },
+    {
+      "property": "P31",
+      "value": "Q5753107"
+    },
+    {
+      "property": "P31",
+      "value": "Q15836568"
+    },
+    {
+      "property": "P3381",
+      "value": "DNS"
+    },
+    {
+      "property": "P3417",
+      "value": "Domain-Name-System-2"
+    },
+    {
+      "property": "P349",
+      "value": "001311891"
+    },
+    {
+      "property": "P361",
+      "value": "Q81414"
+    },
+    {
+      "property": "P361",
+      "value": "Q466"
+    },
+    {
+      "property": "P366",
+      "value": "Q1649725"
+    },
+    {
+      "property": "P373",
+      "value": "Domain name system"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.2.1.32"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.5.6.1"
+    },
+    {
+      "property": "P3827",
+      "value": "domain-name-system"
+    },
+    {
+      "property": "P3984",
+      "value": "dns"
+    },
+    {
+      "property": "P4742",
+      "value": "dns"
+    },
+    {
+      "property": "P5398",
+      "value": "000000666"
+    },
+    {
+      "property": "P5805",
+      "value": "Q189768"
+    },
+    {
+      "property": "P5814",
+      "value": "domain"
+    },
+    {
+      "property": "P6266",
+      "value": "DNS"
+    },
+    {
+      "property": "P6366",
+      "value": "35026560"
+    },
+    {
+      "property": "P646",
+      "value": "/m/029zm"
+    },
+    {
+      "property": "P6706",
+      "value": "DNS"
+    },
+    {
+      "property": "P7293",
+      "value": "9810532434805606"
+    },
+    {
+      "property": "P7305",
+      "value": "3982215"
+    },
+    {
+      "property": "P7783",
+      "value": "200906011304001273"
+    },
+    {
+      "property": "P8408",
+      "value": "DomainNameSystemProtocol"
+    },
+    {
+      "property": "P910",
+      "value": "Q7145568"
+    },
+    {
+      "property": "P9100",
+      "value": "dns"
+    }
+  ]
+}

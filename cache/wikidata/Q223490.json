@@ -1,0 +1,806 @@
+{
+  "id": "Q223490",
+  "label": "LLVM",
+  "facts": [
+    {
+      "property": "P10027",
+      "value": "https://discourse.llvm.org/"
+    },
+    {
+      "property": "P10565",
+      "value": "172125"
+    },
+    {
+      "property": "P10565",
+      "value": "375984"
+    },
+    {
+      "property": "P10766",
+      "value": "llvm"
+    },
+    {
+      "property": "P11129",
+      "value": "llvm-mos"
+    },
+    {
+      "property": "P12873",
+      "value": "LLVM"
+    },
+    {
+      "property": "P12873",
+      "value": "LLVM_(Español)"
+    },
+    {
+      "property": "P12873",
+      "value": "LLVM_(Русский)"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/llvm/llvm-project"
+    },
+    {
+      "property": "P13572",
+      "value": "LLVM"
+    },
+    {
+      "property": "P1382",
+      "value": "Q2814113"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.llvm.org/"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.oftc.net/llvm"
+    },
+    {
+      "property": "P178",
+      "value": "Q2964778"
+    },
+    {
+      "property": "P178",
+      "value": "Q116537016"
+    },
+    {
+      "property": "P178",
+      "value": "Q116537145"
+    },
+    {
+      "property": "P1972",
+      "value": "llvm"
+    },
+    {
+      "property": "P2002",
+      "value": "llvmorg"
+    },
+    {
+      "property": "P2013",
+      "value": "LLVMORG"
+    },
+    {
+      "property": "P2037",
+      "value": "llvm"
+    },
+    {
+      "property": "P2397",
+      "value": "UCv2_41bSAa5Y_8BacJUZfjQ"
+    },
+    {
+      "property": "P2537",
+      "value": "LLVM"
+    },
+    {
+      "property": "P275",
+      "value": "Q2495855"
+    },
+    {
+      "property": "P275",
+      "value": "Q115053103"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q165436"
+    },
+    {
+      "property": "P287",
+      "value": "Q20630458"
+    },
+    {
+      "property": "P287",
+      "value": "Q2964778"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P306",
+      "value": "Q34225"
+    },
+    {
+      "property": "P306",
+      "value": "Q34236"
+    },
+    {
+      "property": "P306",
+      "value": "Q34215"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q770573"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q2274332"
+    },
+    {
+      "property": "P31",
+      "value": "Q47506"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P31",
+      "value": "Q39162"
+    },
+    {
+      "property": "P31",
+      "value": "Q1325106"
+    },
+    {
+      "property": "P3417",
+      "value": "LLVM"
+    },
+    {
+      "property": "P3442",
+      "value": "llvm"
+    },
+    {
+      "property": "P3454",
+      "value": "llvm"
+    },
+    {
+      "property": "P3454",
+      "value": "llvm-ocaml"
+    },
+    {
+      "property": "P3454",
+      "value": "llvm7"
+    },
+    {
+      "property": "P3454",
+      "value": "llvm7-libs"
+    },
+    {
+      "property": "P3454",
+      "value": "llvm-libs"
+    },
+    {
+      "property": "P3454",
+      "value": "lib32-llvm"
+    },
+    {
+      "property": "P3454",
+      "value": "lib32-llvm-libs"
+    },
+    {
+      "property": "P3463",
+      "value": "llvm"
+    },
+    {
+      "property": "P3473",
+      "value": "llvm"
+    },
+    {
+      "property": "P348",
+      "value": "3.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "8.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "8.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "10.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "10.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "11.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "12.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "12.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "13.0.1-rc1"
+    },
+    {
+      "property": "P348",
+      "value": "13.0.1-rc2"
+    },
+    {
+      "property": "P348",
+      "value": "13.0.1-rc3"
+    },
+    {
+      "property": "P348",
+      "value": "13.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.0-rc1"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.8"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "19.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "20.1.8"
+    },
+    {
+      "property": "P348",
+      "value": "21.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "21.1.1"
+    },
+    {
+      "property": "P3499",
+      "value": "sys-devel/llvm"
+    },
+    {
+      "property": "P3499",
+      "value": "sys-devel/llvm-common"
+    },
+    {
+      "property": "P3553",
+      "value": "19656474"
+    },
+    {
+      "property": "P373",
+      "value": "LLVM"
+    },
+    {
+      "property": "P3984",
+      "value": "LLVM"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm50"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm-libs-git"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm33"
+    },
+    {
+      "property": "P4162",
+      "value": "clang-tools-extra38"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm40"
+    },
+    {
+      "property": "P4162",
+      "value": "clang50"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm38"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm35-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm35"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm40-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "clang38"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm39-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "lib32-llvm-git"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm-git"
+    },
+    {
+      "property": "P4162",
+      "value": "lib32-llvm-libs-git"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm37"
+    },
+    {
+      "property": "P4162",
+      "value": "clang35"
+    },
+    {
+      "property": "P4162",
+      "value": "clang40"
+    },
+    {
+      "property": "P4162",
+      "value": "clang39"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm39"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm-libs38"
+    },
+    {
+      "property": "P4162",
+      "value": "lldb38"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm50-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm-ocaml38"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm-ocaml-git"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm8"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm8-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm70"
+    },
+    {
+      "property": "P4162",
+      "value": "llvm90"
+    },
+    {
+      "property": "P571",
+      "value": "+2003-10-24T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02__f6"
+    },
+    {
+      "property": "P6665",
+      "value": "4868"
+    },
+    {
+      "property": "P6665",
+      "value": "10123"
+    },
+    {
+      "property": "P6830",
+      "value": "4892"
+    },
+    {
+      "property": "P6900",
+      "value": "llvm"
+    },
+    {
+      "property": "P6931",
+      "value": "llvm"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/llvm70"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/llvm90"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/llvm60"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/llvm80"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/llvm-devel"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/llvm10"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/libLLVM4"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/libLLVM34"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/llvm"
+    },
+    {
+      "property": "P7967",
+      "value": "devel/llvm"
+    },
+    {
+      "property": "P8443",
+      "value": "llvm"
+    },
+    {
+      "property": "P856",
+      "value": "https://llvm.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+13700"
+    },
+    {
+      "property": "P8687",
+      "value": "+15100"
+    },
+    {
+      "property": "P8687",
+      "value": "+16700"
+    },
+    {
+      "property": "P8885",
+      "value": "LLVM"
+    },
+    {
+      "property": "P9100",
+      "value": "llvm"
+    },
+    {
+      "property": "P9345",
+      "value": "636084430946959380/636725486533345280"
+    },
+    {
+      "property": "P9618",
+      "value": "llvm"
+    }
+  ]
+}

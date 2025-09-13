@@ -1,0 +1,1630 @@
+{
+  "id": "Q334879",
+  "label": "Erlang",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C82484044"
+    },
+    {
+      "property": "P10766",
+      "value": "erlang"
+    },
+    {
+      "property": "P1195",
+      "value": "erl"
+    },
+    {
+      "property": "P12077",
+      "value": "development/erlang-otp"
+    },
+    {
+      "property": "P1245",
+      "value": "986400"
+    },
+    {
+      "property": "P12695",
+      "value": "Erlang"
+    },
+    {
+      "property": "P12873",
+      "value": "Erlang"
+    },
+    {
+      "property": "P12873",
+      "value": "Erlang_(Español)"
+    },
+    {
+      "property": "P12946",
+      "value": "Erlang"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/erlang/otp"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/c34e4ba2-f8db-4444-aad9-f0b005c69ff4"
+    },
+    {
+      "property": "P138",
+      "value": "Q394423"
+    },
+    {
+      "property": "P138",
+      "value": "Q52618"
+    },
+    {
+      "property": "P154",
+      "value": "Erlang logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q1691321"
+    },
+    {
+      "property": "P178",
+      "value": "Q52618"
+    },
+    {
+      "property": "P178",
+      "value": "Q107596747"
+    },
+    {
+      "property": "P1972",
+      "value": "erlang"
+    },
+    {
+      "property": "P227",
+      "value": "4324177-3"
+    },
+    {
+      "property": "P244",
+      "value": "sh93000031"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P275",
+      "value": "Q3731857"
+    },
+    {
+      "property": "P277",
+      "value": "Q334879"
+    },
+    {
+      "property": "P287",
+      "value": "Q1691321"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q28919943"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q1144882"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q1130645"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q205961"
+    },
+    {
+      "property": "P3222",
+      "value": "erlang-(programspråk)"
+    },
+    {
+      "property": "P3381",
+      "value": "Erlang"
+    },
+    {
+      "property": "P3417",
+      "value": "Erlang-programming-language"
+    },
+    {
+      "property": "P3442",
+      "value": "erlang"
+    },
+    {
+      "property": "P3454",
+      "value": "erlang"
+    },
+    {
+      "property": "P3454",
+      "value": "erlang-unixodbc"
+    },
+    {
+      "property": "P3454",
+      "value": "erlang-nox"
+    },
+    {
+      "property": "P3463",
+      "value": "erlang"
+    },
+    {
+      "property": "P348",
+      "value": "R16B03"
+    },
+    {
+      "property": "P348",
+      "value": "R16B02"
+    },
+    {
+      "property": "P348",
+      "value": "R16B01"
+    },
+    {
+      "property": "P348",
+      "value": "R16B"
+    },
+    {
+      "property": "P348",
+      "value": "18.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.3"
+    },
+    {
+      "property": "P348",
+      "value": "19.1"
+    },
+    {
+      "property": "P348",
+      "value": "19.3"
+    },
+    {
+      "property": "P348",
+      "value": "20.1"
+    },
+    {
+      "property": "P348",
+      "value": "20.2"
+    },
+    {
+      "property": "P348",
+      "value": "21.0"
+    },
+    {
+      "property": "P348",
+      "value": "19.0"
+    },
+    {
+      "property": "P348",
+      "value": "19.2"
+    },
+    {
+      "property": "P348",
+      "value": "20.0"
+    },
+    {
+      "property": "P348",
+      "value": "20.3"
+    },
+    {
+      "property": "P348",
+      "value": "21.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.2"
+    },
+    {
+      "property": "P348",
+      "value": "18.0"
+    },
+    {
+      "property": "P348",
+      "value": "21.3"
+    },
+    {
+      "property": "P348",
+      "value": "22.0"
+    },
+    {
+      "property": "P348",
+      "value": "22.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.2"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "22.3"
+    },
+    {
+      "property": "P348",
+      "value": "23"
+    },
+    {
+      "property": "P348",
+      "value": "23.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "23.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.8"
+    },
+    {
+      "property": "P348",
+      "value": "21.0.9"
+    },
+    {
+      "property": "P348",
+      "value": "21.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "21.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "21.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "21.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "21.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "21.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "21.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "21.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "21.2.7"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.5"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.6"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.7"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.4"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.5"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.6"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.7"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.8"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.9"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.10"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.11"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.12"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.13"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.14"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.15"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.16"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.17"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.18"
+    },
+    {
+      "property": "P348",
+      "value": "22.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "22.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "22.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "22.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "22.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "22.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.8"
+    },
+    {
+      "property": "P348",
+      "value": "22.1.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.7"
+    },
+    {
+      "property": "P348",
+      "value": "22.2.8"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.6"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.7"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.8"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.9"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.10"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.11"
+    },
+    {
+      "property": "P348",
+      "value": "23.0"
+    },
+    {
+      "property": "P348",
+      "value": "23.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "23.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.1"
+    },
+    {
+      "property": "P348",
+      "value": "23.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.12"
+    },
+    {
+      "property": "P348",
+      "value": "23.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "23.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.13"
+    },
+    {
+      "property": "P348",
+      "value": "23.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "23.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.19"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.20"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.14"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.15"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.16"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.7"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.21"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.22"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.17"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "23.3"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.23"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.12.1"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.18"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.0"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.19"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "21.3.8.24"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.20"
+    },
+    {
+      "property": "P348",
+      "value": "23.1.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.7.4"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "24.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.21"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.22"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.23"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.24"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.25"
+    },
+    {
+      "property": "P348",
+      "value": "22.3.4.26"
+    },
+    {
+      "property": "P348",
+      "value": "23.2.7.5"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.6"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.7"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.8"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.9"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.10"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.11"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.12"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.13"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.14"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.15"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.16"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.17"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.18"
+    },
+    {
+      "property": "P348",
+      "value": "24.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "24.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "24.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "24.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "24.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "24.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "24.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "25.0"
+    },
+    {
+      "property": "P348",
+      "value": "25.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "25.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "25.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "25.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "25.1"
+    },
+    {
+      "property": "P348",
+      "value": "25.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.6"
+    },
+    {
+      "property": "P348",
+      "value": "25.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.7"
+    },
+    {
+      "property": "P348",
+      "value": "25.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.8"
+    },
+    {
+      "property": "P348",
+      "value": "25.1.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "25.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "25.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.9"
+    },
+    {
+      "property": "P348",
+      "value": "25.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "25.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.10"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.11"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "26.0"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.19"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.12"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.13"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "26.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.14"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.7"
+    },
+    {
+      "property": "P348",
+      "value": "26.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.15"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.8"
+    },
+    {
+      "property": "P348",
+      "value": "26.2"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.16"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.9"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "23.3.4.20"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.10"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "24.3.4.17"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.11"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.12"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "27.0"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.13"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.14"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.15"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "27.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.16"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.6"
+    },
+    {
+      "property": "P348",
+      "value": "27.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "27.2"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.17"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.7"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.8"
+    },
+    {
+      "property": "P348",
+      "value": "27.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.18"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.9"
+    },
+    {
+      "property": "P348",
+      "value": "27.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "27.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "27.3"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.19"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.10"
+    },
+    {
+      "property": "P348",
+      "value": "27.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.20"
+    },
+    {
+      "property": "P348",
+      "value": "25.3.2.21"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.11"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.12"
+    },
+    {
+      "property": "P348",
+      "value": "27.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "28.0"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.13"
+    },
+    {
+      "property": "P348",
+      "value": "27.3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.5.14"
+    },
+    {
+      "property": "P348",
+      "value": "27.3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.0.2"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/erlang"
+    },
+    {
+      "property": "P361",
+      "value": "Q56062155"
+    },
+    {
+      "property": "P373",
+      "value": "Erlang (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q531152"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3984",
+      "value": "erlang"
+    },
+    {
+      "property": "P4162",
+      "value": "erlang-nox-r17"
+    },
+    {
+      "property": "P4162",
+      "value": "erlang-unixodbc-git"
+    },
+    {
+      "property": "P4162",
+      "value": "erlang-git"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-Erlang.wav"
+    },
+    {
+      "property": "P4644",
+      "value": "034c29fa-c3ba-45ea-b8f3-bf8e3705e386"
+    },
+    {
+      "property": "P571",
+      "value": "+1986-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "82484044"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02mm3"
+    },
+    {
+      "property": "P6665",
+      "value": "8641"
+    },
+    {
+      "property": "P6931",
+      "value": "erlang"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q860654"
+    },
+    {
+      "property": "P737",
+      "value": "Q163468"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q7119636"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P737",
+      "value": "Q780803"
+    },
+    {
+      "property": "P737",
+      "value": "Q154755"
+    },
+    {
+      "property": "P737",
+      "value": "Q777358"
+    },
+    {
+      "property": "P737",
+      "value": "Q642207"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime20"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime15"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-doc"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime21"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime18"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime19"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime16"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime17"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-man"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime22"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-wx"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/erlang-runtime23"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/erlang"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/erlang-doc"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/erlang-man"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/erlang/21"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/erlang/19"
+    },
+    {
+      "property": "P8189",
+      "value": "987007544092105171"
+    },
+    {
+      "property": "P8313",
+      "value": "erlang"
+    },
+    {
+      "property": "P8443",
+      "value": "erlang@21"
+    },
+    {
+      "property": "P8443",
+      "value": "erlang@22"
+    },
+    {
+      "property": "P8443",
+      "value": "erlang@20"
+    },
+    {
+      "property": "P8443",
+      "value": "erlang"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.erlang.org/"
+    },
+    {
+      "property": "P8778",
+      "value": "library/erlang"
+    },
+    {
+      "property": "P910",
+      "value": "Q8421615"
+    },
+    {
+      "property": "P9100",
+      "value": "erlang"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Q841305",
+  "label": "Mozilla application framework",
+  "facts": [
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P31",
+      "value": "Q756637"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06qy0d"
+    }
+  ]
+}

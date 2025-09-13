@@ -1,0 +1,18 @@
+{
+  "id": "Q2465578",
+  "label": "Mozilla",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q386208"
+    },
+    {
+      "property": "P6291",
+      "value": "Q210057"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02p35k_"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Q7915733",
+  "label": "variable shadowing",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q16928028"
+    },
+    {
+      "property": "P1269",
+      "value": "Q22682029"
+    },
+    {
+      "property": "P1552",
+      "value": "Q877977"
+    },
+    {
+      "property": "P6366",
+      "value": "2778515386"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04q7666"
+    }
+  ]
+}

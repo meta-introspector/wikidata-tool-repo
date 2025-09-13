@@ -1,0 +1,22 @@
+{
+  "id": "Q16989736",
+  "label": "Hermes",
+  "facts": [
+    {
+      "property": "P178",
+      "value": "Q476208"
+    },
+    {
+      "property": "P244",
+      "value": "sh90005842"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P8189",
+      "value": "987007541725405171"
+    }
+  ]
+}

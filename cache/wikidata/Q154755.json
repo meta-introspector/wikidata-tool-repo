@@ -1,0 +1,318 @@
+{
+  "id": "Q154755",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10242",
+      "value": "00046/eu_a_0468/a0468"
+    },
+    {
+      "property": "P1051",
+      "value": "12481"
+    },
+    {
+      "property": "P10565",
+      "value": "584585"
+    },
+    {
+      "property": "P11334",
+      "value": "ada_programming_language"
+    },
+    {
+      "property": "P11947",
+      "value": "ada@programming.dev"
+    },
+    {
+      "property": "P12385",
+      "value": "ada"
+    },
+    {
+      "property": "P12695",
+      "value": "Ada"
+    },
+    {
+      "property": "P12873",
+      "value": "Ada"
+    },
+    {
+      "property": "P1296",
+      "value": "0000622"
+    },
+    {
+      "property": "P1343",
+      "value": "Q5974102"
+    },
+    {
+      "property": "P1343",
+      "value": "Q5974102"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/dd826837-3d3a-4df3-93ef-b542dce7b053"
+    },
+    {
+      "property": "P13616",
+      "value": "Ada"
+    },
+    {
+      "property": "P1368",
+      "value": "000074567"
+    },
+    {
+      "property": "P138",
+      "value": "Q7259"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Ada-computer-language"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/Ada"
+    },
+    {
+      "property": "P154",
+      "value": "Ada horizon green logo with slogan.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q92853"
+    },
+    {
+      "property": "P178",
+      "value": "Q20898521"
+    },
+    {
+      "property": "P1889",
+      "value": "Q154614"
+    },
+    {
+      "property": "P2179",
+      "value": "10011451"
+    },
+    {
+      "property": "P227",
+      "value": "4000430-2"
+    },
+    {
+      "property": "P2347",
+      "value": "9253"
+    },
+    {
+      "property": "P244",
+      "value": "sh85000774"
+    },
+    {
+      "property": "P287",
+      "value": "Q92853"
+    },
+    {
+      "property": "P287",
+      "value": "Q20898521"
+    },
+    {
+      "property": "P31",
+      "value": "Q7998546"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3222",
+      "value": "ada-(programspråket)"
+    },
+    {
+      "property": "P3365",
+      "value": "ada_res-407d23f8-1d22-11de-bb24-0016357eee51"
+    },
+    {
+      "property": "P3381",
+      "value": "Ada"
+    },
+    {
+      "property": "P3553",
+      "value": "20015915"
+    },
+    {
+      "property": "P373",
+      "value": "Ada (programming language)"
+    },
+    {
+      "property": "P3827",
+      "value": "ada-programming-language"
+    },
+    {
+      "property": "P3847",
+      "value": "ada_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3984",
+      "value": "ada"
+    },
+    {
+      "property": "P4342",
+      "value": "Ada_-_programmeringsspråk"
+    },
+    {
+      "property": "P4969",
+      "value": "Q2044345"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P571",
+      "value": "+1980-01-01T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1983-01-22T00:00:00Z"
+    },
+    {
+      "property": "P6293",
+      "value": "Y110051"
+    },
+    {
+      "property": "P6366",
+      "value": "515714638"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0n6y"
+    },
+    {
+      "property": "P6706",
+      "value": "ADA"
+    },
+    {
+      "property": "P691",
+      "value": "ph923516"
+    },
+    {
+      "property": "P7078",
+      "value": "Q736866"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q2166735"
+    },
+    {
+      "property": "P737",
+      "value": "Q81571"
+    },
+    {
+      "property": "P737",
+      "value": "Q777358"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P737",
+      "value": "Q251"
+    },
+    {
+      "property": "P737",
+      "value": "Q732089"
+    },
+    {
+      "property": "P737",
+      "value": "Q1209759"
+    },
+    {
+      "property": "P737",
+      "value": "Q28942656"
+    },
+    {
+      "property": "P737",
+      "value": "Q20665104"
+    },
+    {
+      "property": "P8131",
+      "value": "Q3493345"
+    },
+    {
+      "property": "P8189",
+      "value": "987007293846605171"
+    },
+    {
+      "property": "P8408",
+      "value": "Ada-ProgrammingLanguage"
+    },
+    {
+      "property": "P856",
+      "value": "https://adaic.org"
+    },
+    {
+      "property": "P8669",
+      "value": "ada"
+    },
+    {
+      "property": "P910",
+      "value": "Q7142682"
+    },
+    {
+      "property": "P9100",
+      "value": "ada"
+    },
+    {
+      "property": "P920",
+      "value": "LEM201000132"
+    },
+    {
+      "property": "P950",
+      "value": "XX531014"
+    },
+    {
+      "property": "P950",
+      "value": "XX552580"
+    }
+  ]
+}

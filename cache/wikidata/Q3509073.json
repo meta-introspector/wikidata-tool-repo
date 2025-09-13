@@ -1,0 +1,142 @@
+{
+  "id": "Q3509073",
+  "label": "Netscape portable runtime",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/projects/nspr"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Network Security Services 3.106 as used on Firefox 133 screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "nspr"
+    },
+    {
+      "property": "P275",
+      "value": "Q26737738"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q188860"
+    },
+    {
+      "property": "P31",
+      "value": "Q131394742"
+    },
+    {
+      "property": "P3454",
+      "value": "nspr"
+    },
+    {
+      "property": "P3454",
+      "value": "lib32-nspr"
+    },
+    {
+      "property": "P3463",
+      "value": "nspr"
+    },
+    {
+      "property": "P348",
+      "value": "4.21"
+    },
+    {
+      "property": "P348",
+      "value": "4.29"
+    },
+    {
+      "property": "P348",
+      "value": "4.30"
+    },
+    {
+      "property": "P348",
+      "value": "4.31"
+    },
+    {
+      "property": "P348",
+      "value": "4.32"
+    },
+    {
+      "property": "P348",
+      "value": "4.33"
+    },
+    {
+      "property": "P348",
+      "value": "4.34"
+    },
+    {
+      "property": "P348",
+      "value": "4.35"
+    },
+    {
+      "property": "P348",
+      "value": "4.36"
+    },
+    {
+      "property": "P348",
+      "value": "4.37"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-libs/nspr"
+    },
+    {
+      "property": "P4162",
+      "value": "nspr-hg"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04l85j"
+    },
+    {
+      "property": "P6931",
+      "value": "nspr"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/linux-c7-nspr"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/nspr"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/linux-c6-nspr"
+    },
+    {
+      "property": "P7966",
+      "value": "devel/nspr"
+    },
+    {
+      "property": "P7967",
+      "value": "devel/nspr"
+    },
+    {
+      "property": "P8443",
+      "value": "nspr"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/docs/Mozilla/Projects/NSPR"
+    }
+  ]
+}

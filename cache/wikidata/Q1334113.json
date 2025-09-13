@@ -1,0 +1,30 @@
+{
+  "id": "Q1334113",
+  "label": "reference data type",
+  "facts": [
+    {
+      "property": "P1282",
+      "value": "Key:ref"
+    },
+    {
+      "property": "P1889",
+      "value": "Q17134501"
+    },
+    {
+      "property": "P279",
+      "value": "Q1188648"
+    },
+    {
+      "property": "P366",
+      "value": "Q1171224"
+    },
+    {
+      "property": "P366",
+      "value": "Q121769"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01hcsb"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": "Q8815",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P1014",
+      "value": "300266013"
+    },
+    {
+      "property": "P10283",
+      "value": "C196832560"
+    },
+    {
+      "property": "P10376",
+      "value": "mathematics/ascii-code"
+    },
+    {
+      "property": "P11292",
+      "value": "ascii.7"
+    },
+    {
+      "property": "P11567",
+      "value": "american-standard-code-for-information"
+    },
+    {
+      "property": "P11567",
+      "value": "ascii"
+    },
+    {
+      "property": "P12385",
+      "value": "american-standard-code-for-information-interchange"
+    },
+    {
+      "property": "P1245",
+      "value": "844676"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Code_ASCII"
+    },
+    {
+      "property": "P12946",
+      "value": "American+Standard+Code+for+Information+Interchange"
+    },
+    {
+      "property": "P1296",
+      "value": "0003513"
+    },
+    {
+      "property": "P13411",
+      "value": "Q183"
+    },
+    {
+      "property": "P1343",
+      "value": "Q41179866"
+    },
+    {
+      "property": "P13572",
+      "value": "American+Standard+Code+for+Information+Interchange"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/ASCII"
+    },
+    {
+      "property": "P1448",
+      "value": "American Standard Code for Information Interchange"
+    },
+    {
+      "property": "P1462",
+      "value": "Q180003"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/ascii"
+    },
+    {
+      "property": "P1482",
+      "value": "https://softwareengineering.stackexchange.com/tags/ascii"
+    },
+    {
+      "property": "P1482",
+      "value": "https://unix.stackexchange.com/tags/ascii"
+    },
+    {
+      "property": "P1482",
+      "value": "https://tex.stackexchange.com/tags/ascii"
+    },
+    {
+      "property": "P1482",
+      "value": "https://retrocomputing.stackexchange.com/tags/ascii"
+    },
+    {
+      "property": "P1482",
+      "value": "https://electronics.stackexchange.com/tags/ascii"
+    },
+    {
+      "property": "P1482",
+      "value": "https://gis.stackexchange.com/tags/ascii"
+    },
+    {
+      "property": "P1535",
+      "value": "Q193097"
+    },
+    {
+      "property": "P1535",
+      "value": "Q27979156"
+    },
+    {
+      "property": "P156",
+      "value": "Q221738"
+    },
+    {
+      "property": "P156",
+      "value": "Q764925"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P18",
+      "value": "ASCII full.svg"
+    },
+    {
+      "property": "P18",
+      "value": "ASCII7bits.png"
+    },
+    {
+      "property": "P18",
+      "value": "USASCII code chart.svg"
+    },
+    {
+      "property": "P1813",
+      "value": "ASCII"
+    },
+    {
+      "property": "P1889",
+      "value": "Q723425"
+    },
+    {
+      "property": "P227",
+      "value": "4665825-7"
+    },
+    {
+      "property": "P244",
+      "value": "sh98005902"
+    },
+    {
+      "property": "P31",
+      "value": "Q184759"
+    },
+    {
+      "property": "P31",
+      "value": "Q29149990"
+    },
+    {
+      "property": "P31",
+      "value": "Q109613493"
+    },
+    {
+      "property": "P31",
+      "value": "Q317623"
+    },
+    {
+      "property": "P3222",
+      "value": "american-standard-code-for-information-interchange"
+    },
+    {
+      "property": "P3365",
+      "value": "ascii"
+    },
+    {
+      "property": "P3381",
+      "value": "ASCII"
+    },
+    {
+      "property": "P3417",
+      "value": "ASCII"
+    },
+    {
+      "property": "P3553",
+      "value": "19579594"
+    },
+    {
+      "property": "P373",
+      "value": "ASCII"
+    },
+    {
+      "property": "P3827",
+      "value": "ascii"
+    },
+    {
+      "property": "P3847",
+      "value": "ascii_code"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P4342",
+      "value": "ASCII"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q13955 (ara)-Spotless Mind1988-أسكي.wav"
+    },
+    {
+      "property": "P460",
+      "value": "Q2493832"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"AmericanStandardCodeForInformationInterchange::z6cw7\"]"
+    },
+    {
+      "property": "P527",
+      "value": "Q133631780"
+    },
+    {
+      "property": "P5398",
+      "value": "000000150"
+    },
+    {
+      "property": "P5555",
+      "value": "US-ASCII code chart.png"
+    },
+    {
+      "property": "P5555",
+      "value": "ASCII Tabelle.PNG"
+    },
+    {
+      "property": "P5555",
+      "value": "Ascii1.gif"
+    },
+    {
+      "property": "P5949",
+      "value": "U+0000-007F"
+    },
+    {
+      "property": "P6058",
+      "value": "divers/code_ASCII/23255"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:ASCII"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:American_Standard_Code_for_Information_Interchange"
+    },
+    {
+      "property": "P6366",
+      "value": "196832560"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0hb8"
+    },
+    {
+      "property": "P6706",
+      "value": "ASCII"
+    },
+    {
+      "property": "P6900",
+      "value": "ascii"
+    },
+    {
+      "property": "P8189",
+      "value": "987007546943005171"
+    },
+    {
+      "property": "P8313",
+      "value": "ASCII"
+    },
+    {
+      "property": "P8408",
+      "value": "ASCII"
+    },
+    {
+      "property": "P8885",
+      "value": "아스키 코드"
+    },
+    {
+      "property": "P910",
+      "value": "Q7215250"
+    },
+    {
+      "property": "P935",
+      "value": "ASCII"
+    }
+  ]
+}

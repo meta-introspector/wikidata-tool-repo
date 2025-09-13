@@ -1,0 +1,218 @@
+{
+  "id": "Q196105",
+  "label": "Engadget",
+  "facts": [
+    {
+      "property": "P1019",
+      "value": "https://www.engadget.com/rss.xml"
+    },
+    {
+      "property": "P112",
+      "value": "Q7176654"
+    },
+    {
+      "property": "P12361",
+      "value": "engadget.bsky.social"
+    },
+    {
+      "property": "P127",
+      "value": "Q11288564"
+    },
+    {
+      "property": "P127",
+      "value": "Q27585"
+    },
+    {
+      "property": "P127",
+      "value": "Q29231846"
+    },
+    {
+      "property": "P12942",
+      "value": "1414"
+    },
+    {
+      "property": "P13337",
+      "value": "engadget.com"
+    },
+    {
+      "property": "P1343",
+      "value": "Q101246972"
+    },
+    {
+      "property": "P13572",
+      "value": "Engadget"
+    },
+    {
+      "property": "P136",
+      "value": "Q86833385"
+    },
+    {
+      "property": "P1448",
+      "value": "Engadget"
+    },
+    {
+      "property": "P154",
+      "value": "Engadget-logo.svg"
+    },
+    {
+      "property": "P1661",
+      "value": "+606"
+    },
+    {
+      "property": "P1661",
+      "value": "+648"
+    },
+    {
+      "property": "P1661",
+      "value": "+1116"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1705",
+      "value": "Engadget"
+    },
+    {
+      "property": "P2002",
+      "value": "engadget"
+    },
+    {
+      "property": "P2002",
+      "value": "EngadgetChinese"
+    },
+    {
+      "property": "P2002",
+      "value": "engadgetjp"
+    },
+    {
+      "property": "P2003",
+      "value": "engadget"
+    },
+    {
+      "property": "P2013",
+      "value": "Engadget"
+    },
+    {
+      "property": "P2013",
+      "value": "engadgetjp"
+    },
+    {
+      "property": "P2397",
+      "value": "UC-6OW5aJYBFM33zXQlBKPNA"
+    },
+    {
+      "property": "P31",
+      "value": "Q30849"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P3417",
+      "value": "Engadget"
+    },
+    {
+      "property": "P3553",
+      "value": "19575658"
+    },
+    {
+      "property": "P3579",
+      "value": "engadget"
+    },
+    {
+      "property": "P373",
+      "value": "Engadget"
+    },
+    {
+      "property": "P4264",
+      "value": "engadget"
+    },
+    {
+      "property": "P452",
+      "value": "Q56611639"
+    },
+    {
+      "property": "P571",
+      "value": "+2004-03-00T00:00:00Z"
+    },
+    {
+      "property": "P6157",
+      "value": "CAAqBwgKMMDo4wIw6d8b"
+    },
+    {
+      "property": "P6262",
+      "value": "logos:Engadget"
+    },
+    {
+      "property": "P646",
+      "value": "/m/057dvs"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.engadget.com"
+    },
+    {
+      "property": "P856",
+      "value": "https://chinese.engadget.com"
+    },
+    {
+      "property": "P856",
+      "value": "https://japanese.engadget.com"
+    },
+    {
+      "property": "P856",
+      "value": "https://cn.engadget.com"
+    },
+    {
+      "property": "P8687",
+      "value": "+2423318"
+    },
+    {
+      "property": "P8687",
+      "value": "+2413547"
+    },
+    {
+      "property": "P8687",
+      "value": "+1270000"
+    },
+    {
+      "property": "P8687",
+      "value": "+2407842"
+    },
+    {
+      "property": "P8687",
+      "value": "+2400298"
+    },
+    {
+      "property": "P8687",
+      "value": "+1370000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1400000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1410000"
+    },
+    {
+      "property": "P9035",
+      "value": "engadget"
+    },
+    {
+      "property": "P9214",
+      "value": "https://www.engadget.com/about-faq-194611880.html"
+    },
+    {
+      "property": "P9852",
+      "value": "engadget"
+    },
+    {
+      "property": "P9922",
+      "value": "Engadget"
+    }
+  ]
+}

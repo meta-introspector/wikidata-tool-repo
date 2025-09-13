@@ -1,0 +1,70 @@
+{
+  "id": "Q72588",
+  "label": "content delivery network",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2778898579"
+    },
+    {
+      "property": "P10565",
+      "value": "218717"
+    },
+    {
+      "property": "P13397",
+      "value": "content+distribution+network"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/content-delivery-network"
+    },
+    {
+      "property": "P1813",
+      "value": "CDN"
+    },
+    {
+      "property": "P279",
+      "value": "Q1301371"
+    },
+    {
+      "property": "P279",
+      "value": "Q241317"
+    },
+    {
+      "property": "P31",
+      "value": "Q4485156"
+    },
+    {
+      "property": "P3417",
+      "value": "Content-Distribution-Networks"
+    },
+    {
+      "property": "P3553",
+      "value": "19566617"
+    },
+    {
+      "property": "P366",
+      "value": "Q30541931"
+    },
+    {
+      "property": "P366",
+      "value": "Q269415"
+    },
+    {
+      "property": "P6366",
+      "value": "2778898579"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03l9cn"
+    },
+    {
+      "property": "P6900",
+      "value": "content delivery network"
+    },
+    {
+      "property": "P910",
+      "value": "Q6371342"
+    }
+  ]
+}

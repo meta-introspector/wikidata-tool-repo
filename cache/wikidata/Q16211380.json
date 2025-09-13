@@ -1,0 +1,62 @@
+{
+  "id": "Q16211380",
+  "label": "John Hammink",
+  "facts": [
+    {
+      "property": "P106",
+      "value": "Q81096"
+    },
+    {
+      "property": "P1303",
+      "value": "Q6607"
+    },
+    {
+      "property": "P136",
+      "value": "Q286080"
+    },
+    {
+      "property": "P18",
+      "value": "John Hammink (2007).jpg"
+    },
+    {
+      "property": "P19",
+      "value": "Q37320"
+    },
+    {
+      "property": "P21",
+      "value": "Q6581097"
+    },
+    {
+      "property": "P27",
+      "value": "Q30"
+    },
+    {
+      "property": "P31",
+      "value": "Q5"
+    },
+    {
+      "property": "P569",
+      "value": "+1970-05-01T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/025_s7s"
+    },
+    {
+      "property": "P69",
+      "value": "Q1278221"
+    },
+    {
+      "property": "P735",
+      "value": "Q4925477"
+    },
+    {
+      "property": "P7704",
+      "value": "agent/base/90606"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.Johnhammink.com"
+    }
+  ]
+}

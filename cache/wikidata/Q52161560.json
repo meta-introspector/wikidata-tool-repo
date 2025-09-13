@@ -1,0 +1,134 @@
+{
+  "id": "Q52161560",
+  "label": "Android Open Source Project",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q94"
+    },
+    {
+      "property": "P1324",
+      "value": "https://android.googlesource.com/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://android-review.googlesource.com/admin/repos"
+    },
+    {
+      "property": "P1424",
+      "value": "Q107138658"
+    },
+    {
+      "property": "P1448",
+      "value": "Android Open Source Project"
+    },
+    {
+      "property": "P154",
+      "value": "Android open source project.png"
+    },
+    {
+      "property": "P170",
+      "value": "Q95"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android OS).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android Ice Cream Sandwich).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android Jelly Bean).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android KitKat).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android Lollipop).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android Marshmallow).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android Nougat).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android Oreo).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android Pie).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android 10).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android 11).jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Foldable smartphone (Android 12).jpg"
+    },
+    {
+      "property": "P1813",
+      "value": "AOSP"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q18810333"
+    },
+    {
+      "property": "P31",
+      "value": "Q63437139"
+    },
+    {
+      "property": "P31",
+      "value": "Q1130645"
+    },
+    {
+      "property": "P31",
+      "value": "Q109860256"
+    },
+    {
+      "property": "P31",
+      "value": "Q9135"
+    },
+    {
+      "property": "P3984",
+      "value": "AOSP"
+    },
+    {
+      "property": "P4969",
+      "value": "Q85764357"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P856",
+      "value": "https://source.android.com/?hl=en"
+    },
+    {
+      "property": "P856",
+      "value": "https://source.android.google.cn/?hl=zh_cn"
+    }
+  ]
+}

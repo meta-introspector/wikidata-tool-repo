@@ -1,0 +1,790 @@
+{
+  "id": "Q20800404",
+  "label": "Alphabet Inc.",
+  "facts": [
+    {
+      "property": "P11137",
+      "value": "$-goog experiment"
+    },
+    {
+      "property": "P11137",
+      "value": "$goog"
+    },
+    {
+      "property": "P11137",
+      "value": "alphabet_inc"
+    },
+    {
+      "property": "P112",
+      "value": "Q4934"
+    },
+    {
+      "property": "P112",
+      "value": "Q92764"
+    },
+    {
+      "property": "P1128",
+      "value": "+72053"
+    },
+    {
+      "property": "P1128",
+      "value": "+80110"
+    },
+    {
+      "property": "P1128",
+      "value": "+98771"
+    },
+    {
+      "property": "P1128",
+      "value": "+118899"
+    },
+    {
+      "property": "P1128",
+      "value": "+135301"
+    },
+    {
+      "property": "P1128",
+      "value": "+156500"
+    },
+    {
+      "property": "P1128",
+      "value": "+190234"
+    },
+    {
+      "property": "P11471",
+      "value": "2271567"
+    },
+    {
+      "property": "P1155",
+      "value": "60111165"
+    },
+    {
+      "property": "P11615",
+      "value": "for-profit/alphabet"
+    },
+    {
+      "property": "P11947",
+      "value": "degoogle@lemmy.ml"
+    },
+    {
+      "property": "P12642",
+      "value": "+96239000000"
+    },
+    {
+      "property": "P127",
+      "value": "Q1411292"
+    },
+    {
+      "property": "P127",
+      "value": "Q219635"
+    },
+    {
+      "property": "P127",
+      "value": "Q849363"
+    },
+    {
+      "property": "P127",
+      "value": "Q1196231"
+    },
+    {
+      "property": "P127",
+      "value": "Q92764"
+    },
+    {
+      "property": "P127",
+      "value": "Q92747"
+    },
+    {
+      "property": "P127",
+      "value": "Q849363"
+    },
+    {
+      "property": "P127",
+      "value": "Q849363"
+    },
+    {
+      "property": "P127",
+      "value": "Q219635"
+    },
+    {
+      "property": "P127",
+      "value": "Q1411292"
+    },
+    {
+      "property": "P127",
+      "value": "Q4934"
+    },
+    {
+      "property": "P127",
+      "value": "Q92747"
+    },
+    {
+      "property": "P127",
+      "value": "Q849363"
+    },
+    {
+      "property": "P127",
+      "value": "Q92764"
+    },
+    {
+      "property": "P127",
+      "value": "Q92747"
+    },
+    {
+      "property": "P127",
+      "value": "Q4934"
+    },
+    {
+      "property": "P127",
+      "value": "Q92764"
+    },
+    {
+      "property": "P127",
+      "value": "Q4934"
+    },
+    {
+      "property": "P1278",
+      "value": "5493006MHB84DD0ZWV18"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Alphabet-(entreprise)"
+    },
+    {
+      "property": "P1297",
+      "value": "61-1767919"
+    },
+    {
+      "property": "P13337",
+      "value": "abc.xyz"
+    },
+    {
+      "property": "P13561",
+      "value": "87797"
+    },
+    {
+      "property": "P13591",
+      "value": "group/b9bd757c-319a-4fd6-8774-a00070d93ed5"
+    },
+    {
+      "property": "P138",
+      "value": "Q9779"
+    },
+    {
+      "property": "P1424",
+      "value": "Q20801607"
+    },
+    {
+      "property": "P1448",
+      "value": "Alphabet Inc."
+    },
+    {
+      "property": "P1451",
+      "value": "do the right thing"
+    },
+    {
+      "property": "P1454",
+      "value": "Q88537331"
+    },
+    {
+      "property": "P154",
+      "value": "Alphabet Inc Logo 2015.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q486860"
+    },
+    {
+      "property": "P1617",
+      "value": "16efb233-ac93-4eff-936e-ac52ac9acb0d"
+    },
+    {
+      "property": "P169",
+      "value": "Q4934"
+    },
+    {
+      "property": "P169",
+      "value": "Q3503829"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P18",
+      "value": "Googleplex HQ (cropped).jpg"
+    },
+    {
+      "property": "P1830",
+      "value": "Q100292691"
+    },
+    {
+      "property": "P2088",
+      "value": "alphabet"
+    },
+    {
+      "property": "P213",
+      "value": "0000000449087370"
+    },
+    {
+      "property": "P2137",
+      "value": "+251635000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+256144000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+37905000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+46039000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+55519000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+66001000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+74989000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+90272000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+110855000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+136819000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+161857000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+182527000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+257637000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+282836000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+307394000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+350018000000"
+    },
+    {
+      "property": "P214",
+      "value": "316568119"
+    },
+    {
+      "property": "P2226",
+      "value": "+500000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+600000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+816830000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+1530000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+1900000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+1724000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+1961000000000"
+    },
+    {
+      "property": "P227",
+      "value": "1239249233"
+    },
+    {
+      "property": "P2295",
+      "value": "+16348000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+14136000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+12733000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+10619000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+9706000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+19478000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+12662000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+30736000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+40269000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+34343000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+76033000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+59972000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+73795000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+100118000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+147461000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+129187000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+109050000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+92711000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+72359000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+167497000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+197295000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+232000000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+319616000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+275909000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+359268000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+365264000000"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.497059.6"
+    },
+    {
+      "property": "P244",
+      "value": "n2017061610"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11bwcf511s"
+    },
+    {
+      "property": "P31",
+      "value": "Q219577"
+    },
+    {
+      "property": "P31",
+      "value": "Q891723"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P3106",
+      "value": "technology/alphabet"
+    },
+    {
+      "property": "P3222",
+      "value": "alphabet-apag"
+    },
+    {
+      "property": "P3222",
+      "value": "alphabet-inc"
+    },
+    {
+      "property": "P3320",
+      "value": "Q4934"
+    },
+    {
+      "property": "P3320",
+      "value": "Q92764"
+    },
+    {
+      "property": "P3320",
+      "value": "Q92854"
+    },
+    {
+      "property": "P3320",
+      "value": "Q1380459"
+    },
+    {
+      "property": "P3320",
+      "value": "Q7359066"
+    },
+    {
+      "property": "P3320",
+      "value": "Q11614"
+    },
+    {
+      "property": "P3320",
+      "value": "Q3617636"
+    },
+    {
+      "property": "P3320",
+      "value": "Q348874"
+    },
+    {
+      "property": "P3320",
+      "value": "Q3503829"
+    },
+    {
+      "property": "P3320",
+      "value": "Q92747"
+    },
+    {
+      "property": "P3320",
+      "value": "Q81810283"
+    },
+    {
+      "property": "P3320",
+      "value": "Q4273363"
+    },
+    {
+      "property": "P3320",
+      "value": "Q12988436"
+    },
+    {
+      "property": "P3320",
+      "value": "Q29514930"
+    },
+    {
+      "property": "P3347",
+      "value": "5030853586"
+    },
+    {
+      "property": "P3362",
+      "value": "+19360000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+16496000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+15403000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+13834000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+23716000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+26146000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+41224000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+27524000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+34231000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+26178000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+78714000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+74842000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+11742000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+84293000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+112390000000"
+    },
+    {
+      "property": "P3393",
+      "value": "223501"
+    },
+    {
+      "property": "P3417",
+      "value": "Alphabet-company"
+    },
+    {
+      "property": "P3500",
+      "value": "437608"
+    },
+    {
+      "property": "P355",
+      "value": "Q95"
+    },
+    {
+      "property": "P355",
+      "value": "Q133928"
+    },
+    {
+      "property": "P355",
+      "value": "Q2591662"
+    },
+    {
+      "property": "P355",
+      "value": "Q14932155"
+    },
+    {
+      "property": "P355",
+      "value": "Q2119882"
+    },
+    {
+      "property": "P355",
+      "value": "Q166561"
+    },
+    {
+      "property": "P355",
+      "value": "Q26912024"
+    },
+    {
+      "property": "P355",
+      "value": "Q13463146"
+    },
+    {
+      "property": "P355",
+      "value": "Q55513046"
+    },
+    {
+      "property": "P355",
+      "value": "Q7114879"
+    },
+    {
+      "property": "P355",
+      "value": "Q5455414"
+    },
+    {
+      "property": "P355",
+      "value": "Q15330"
+    },
+    {
+      "property": "P355",
+      "value": "Q100292504"
+    },
+    {
+      "property": "P355",
+      "value": "Q100292691"
+    },
+    {
+      "property": "P361",
+      "value": "Q242345"
+    },
+    {
+      "property": "P361",
+      "value": "Q507306"
+    },
+    {
+      "property": "P361",
+      "value": "Q773026"
+    },
+    {
+      "property": "P361",
+      "value": "Q133989581"
+    },
+    {
+      "property": "P361",
+      "value": "Q1546793"
+    },
+    {
+      "property": "P373",
+      "value": "Alphabet Inc."
+    },
+    {
+      "property": "P414",
+      "value": "Q82059"
+    },
+    {
+      "property": "P414",
+      "value": "Q82059"
+    },
+    {
+      "property": "P452",
+      "value": "Q11661"
+    },
+    {
+      "property": "P4527",
+      "value": "460913"
+    },
+    {
+      "property": "P463",
+      "value": "Q485087"
+    },
+    {
+      "property": "P4691",
+      "value": "d000067823"
+    },
+    {
+      "property": "P5019",
+      "value": "alphabet-inc"
+    },
+    {
+      "property": "P5531",
+      "value": "0001652044"
+    },
+    {
+      "property": "P5555",
+      "value": "Filiales d'Alphabet.png"
+    },
+    {
+      "property": "P571",
+      "value": "+2015-10-02T00:00:00Z"
+    },
+    {
+      "property": "P6200",
+      "value": "c50znx8v421t"
+    },
+    {
+      "property": "P6782",
+      "value": "02e9yx751"
+    },
+    {
+      "property": "P7293",
+      "value": "9810632967405606"
+    },
+    {
+      "property": "P7502",
+      "value": "Alphabet_Inc.-G36WRN"
+    },
+    {
+      "property": "P7982",
+      "value": "70977"
+    },
+    {
+      "property": "P8309",
+      "value": "18-254186"
+    },
+    {
+      "property": "P856",
+      "value": "https://abc.xyz/"
+    },
+    {
+      "property": "P8571",
+      "value": "Q98525448"
+    },
+    {
+      "property": "P8571",
+      "value": "Q489097"
+    },
+    {
+      "property": "P8672",
+      "value": "1306713906467885056"
+    },
+    {
+      "property": "P8672",
+      "value": "1303043039196110848"
+    },
+    {
+      "property": "P910",
+      "value": "Q20856635"
+    },
+    {
+      "property": "P9346",
+      "value": "alphabet"
+    },
+    {
+      "property": "P9368",
+      "value": "alphabet"
+    },
+    {
+      "property": "P946",
+      "value": "US02079K3059"
+    },
+    {
+      "property": "P9885",
+      "value": "9f0f6d14-bc19-4529-8e88-8bec9d3faac1"
+    }
+  ]
+}

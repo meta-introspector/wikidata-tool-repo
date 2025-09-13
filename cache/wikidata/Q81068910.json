@@ -1,0 +1,1034 @@
+{
+  "id": "Q81068910",
+  "label": "COVID-19 pandemic",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C3006700255"
+    },
+    {
+      "property": "P10376",
+      "value": "social-sciences/covid-19-epidemic"
+    },
+    {
+      "property": "P10757",
+      "value": "127069"
+    },
+    {
+      "property": "P10767",
+      "value": "1219057585707315201"
+    },
+    {
+      "property": "P10804",
+      "value": "1308518696961347584"
+    },
+    {
+      "property": "P10804",
+      "value": "1233513928858185728"
+    },
+    {
+      "property": "P11143",
+      "value": "COVID-19 pandemic"
+    },
+    {
+      "property": "P11738",
+      "value": "Q192995"
+    },
+    {
+      "property": "P11738",
+      "value": "Q104857357"
+    },
+    {
+      "property": "P11738",
+      "value": "Q96337364"
+    },
+    {
+      "property": "P11924",
+      "value": "covid-19"
+    },
+    {
+      "property": "P11924",
+      "value": "covid-19-pandemic"
+    },
+    {
+      "property": "P11947",
+      "value": "coronavirus@lemmy.ml"
+    },
+    {
+      "property": "P12596",
+      "value": "73999"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Pandemia_de_COVID-19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:access:covid19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:capacity:covid19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:description:covid19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:delivery:covid19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:drive_through:covid19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:opening_hours:covid19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:takeaway:covid19"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:note:covid19"
+    },
+    {
+      "property": "P12844",
+      "value": "105"
+    },
+    {
+      "property": "P13141",
+      "value": "covid"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/da2dbf43-9861-4780-9d29-7310b57fae5b"
+    },
+    {
+      "property": "P1424",
+      "value": "Q83761248"
+    },
+    {
+      "property": "P1424",
+      "value": "Q87909922"
+    },
+    {
+      "property": "P1427",
+      "value": "Q83264280"
+    },
+    {
+      "property": "P1478",
+      "value": "Q82069695"
+    },
+    {
+      "property": "P1482",
+      "value": "https://economics.stackexchange.com/tags/covid-19-crisis"
+    },
+    {
+      "property": "P1542",
+      "value": "Q83554783"
+    },
+    {
+      "property": "P1542",
+      "value": "Q83766264"
+    },
+    {
+      "property": "P1542",
+      "value": "Q85872065"
+    },
+    {
+      "property": "P1542",
+      "value": "Q85173778"
+    },
+    {
+      "property": "P1542",
+      "value": "Q1036897"
+    },
+    {
+      "property": "P1542",
+      "value": "Q96246183"
+    },
+    {
+      "property": "P1542",
+      "value": "Q96175652"
+    },
+    {
+      "property": "P1542",
+      "value": "Q96354847"
+    },
+    {
+      "property": "P1542",
+      "value": "Q90297029"
+    },
+    {
+      "property": "P1617",
+      "value": "5fe79b8d-56e5-4aff-8b05-21f9ad731912"
+    },
+    {
+      "property": "P17",
+      "value": "Q148"
+    },
+    {
+      "property": "P17",
+      "value": "Q17"
+    },
+    {
+      "property": "P17",
+      "value": "Q884"
+    },
+    {
+      "property": "P17",
+      "value": "Q881"
+    },
+    {
+      "property": "P17",
+      "value": "Q334"
+    },
+    {
+      "property": "P17",
+      "value": "Q408"
+    },
+    {
+      "property": "P17",
+      "value": "Q833"
+    },
+    {
+      "property": "P17",
+      "value": "Q869"
+    },
+    {
+      "property": "P17",
+      "value": "Q837"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P17",
+      "value": "Q16"
+    },
+    {
+      "property": "P17",
+      "value": "Q142"
+    },
+    {
+      "property": "P17",
+      "value": "Q424"
+    },
+    {
+      "property": "P17",
+      "value": "Q854"
+    },
+    {
+      "property": "P17",
+      "value": "Q183"
+    },
+    {
+      "property": "P17",
+      "value": "Q33"
+    },
+    {
+      "property": "P17",
+      "value": "Q878"
+    },
+    {
+      "property": "P17",
+      "value": "Q668"
+    },
+    {
+      "property": "P17",
+      "value": "Q38"
+    },
+    {
+      "property": "P17",
+      "value": "Q928"
+    },
+    {
+      "property": "P17",
+      "value": "Q145"
+    },
+    {
+      "property": "P17",
+      "value": "Q159"
+    },
+    {
+      "property": "P17",
+      "value": "Q865"
+    },
+    {
+      "property": "P17",
+      "value": "Q34"
+    },
+    {
+      "property": "P17",
+      "value": "Q29"
+    },
+    {
+      "property": "P17",
+      "value": "Q31"
+    },
+    {
+      "property": "P17",
+      "value": "Q79"
+    },
+    {
+      "property": "P17",
+      "value": "Q794"
+    },
+    {
+      "property": "P17",
+      "value": "Q822"
+    },
+    {
+      "property": "P17",
+      "value": "Q801"
+    },
+    {
+      "property": "P17",
+      "value": "Q14773"
+    },
+    {
+      "property": "P17",
+      "value": "Q39"
+    },
+    {
+      "property": "P17",
+      "value": "Q774"
+    },
+    {
+      "property": "P17",
+      "value": "Q40"
+    },
+    {
+      "property": "P17",
+      "value": "Q224"
+    },
+    {
+      "property": "P17",
+      "value": "Q889"
+    },
+    {
+      "property": "P17",
+      "value": "Q817"
+    },
+    {
+      "property": "P17",
+      "value": "Q796"
+    },
+    {
+      "property": "P17",
+      "value": "Q262"
+    },
+    {
+      "property": "P17",
+      "value": "Q843"
+    },
+    {
+      "property": "P17",
+      "value": "Q221"
+    },
+    {
+      "property": "P17",
+      "value": "Q41"
+    },
+    {
+      "property": "P17",
+      "value": "Q230"
+    },
+    {
+      "property": "P17",
+      "value": "Q155"
+    },
+    {
+      "property": "P17",
+      "value": "Q423"
+    },
+    {
+      "property": "P17",
+      "value": "Q184"
+    },
+    {
+      "property": "P17",
+      "value": "Q238"
+    },
+    {
+      "property": "P17",
+      "value": "Q37"
+    },
+    {
+      "property": "P17",
+      "value": "Q55"
+    },
+    {
+      "property": "P17",
+      "value": "Q191"
+    },
+    {
+      "property": "P17",
+      "value": "Q218"
+    },
+    {
+      "property": "P17",
+      "value": "Q1033"
+    },
+    {
+      "property": "P17",
+      "value": "Q213"
+    },
+    {
+      "property": "P17",
+      "value": "Q20"
+    },
+    {
+      "property": "P17",
+      "value": "Q96"
+    },
+    {
+      "property": "P17",
+      "value": "Q252"
+    },
+    {
+      "property": "P17",
+      "value": "Q45"
+    },
+    {
+      "property": "P17",
+      "value": "Q35"
+    },
+    {
+      "property": "P17",
+      "value": "Q1028"
+    },
+    {
+      "property": "P17",
+      "value": "Q211"
+    },
+    {
+      "property": "P17",
+      "value": "Q398"
+    },
+    {
+      "property": "P17",
+      "value": "Q1041"
+    },
+    {
+      "property": "P17",
+      "value": "Q258"
+    },
+    {
+      "property": "P17",
+      "value": "Q189"
+    },
+    {
+      "property": "P17",
+      "value": "Q28"
+    },
+    {
+      "property": "P17",
+      "value": "Q27"
+    },
+    {
+      "property": "P17",
+      "value": "Q851"
+    },
+    {
+      "property": "P17",
+      "value": "Q298"
+    },
+    {
+      "property": "P17",
+      "value": "Q237"
+    },
+    {
+      "property": "P17",
+      "value": "Q842"
+    },
+    {
+      "property": "P17",
+      "value": "Q736"
+    },
+    {
+      "property": "P17",
+      "value": "Q846"
+    },
+    {
+      "property": "P17",
+      "value": "Q215"
+    },
+    {
+      "property": "P17",
+      "value": "Q227"
+    },
+    {
+      "property": "P17",
+      "value": "Q36"
+    },
+    {
+      "property": "P17",
+      "value": "Q664"
+    },
+    {
+      "property": "P17",
+      "value": "Q219060"
+    },
+    {
+      "property": "P17",
+      "value": "Q414"
+    },
+    {
+      "property": "P17",
+      "value": "Q225"
+    },
+    {
+      "property": "P17",
+      "value": "Q32"
+    },
+    {
+      "property": "P17",
+      "value": "Q228"
+    },
+    {
+      "property": "P17",
+      "value": "Q399"
+    },
+    {
+      "property": "P17",
+      "value": "Q917"
+    },
+    {
+      "property": "P17",
+      "value": "Q1009"
+    },
+    {
+      "property": "P17",
+      "value": "Q739"
+    },
+    {
+      "property": "P17",
+      "value": "Q800"
+    },
+    {
+      "property": "P17",
+      "value": "Q786"
+    },
+    {
+      "property": "P17",
+      "value": "Q810"
+    },
+    {
+      "property": "P17",
+      "value": "Q347"
+    },
+    {
+      "property": "P17",
+      "value": "Q235"
+    },
+    {
+      "property": "P17",
+      "value": "Q419"
+    },
+    {
+      "property": "P17",
+      "value": "Q403"
+    },
+    {
+      "property": "P17",
+      "value": "Q214"
+    },
+    {
+      "property": "P17",
+      "value": "Q945"
+    },
+    {
+      "property": "P17",
+      "value": "Q948"
+    },
+    {
+      "property": "P17",
+      "value": "Q212"
+    },
+    {
+      "property": "P17",
+      "value": "Q921"
+    },
+    {
+      "property": "P17",
+      "value": "Q222"
+    },
+    {
+      "property": "P17",
+      "value": "Q43"
+    },
+    {
+      "property": "P17",
+      "value": "Q804"
+    },
+    {
+      "property": "P17",
+      "value": "Q750"
+    },
+    {
+      "property": "P17",
+      "value": "Q219"
+    },
+    {
+      "property": "P17",
+      "value": "Q217"
+    },
+    {
+      "property": "P17",
+      "value": "Q229"
+    },
+    {
+      "property": "P17",
+      "value": "Q233"
+    },
+    {
+      "property": "P17",
+      "value": "Q902"
+    },
+    {
+      "property": "P17",
+      "value": "Q241"
+    },
+    {
+      "property": "P17",
+      "value": "Q783"
+    },
+    {
+      "property": "P17",
+      "value": "Q766"
+    },
+    {
+      "property": "P17",
+      "value": "Q232"
+    },
+    {
+      "property": "P17",
+      "value": "Q733"
+    },
+    {
+      "property": "P17",
+      "value": "Q717"
+    },
+    {
+      "property": "P17",
+      "value": "Q1246"
+    },
+    {
+      "property": "P17",
+      "value": "Q1006"
+    },
+    {
+      "property": "P17",
+      "value": "Q77"
+    },
+    {
+      "property": "P17",
+      "value": "Q730"
+    },
+    {
+      "property": "P17",
+      "value": "Q734"
+    },
+    {
+      "property": "P17",
+      "value": "Q1049"
+    },
+    {
+      "property": "P17",
+      "value": "Q826"
+    },
+    {
+      "property": "P17",
+      "value": "Q1037"
+    },
+    {
+      "property": "P17",
+      "value": "Q1025"
+    },
+    {
+      "property": "P17",
+      "value": "Q711"
+    },
+    {
+      "property": "P17",
+      "value": "Q760"
+    },
+    {
+      "property": "P17",
+      "value": "Q754"
+    },
+    {
+      "property": "P17",
+      "value": "Q757"
+    },
+    {
+      "property": "P17",
+      "value": "Q1050"
+    },
+    {
+      "property": "P17",
+      "value": "Q25279"
+    },
+    {
+      "property": "P17",
+      "value": "Q21203"
+    },
+    {
+      "property": "P17",
+      "value": "Q781"
+    },
+    {
+      "property": "P17",
+      "value": "Q114"
+    },
+    {
+      "property": "P17",
+      "value": "Q574"
+    },
+    {
+      "property": "P17",
+      "value": "Q792"
+    },
+    {
+      "property": "P17",
+      "value": "Q811"
+    },
+    {
+      "property": "P18",
+      "value": "Covid-19 SP - UTI V. Nova Cachoeirinha.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Covid-19 SP - Santo Andre's hospital at peak of pandemic.jpg"
+    },
+    {
+      "property": "P1846",
+      "value": "COVID-19 Outbreak World Map per Capita.svg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q82069695"
+    },
+    {
+      "property": "P1889",
+      "value": "Q84263196"
+    },
+    {
+      "property": "P2163",
+      "value": "2024716"
+    },
+    {
+      "property": "P2184",
+      "value": "Q83493517"
+    },
+    {
+      "property": "P227",
+      "value": "1251536492"
+    },
+    {
+      "property": "P2354",
+      "value": "Q83741704"
+    },
+    {
+      "property": "P2354",
+      "value": "Q90290885"
+    },
+    {
+      "property": "P244",
+      "value": "sh2020008759"
+    },
+    {
+      "property": "P2572",
+      "value": "2019nCoV"
+    },
+    {
+      "property": "P2572",
+      "value": "COVID19FOAM"
+    },
+    {
+      "property": "P2581",
+      "value": "25337381n"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11fr15t15h"
+    },
+    {
+      "property": "P2716",
+      "value": "COVID-19 pandemic collage.jpg"
+    },
+    {
+      "property": "P276",
+      "value": "Q11746"
+    },
+    {
+      "property": "P3017",
+      "value": "coronavirus"
+    },
+    {
+      "property": "P31",
+      "value": "Q12184"
+    },
+    {
+      "property": "P31",
+      "value": "Q17076801"
+    },
+    {
+      "property": "P31",
+      "value": "Q3241045"
+    },
+    {
+      "property": "P31",
+      "value": "Q12367307"
+    },
+    {
+      "property": "P3106",
+      "value": "world/coronavirus-outbreak"
+    },
+    {
+      "property": "P3417",
+      "value": "COVID-19-2019-2020"
+    },
+    {
+      "property": "P3509",
+      "value": "det-nya-coronaviruset"
+    },
+    {
+      "property": "P373",
+      "value": "COVID-19 pandemic"
+    },
+    {
+      "property": "P3984",
+      "value": "Coronavirus"
+    },
+    {
+      "property": "P3984",
+      "value": "China_Flu"
+    },
+    {
+      "property": "P3984",
+      "value": "Covid2019"
+    },
+    {
+      "property": "P3984",
+      "value": "COVID19"
+    },
+    {
+      "property": "P4167",
+      "value": "Koronaviruset"
+    },
+    {
+      "property": "P4204",
+      "value": "coronavirus"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Fabricio Cardenas (Culex)-pandémie de Covid-19.wav"
+    },
+    {
+      "property": "P495",
+      "value": "Q148"
+    },
+    {
+      "property": "P5008",
+      "value": "Q87748614"
+    },
+    {
+      "property": "P5008",
+      "value": "Q10780973"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5008",
+      "value": "Q133729053"
+    },
+    {
+      "property": "P5082",
+      "value": "koronavirus-pandemien_i_2020"
+    },
+    {
+      "property": "P5082",
+      "value": "koronapandemien"
+    },
+    {
+      "property": "P527",
+      "value": "Q86694873"
+    },
+    {
+      "property": "P527",
+      "value": "Q86521237"
+    },
+    {
+      "property": "P527",
+      "value": "Q86458103"
+    },
+    {
+      "property": "P527",
+      "value": "Q86694210"
+    },
+    {
+      "property": "P527",
+      "value": "Q87406428"
+    },
+    {
+      "property": "P527",
+      "value": "Q89453779"
+    },
+    {
+      "property": "P527",
+      "value": "Q98777187"
+    },
+    {
+      "property": "P527",
+      "value": "Q90297029"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtY2pFMWRERTFhQklDWlc0b0FBUAE"
+    },
+    {
+      "property": "P5551",
+      "value": "covid-19"
+    },
+    {
+      "property": "P5558",
+      "value": "coronavirus-2019-ncov"
+    },
+    {
+      "property": "P580",
+      "value": "+2019-11-15T00:00:00Z"
+    },
+    {
+      "property": "P580",
+      "value": "+2019-11-17T00:00:00Z"
+    },
+    {
+      "property": "P580",
+      "value": "+2019-11-23T00:00:00Z"
+    },
+    {
+      "property": "P580",
+      "value": "+2019-11-29T00:00:00Z"
+    },
+    {
+      "property": "P580",
+      "value": "+2019-12-01T00:00:00Z"
+    },
+    {
+      "property": "P580",
+      "value": "+2019-12-12T00:00:00Z"
+    },
+    {
+      "property": "P6058",
+      "value": "images/Pandémie_à_coronavirus_/1316178"
+    },
+    {
+      "property": "P6200",
+      "value": "cyz0z8w0ydwt"
+    },
+    {
+      "property": "P6328",
+      "value": "4260"
+    },
+    {
+      "property": "P6621",
+      "value": "coronavirus"
+    },
+    {
+      "property": "P6760",
+      "value": "32522"
+    },
+    {
+      "property": "P6839",
+      "value": "UsefulNotes/CoronavirusDisease2019Pandemic"
+    },
+    {
+      "property": "P6839",
+      "value": "UsefulNotes/COVID19Pandemic"
+    },
+    {
+      "property": "P6870",
+      "value": "65477"
+    },
+    {
+      "property": "P6922",
+      "value": "coronavirus"
+    },
+    {
+      "property": "P7284",
+      "value": "coronavirus"
+    },
+    {
+      "property": "P7301",
+      "value": "tag/coronavirus-pandemic"
+    },
+    {
+      "property": "P7301",
+      "value": "events/coronavirus-outbreak"
+    },
+    {
+      "property": "P7775",
+      "value": "COVID-19_pandemic"
+    },
+    {
+      "property": "P7867",
+      "value": "Q84136170"
+    },
+    {
+      "property": "P8189",
+      "value": "987009706874205171"
+    },
+    {
+      "property": "P828",
+      "value": "Q82069695"
+    },
+    {
+      "property": "P8672",
+      "value": "1220701888179359745"
+    },
+    {
+      "property": "P910",
+      "value": "Q83189805"
+    },
+    {
+      "property": "P9100",
+      "value": "wuhan-coronavirus-outbreak"
+    },
+    {
+      "property": "P9346",
+      "value": "coronavirus"
+    },
+    {
+      "property": "P9346",
+      "value": "covid-19"
+    },
+    {
+      "property": "P948",
+      "value": "Covid-19 banner How to wear a non-medical fabric mask safely.png"
+    },
+    {
+      "property": "P973",
+      "value": "https://virological.org/t/epidemiological-data-from-the-ncov-2019-outbreak-early-descriptions-from-publicly-available-data/337"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports"
+    },
+    {
+      "property": "P973",
+      "value": "https://emcrit.org/ibcc/covid19/"
+    }
+  ]
+}

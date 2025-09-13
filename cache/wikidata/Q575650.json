@@ -1,0 +1,1226 @@
+{
+  "id": "Q575650",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10027",
+      "value": "https://users.rust-lang.org/"
+    },
+    {
+      "property": "P10027",
+      "value": "https://rust-lang.zulipchat.com/"
+    },
+    {
+      "property": "P10283",
+      "value": "C197781089"
+    },
+    {
+      "property": "P11196",
+      "value": "rust"
+    },
+    {
+      "property": "P11201",
+      "value": "https://play.rust-lang.org/"
+    },
+    {
+      "property": "P11410",
+      "value": "rust"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-rust"
+    },
+    {
+      "property": "P1163",
+      "value": "text/rust"
+    },
+    {
+      "property": "P11810",
+      "value": "https://social.rust-lang.org"
+    },
+    {
+      "property": "P11947",
+      "value": "rust@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "rs"
+    },
+    {
+      "property": "P1195",
+      "value": "rlib"
+    },
+    {
+      "property": "P12361",
+      "value": "rust-lang.org"
+    },
+    {
+      "property": "P12468",
+      "value": "Programming Language :: Rust"
+    },
+    {
+      "property": "P12695",
+      "value": "Rust"
+    },
+    {
+      "property": "P12873",
+      "value": "Rust"
+    },
+    {
+      "property": "P12873",
+      "value": "Rust_(Русский)"
+    },
+    {
+      "property": "P12873",
+      "value": "Rust_(Português)"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/rust-lang/rust"
+    },
+    {
+      "property": "P13397",
+      "value": "rust"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/9bb5bffe-7522-4b18-9057-6d989ea6c162"
+    },
+    {
+      "property": "P138",
+      "value": "Q1130524"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/rust"
+    },
+    {
+      "property": "P1535",
+      "value": "Q60885542"
+    },
+    {
+      "property": "P154",
+      "value": "Rust programming language black logo.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.rust-lang.org/"
+    },
+    {
+      "property": "P178",
+      "value": "Q9661"
+    },
+    {
+      "property": "P178",
+      "value": "Q28937563"
+    },
+    {
+      "property": "P178",
+      "value": "Q105394699"
+    },
+    {
+      "property": "P18",
+      "value": "Rustc building paru with cargo screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Cargo clippy hello world example.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q259214"
+    },
+    {
+      "property": "P1889",
+      "value": "Q15304961"
+    },
+    {
+      "property": "P1889",
+      "value": "Q632924"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1130524"
+    },
+    {
+      "property": "P1889",
+      "value": "Q184197"
+    },
+    {
+      "property": "P2002",
+      "value": "rustlang"
+    },
+    {
+      "property": "P2037",
+      "value": "rust-lang"
+    },
+    {
+      "property": "P2163",
+      "value": "2002371"
+    },
+    {
+      "property": "P227",
+      "value": "1078438080"
+    },
+    {
+      "property": "P2397",
+      "value": "UCaYhcUwRBNscFNUKTjgPFiA"
+    },
+    {
+      "property": "P244",
+      "value": "sh2018000672"
+    },
+    {
+      "property": "P2537",
+      "value": "Rust"
+    },
+    {
+      "property": "P2572",
+      "value": "rustlang"
+    },
+    {
+      "property": "P2581",
+      "value": "02303296n"
+    },
+    {
+      "property": "P268",
+      "value": "17808721b"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P287",
+      "value": "Q28937563"
+    },
+    {
+      "property": "P3095",
+      "value": "Q115099598"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q4117397"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P31",
+      "value": "Q651794"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3381",
+      "value": "Rust"
+    },
+    {
+      "property": "P3442",
+      "value": "rustc"
+    },
+    {
+      "property": "P3454",
+      "value": "rust"
+    },
+    {
+      "property": "P3454",
+      "value": "rust-docs"
+    },
+    {
+      "property": "P3454",
+      "value": "lib32-rust-libs"
+    },
+    {
+      "property": "P3454",
+      "value": "rust-musl"
+    },
+    {
+      "property": "P3463",
+      "value": "rust"
+    },
+    {
+      "property": "P3473",
+      "value": "rustc"
+    },
+    {
+      "property": "P348",
+      "value": "0.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.3"
+    },
+    {
+      "property": "P348",
+      "value": "0.4"
+    },
+    {
+      "property": "P348",
+      "value": "0.5"
+    },
+    {
+      "property": "P348",
+      "value": "0.6"
+    },
+    {
+      "property": "P348",
+      "value": "0.7"
+    },
+    {
+      "property": "P348",
+      "value": "0.8"
+    },
+    {
+      "property": "P348",
+      "value": "0.9"
+    },
+    {
+      "property": "P348",
+      "value": "0.10"
+    },
+    {
+      "property": "P348",
+      "value": "0.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.25.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.26.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.26.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.26.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.27.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.27.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.27.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.28.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.29.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.29.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.29.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.30.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.30.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.31.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.31.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.32.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.33.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.34.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.34.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.34.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.35.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.36.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.37.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.38.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.39.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.40.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.41.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.41.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.42.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.43.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.43.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.44.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.44.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.45.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.45.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.45.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.46.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.47.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.48.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.49.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.50.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.51.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.52.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.52.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.53.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.54.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.55.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.56.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.56.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.57.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.58.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.58.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.59.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.60.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.61.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.62.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.62.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.63.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.64.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.65.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.66.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.66.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.67.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.67.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.68.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.68.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.68.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.69.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.70.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.71.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.71.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.72.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.72.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.73.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.74.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.74.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.75.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.76.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.77.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.77.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.77.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.78.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.79.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.80.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.80.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.81.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.82.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.83.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.84.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.84.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.85.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.85.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.86.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.87.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.88.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.89.0"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/rust"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/rust-bin"
+    },
+    {
+      "property": "P3553",
+      "value": "19674381"
+    },
+    {
+      "property": "P3712",
+      "value": "Q4080983"
+    },
+    {
+      "property": "P3712",
+      "value": "Q1197550"
+    },
+    {
+      "property": "P3712",
+      "value": "Q115089572"
+    },
+    {
+      "property": "P373",
+      "value": "Rust (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "rust_(computer_program_language)"
+    },
+    {
+      "property": "P3847",
+      "value": "rust_(computer_programming_language)"
+    },
+    {
+      "property": "P3847",
+      "value": "rust_(programming_language)"
+    },
+    {
+      "property": "P3847",
+      "value": "rust_(system_programming_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3984",
+      "value": "rust"
+    },
+    {
+      "property": "P400",
+      "value": "Q1406"
+    },
+    {
+      "property": "P400",
+      "value": "Q388"
+    },
+    {
+      "property": "P400",
+      "value": "Q14116"
+    },
+    {
+      "property": "P400",
+      "value": "Q34236"
+    },
+    {
+      "property": "P400",
+      "value": "Q48493"
+    },
+    {
+      "property": "P400",
+      "value": "Q94"
+    },
+    {
+      "property": "P400",
+      "value": "Q174666"
+    },
+    {
+      "property": "P400",
+      "value": "Q20155677"
+    },
+    {
+      "property": "P4033",
+      "value": "rust@social.rust-lang.org"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-nightly"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-src"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-docs-git"
+    },
+    {
+      "property": "P4162",
+      "value": "cargo-git"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-nightly-src"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-nightly-doc"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-analysis-git"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-git"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-nightly-bin"
+    },
+    {
+      "property": "P4162",
+      "value": "rls-git"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-bin"
+    },
+    {
+      "property": "P4162",
+      "value": "rust-src-git"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"Rust::8y9w4\"]"
+    },
+    {
+      "property": "P571",
+      "value": "+2006-07-23T00:00:00Z"
+    },
+    {
+      "property": "P571",
+      "value": "+2006-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2010-07-07T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2010-06-16T00:00:00Z"
+    },
+    {
+      "property": "P61",
+      "value": "Q28937563"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "197781089"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0dsbpg6"
+    },
+    {
+      "property": "P6611",
+      "value": "145902"
+    },
+    {
+      "property": "P6665",
+      "value": "20385"
+    },
+    {
+      "property": "P6900",
+      "value": "rust(プログラミング言語)"
+    },
+    {
+      "property": "P6931",
+      "value": "rust"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q72735794"
+    },
+    {
+      "property": "P7078",
+      "value": "Q200996"
+    },
+    {
+      "property": "P737",
+      "value": "Q1895587"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q2370"
+    },
+    {
+      "property": "P737",
+      "value": "Q79598"
+    },
+    {
+      "property": "P737",
+      "value": "Q334879"
+    },
+    {
+      "property": "P737",
+      "value": "Q34010"
+    },
+    {
+      "property": "P737",
+      "value": "Q16989736"
+    },
+    {
+      "property": "P737",
+      "value": "Q544927"
+    },
+    {
+      "property": "P737",
+      "value": "Q262003"
+    },
+    {
+      "property": "P737",
+      "value": "Q212587"
+    },
+    {
+      "property": "P737",
+      "value": "Q6954329"
+    },
+    {
+      "property": "P737",
+      "value": "Q161053"
+    },
+    {
+      "property": "P737",
+      "value": "Q187560"
+    },
+    {
+      "property": "P737",
+      "value": "Q597330"
+    },
+    {
+      "property": "P737",
+      "value": "Q17118377"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/rust"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/rust-nightly"
+    },
+    {
+      "property": "P7502",
+      "value": "Rust_(programming_language)-E4RE3M"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/rust"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/rust-bin"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/rust"
+    },
+    {
+      "property": "P8189",
+      "value": "987012402011505171"
+    },
+    {
+      "property": "P822",
+      "value": "Q115028546"
+    },
+    {
+      "property": "P8443",
+      "value": "rust"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.rust-lang.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+65812"
+    },
+    {
+      "property": "P8687",
+      "value": "+29546"
+    },
+    {
+      "property": "P8687",
+      "value": "+91754"
+    },
+    {
+      "property": "P8687",
+      "value": "+41600"
+    },
+    {
+      "property": "P8687",
+      "value": "+50600"
+    },
+    {
+      "property": "P8687",
+      "value": "+57600"
+    },
+    {
+      "property": "P8687",
+      "value": "+6756"
+    },
+    {
+      "property": "P8687",
+      "value": "+7079"
+    },
+    {
+      "property": "P8687",
+      "value": "+7832"
+    },
+    {
+      "property": "P8687",
+      "value": "+64800"
+    },
+    {
+      "property": "P8778",
+      "value": "library/rust"
+    },
+    {
+      "property": "P8885",
+      "value": "Rust(프로그래밍 언어)"
+    },
+    {
+      "property": "P9045",
+      "value": "rust"
+    },
+    {
+      "property": "P910",
+      "value": "Q8693176"
+    },
+    {
+      "property": "P9100",
+      "value": "rust"
+    },
+    {
+      "property": "P9100",
+      "value": "rust-lang"
+    },
+    {
+      "property": "P9100",
+      "value": "rust-language"
+    },
+    {
+      "property": "P9345",
+      "value": "442252698964721669"
+    },
+    {
+      "property": "P950",
+      "value": "XX6456854"
+    },
+    {
+      "property": "P9618",
+      "value": "rust"
+    }
+  ]
+}

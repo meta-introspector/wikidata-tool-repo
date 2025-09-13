@@ -1,0 +1,90 @@
+{
+  "id": "Q76463",
+  "label": "octal",
+  "facts": [
+    {
+      "property": "P12385",
+      "value": "sistema-octal"
+    },
+    {
+      "property": "P1296",
+      "value": "0197302"
+    },
+    {
+      "property": "P13572",
+      "value": "octal"
+    },
+    {
+      "property": "P155",
+      "value": "Q930594"
+    },
+    {
+      "property": "P156",
+      "value": "Q3057662"
+    },
+    {
+      "property": "P2812",
+      "value": "Octal"
+    },
+    {
+      "property": "P31",
+      "value": "Q25457532"
+    },
+    {
+      "property": "P3222",
+      "value": "oktalt-talsystem"
+    },
+    {
+      "property": "P3264",
+      "value": "Q23355"
+    },
+    {
+      "property": "P3417",
+      "value": "Octal-number-system"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"Octal::99m24\"]"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"OctalNotation::45vhh\"]"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"OctalNumberSystem::772t5\"]"
+    },
+    {
+      "property": "P6058",
+      "value": "divers/octal/74378"
+    },
+    {
+      "property": "P6104",
+      "value": "Q8487137"
+    },
+    {
+      "property": "P6366",
+      "value": "985788"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05lf4"
+    },
+    {
+      "property": "P6706",
+      "value": "ottale"
+    },
+    {
+      "property": "P6781",
+      "value": "Definition:Octal_Notation"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/2262"
+    },
+    {
+      "property": "P8885",
+      "value": "8진법"
+    }
+  ]
+}

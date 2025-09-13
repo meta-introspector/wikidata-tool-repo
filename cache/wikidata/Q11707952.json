@@ -1,0 +1,34 @@
+{
+  "id": "Q11707952",
+  "label": "list of programming languages",
+  "facts": [
+    {
+      "property": "P1417",
+      "value": "technology/list-of-programming-languages"
+    },
+    {
+      "property": "P1754",
+      "value": "Q34059"
+    },
+    {
+      "property": "P1889",
+      "value": "Q495728"
+    },
+    {
+      "property": "P2354",
+      "value": "Q6647170"
+    },
+    {
+      "property": "P31",
+      "value": "Q13406463"
+    },
+    {
+      "property": "P360",
+      "value": "Q9143"
+    },
+    {
+      "property": "P373",
+      "value": "Programming languages"
+    }
+  ]
+}

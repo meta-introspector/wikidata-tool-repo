@@ -1,0 +1,58 @@
+{
+  "id": "Q13496636",
+  "label": "asm.js",
+  "facts": [
+    {
+      "property": "P11144",
+      "value": "5053365658583040"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/dherman/asm.js"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/asm.js"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P31",
+      "value": "Q1330336"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P577",
+      "value": "+2013-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0vpx3pm"
+    },
+    {
+      "property": "P737",
+      "value": "Q2005"
+    },
+    {
+      "property": "P856",
+      "value": "http://asmjs.org"
+    },
+    {
+      "property": "P9151",
+      "value": "asmjs"
+    },
+    {
+      "property": "P973",
+      "value": "http://asmjs.org/spec/latest/"
+    }
+  ]
+}

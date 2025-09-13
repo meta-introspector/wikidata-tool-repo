@@ -1,0 +1,74 @@
+{
+  "id": "Q523796",
+  "label": "linker",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2780557392"
+    },
+    {
+      "property": "P1056",
+      "value": "Q3276556"
+    },
+    {
+      "property": "P1056",
+      "value": "Q778586"
+    },
+    {
+      "property": "P1056",
+      "value": "Q8095398"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/linker"
+    },
+    {
+      "property": "P227",
+      "value": "4145562-9"
+    },
+    {
+      "property": "P2283",
+      "value": "Q14902318"
+    },
+    {
+      "property": "P244",
+      "value": "sh99011681"
+    },
+    {
+      "property": "P268",
+      "value": "16102823h"
+    },
+    {
+      "property": "P279",
+      "value": "Q114900488"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3417",
+      "value": "Linking"
+    },
+    {
+      "property": "P366",
+      "value": "Q11742780"
+    },
+    {
+      "property": "P6366",
+      "value": "2780557392"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04p_b"
+    },
+    {
+      "property": "P6611",
+      "value": "25565"
+    },
+    {
+      "property": "P8189",
+      "value": "987007554000605171"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Q108470873",
+  "label": "Office of the National Cyber Director",
+  "facts": [
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1813",
+      "value": "ONCD"
+    },
+    {
+      "property": "P1889",
+      "value": "Q5205058"
+    },
+    {
+      "property": "P214",
+      "value": "4711167931763429520002"
+    },
+    {
+      "property": "P2388",
+      "value": "Q120691837"
+    },
+    {
+      "property": "P244",
+      "value": "no2023029252"
+    },
+    {
+      "property": "P31",
+      "value": "Q20857065"
+    },
+    {
+      "property": "P571",
+      "value": "+2021-01-01T00:00:00Z"
+    },
+    {
+      "property": "P749",
+      "value": "Q1355327"
+    },
+    {
+      "property": "P856",
+      "value": "https://bidenwhitehouse.archives.gov/oncd/"
+    }
+  ]
+}

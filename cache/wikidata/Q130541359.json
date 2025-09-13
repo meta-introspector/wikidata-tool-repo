@@ -1,0 +1,394 @@
+{
+  "id": "Q130541359",
+  "label": "Zen Browser",
+  "facts": [
+    {
+      "property": "P11254",
+      "value": "https://crowdin.com/project/zen-browser"
+    },
+    {
+      "property": "P11947",
+      "value": "zenbrowser@lemmy.world"
+    },
+    {
+      "property": "P12361",
+      "value": "zen-browser.app"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/zen-browser/desktop"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/zen-browser/www"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/elixir-desktop/desktop"
+    },
+    {
+      "property": "P138",
+      "value": "Q7953"
+    },
+    {
+      "property": "P144",
+      "value": "Q698"
+    },
+    {
+      "property": "P154",
+      "value": "Zen Browser logo (red circles).svg"
+    },
+    {
+      "property": "P18",
+      "value": "Zen Browser-1.10.3b on Linux-Debian.png"
+    },
+    {
+      "property": "P2002",
+      "value": "zen_browser"
+    },
+    {
+      "property": "P2037",
+      "value": "zen-browser"
+    },
+    {
+      "property": "P2078",
+      "value": "https://docs.zen-browser.app/"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q5362035"
+    },
+    {
+      "property": "P2910",
+      "value": "Zen Browser logo (red circles).svg"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q43627"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q15477174"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.2-b.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.6b"
+    },
+    {
+      "property": "P348",
+      "value": "1.7b"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.3b"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.4b"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.5b"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.6b"
+    },
+    {
+      "property": "P348",
+      "value": "1.8b"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.9b"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.3.b"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.10b"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.3b"
+    },
+    {
+      "property": "P348",
+      "value": "1.11b"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.3b"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.4b"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.5b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.3b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.4b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.5b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.6b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.7b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.8b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.9b"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.10b"
+    },
+    {
+      "property": "P348",
+      "value": "1.13b"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.3b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.4b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.5b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.6b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.7b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.8b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.9b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.10b"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.11b"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.15b"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.1b"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.2b"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.3b"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.4b"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.5b"
+    },
+    {
+      "property": "P373",
+      "value": "Zen Browser"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P400",
+      "value": "Q18384745"
+    },
+    {
+      "property": "P4033",
+      "value": "zenbrowser@floss.social"
+    },
+    {
+      "property": "P4033",
+      "value": "zenbrowser@fosstodon.org"
+    },
+    {
+      "property": "P4175",
+      "value": "zen_browser"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6931",
+      "value": "zen-browser"
+    },
+    {
+      "property": "P7101",
+      "value": "https://zen-browser.app/privacy-policy"
+    },
+    {
+      "property": "P856",
+      "value": "https://zen-browser.app/"
+    },
+    {
+      "property": "P8972",
+      "value": "Zen Browser logo (black).svg"
+    },
+    {
+      "property": "P8972",
+      "value": "Zen Browser logo (white).svg"
+    },
+    {
+      "property": "P8972",
+      "value": "Zen Browser logo (red circles).svg"
+    },
+    {
+      "property": "P9078",
+      "value": "zen-browser"
+    },
+    {
+      "property": "P9618",
+      "value": "zen-browser"
+    }
+  ]
+}

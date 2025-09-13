@@ -1,0 +1,70 @@
+{
+  "id": "Q1197550",
+  "label": "computer performance",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C187123476"
+    },
+    {
+      "property": "P1382",
+      "value": "Q89760758"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/performance"
+    },
+    {
+      "property": "P1687",
+      "value": "P7256"
+    },
+    {
+      "property": "P1880",
+      "value": "Q816747"
+    },
+    {
+      "property": "P1880",
+      "value": "Q1982529"
+    },
+    {
+      "property": "P279",
+      "value": "Q1296024"
+    },
+    {
+      "property": "P373",
+      "value": "Computer performance"
+    },
+    {
+      "property": "P3827",
+      "value": "computer-system-performance"
+    },
+    {
+      "property": "P5844",
+      "value": "performance"
+    },
+    {
+      "property": "P6366",
+      "value": "187123476"
+    },
+    {
+      "property": "P646",
+      "value": "/m/027t6pg"
+    },
+    {
+      "property": "P691",
+      "value": "ph136821"
+    },
+    {
+      "property": "P8111",
+      "value": "Q188768"
+    },
+    {
+      "property": "P8408",
+      "value": "ComputerPerformance"
+    },
+    {
+      "property": "P910",
+      "value": "Q8407958"
+    }
+  ]
+}

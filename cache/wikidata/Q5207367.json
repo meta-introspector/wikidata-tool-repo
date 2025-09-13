@@ -1,0 +1,62 @@
+{
+  "id": "Q5207367",
+  "label": "Daala",
+  "facts": [
+    {
+      "property": "P1163",
+      "value": "video/ogg"
+    },
+    {
+      "property": "P1195",
+      "value": "ogv"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/xiph/daala"
+    },
+    {
+      "property": "P178",
+      "value": "Q576550"
+    },
+    {
+      "property": "P178",
+      "value": "Q9661"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1092548"
+    },
+    {
+      "property": "P275",
+      "value": "Q27016752"
+    },
+    {
+      "property": "P275",
+      "value": "Q18517294"
+    },
+    {
+      "property": "P31",
+      "value": "Q7927899"
+    },
+    {
+      "property": "P3381",
+      "value": "Daala"
+    },
+    {
+      "property": "P348",
+      "value": "0.0"
+    },
+    {
+      "property": "P6366",
+      "value": "2780117684"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0r4rl15"
+    },
+    {
+      "property": "P856",
+      "value": "https://xiph.org/daala/"
+    }
+  ]
+}

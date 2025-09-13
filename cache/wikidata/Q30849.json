@@ -1,0 +1,390 @@
+{
+  "id": "Q30849",
+  "label": "blog",
+  "facts": [
+    {
+      "property": "P1014",
+      "value": "300265722"
+    },
+    {
+      "property": "P10192",
+      "value": "homoit0000210"
+    },
+    {
+      "property": "P10234",
+      "value": "weblogs"
+    },
+    {
+      "property": "P10565",
+      "value": "109022"
+    },
+    {
+      "property": "P10565",
+      "value": "547982"
+    },
+    {
+      "property": "P10565",
+      "value": "129189"
+    },
+    {
+      "property": "P10717",
+      "value": "blog"
+    },
+    {
+      "property": "P10730",
+      "value": "Blog"
+    },
+    {
+      "property": "P11137",
+      "value": "blog"
+    },
+    {
+      "property": "P1149",
+      "value": "PN4567.2"
+    },
+    {
+      "property": "P11514",
+      "value": "blog-7cbbd5"
+    },
+    {
+      "property": "P11852",
+      "value": "uy98au05"
+    },
+    {
+      "property": "P11924",
+      "value": "blog"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Blog"
+    },
+    {
+      "property": "P12946",
+      "value": "web+log"
+    },
+    {
+      "property": "P13388",
+      "value": "wag001"
+    },
+    {
+      "property": "P13397",
+      "value": "blog"
+    },
+    {
+      "property": "P13411",
+      "value": "Q3084"
+    },
+    {
+      "property": "P13438",
+      "value": "homoit0000210"
+    },
+    {
+      "property": "P13542",
+      "value": "3005"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/0cf8ee6c-d08d-40b6-9983-bf7270903877"
+    },
+    {
+      "property": "P1368",
+      "value": "000101188"
+    },
+    {
+      "property": "P1368",
+      "value": "000290275"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/blog"
+    },
+    {
+      "property": "P1536",
+      "value": "Q21124681"
+    },
+    {
+      "property": "P1617",
+      "value": "6e023ba6-ce50-4544-ac1a-f3e544d3366a"
+    },
+    {
+      "property": "P1687",
+      "value": "P1581"
+    },
+    {
+      "property": "P1705",
+      "value": "blogue"
+    },
+    {
+      "property": "P1709",
+      "value": "https://schema.org/Blog"
+    },
+    {
+      "property": "P176",
+      "value": "Q8246794"
+    },
+    {
+      "property": "P18",
+      "value": "BlogActive.com Screenshot 2004.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q297076"
+    },
+    {
+      "property": "P1889",
+      "value": "Q674926"
+    },
+    {
+      "property": "P2163",
+      "value": "1429931"
+    },
+    {
+      "property": "P2179",
+      "value": "10003288"
+    },
+    {
+      "property": "P2347",
+      "value": "2719"
+    },
+    {
+      "property": "P244",
+      "value": "sh2003004628"
+    },
+    {
+      "property": "P244",
+      "value": "sh2003007727"
+    },
+    {
+      "property": "P2581",
+      "value": "00011339n"
+    },
+    {
+      "property": "P2670",
+      "value": "Q41557148"
+    },
+    {
+      "property": "P268",
+      "value": "13601021t"
+    },
+    {
+      "property": "P269",
+      "value": "053501896"
+    },
+    {
+      "property": "P279",
+      "value": "Q35127"
+    },
+    {
+      "property": "P279",
+      "value": "Q1002697"
+    },
+    {
+      "property": "P279",
+      "value": "Q202833"
+    },
+    {
+      "property": "P279",
+      "value": "Q119648796"
+    },
+    {
+      "property": "P2888",
+      "value": "http://purl.org/spar/fabio/Blog"
+    },
+    {
+      "property": "P2892",
+      "value": "C2718046"
+    },
+    {
+      "property": "P2924",
+      "value": "3434618"
+    },
+    {
+      "property": "P3021",
+      "value": "weblogs"
+    },
+    {
+      "property": "P3095",
+      "value": "Q8246794"
+    },
+    {
+      "property": "P3219",
+      "value": "blog"
+    },
+    {
+      "property": "P3417",
+      "value": "Blogs-1"
+    },
+    {
+      "property": "P349",
+      "value": "00959882"
+    },
+    {
+      "property": "P3553",
+      "value": "19550419"
+    },
+    {
+      "property": "P3569",
+      "value": "media/weblog"
+    },
+    {
+      "property": "P3569",
+      "value": "media/blog"
+    },
+    {
+      "property": "P361",
+      "value": "Q75"
+    },
+    {
+      "property": "P373",
+      "value": "Blogs"
+    },
+    {
+      "property": "P3827",
+      "value": "blogs"
+    },
+    {
+      "property": "P3832",
+      "value": "10316"
+    },
+    {
+      "property": "P3847",
+      "value": "blogs"
+    },
+    {
+      "property": "P3984",
+      "value": "blogs"
+    },
+    {
+      "property": "P4801",
+      "value": "mserialpubtype/blog"
+    },
+    {
+      "property": "P486",
+      "value": "D000069520"
+    },
+    {
+      "property": "P4953",
+      "value": "gf2014026051"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P508",
+      "value": "7521"
+    },
+    {
+      "property": "P527",
+      "value": "Q17928402"
+    },
+    {
+      "property": "P5398",
+      "value": "000014546"
+    },
+    {
+      "property": "P5437",
+      "value": "8413"
+    },
+    {
+      "property": "P6293",
+      "value": "Y136209"
+    },
+    {
+      "property": "P6366",
+      "value": "2778920248"
+    },
+    {
+      "property": "P6417",
+      "value": "blogs"
+    },
+    {
+      "property": "P646",
+      "value": "/m/084dw"
+    },
+    {
+      "property": "P6680",
+      "value": "T000944454"
+    },
+    {
+      "property": "P6694",
+      "value": "M000606045"
+    },
+    {
+      "property": "P672",
+      "value": "V01.175.125"
+    },
+    {
+      "property": "P672",
+      "value": "V02.170.250"
+    },
+    {
+      "property": "P672",
+      "value": "V02.530.150.250"
+    },
+    {
+      "property": "P6900",
+      "value": "ブログ"
+    },
+    {
+      "property": "P691",
+      "value": "ph346538"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/11587"
+    },
+    {
+      "property": "P7870",
+      "value": "22360"
+    },
+    {
+      "property": "P8168",
+      "value": "Q394361"
+    },
+    {
+      "property": "P8189",
+      "value": "987007547068705171"
+    },
+    {
+      "property": "P8309",
+      "value": "18-215032"
+    },
+    {
+      "property": "P8313",
+      "value": "blog"
+    },
+    {
+      "property": "P8370",
+      "value": "1000645"
+    },
+    {
+      "property": "P8408",
+      "value": "Weblog"
+    },
+    {
+      "property": "P8687",
+      "value": "+93566"
+    },
+    {
+      "property": "P910",
+      "value": "Q6097173"
+    },
+    {
+      "property": "P9272",
+      "value": "56226"
+    },
+    {
+      "property": "P9346",
+      "value": "blogs"
+    },
+    {
+      "property": "P9374",
+      "value": "w.aspx#weblog"
+    },
+    {
+      "property": "P9497",
+      "value": "3490"
+    }
+  ]
+}

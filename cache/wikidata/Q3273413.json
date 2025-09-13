@@ -1,0 +1,94 @@
+{
+  "id": "Q3273413",
+  "label": "Netscape Navigator 9",
+  "facts": [
+    {
+      "property": "P144",
+      "value": "Q698"
+    },
+    {
+      "property": "P178",
+      "value": "Q210057"
+    },
+    {
+      "property": "P178",
+      "value": "Q27585"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P279",
+      "value": "Q235419"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q20826013"
+    },
+    {
+      "property": "P348",
+      "value": "9.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "9.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "9.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "9.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "9.0"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0.6"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P571",
+      "value": "+2007-10-15T00:00:00Z"
+    },
+    {
+      "property": "P629",
+      "value": "Q235419"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02qrqzk"
+    }
+  ]
+}

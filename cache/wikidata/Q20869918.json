@@ -1,0 +1,46 @@
+{
+  "id": "Q20869918",
+  "label": "Goanna",
+  "facts": [
+    {
+      "property": "P144",
+      "value": "Q487834"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11bw20wxnq"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q373442"
+    },
+    {
+      "property": "P571",
+      "value": "+2016-01-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2016-01-00T00:00:00Z"
+    },
+    {
+      "property": "P6665",
+      "value": "14881"
+    }
+  ]
+}

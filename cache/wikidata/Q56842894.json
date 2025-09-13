@@ -1,0 +1,34 @@
+{
+  "id": "Q56842894",
+  "label": "cross-platform software",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q7397"
+    },
+    {
+      "property": "P1269",
+      "value": "Q174666"
+    },
+    {
+      "property": "P279",
+      "value": "Q7397"
+    },
+    {
+      "property": "P279",
+      "value": "Q174666"
+    },
+    {
+      "property": "P373",
+      "value": "Cross-platform software"
+    },
+    {
+      "property": "P6802",
+      "value": "About VirtualBox OSE.png"
+    },
+    {
+      "property": "P910",
+      "value": "Q6938604"
+    }
+  ]
+}

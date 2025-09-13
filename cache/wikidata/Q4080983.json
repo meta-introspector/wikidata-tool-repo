@@ -1,0 +1,34 @@
+{
+  "id": "Q4080983",
+  "label": "memory safety",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C28180684"
+    },
+    {
+      "property": "P1269",
+      "value": "Q2308807"
+    },
+    {
+      "property": "P1269",
+      "value": "Q117190944"
+    },
+    {
+      "property": "P279",
+      "value": "Q10566551"
+    },
+    {
+      "property": "P31",
+      "value": "Q1207505"
+    },
+    {
+      "property": "P6366",
+      "value": "28180684"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03c2cg9"
+    }
+  ]
+}

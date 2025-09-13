@@ -1,0 +1,178 @@
+{
+  "id": "Q296187",
+  "label": "APL",
+  "facts": [
+    {
+      "property": "P12204",
+      "value": "10475"
+    },
+    {
+      "property": "P13520",
+      "value": "2830"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/97bb24ac-8627-411e-89e0-2fa73f075413"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/apl"
+    },
+    {
+      "property": "P154",
+      "value": "APL (programming language) logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q92629"
+    },
+    {
+      "property": "P178",
+      "value": "Q37156"
+    },
+    {
+      "property": "P178",
+      "value": "Q6504346"
+    },
+    {
+      "property": "P1889",
+      "value": "Q4057965"
+    },
+    {
+      "property": "P2347",
+      "value": "10566"
+    },
+    {
+      "property": "P244",
+      "value": "sh85005991"
+    },
+    {
+      "property": "P287",
+      "value": "Q92629"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920142"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920117"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922882"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q15087423"
+    },
+    {
+      "property": "P3381",
+      "value": "APL"
+    },
+    {
+      "property": "P3417",
+      "value": "A-Programming-Language"
+    },
+    {
+      "property": "P373",
+      "value": "APL (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4307787"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q6453666"
+    },
+    {
+      "property": "P4342",
+      "value": "APL"
+    },
+    {
+      "property": "P4644",
+      "value": "58d7a289-dafd-4363-833f-d1dc4140885e"
+    },
+    {
+      "property": "P485",
+      "value": "Q964035"
+    },
+    {
+      "property": "P503",
+      "value": "13751"
+    },
+    {
+      "property": "P571",
+      "value": "+1966-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6293",
+      "value": "Y106457"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0q1d"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P8189",
+      "value": "987007294036505171"
+    },
+    {
+      "property": "P8313",
+      "value": "APL"
+    },
+    {
+      "property": "P898",
+      "value": "æpl̩"
+    },
+    {
+      "property": "P898",
+      "value": "eɪ.piː.ɛl"
+    },
+    {
+      "property": "P910",
+      "value": "Q8217695"
+    },
+    {
+      "property": "P950",
+      "value": "XX528234"
+    },
+    {
+      "property": "P973",
+      "value": "http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/"
+    },
+    {
+      "property": "P973",
+      "value": "http://www.quadibloc.com/comp/aplint.htm"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.aplwiki.com/"
+    }
+  ]
+}

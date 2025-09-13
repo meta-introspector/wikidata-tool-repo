@@ -1,0 +1,130 @@
+{
+  "id": "Q193424",
+  "label": "web service",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C35578498"
+    },
+    {
+      "property": "P1051",
+      "value": "13660"
+    },
+    {
+      "property": "P10565",
+      "value": "223096"
+    },
+    {
+      "property": "P1245",
+      "value": "969960"
+    },
+    {
+      "property": "P1269",
+      "value": "Q130303173"
+    },
+    {
+      "property": "P12861",
+      "value": "E141"
+    },
+    {
+      "property": "P12946",
+      "value": "Web+Services"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/ee5abe4a-60bf-4f3e-96b2-031a9696c1dc"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/web-services"
+    },
+    {
+      "property": "P1889",
+      "value": "Q19967801"
+    },
+    {
+      "property": "P1889",
+      "value": "Q35127"
+    },
+    {
+      "property": "P2179",
+      "value": "10003304"
+    },
+    {
+      "property": "P2263",
+      "value": "4584"
+    },
+    {
+      "property": "P2263",
+      "value": "4159"
+    },
+    {
+      "property": "P244",
+      "value": "sh2003001435"
+    },
+    {
+      "property": "P2581",
+      "value": "03829842n"
+    },
+    {
+      "property": "P279",
+      "value": "Q1220872"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3417",
+      "value": "Web-Services"
+    },
+    {
+      "property": "P3553",
+      "value": "19630501"
+    },
+    {
+      "property": "P3553",
+      "value": "19579314"
+    },
+    {
+      "property": "P373",
+      "value": "Web services"
+    },
+    {
+      "property": "P3827",
+      "value": "web-services"
+    },
+    {
+      "property": "P6366",
+      "value": "35578498"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0n5rs"
+    },
+    {
+      "property": "P6706",
+      "value": "web+service"
+    },
+    {
+      "property": "P691",
+      "value": "ph249465"
+    },
+    {
+      "property": "P8189",
+      "value": "987007537450005171"
+    },
+    {
+      "property": "P910",
+      "value": "Q7214773"
+    },
+    {
+      "property": "P950",
+      "value": "XX552378"
+    },
+    {
+      "property": "P9935",
+      "value": "i-servizi-web"
+    }
+  ]
+}

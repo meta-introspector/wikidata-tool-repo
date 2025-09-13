@@ -1,0 +1,94 @@
+{
+  "id": "Q778586",
+  "label": "executable",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C160145156"
+    },
+    {
+      "property": "P12385",
+      "value": "fitxer-executable"
+    },
+    {
+      "property": "P1245",
+      "value": "472622"
+    },
+    {
+      "property": "P1269",
+      "value": "Q9135"
+    },
+    {
+      "property": "P1296",
+      "value": "0272612"
+    },
+    {
+      "property": "P13397",
+      "value": "executable"
+    },
+    {
+      "property": "P1424",
+      "value": "Q13107306"
+    },
+    {
+      "property": "P1535",
+      "value": "Q650550"
+    },
+    {
+      "property": "P1542",
+      "value": "Q205663"
+    },
+    {
+      "property": "P2283",
+      "value": "Q17560478"
+    },
+    {
+      "property": "P279",
+      "value": "Q40056"
+    },
+    {
+      "property": "P2910",
+      "value": "Windows 11 executable.svg"
+    },
+    {
+      "property": "P461",
+      "value": "Q128751"
+    },
+    {
+      "property": "P461",
+      "value": "Q188860"
+    },
+    {
+      "property": "P4746",
+      "value": "022666"
+    },
+    {
+      "property": "P527",
+      "value": "Q55813"
+    },
+    {
+      "property": "P527",
+      "value": "Q128751"
+    },
+    {
+      "property": "P527",
+      "value": "Q186157"
+    },
+    {
+      "property": "P5555",
+      "value": "Portable Executable 32 bit Structure.png"
+    },
+    {
+      "property": "P6366",
+      "value": "160145156"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01ftyb"
+    },
+    {
+      "property": "P8814",
+      "value": "06583139-n"
+    }
+  ]
+}

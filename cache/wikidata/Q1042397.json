@@ -1,0 +1,62 @@
+{
+  "id": "Q1042397",
+  "label": "Mesa",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2780940541"
+    },
+    {
+      "property": "P178",
+      "value": "Q750428"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1778544"
+    },
+    {
+      "property": "P1889",
+      "value": "Q228008"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P348",
+      "value": "Mesa 6.0 (Version 41)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P571",
+      "value": "+1976-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "2780940541"
+    },
+    {
+      "property": "P646",
+      "value": "/m/050f_"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P737",
+      "value": "Q188436"
+    }
+  ]
+}

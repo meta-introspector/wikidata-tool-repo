@@ -1,0 +1,38 @@
+{
+  "id": "Q1322511",
+  "label": "algebraic data type",
+  "facts": [
+    {
+      "property": "P12946",
+      "value": "Algebraic+data+type"
+    },
+    {
+      "property": "P1889",
+      "value": "Q827335"
+    },
+    {
+      "property": "P2579",
+      "value": "Q1056428"
+    },
+    {
+      "property": "P279",
+      "value": "Q190087"
+    },
+    {
+      "property": "P279",
+      "value": "Q1413465"
+    },
+    {
+      "property": "P3417",
+      "value": "Algebraic-Data-Type"
+    },
+    {
+      "property": "P6366",
+      "value": "170839126"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01ps3t"
+    }
+  ]
+}

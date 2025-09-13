@@ -1,0 +1,246 @@
+{
+  "id": "Q594447",
+  "label": "Small Web Format family",
+  "facts": [
+    {
+      "property": "P11167",
+      "value": "NF00655"
+    },
+    {
+      "property": "P1163",
+      "value": "application/vnd.adobe.flash-movie"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-shockwave-flash"
+    },
+    {
+      "property": "P1163",
+      "value": "application/futuresplash"
+    },
+    {
+      "property": "P1195",
+      "value": "swf"
+    },
+    {
+      "property": "P12946",
+      "value": "swf"
+    },
+    {
+      "property": "P154",
+      "value": "Flash Player 34 SWF icon.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q11463"
+    },
+    {
+      "property": "P1889",
+      "value": "Q897128"
+    },
+    {
+      "property": "P2669",
+      "value": "+2020-12-31T00:00:00Z"
+    },
+    {
+      "property": "P279",
+      "value": "Q235557"
+    },
+    {
+      "property": "P31",
+      "value": "Q26085352"
+    },
+    {
+      "property": "P3266",
+      "value": "fdd000629"
+    },
+    {
+      "property": "P3381",
+      "value": "SWF"
+    },
+    {
+      "property": "P3553",
+      "value": "19582697"
+    },
+    {
+      "property": "P4152",
+      "value": "465753"
+    },
+    {
+      "property": "P4460",
+      "value": "swf"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0322zr"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011223"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011271"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011315"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011347"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011357"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011358"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011361"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011363"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011365"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011484"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011514"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011538"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011549"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011566"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011569"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011579"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011646"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011710"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011774"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011824"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011892"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011977"
+    },
+    {
+      "property": "P747",
+      "value": "Q29012054"
+    },
+    {
+      "property": "P747",
+      "value": "Q29012120"
+    },
+    {
+      "property": "P747",
+      "value": "Q29012190"
+    },
+    {
+      "property": "P747",
+      "value": "Q29012206"
+    },
+    {
+      "property": "P747",
+      "value": "Q29012224"
+    },
+    {
+      "property": "P747",
+      "value": "Q29012285"
+    },
+    {
+      "property": "P747",
+      "value": "Q29012350"
+    },
+    {
+      "property": "P747",
+      "value": "Q29017304"
+    },
+    {
+      "property": "P747",
+      "value": "Q29017306"
+    },
+    {
+      "property": "P747",
+      "value": "Q29017309"
+    },
+    {
+      "property": "P747",
+      "value": "Q29017311"
+    },
+    {
+      "property": "P747",
+      "value": "Q29017312"
+    },
+    {
+      "property": "P747",
+      "value": "Q29017314"
+    },
+    {
+      "property": "P747",
+      "value": "Q29011079"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.adobe.com/devnet/swf.html"
+    },
+    {
+      "property": "P973",
+      "value": "http://www.adobe.com/devnet/swf.html"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.sweetscape.com/010editor/repository/files/SWF.bt"
+    },
+    {
+      "property": "P973",
+      "value": "https://raw.githubusercontent.com/haypo/hachoir3/master/hachoir/parser/container/swf.py"
+    },
+    {
+      "property": "P973",
+      "value": "https://raw.githubusercontent.com/kaitai-io/kaitai_struct_formats/master/executable/swf.ksy"
+    },
+    {
+      "property": "P973",
+      "value": "https://github.com/ruffle-rs/ruffle/wiki/SWF-version-chart"
+    }
+  ]
+}

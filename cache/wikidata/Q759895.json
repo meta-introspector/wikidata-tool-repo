@@ -1,0 +1,38 @@
+{
+  "id": "Q759895",
+  "label": "calling convention",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q4117406"
+    },
+    {
+      "property": "P1535",
+      "value": "Q110940720"
+    },
+    {
+      "property": "P279",
+      "value": "Q367293"
+    },
+    {
+      "property": "P279",
+      "value": "Q317623"
+    },
+    {
+      "property": "P3553",
+      "value": "20035069"
+    },
+    {
+      "property": "P361",
+      "value": "Q721623"
+    },
+    {
+      "property": "P6366",
+      "value": "68648589"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05xn9n"
+    }
+  ]
+}

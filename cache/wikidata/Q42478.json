@@ -1,0 +1,1094 @@
+{
+  "id": "Q42478",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2777002779"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/perl-programming-language"
+    },
+    {
+      "property": "P11137",
+      "value": "perl"
+    },
+    {
+      "property": "P11292",
+      "value": "perl.1"
+    },
+    {
+      "property": "P11408",
+      "value": "Perl"
+    },
+    {
+      "property": "P11410",
+      "value": "perl"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-perl"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-perl"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-httpd-perl"
+    },
+    {
+      "property": "P1195",
+      "value": "pl"
+    },
+    {
+      "property": "P1195",
+      "value": "pm"
+    },
+    {
+      "property": "P12204",
+      "value": "10517"
+    },
+    {
+      "property": "P12385",
+      "value": "perl"
+    },
+    {
+      "property": "P1245",
+      "value": "1220251"
+    },
+    {
+      "property": "P12695",
+      "value": "Perl"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Perl"
+    },
+    {
+      "property": "P12873",
+      "value": "Perl"
+    },
+    {
+      "property": "P1296",
+      "value": "0518411"
+    },
+    {
+      "property": "P1324",
+      "value": "http://perl5.git.perl.org/perl.git"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/Perl/perl5"
+    },
+    {
+      "property": "P13397",
+      "value": "perl"
+    },
+    {
+      "property": "P13520",
+      "value": "1211"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/5e42381e-fa33-4a8d-8973-9fb10bd400be"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Perl"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/perl"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ja.stackoverflow.com/tags/perl"
+    },
+    {
+      "property": "P1482",
+      "value": "https://superuser.com/tags/perl"
+    },
+    {
+      "property": "P154",
+      "value": "Perl-logo.svg"
+    },
+    {
+      "property": "P170",
+      "value": "Q92597"
+    },
+    {
+      "property": "P1705",
+      "value": "Perl"
+    },
+    {
+      "property": "P178",
+      "value": "Q92597"
+    },
+    {
+      "property": "P178",
+      "value": "Q941805"
+    },
+    {
+      "property": "P18",
+      "value": "Source code in Perl.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2043979"
+    },
+    {
+      "property": "P1972",
+      "value": "perl"
+    },
+    {
+      "property": "P227",
+      "value": "4307836-9"
+    },
+    {
+      "property": "P2347",
+      "value": "16913"
+    },
+    {
+      "property": "P244",
+      "value": "sh95010633"
+    },
+    {
+      "property": "P2537",
+      "value": "Perl"
+    },
+    {
+      "property": "P268",
+      "value": "124906490"
+    },
+    {
+      "property": "P275",
+      "value": "Q713244"
+    },
+    {
+      "property": "P275",
+      "value": "Q27016750"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P287",
+      "value": "Q92597"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14646"
+    },
+    {
+      "property": "P306",
+      "value": "Q269856"
+    },
+    {
+      "property": "P306",
+      "value": "Q847593"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q187432"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3222",
+      "value": "perl-(programspråk)"
+    },
+    {
+      "property": "P3417",
+      "value": "Perl-programming-language-1"
+    },
+    {
+      "property": "P3442",
+      "value": "perl-base"
+    },
+    {
+      "property": "P3442",
+      "value": "perl"
+    },
+    {
+      "property": "P3442",
+      "value": "perl-doc"
+    },
+    {
+      "property": "P3454",
+      "value": "perl"
+    },
+    {
+      "property": "P3463",
+      "value": "perl"
+    },
+    {
+      "property": "P3473",
+      "value": "perl-base"
+    },
+    {
+      "property": "P3473",
+      "value": "perl"
+    },
+    {
+      "property": "P3473",
+      "value": "perl-doc"
+    },
+    {
+      "property": "P348",
+      "value": "5.18.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.20.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.22.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.22.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.22.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.24"
+    },
+    {
+      "property": "P348",
+      "value": "5.24.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.24.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.10"
+    },
+    {
+      "property": "P348",
+      "value": "5.26.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.16.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.14.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.12.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.8.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.005"
+    },
+    {
+      "property": "P348",
+      "value": "5.28.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.28.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.17.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.17.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.17.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.17.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.17.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.17.10"
+    },
+    {
+      "property": "P348",
+      "value": "5.17.11"
+    },
+    {
+      "property": "P348",
+      "value": "5.18.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.18.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.18.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.18.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.10"
+    },
+    {
+      "property": "P348",
+      "value": "5.19.11"
+    },
+    {
+      "property": "P348",
+      "value": "5.20.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.20.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.20.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.10"
+    },
+    {
+      "property": "P348",
+      "value": "5.21.11"
+    },
+    {
+      "property": "P348",
+      "value": "5.22.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.22.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.23.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.24.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.24.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.24.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.11"
+    },
+    {
+      "property": "P348",
+      "value": "5.25.12"
+    },
+    {
+      "property": "P348",
+      "value": "5.26.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.26.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.26.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.10"
+    },
+    {
+      "property": "P348",
+      "value": "5.27.11"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.28.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.29.10"
+    },
+    {
+      "property": "P348",
+      "value": "5.30.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.31.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.31.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.31.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.31.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.30.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.28.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.30.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.31.11"
+    },
+    {
+      "property": "P348",
+      "value": "5.32.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.33.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.32.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.33.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.34.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.34.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.36.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.000"
+    },
+    {
+      "property": "P348",
+      "value": "3.000"
+    },
+    {
+      "property": "P348",
+      "value": "4.000"
+    },
+    {
+      "property": "P348",
+      "value": "5.36.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.38.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.34.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.36.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.38.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.34.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.36.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.38.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.40.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.38.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.40.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.38.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.40.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.42.0"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/perl"
+    },
+    {
+      "property": "P3553",
+      "value": "19582234"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819227"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q386275"
+    },
+    {
+      "property": "P373",
+      "value": "Perl (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "perl_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3984",
+      "value": "perl"
+    },
+    {
+      "property": "P4073",
+      "value": "perl"
+    },
+    {
+      "property": "P4162",
+      "value": "microperl"
+    },
+    {
+      "property": "P4162",
+      "value": "perl-git"
+    },
+    {
+      "property": "P4342",
+      "value": "Perl_-_IT"
+    },
+    {
+      "property": "P4342",
+      "value": "Perl"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q9288 (heb)-Uziel302-Perl.wav"
+    },
+    {
+      "property": "P4644",
+      "value": "401eb8d8-6daa-4f8b-90ad-60afc71eb4f8"
+    },
+    {
+      "property": "P5125",
+      "value": "Q17083764"
+    },
+    {
+      "property": "P571",
+      "value": "+1987-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1987-12-18T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Perl"
+    },
+    {
+      "property": "P6293",
+      "value": "Y110120"
+    },
+    {
+      "property": "P6366",
+      "value": "2777002779"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05zrn"
+    },
+    {
+      "property": "P6611",
+      "value": "8196"
+    },
+    {
+      "property": "P6900",
+      "value": "perl"
+    },
+    {
+      "property": "P691",
+      "value": "ph117992"
+    },
+    {
+      "property": "P6931",
+      "value": "perl"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q305876"
+    },
+    {
+      "property": "P737",
+      "value": "Q213970"
+    },
+    {
+      "property": "P737",
+      "value": "Q42979"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q14663"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/perl5.30"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/perl5.28"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/perl5.26"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/perl5.32"
+    },
+    {
+      "property": "P7788",
+      "value": "perl"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/perl5"
+    },
+    {
+      "property": "P8189",
+      "value": "987007532328005171"
+    },
+    {
+      "property": "P822",
+      "value": "Q19844990"
+    },
+    {
+      "property": "P8408",
+      "value": "Perl-ProgrammingLanguage"
+    },
+    {
+      "property": "P8443",
+      "value": "perl@5.18"
+    },
+    {
+      "property": "P8443",
+      "value": "perl"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.perl.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://dev.perl.org/perl5/"
+    },
+    {
+      "property": "P8687",
+      "value": "+16050"
+    },
+    {
+      "property": "P8778",
+      "value": "library/perl"
+    },
+    {
+      "property": "P8885",
+      "value": "Perl"
+    },
+    {
+      "property": "P910",
+      "value": "Q6345187"
+    },
+    {
+      "property": "P9100",
+      "value": "perl"
+    },
+    {
+      "property": "P950",
+      "value": "XX542605"
+    },
+    {
+      "property": "P9602",
+      "value": "freshmeat_perl"
+    },
+    {
+      "property": "P9618",
+      "value": "perl"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/1252"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/KmAwe6"
+    }
+  ]
+}

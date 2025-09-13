@@ -1,0 +1,46 @@
+{
+  "id": "Q6927988",
+  "label": "Mozilla Raindrop",
+  "facts": [
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P1972",
+      "value": "mozilla-raindrop"
+    },
+    {
+      "property": "P2669",
+      "value": "+2014-00-00T00:00:00Z"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q176165"
+    },
+    {
+      "property": "P31",
+      "value": "Q1130645"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P646",
+      "value": "/m/09g7kvy"
+    },
+    {
+      "property": "P856",
+      "value": "http://labs.mozilla.com/raindrop"
+    }
+  ]
+}

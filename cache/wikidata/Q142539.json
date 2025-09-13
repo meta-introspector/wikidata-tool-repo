@@ -1,0 +1,466 @@
+{
+  "id": "Q142539",
+  "label": "Dropbox",
+  "facts": [
+    {
+      "property": "P10766",
+      "value": "dropbox"
+    },
+    {
+      "property": "P10766",
+      "value": "dropbox/208.4.5824"
+    },
+    {
+      "property": "P12077",
+      "value": "libraries/dropbox-python"
+    },
+    {
+      "property": "P12307",
+      "value": "dropbox"
+    },
+    {
+      "property": "P12561",
+      "value": "5437059"
+    },
+    {
+      "property": "P12695",
+      "value": "Dropbox"
+    },
+    {
+      "property": "P127",
+      "value": "Q15589464"
+    },
+    {
+      "property": "P1278",
+      "value": "549300JCDF7UAR6TJR51"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Dropbox"
+    },
+    {
+      "property": "P12873",
+      "value": "Dropbox"
+    },
+    {
+      "property": "P1414",
+      "value": "Q284982"
+    },
+    {
+      "property": "P1454",
+      "value": "Q88537331"
+    },
+    {
+      "property": "P154",
+      "value": "Dropbox logo 2017.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.dropbox.com"
+    },
+    {
+      "property": "P1661",
+      "value": "+87"
+    },
+    {
+      "property": "P1661",
+      "value": "+82"
+    },
+    {
+      "property": "P1661",
+      "value": "+88"
+    },
+    {
+      "property": "P1661",
+      "value": "+87"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P170",
+      "value": "Q5307199"
+    },
+    {
+      "property": "P170",
+      "value": "Q4784346"
+    },
+    {
+      "property": "P178",
+      "value": "Q15589464"
+    },
+    {
+      "property": "P18",
+      "value": "Dropbox (7463062672).jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q15589464"
+    },
+    {
+      "property": "P195",
+      "value": "Q131847864"
+    },
+    {
+      "property": "P195",
+      "value": "Q3979414"
+    },
+    {
+      "property": "P1951",
+      "value": "Q2616400"
+    },
+    {
+      "property": "P2002",
+      "value": "Dropbox"
+    },
+    {
+      "property": "P2002",
+      "value": "DropboxSupport"
+    },
+    {
+      "property": "P2002",
+      "value": "DropboxBusiness"
+    },
+    {
+      "property": "P2002",
+      "value": "dropboxapi"
+    },
+    {
+      "property": "P2013",
+      "value": "Dropbox"
+    },
+    {
+      "property": "P2397",
+      "value": "UCCCE60hbs7krfrK6mUCzqmw"
+    },
+    {
+      "property": "P2699",
+      "value": "https://www.dropbox.com/home"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q28865"
+    },
+    {
+      "property": "P2847",
+      "value": "+Dropbox"
+    },
+    {
+      "property": "P306",
+      "value": "Q43627"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q48493"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q880016"
+    },
+    {
+      "property": "P306",
+      "value": "Q483318"
+    },
+    {
+      "property": "P31",
+      "value": "Q1343205"
+    },
+    {
+      "property": "P31",
+      "value": "Q528166"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q1145523"
+    },
+    {
+      "property": "P31",
+      "value": "Q207170"
+    },
+    {
+      "property": "P31",
+      "value": "Q101408242"
+    },
+    {
+      "property": "P31",
+      "value": "Q783794"
+    },
+    {
+      "property": "P3393",
+      "value": "140536"
+    },
+    {
+      "property": "P3417",
+      "value": "Dropbox-company"
+    },
+    {
+      "property": "P3417",
+      "value": "Dropbox-com"
+    },
+    {
+      "property": "P348",
+      "value": "15.4.22"
+    },
+    {
+      "property": "P348",
+      "value": "11.4.21"
+    },
+    {
+      "property": "P348",
+      "value": "17.4.33"
+    },
+    {
+      "property": "P348",
+      "value": "16.4.29"
+    },
+    {
+      "property": "P348",
+      "value": "14.4.19"
+    },
+    {
+      "property": "P348",
+      "value": "30.4.22"
+    },
+    {
+      "property": "P348",
+      "value": "31.4.24"
+    },
+    {
+      "property": "P348",
+      "value": "56.4.94"
+    },
+    {
+      "property": "P348",
+      "value": "130.4.4978"
+    },
+    {
+      "property": "P348",
+      "value": "176.4.5108"
+    },
+    {
+      "property": "P348",
+      "value": "177.3.5390"
+    },
+    {
+      "property": "P348",
+      "value": "180.4.4912"
+    },
+    {
+      "property": "P348",
+      "value": "181.3.5515"
+    },
+    {
+      "property": "P348",
+      "value": "356.2"
+    },
+    {
+      "property": "P348",
+      "value": "356.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "188.4.6302"
+    },
+    {
+      "property": "P348",
+      "value": "213.4.4597"
+    },
+    {
+      "property": "P3499",
+      "value": "net-misc/dropbox"
+    },
+    {
+      "property": "P3553",
+      "value": "19550404"
+    },
+    {
+      "property": "P366",
+      "value": "Q2024390"
+    },
+    {
+      "property": "P366",
+      "value": "Q1145523"
+    },
+    {
+      "property": "P366",
+      "value": "Q459221"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819222"
+    },
+    {
+      "property": "P366",
+      "value": "Q2203769"
+    },
+    {
+      "property": "P373",
+      "value": "Dropbox"
+    },
+    {
+      "property": "P3797",
+      "value": "19679"
+    },
+    {
+      "property": "P3797",
+      "value": "54372"
+    },
+    {
+      "property": "P3797",
+      "value": "393874"
+    },
+    {
+      "property": "P3861",
+      "value": "327630330"
+    },
+    {
+      "property": "P400",
+      "value": "Q48493"
+    },
+    {
+      "property": "P400",
+      "value": "Q1406"
+    },
+    {
+      "property": "P4162",
+      "value": "dropbox"
+    },
+    {
+      "property": "P4264",
+      "value": "dropbox"
+    },
+    {
+      "property": "P4290",
+      "value": "Q42289466"
+    },
+    {
+      "property": "P4354",
+      "value": "https://www.dropbox.com/search/personal?query=$1"
+    },
+    {
+      "property": "P452",
+      "value": "Q914359"
+    },
+    {
+      "property": "P4527",
+      "value": "411660"
+    },
+    {
+      "property": "P4655",
+      "value": "com.dropbox.Client"
+    },
+    {
+      "property": "P5161",
+      "value": "www.dropbox.com"
+    },
+    {
+      "property": "P571",
+      "value": "+2007-00-00T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "12798"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04mzcr5"
+    },
+    {
+      "property": "P6931",
+      "value": "dropbox"
+    },
+    {
+      "property": "P750",
+      "value": "Q368215"
+    },
+    {
+      "property": "P750",
+      "value": "Q43089335"
+    },
+    {
+      "property": "P7502",
+      "value": "Dropbox-9XJREW"
+    },
+    {
+      "property": "P7788",
+      "value": "nautilus-dropbox"
+    },
+    {
+      "property": "P7936",
+      "value": "Q1444631"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.dropbox.com"
+    },
+    {
+      "property": "P8687",
+      "value": "+37700"
+    },
+    {
+      "property": "P8687",
+      "value": "+43300"
+    },
+    {
+      "property": "P8687",
+      "value": "+49700"
+    },
+    {
+      "property": "P8687",
+      "value": "+56800"
+    },
+    {
+      "property": "P8687",
+      "value": "+60600"
+    },
+    {
+      "property": "P9100",
+      "value": "dropbox"
+    },
+    {
+      "property": "P9138",
+      "value": "https://status.dropbox.com"
+    },
+    {
+      "property": "P946",
+      "value": "US26210C1045"
+    },
+    {
+      "property": "P9618",
+      "value": "dropbox"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/1002"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/dKjNo9"
+    }
+  ]
+}

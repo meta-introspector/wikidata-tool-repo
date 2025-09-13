@@ -1,0 +1,158 @@
+{
+  "id": "Q58199",
+  "label": "instant messaging",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2985487447"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/instant-messaging"
+    },
+    {
+      "property": "P10565",
+      "value": "112613"
+    },
+    {
+      "property": "P11567",
+      "value": "instant-messaging"
+    },
+    {
+      "property": "P11567",
+      "value": "im"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Messagerie_instantanée"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/aadefa93-2bf4-42d5-999c-bab13ecc89c4"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/instant-messaging"
+    },
+    {
+      "property": "P1424",
+      "value": "Q95020"
+    },
+    {
+      "property": "P1535",
+      "value": "Q2462003"
+    },
+    {
+      "property": "P1889",
+      "value": "Q7300800"
+    },
+    {
+      "property": "P1889",
+      "value": "Q17166101"
+    },
+    {
+      "property": "P244",
+      "value": "sh2002000576"
+    },
+    {
+      "property": "P279",
+      "value": "Q1472062"
+    },
+    {
+      "property": "P279",
+      "value": "Q2554719"
+    },
+    {
+      "property": "P279",
+      "value": "Q7397"
+    },
+    {
+      "property": "P31",
+      "value": "Q4485156"
+    },
+    {
+      "property": "P31",
+      "value": "Q1047113"
+    },
+    {
+      "property": "P31",
+      "value": "Q2267705"
+    },
+    {
+      "property": "P3417",
+      "value": "Instant-Messaging-IM"
+    },
+    {
+      "property": "P3553",
+      "value": "19550755"
+    },
+    {
+      "property": "P373",
+      "value": "Instant messaging"
+    },
+    {
+      "property": "P3827",
+      "value": "instant-messaging"
+    },
+    {
+      "property": "P4527",
+      "value": "502473"
+    },
+    {
+      "property": "P5250",
+      "value": "1012"
+    },
+    {
+      "property": "P5844",
+      "value": "instant-messaging_(Neologismi)"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0fj7z"
+    },
+    {
+      "property": "P6573",
+      "value": "Chat"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/16452"
+    },
+    {
+      "property": "P7870",
+      "value": "97366"
+    },
+    {
+      "property": "P8189",
+      "value": "987007566352405171"
+    },
+    {
+      "property": "P8313",
+      "value": "instant_messaging"
+    },
+    {
+      "property": "P8408",
+      "value": "InstantMessaging"
+    },
+    {
+      "property": "P8885",
+      "value": "인스턴트 메신저"
+    },
+    {
+      "property": "P910",
+      "value": "Q7335814"
+    },
+    {
+      "property": "P9309",
+      "value": "instantMessaging"
+    },
+    {
+      "property": "P9497",
+      "value": "5190"
+    },
+    {
+      "property": "P9775",
+      "value": "instant-messaging"
+    }
+  ]
+}

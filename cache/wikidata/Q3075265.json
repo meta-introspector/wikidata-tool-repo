@@ -1,0 +1,42 @@
+{
+  "id": "Q3075265",
+  "label": "pure function",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q28453809"
+    },
+    {
+      "property": "P1552",
+      "value": "Q111031095"
+    },
+    {
+      "property": "P1552",
+      "value": "Q1754278"
+    },
+    {
+      "property": "P279",
+      "value": "Q15810910"
+    },
+    {
+      "property": "P366",
+      "value": "Q907375"
+    },
+    {
+      "property": "P6366",
+      "value": "2780138546"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0dwnw7"
+    },
+    {
+      "property": "P7167",
+      "value": "Q1144241"
+    },
+    {
+      "property": "P7167",
+      "value": "Q219320"
+    }
+  ]
+}

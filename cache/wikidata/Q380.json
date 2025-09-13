@@ -1,0 +1,1246 @@
+{
+  "id": "Q380",
+  "label": "Meta",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "10033775"
+    },
+    {
+      "property": "P10206",
+      "value": "facebook"
+    },
+    {
+      "property": "P10285",
+      "value": "Meta-dd"
+    },
+    {
+      "property": "P10285",
+      "value": "Meta-dd1502f2"
+    },
+    {
+      "property": "P10311",
+      "value": "https://www.facebookcareers.com/"
+    },
+    {
+      "property": "P10311",
+      "value": "https://www.metacareers.com/"
+    },
+    {
+      "property": "P1037",
+      "value": "Q36215"
+    },
+    {
+      "property": "P1048",
+      "value": "013858983"
+    },
+    {
+      "property": "P1056",
+      "value": "Q7397"
+    },
+    {
+      "property": "P1056",
+      "value": "Q116947"
+    },
+    {
+      "property": "P1056",
+      "value": "Q355"
+    },
+    {
+      "property": "P1056",
+      "value": "Q209330"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1049511"
+    },
+    {
+      "property": "P1056",
+      "value": "Q61058404"
+    },
+    {
+      "property": "P1056",
+      "value": "Q61058409"
+    },
+    {
+      "property": "P11137",
+      "value": "meta_platforms_inc"
+    },
+    {
+      "property": "P112",
+      "value": "Q36215"
+    },
+    {
+      "property": "P112",
+      "value": "Q312663"
+    },
+    {
+      "property": "P112",
+      "value": "Q370217"
+    },
+    {
+      "property": "P112",
+      "value": "Q370321"
+    },
+    {
+      "property": "P112",
+      "value": "Q4757939"
+    },
+    {
+      "property": "P1128",
+      "value": "+10082"
+    },
+    {
+      "property": "P1128",
+      "value": "+11996"
+    },
+    {
+      "property": "P1128",
+      "value": "+9199"
+    },
+    {
+      "property": "P1128",
+      "value": "+20658"
+    },
+    {
+      "property": "P1128",
+      "value": "+23165"
+    },
+    {
+      "property": "P1128",
+      "value": "+18770"
+    },
+    {
+      "property": "P1128",
+      "value": "+2431"
+    },
+    {
+      "property": "P1128",
+      "value": "+3539"
+    },
+    {
+      "property": "P1128",
+      "value": "+35587"
+    },
+    {
+      "property": "P1128",
+      "value": "+17048"
+    },
+    {
+      "property": "P1128",
+      "value": "+58604"
+    },
+    {
+      "property": "P1128",
+      "value": "+44942"
+    },
+    {
+      "property": "P11471",
+      "value": "33817"
+    },
+    {
+      "property": "P1155",
+      "value": "60271648"
+    },
+    {
+      "property": "P1167",
+      "value": "2ec6"
+    },
+    {
+      "property": "P11686",
+      "value": "981058614753006706"
+    },
+    {
+      "property": "P11892",
+      "value": "meta"
+    },
+    {
+      "property": "P11961",
+      "value": "1978088699341142706"
+    },
+    {
+      "property": "P121",
+      "value": "Q355"
+    },
+    {
+      "property": "P127",
+      "value": "Q36215"
+    },
+    {
+      "property": "P127",
+      "value": "Q370217"
+    },
+    {
+      "property": "P127",
+      "value": "Q312663"
+    },
+    {
+      "property": "P127",
+      "value": "Q36215"
+    },
+    {
+      "property": "P127",
+      "value": "Q370217"
+    },
+    {
+      "property": "P127",
+      "value": "Q312663"
+    },
+    {
+      "property": "P127",
+      "value": "Q219635"
+    },
+    {
+      "property": "P1273",
+      "value": "a11418990"
+    },
+    {
+      "property": "P1278",
+      "value": "BQ4BKCS1HXDV9HN80Z93"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Meta_Platforms,_Inc."
+    },
+    {
+      "property": "P1297",
+      "value": "20-1665019"
+    },
+    {
+      "property": "P1320",
+      "value": "us_de/3835815"
+    },
+    {
+      "property": "P13355",
+      "value": "2763"
+    },
+    {
+      "property": "P1344",
+      "value": "Q55696286"
+    },
+    {
+      "property": "P13591",
+      "value": "group/29b75fc1-fae0-44cb-93b6-9c6e643ee465"
+    },
+    {
+      "property": "P13601",
+      "value": "40981"
+    },
+    {
+      "property": "P13738",
+      "value": "1d9b"
+    },
+    {
+      "property": "P138",
+      "value": "Q355"
+    },
+    {
+      "property": "P138",
+      "value": "Q2632041"
+    },
+    {
+      "property": "P1417",
+      "value": "money/Meta-Platforms"
+    },
+    {
+      "property": "P1424",
+      "value": "Q4734875"
+    },
+    {
+      "property": "P1448",
+      "value": "Facebook, Inc."
+    },
+    {
+      "property": "P1448",
+      "value": "TheFacebook, Inc."
+    },
+    {
+      "property": "P1448",
+      "value": "Meta Platforms, Inc."
+    },
+    {
+      "property": "P1454",
+      "value": "Q88537331"
+    },
+    {
+      "property": "P154",
+      "value": "Facebook, Inc. Logo 2019.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Meta Platforms Inc. logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Facebook New Logo (2015).svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://about.fb.com/news/"
+    },
+    {
+      "property": "P159",
+      "value": "Q74195"
+    },
+    {
+      "property": "P1617",
+      "value": "91a49307-809e-48c4-bf11-e70d7a490977"
+    },
+    {
+      "property": "P166",
+      "value": "Q4905342"
+    },
+    {
+      "property": "P169",
+      "value": "Q36215"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1789",
+      "value": "Q234653"
+    },
+    {
+      "property": "P1789",
+      "value": "Q115629292"
+    },
+    {
+      "property": "P18",
+      "value": "Meta HQ 2023.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q355"
+    },
+    {
+      "property": "P1889",
+      "value": "Q18811574"
+    },
+    {
+      "property": "P1890",
+      "value": "000730093"
+    },
+    {
+      "property": "P1951",
+      "value": "Q5359694"
+    },
+    {
+      "property": "P1951",
+      "value": "Q193326"
+    },
+    {
+      "property": "P2002",
+      "value": "Facebook"
+    },
+    {
+      "property": "P2002",
+      "value": "Meta"
+    },
+    {
+      "property": "P2003",
+      "value": "facebook"
+    },
+    {
+      "property": "P2003",
+      "value": "meta"
+    },
+    {
+      "property": "P2013",
+      "value": "Facebook"
+    },
+    {
+      "property": "P2013",
+      "value": "Meta"
+    },
+    {
+      "property": "P2037",
+      "value": "facebook"
+    },
+    {
+      "property": "P2037",
+      "value": "facebookarchive"
+    },
+    {
+      "property": "P2088",
+      "value": "facebook"
+    },
+    {
+      "property": "P213",
+      "value": "000000040615529X"
+    },
+    {
+      "property": "P2137",
+      "value": "+101054000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+84127000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+74347000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+59194000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+128290000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+55838000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+40653000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+27638000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+85965000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+70697000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+117929000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+1974000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+3711000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+5089000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+7872000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+12466000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+17928000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+116609000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+134902000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+164501000000"
+    },
+    {
+      "property": "P214",
+      "value": "2568167764296713890001"
+    },
+    {
+      "property": "P2226",
+      "value": "+1445000000000"
+    },
+    {
+      "property": "P2238",
+      "value": "Q6030066"
+    },
+    {
+      "property": "P227",
+      "value": "16072396-6"
+    },
+    {
+      "property": "P2283",
+      "value": "Q3604202"
+    },
+    {
+      "property": "P2283",
+      "value": "Q214995"
+    },
+    {
+      "property": "P2283",
+      "value": "Q48791487"
+    },
+    {
+      "property": "P2283",
+      "value": "Q60533537"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1901234"
+    },
+    {
+      "property": "P2283",
+      "value": "Q60533636"
+    },
+    {
+      "property": "P2283",
+      "value": "Q60533537"
+    },
+    {
+      "property": "P2283",
+      "value": "Q60533636"
+    },
+    {
+      "property": "P2283",
+      "value": "Q60534050"
+    },
+    {
+      "property": "P2283",
+      "value": "Q3962191"
+    },
+    {
+      "property": "P2283",
+      "value": "Q638949"
+    },
+    {
+      "property": "P2295",
+      "value": "+22112000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+15934000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+10217000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+3688000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+18485000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+29146000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+39370000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+2940000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+1500000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+53000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+1000000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+606000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+229000000"
+    },
+    {
+      "property": "P2295",
+      "value": "-56000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+23200000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+39098000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+62360000000"
+    },
+    {
+      "property": "P2397",
+      "value": "UC04FyDIvYXNecpbG8gyOw4A"
+    },
+    {
+      "property": "P2403",
+      "value": "+133376000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+97334000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+84524000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+64961000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+159316000000"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.453567.6"
+    },
+    {
+      "property": "P244",
+      "value": "n2009022167"
+    },
+    {
+      "property": "P2561",
+      "value": "Facebook"
+    },
+    {
+      "property": "P2561",
+      "value": "TheFacebook"
+    },
+    {
+      "property": "P2561",
+      "value": "Meta"
+    },
+    {
+      "property": "P269",
+      "value": "259185353"
+    },
+    {
+      "property": "P2740",
+      "value": "Facebook"
+    },
+    {
+      "property": "P2770",
+      "value": "Q37038"
+    },
+    {
+      "property": "P281",
+      "value": "94025"
+    },
+    {
+      "property": "P2828",
+      "value": "Q124917724"
+    },
+    {
+      "property": "P2828",
+      "value": "Q56952907"
+    },
+    {
+      "property": "P2828",
+      "value": "Q4919691"
+    },
+    {
+      "property": "P31",
+      "value": "Q891723"
+    },
+    {
+      "property": "P31",
+      "value": "Q18388277"
+    },
+    {
+      "property": "P31",
+      "value": "Q1641122"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P3106",
+      "value": "technology/meta"
+    },
+    {
+      "property": "P3153",
+      "value": "100005801"
+    },
+    {
+      "property": "P3222",
+      "value": "meta-platforms-inc"
+    },
+    {
+      "property": "P3225",
+      "value": "3010401084654"
+    },
+    {
+      "property": "P3320",
+      "value": "Q36215"
+    },
+    {
+      "property": "P3320",
+      "value": "Q234653"
+    },
+    {
+      "property": "P3320",
+      "value": "Q109363035"
+    },
+    {
+      "property": "P3320",
+      "value": "Q62882"
+    },
+    {
+      "property": "P3320",
+      "value": "Q5307199"
+    },
+    {
+      "property": "P3320",
+      "value": "Q6962779"
+    },
+    {
+      "property": "P3320",
+      "value": "Q822657"
+    },
+    {
+      "property": "P3320",
+      "value": "Q705525"
+    },
+    {
+      "property": "P3320",
+      "value": "Q109727298"
+    },
+    {
+      "property": "P3320",
+      "value": "Q105038817"
+    },
+    {
+      "property": "P3320",
+      "value": "Q6228096"
+    },
+    {
+      "property": "P3320",
+      "value": "Q47672827"
+    },
+    {
+      "property": "P3347",
+      "value": "4297297477"
+    },
+    {
+      "property": "P3362",
+      "value": "+32671000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+23986000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+24913000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+20203000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+12427000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+1032000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+1756000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+538000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+2804000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+4994000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+6225000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+46753000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+28944000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+46751000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+69380000000"
+    },
+    {
+      "property": "P3393",
+      "value": "33692"
+    },
+    {
+      "property": "P3417",
+      "value": "Facebook-company"
+    },
+    {
+      "property": "P3430",
+      "value": "w6295s1d"
+    },
+    {
+      "property": "P345",
+      "value": "co0321654"
+    },
+    {
+      "property": "P3461",
+      "value": "Q159"
+    },
+    {
+      "property": "P349",
+      "value": "001139710"
+    },
+    {
+      "property": "P3500",
+      "value": "342996"
+    },
+    {
+      "property": "P355",
+      "value": "Q16321326"
+    },
+    {
+      "property": "P355",
+      "value": "Q29123981"
+    },
+    {
+      "property": "P355",
+      "value": "Q52410688"
+    },
+    {
+      "property": "P355",
+      "value": "Q61058375"
+    },
+    {
+      "property": "P355",
+      "value": "Q19865830"
+    },
+    {
+      "property": "P355",
+      "value": "Q64732680"
+    },
+    {
+      "property": "P355",
+      "value": "Q92586587"
+    },
+    {
+      "property": "P355",
+      "value": "Q81063275"
+    },
+    {
+      "property": "P355",
+      "value": "Q17985544"
+    },
+    {
+      "property": "P355",
+      "value": "Q85760291"
+    },
+    {
+      "property": "P355",
+      "value": "Q106859693"
+    },
+    {
+      "property": "P355",
+      "value": "Q209330"
+    },
+    {
+      "property": "P355",
+      "value": "Q28943651"
+    },
+    {
+      "property": "P355",
+      "value": "Q110541711"
+    },
+    {
+      "property": "P355",
+      "value": "Q106859740"
+    },
+    {
+      "property": "P355",
+      "value": "Q107361304"
+    },
+    {
+      "property": "P3553",
+      "value": "19550340"
+    },
+    {
+      "property": "P361",
+      "value": "Q30748112"
+    },
+    {
+      "property": "P361",
+      "value": "Q1546793"
+    },
+    {
+      "property": "P361",
+      "value": "Q242345"
+    },
+    {
+      "property": "P361",
+      "value": "Q56276799"
+    },
+    {
+      "property": "P361",
+      "value": "Q773026"
+    },
+    {
+      "property": "P361",
+      "value": "Q133989581"
+    },
+    {
+      "property": "P361",
+      "value": "Q134661623"
+    },
+    {
+      "property": "P373",
+      "value": "Meta Platforms, Inc."
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.4.1.40981"
+    },
+    {
+      "property": "P3762",
+      "value": "158912"
+    },
+    {
+      "property": "P3788",
+      "value": "000064870"
+    },
+    {
+      "property": "P3793",
+      "value": "2a03:8180:1002:19d::/64"
+    },
+    {
+      "property": "P3793",
+      "value": "2a03:8180:1201:21::/64"
+    },
+    {
+      "property": "P3793",
+      "value": "2a03:8180:1301:35::/64"
+    },
+    {
+      "property": "P3797",
+      "value": "32934"
+    },
+    {
+      "property": "P3797",
+      "value": "63293"
+    },
+    {
+      "property": "P3847",
+      "value": "facebook_(firm)"
+    },
+    {
+      "property": "P3875",
+      "value": "facebook"
+    },
+    {
+      "property": "P4012",
+      "value": "2293100044"
+    },
+    {
+      "property": "P409",
+      "value": "49783909"
+    },
+    {
+      "property": "P414",
+      "value": "Q82059"
+    },
+    {
+      "property": "P414",
+      "value": "Q82059"
+    },
+    {
+      "property": "P4264",
+      "value": "facebook"
+    },
+    {
+      "property": "P4264",
+      "value": "meta"
+    },
+    {
+      "property": "P452",
+      "value": "Q11661"
+    },
+    {
+      "property": "P4527",
+      "value": "491080"
+    },
+    {
+      "property": "P4619",
+      "value": "000508633"
+    },
+    {
+      "property": "P463",
+      "value": "Q821542"
+    },
+    {
+      "property": "P463",
+      "value": "Q3685364"
+    },
+    {
+      "property": "P463",
+      "value": "Q61847315"
+    },
+    {
+      "property": "P463",
+      "value": "Q6542248"
+    },
+    {
+      "property": "P4691",
+      "value": "D000033563"
+    },
+    {
+      "property": "P4725",
+      "value": "54540"
+    },
+    {
+      "property": "P488",
+      "value": "Q36215"
+    },
+    {
+      "property": "P5260",
+      "value": "284882218"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR2h0ZVdaemRoSUNaVzRvQUFQAQ"
+    },
+    {
+      "property": "P5531",
+      "value": "0001326801"
+    },
+    {
+      "property": "P5551",
+      "value": "meta"
+    },
+    {
+      "property": "P571",
+      "value": "+2004-07-29T00:00:00Z"
+    },
+    {
+      "property": "P6160",
+      "value": "14516"
+    },
+    {
+      "property": "P6200",
+      "value": "cm1rm9z259kt"
+    },
+    {
+      "property": "P6262",
+      "value": "logos:Facebook, Inc."
+    },
+    {
+      "property": "P6262",
+      "value": "logo:Facebook, Inc."
+    },
+    {
+      "property": "P6262",
+      "value": "youtube:Meta"
+    },
+    {
+      "property": "P6366",
+      "value": "2252078561"
+    },
+    {
+      "property": "P6378",
+      "value": "https://s21.q4cdn.com/399680738/files/doc_downloads/governance_documents/2021/Meta-A-R-Certificate-of-Incorporation.pdf"
+    },
+    {
+      "property": "P6378",
+      "value": "https://s21.q4cdn.com/399680738/files/doc_downloads/governance_documents/2021/Meta-A-R-Bylaws-(2021).pdf"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0hmyfsv"
+    },
+    {
+      "property": "P6683",
+      "value": "256682"
+    },
+    {
+      "property": "P6760",
+      "value": "38718"
+    },
+    {
+      "property": "P6773",
+      "value": "332252"
+    },
+    {
+      "property": "P6782",
+      "value": "01zbnvs85"
+    },
+    {
+      "property": "P691",
+      "value": "kn20131217004"
+    },
+    {
+      "property": "P7014",
+      "value": "https://www.facebook.com/terms.php"
+    },
+    {
+      "property": "P7101",
+      "value": "https://www.facebook.com/policy.php"
+    },
+    {
+      "property": "P740",
+      "value": "Q49111"
+    },
+    {
+      "property": "P793",
+      "value": "Q76161284"
+    },
+    {
+      "property": "P793",
+      "value": "Q76161311"
+    },
+    {
+      "property": "P793",
+      "value": "Q76161308"
+    },
+    {
+      "property": "P8060",
+      "value": "40772"
+    },
+    {
+      "property": "P8189",
+      "value": "987007296170005171"
+    },
+    {
+      "property": "P8253",
+      "value": "meta-124efb"
+    },
+    {
+      "property": "P8253",
+      "value": "meta-918717"
+    },
+    {
+      "property": "P8501",
+      "value": "D60E8F99-4CDC-4E28-A364-C25FF8C9822D"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.meta.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+11700"
+    },
+    {
+      "property": "P8687",
+      "value": "+13484228"
+    },
+    {
+      "property": "P8687",
+      "value": "+13909057"
+    },
+    {
+      "property": "P8687",
+      "value": "+332000"
+    },
+    {
+      "property": "P8687",
+      "value": "+371000"
+    },
+    {
+      "property": "P8687",
+      "value": "+420000"
+    },
+    {
+      "property": "P8885",
+      "value": "Meta"
+    },
+    {
+      "property": "P8939",
+      "value": "Facebook"
+    },
+    {
+      "property": "P8939",
+      "value": "Meta Platforms, Inc."
+    },
+    {
+      "property": "P8972",
+      "value": "Meta Platforms Inc. logo (cropped).svg"
+    },
+    {
+      "property": "P910",
+      "value": "Q109310523"
+    },
+    {
+      "property": "P9239",
+      "value": "Q130485043"
+    },
+    {
+      "property": "P9346",
+      "value": "facebook"
+    },
+    {
+      "property": "P9346",
+      "value": "meta"
+    },
+    {
+      "property": "P9368",
+      "value": "meta-platforms"
+    },
+    {
+      "property": "P946",
+      "value": "US30303M1027"
+    },
+    {
+      "property": "P949",
+      "value": "000391954"
+    },
+    {
+      "property": "P950",
+      "value": "XX5079207"
+    },
+    {
+      "property": "P966",
+      "value": "f53ec901-8515-4af4-8358-33985fc6f526"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:datarequests@support.facebook.com"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.facebook.com/facebook/info"
+    },
+    {
+      "property": "P973",
+      "value": "http://www.fundinguniverse.com/company-histories/facebook-inc-history/"
+    },
+    {
+      "property": "P9984",
+      "value": "981058614753006706"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "Q749875",
+  "label": "autocomplete",
+  "facts": [
+    {
+      "property": "P10565",
+      "value": "184204"
+    },
+    {
+      "property": "P1269",
+      "value": "Q207434"
+    },
+    {
+      "property": "P18",
+      "value": "Autocomplete Mozilla Firefox 23 - Wikipedia de search.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q4826272"
+    },
+    {
+      "property": "P1889",
+      "value": "Q789195"
+    },
+    {
+      "property": "P2283",
+      "value": "Q748250"
+    },
+    {
+      "property": "P2283",
+      "value": "Q3621696"
+    },
+    {
+      "property": "P2283",
+      "value": "Q176645"
+    },
+    {
+      "property": "P31",
+      "value": "Q4485156"
+    },
+    {
+      "property": "P3417",
+      "value": "Autocomplete"
+    },
+    {
+      "property": "P366",
+      "value": "Q7441684"
+    },
+    {
+      "property": "P366",
+      "value": "Q900604"
+    },
+    {
+      "property": "P366",
+      "value": "Q1205587"
+    },
+    {
+      "property": "P373",
+      "value": "Software autocompletion"
+    },
+    {
+      "property": "P3827",
+      "value": "autocompletion"
+    },
+    {
+      "property": "P6366",
+      "value": "2779773234"
+    },
+    {
+      "property": "P646",
+      "value": "/m/031cp8"
+    },
+    {
+      "property": "P910",
+      "value": "Q24068286"
+    }
+  ]
+}

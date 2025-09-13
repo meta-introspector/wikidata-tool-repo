@@ -1,0 +1,46 @@
+{
+  "id": "Q85868115",
+  "label": "WebXR",
+  "facts": [
+    {
+      "property": "P11144",
+      "value": "5680169905815552"
+    },
+    {
+      "property": "P1889",
+      "value": "Q22909733"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11j4jv1g56"
+    },
+    {
+      "property": "P31",
+      "value": "Q20202982"
+    },
+    {
+      "property": "P527",
+      "value": "Q97376404"
+    },
+    {
+      "property": "P9100",
+      "value": "webxr"
+    },
+    {
+      "property": "P9151",
+      "value": "webxr"
+    },
+    {
+      "property": "P921",
+      "value": "Q170519"
+    },
+    {
+      "property": "P921",
+      "value": "Q254183"
+    },
+    {
+      "property": "P921",
+      "value": "Q466"
+    }
+  ]
+}

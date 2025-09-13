@@ -1,0 +1,462 @@
+{
+  "id": "Q83303",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10017",
+      "value": "fortran"
+    },
+    {
+      "property": "P10283",
+      "value": "C2778241615"
+    },
+    {
+      "property": "P10376",
+      "value": "earth-and-planetary-sciences/fortran"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/fortran"
+    },
+    {
+      "property": "P10565",
+      "value": "584503"
+    },
+    {
+      "property": "P11137",
+      "value": "fortran"
+    },
+    {
+      "property": "P1195",
+      "value": "f"
+    },
+    {
+      "property": "P1195",
+      "value": "for"
+    },
+    {
+      "property": "P1195",
+      "value": "f90"
+    },
+    {
+      "property": "P12385",
+      "value": "formula-translator"
+    },
+    {
+      "property": "P12695",
+      "value": "Fortran"
+    },
+    {
+      "property": "P12873",
+      "value": "Fortran"
+    },
+    {
+      "property": "P1296",
+      "value": "0027824"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/fortran-lang"
+    },
+    {
+      "property": "P1343",
+      "value": "Q85568587"
+    },
+    {
+      "property": "P13520",
+      "value": "2592"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/783c7747-a262-4f90-b6e3-59e4fbb83ae7"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/FORTRAN"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/fortran"
+    },
+    {
+      "property": "P154",
+      "value": "Fortran logo.svg"
+    },
+    {
+      "property": "P1617",
+      "value": "854c419a-a402-48d6-a468-91ee0f66863c"
+    },
+    {
+      "property": "P178",
+      "value": "Q37156"
+    },
+    {
+      "property": "P178",
+      "value": "Q92746"
+    },
+    {
+      "property": "P1814",
+      "value": "フォートラン"
+    },
+    {
+      "property": "P2002",
+      "value": "fortranlang"
+    },
+    {
+      "property": "P2037",
+      "value": "fortran-lang"
+    },
+    {
+      "property": "P227",
+      "value": "4017984-9"
+    },
+    {
+      "property": "P2347",
+      "value": "19193"
+    },
+    {
+      "property": "P244",
+      "value": "sh85050987"
+    },
+    {
+      "property": "P2581",
+      "value": "00239491n"
+    },
+    {
+      "property": "P268",
+      "value": "11931442r"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P287",
+      "value": "Q92746"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920117"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923026"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920142"
+    },
+    {
+      "property": "P3219",
+      "value": "langage-fortran"
+    },
+    {
+      "property": "P3219",
+      "value": "fortran"
+    },
+    {
+      "property": "P3222",
+      "value": "fortran"
+    },
+    {
+      "property": "P3365",
+      "value": "fortran"
+    },
+    {
+      "property": "P3381",
+      "value": "FORTRAN"
+    },
+    {
+      "property": "P3417",
+      "value": "FORTRAN-programming-language"
+    },
+    {
+      "property": "P3417",
+      "value": "Fortran-1"
+    },
+    {
+      "property": "P348",
+      "value": "Fortran 2023"
+    },
+    {
+      "property": "P3553",
+      "value": "19572884"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819227"
+    },
+    {
+      "property": "P366",
+      "value": "Q217602"
+    },
+    {
+      "property": "P373",
+      "value": "Fortran"
+    },
+    {
+      "property": "P3827",
+      "value": "fortran"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4307787"
+    },
+    {
+      "property": "P3984",
+      "value": "fortran"
+    },
+    {
+      "property": "P4342",
+      "value": "Fortran"
+    },
+    {
+      "property": "P4746",
+      "value": "073999"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"Fortran::3734k\"]"
+    },
+    {
+      "property": "P4969",
+      "value": "Q1050459"
+    },
+    {
+      "property": "P4969",
+      "value": "Q5426889"
+    },
+    {
+      "property": "P4969",
+      "value": "Q7390955"
+    },
+    {
+      "property": "P4969",
+      "value": "Q4115288"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "fortran-informatik"
+    },
+    {
+      "property": "P571",
+      "value": "+1957-00-00T00:00:00Z"
+    },
+    {
+      "property": "P5844",
+      "value": "fortran"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "code:FORTRAN"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:FORTRAN"
+    },
+    {
+      "property": "P6293",
+      "value": "Y94115"
+    },
+    {
+      "property": "P6366",
+      "value": "2778241615"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02_94"
+    },
+    {
+      "property": "P6611",
+      "value": "199"
+    },
+    {
+      "property": "P6857",
+      "value": "C6201"
+    },
+    {
+      "property": "P6857",
+      "value": "C6202"
+    },
+    {
+      "property": "P6857",
+      "value": "C6203"
+    },
+    {
+      "property": "P6857",
+      "value": "X3001"
+    },
+    {
+      "property": "P691",
+      "value": "ph117563"
+    },
+    {
+      "property": "P7078",
+      "value": "Q17123089"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q7475416"
+    },
+    {
+      "property": "P747",
+      "value": "Q28555916"
+    },
+    {
+      "property": "P747",
+      "value": "Q28555914"
+    },
+    {
+      "property": "P747",
+      "value": "Q28555909"
+    },
+    {
+      "property": "P747",
+      "value": "Q28555904"
+    },
+    {
+      "property": "P747",
+      "value": "Q28555898"
+    },
+    {
+      "property": "P747",
+      "value": "Q11199679"
+    },
+    {
+      "property": "P747",
+      "value": "Q20754790"
+    },
+    {
+      "property": "P747",
+      "value": "Q5472707"
+    },
+    {
+      "property": "P747",
+      "value": "Q28555809"
+    },
+    {
+      "property": "P747",
+      "value": "Q28555829"
+    },
+    {
+      "property": "P747",
+      "value": "Q28561809"
+    },
+    {
+      "property": "P747",
+      "value": "Q126707438"
+    },
+    {
+      "property": "P7726",
+      "value": "FORTRAN"
+    },
+    {
+      "property": "P8189",
+      "value": "987007548255305171"
+    },
+    {
+      "property": "P8313",
+      "value": "Fortran"
+    },
+    {
+      "property": "P8408",
+      "value": "Fortran"
+    },
+    {
+      "property": "P856",
+      "value": "https://fortran-lang.org"
+    },
+    {
+      "property": "P910",
+      "value": "Q8468654"
+    },
+    {
+      "property": "P9100",
+      "value": "fortran"
+    },
+    {
+      "property": "P920",
+      "value": "LEM201003932"
+    },
+    {
+      "property": "P950",
+      "value": "XX531008"
+    },
+    {
+      "property": "P9545",
+      "value": "249542"
+    },
+    {
+      "property": "P9621",
+      "value": "fortran"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/484"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/piir0h"
+    },
+    {
+      "property": "P998",
+      "value": "Computers/Programming/Languages/Fortran/"
+    }
+  ]
+}

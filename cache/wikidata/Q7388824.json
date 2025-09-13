@@ -1,0 +1,62 @@
+{
+  "id": "Q7388824",
+  "label": "SAS Language",
+  "facts": [
+    {
+      "property": "P13591",
+      "value": "concept/b53c1b96-3464-4df0-b392-6a69f10ea86d"
+    },
+    {
+      "property": "P1535",
+      "value": "Q2003932"
+    },
+    {
+      "property": "P178",
+      "value": "Q4772827"
+    },
+    {
+      "property": "P244",
+      "value": "sh2005006970"
+    },
+    {
+      "property": "P287",
+      "value": "Q4772827"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q238137"
+    },
+    {
+      "property": "P366",
+      "value": "Q117801"
+    },
+    {
+      "property": "P366",
+      "value": "Q1988917"
+    },
+    {
+      "property": "P373",
+      "value": "SAS (programming language)"
+    },
+    {
+      "property": "P4644",
+      "value": "04f1b938-d4d4-4cb1-a863-982af76b9d93"
+    },
+    {
+      "property": "P6366",
+      "value": "66143551"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04j9q4g"
+    },
+    {
+      "property": "P8189",
+      "value": "987007530542905171"
+    }
+  ]
+}

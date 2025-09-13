@@ -1,0 +1,22 @@
+{
+  "id": "Q1141188",
+  "label": "XPCOM",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q1523378"
+    },
+    {
+      "property": "P3417",
+      "value": "XPCOM"
+    },
+    {
+      "property": "P6366",
+      "value": "2777598861"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0kwhn"
+    }
+  ]
+}

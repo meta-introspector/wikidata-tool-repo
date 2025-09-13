@@ -1,0 +1,126 @@
+{
+  "id": "Q194152",
+  "label": "parsing",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C186644900"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/parsing"
+    },
+    {
+      "property": "P10565",
+      "value": "91747"
+    },
+    {
+      "property": "P11129",
+      "value": "Parser"
+    },
+    {
+      "property": "P1245",
+      "value": "1099048"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/parsing"
+    },
+    {
+      "property": "P18",
+      "value": "Parsing.png"
+    },
+    {
+      "property": "P2579",
+      "value": "Q30642"
+    },
+    {
+      "property": "P2579",
+      "value": "Q21198"
+    },
+    {
+      "property": "P2579",
+      "value": "Q3984091"
+    },
+    {
+      "property": "P2579",
+      "value": "Q1121462"
+    },
+    {
+      "property": "P2738",
+      "value": "Q23766486"
+    },
+    {
+      "property": "P279",
+      "value": "Q3249551"
+    },
+    {
+      "property": "P31",
+      "value": "Q1047113"
+    },
+    {
+      "property": "P31",
+      "value": "Q2267705"
+    },
+    {
+      "property": "P3417",
+      "value": "Parsers"
+    },
+    {
+      "property": "P3417",
+      "value": "Parsing-computer-term"
+    },
+    {
+      "property": "P3553",
+      "value": "19656464"
+    },
+    {
+      "property": "P373",
+      "value": "Parsing"
+    },
+    {
+      "property": "P3827",
+      "value": "syntactic-analysis"
+    },
+    {
+      "property": "P6366",
+      "value": "186644900"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01t1rz"
+    },
+    {
+      "property": "P6611",
+      "value": "1910"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/15592"
+    },
+    {
+      "property": "P7276",
+      "value": "PARSING"
+    },
+    {
+      "property": "P8408",
+      "value": "NaturalLanguageParsing"
+    },
+    {
+      "property": "P8885",
+      "value": "파싱"
+    },
+    {
+      "property": "P910",
+      "value": "Q7013893"
+    },
+    {
+      "property": "P9100",
+      "value": "parsing"
+    },
+    {
+      "property": "P9309",
+      "value": "parsing"
+    }
+  ]
+}

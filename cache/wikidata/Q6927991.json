@@ -1,0 +1,86 @@
+{
+  "id": "Q6927991",
+  "label": "Mozilla Skywriter",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q111431164"
+    },
+    {
+      "property": "P1072",
+      "value": "Q111431061"
+    },
+    {
+      "property": "P1072",
+      "value": "Q27826463"
+    },
+    {
+      "property": "P1072",
+      "value": "Q62626012"
+    },
+    {
+      "property": "P1072",
+      "value": "Q5924007"
+    },
+    {
+      "property": "P1072",
+      "value": "Q26697935"
+    },
+    {
+      "property": "P1072",
+      "value": "Q15955723"
+    },
+    {
+      "property": "P1072",
+      "value": "Q111440765"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/skywriter"
+    },
+    {
+      "property": "P1366",
+      "value": "Q339893"
+    },
+    {
+      "property": "P1972",
+      "value": "Mozilla_Skywriter"
+    },
+    {
+      "property": "P275",
+      "value": "Q26737735"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q1330336"
+    },
+    {
+      "property": "P31",
+      "value": "Q522972"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05h3jtw"
+    },
+    {
+      "property": "P856",
+      "value": "http://mozillalabs.com/skywriter/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozillalabs.com/en-US/skywriter/"
+    }
+  ]
+}

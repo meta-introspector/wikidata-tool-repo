@@ -1,0 +1,78 @@
+{
+  "id": "Q2274332",
+  "label": "illumos",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://github.com/illumos"
+    },
+    {
+      "property": "P1324",
+      "value": "https://code.illumos.org/"
+    },
+    {
+      "property": "P144",
+      "value": "Q237580"
+    },
+    {
+      "property": "P154",
+      "value": "Illumos textlogo.svg"
+    },
+    {
+      "property": "P1814",
+      "value": "イルモス"
+    },
+    {
+      "property": "P2037",
+      "value": "illumos"
+    },
+    {
+      "property": "P2078",
+      "value": "https://illumos.org/man"
+    },
+    {
+      "property": "P2078",
+      "value": "https://illumos.org/docs/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://illumos.org/books/"
+    },
+    {
+      "property": "P275",
+      "value": "Q304628"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P31",
+      "value": "Q11368"
+    },
+    {
+      "property": "P3417",
+      "value": "Illumos"
+    },
+    {
+      "property": "P373",
+      "value": "Illumos"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0cnzxy9"
+    },
+    {
+      "property": "P856",
+      "value": "https://illumos.org/"
+    }
+  ]
+}

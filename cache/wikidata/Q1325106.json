@@ -1,0 +1,34 @@
+{
+  "id": "Q1325106",
+  "label": "optimizing compiler",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C190902152"
+    },
+    {
+      "property": "P2283",
+      "value": "Q28057154"
+    },
+    {
+      "property": "P279",
+      "value": "Q47506"
+    },
+    {
+      "property": "P3417",
+      "value": "Compiler-Optimization"
+    },
+    {
+      "property": "P6366",
+      "value": "190902152"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0b1tj"
+    },
+    {
+      "property": "P6611",
+      "value": "77"
+    }
+  ]
+}

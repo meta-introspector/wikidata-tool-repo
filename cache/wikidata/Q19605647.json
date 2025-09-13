@@ -1,0 +1,38 @@
+{
+  "id": "Q19605647",
+  "label": "Mozilla Location Service",
+  "facts": [
+    {
+      "property": "P127",
+      "value": "Q9661"
+    },
+    {
+      "property": "P178",
+      "value": "Q124890592"
+    },
+    {
+      "property": "P275",
+      "value": "Q6938433"
+    },
+    {
+      "property": "P31",
+      "value": "Q19967801"
+    },
+    {
+      "property": "P571",
+      "value": "+2013-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q88088423"
+    },
+    {
+      "property": "P646",
+      "value": "/m/012snx5v"
+    },
+    {
+      "property": "P856",
+      "value": "https://location.services.mozilla.com"
+    }
+  ]
+}

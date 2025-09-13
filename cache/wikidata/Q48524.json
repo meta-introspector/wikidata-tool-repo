@@ -1,0 +1,1182 @@
+{
+  "id": "Q48524",
+  "label": "Chromium",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q105849731"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105849731"
+    },
+    {
+      "property": "P10766",
+      "value": "chromium"
+    },
+    {
+      "property": "P10766",
+      "value": "chromium/129.0.6668.71"
+    },
+    {
+      "property": "P11197",
+      "value": "Q28975257"
+    },
+    {
+      "property": "P11197",
+      "value": "Q84761117"
+    },
+    {
+      "property": "P112",
+      "value": "Q95"
+    },
+    {
+      "property": "P11254",
+      "value": "https://translations.launchpad.net/chromium-browser"
+    },
+    {
+      "property": "P11292",
+      "value": "chromium.1"
+    },
+    {
+      "property": "P11292",
+      "value": "chromium-browser.1"
+    },
+    {
+      "property": "P12030",
+      "value": "chromium-browser"
+    },
+    {
+      "property": "P12561",
+      "value": "5329444"
+    },
+    {
+      "property": "P12695",
+      "value": "Chromium"
+    },
+    {
+      "property": "P12873",
+      "value": "Chromium"
+    },
+    {
+      "property": "P1324",
+      "value": "https://chromium.googlesource.com/chromium/src"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/chromium/chromium"
+    },
+    {
+      "property": "P1343",
+      "value": "Q130272876"
+    },
+    {
+      "property": "P13616",
+      "value": "de/Chromium"
+    },
+    {
+      "property": "P13616",
+      "value": "zh_CN/Chromium"
+    },
+    {
+      "property": "P138",
+      "value": "Q725"
+    },
+    {
+      "property": "P1401",
+      "value": "https://bugs.chromium.org/p/chromium/issues/list"
+    },
+    {
+      "property": "P144",
+      "value": "Q654034"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/chromium"
+    },
+    {
+      "property": "P154",
+      "value": "Chromium logo with wordmark.png"
+    },
+    {
+      "property": "P154",
+      "value": "Chromium 11 Wordmark Logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Chromium 11 Logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Chromium Material Icon.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Chromium Logo.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "http://blog.chromium.org/"
+    },
+    {
+      "property": "P18",
+      "value": "Chromium 131 on Linux screenshot.webp"
+    },
+    {
+      "property": "P1889",
+      "value": "Q777"
+    },
+    {
+      "property": "P1889",
+      "value": "Q725"
+    },
+    {
+      "property": "P1889",
+      "value": "Q17086855"
+    },
+    {
+      "property": "P1972",
+      "value": "chromium"
+    },
+    {
+      "property": "P2002",
+      "value": "ChromiumDev"
+    },
+    {
+      "property": "P2283",
+      "value": "Q116039255"
+    },
+    {
+      "property": "P2283",
+      "value": "Q28975257"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P275",
+      "value": "Q15477153"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q18491847"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q251"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q28865"
+    },
+    {
+      "property": "P277",
+      "value": "Q165436"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q758895"
+    },
+    {
+      "property": "P31",
+      "value": "Q1637192"
+    },
+    {
+      "property": "P3417",
+      "value": "Chromium-web-browser"
+    },
+    {
+      "property": "P3417",
+      "value": "Chromium-software"
+    },
+    {
+      "property": "P3442",
+      "value": "chromium"
+    },
+    {
+      "property": "P3454",
+      "value": "chromium"
+    },
+    {
+      "property": "P3463",
+      "value": "chromium"
+    },
+    {
+      "property": "P3473",
+      "value": "chromium-browser"
+    },
+    {
+      "property": "P348",
+      "value": "62.0.3196.2"
+    },
+    {
+      "property": "P348",
+      "value": "64.0.3282.67"
+    },
+    {
+      "property": "P348",
+      "value": "64.0.3282.104"
+    },
+    {
+      "property": "P348",
+      "value": "65.0.3324.4"
+    },
+    {
+      "property": "P348",
+      "value": "64.0.3282.119"
+    },
+    {
+      "property": "P348",
+      "value": "65.0.3325.37"
+    },
+    {
+      "property": "P348",
+      "value": "64.0.3282.139"
+    },
+    {
+      "property": "P348",
+      "value": "66.0.3335.2"
+    },
+    {
+      "property": "P348",
+      "value": "64.0.3282.140"
+    },
+    {
+      "property": "P348",
+      "value": "66.0.3344.4"
+    },
+    {
+      "property": "P348",
+      "value": "65.0.3325.166"
+    },
+    {
+      "property": "P348",
+      "value": "66.0.3359.32"
+    },
+    {
+      "property": "P348",
+      "value": "65.0.3325.198"
+    },
+    {
+      "property": "P348",
+      "value": "66.0.3359.68"
+    },
+    {
+      "property": "P348",
+      "value": "67.0.3382.0"
+    },
+    {
+      "property": "P348",
+      "value": "73.0.3635.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.0.3904.70"
+    },
+    {
+      "property": "P348",
+      "value": "80.0.3987.87"
+    },
+    {
+      "property": "P348",
+      "value": "81.0.4044.62"
+    },
+    {
+      "property": "P348",
+      "value": "79.0.3945.79"
+    },
+    {
+      "property": "P348",
+      "value": "81.0.4044.138"
+    },
+    {
+      "property": "P348",
+      "value": "83.0.4103.60"
+    },
+    {
+      "property": "P348",
+      "value": "84.0.4147.89"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.75"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.93"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.99"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.111"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.110"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.114"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.183"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.185"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.193"
+    },
+    {
+      "property": "P348",
+      "value": "86.0.4240.198"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.66"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.60"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.67"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.77"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.86"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.88"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.101"
+    },
+    {
+      "property": "P348",
+      "value": "87.0.4280.141"
+    },
+    {
+      "property": "P348",
+      "value": "88.0.4324.96"
+    },
+    {
+      "property": "P348",
+      "value": "88.0.4324.96"
+    },
+    {
+      "property": "P348",
+      "value": "88.0.4324.93"
+    },
+    {
+      "property": "P348",
+      "value": "88.0.4324.104"
+    },
+    {
+      "property": "P348",
+      "value": "90.0.4430.72"
+    },
+    {
+      "property": "P348",
+      "value": "91.0.4472.124"
+    },
+    {
+      "property": "P348",
+      "value": "92.0.4515.131"
+    },
+    {
+      "property": "P348",
+      "value": "95.0.4638.74"
+    },
+    {
+      "property": "P348",
+      "value": "96.0.4664.45"
+    },
+    {
+      "property": "P348",
+      "value": "96.0.4664.110"
+    },
+    {
+      "property": "P348",
+      "value": "102.0.5005.115"
+    },
+    {
+      "property": "P348",
+      "value": "103.0.5060.114"
+    },
+    {
+      "property": "P348",
+      "value": "104.0.5112.39"
+    },
+    {
+      "property": "P348",
+      "value": "105.0.5195.127"
+    },
+    {
+      "property": "P348",
+      "value": "106.0.5249.40"
+    },
+    {
+      "property": "P348",
+      "value": "106.0.5249.91"
+    },
+    {
+      "property": "P348",
+      "value": "107.0.5304.18"
+    },
+    {
+      "property": "P348",
+      "value": "107.0.5304.62"
+    },
+    {
+      "property": "P348",
+      "value": "108.0.5359.79"
+    },
+    {
+      "property": "P348",
+      "value": "108.0.5359.99"
+    },
+    {
+      "property": "P348",
+      "value": "108.0.5359.98"
+    },
+    {
+      "property": "P348",
+      "value": "110.0.5481.64"
+    },
+    {
+      "property": "P348",
+      "value": "110.0.5481.78"
+    },
+    {
+      "property": "P348",
+      "value": "110.0.5481.77"
+    },
+    {
+      "property": "P348",
+      "value": "112.0.5615.121"
+    },
+    {
+      "property": "P348",
+      "value": "112.0.5615.101"
+    },
+    {
+      "property": "P348",
+      "value": "112.0.5615.121"
+    },
+    {
+      "property": "P348",
+      "value": "114.0.5735.110"
+    },
+    {
+      "property": "P348",
+      "value": "114.0.5735.61"
+    },
+    {
+      "property": "P348",
+      "value": "114.0.5735.106"
+    },
+    {
+      "property": "P348",
+      "value": "117.0.5938.92"
+    },
+    {
+      "property": "P348",
+      "value": "117.0.5938.60"
+    },
+    {
+      "property": "P348",
+      "value": "118.0.5993.117"
+    },
+    {
+      "property": "P348",
+      "value": "119.0.6045.53"
+    },
+    {
+      "property": "P348",
+      "value": "120.0.6099.44"
+    },
+    {
+      "property": "P348",
+      "value": "120.0.6099.109"
+    },
+    {
+      "property": "P348",
+      "value": "120.0.6099.110"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.6943.39"
+    },
+    {
+      "property": "P348",
+      "value": "132.0.6834.159"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.6943.127"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.6943.51"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.6943.126"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.48"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.44"
+    },
+    {
+      "property": "P348",
+      "value": "135.0.7049.114"
+    },
+    {
+      "property": "P348",
+      "value": "115.0.5790.102"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.6943.127"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.6943.120"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.49"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.92"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.93"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.115"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.94"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.7103.116"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.40"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.41"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.55"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.56"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.68"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.57"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.69"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.70"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.103"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.170"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.139"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.138"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.129"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.128"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.127"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.68"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.67"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.7258.66"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.185"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.184"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.183"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.169"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.168"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.159"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.158"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.157"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.102"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.98"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.101"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.100"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.97"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.96"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.51"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.50"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.49"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.7204.35"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.122"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.121"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.120"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.119"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.105"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.7151.104"
+    },
+    {
+      "property": "P348",
+      "value": "140.0.7339.35"
+    },
+    {
+      "property": "P3499",
+      "value": "www-client/chromium"
+    },
+    {
+      "property": "P3553",
+      "value": "19557071"
+    },
+    {
+      "property": "P366",
+      "value": "Q7978592"
+    },
+    {
+      "property": "P373",
+      "value": "Chromium (web browser)"
+    },
+    {
+      "property": "P3802",
+      "value": "chromium-browser"
+    },
+    {
+      "property": "P407",
+      "value": "Q28244"
+    },
+    {
+      "property": "P407",
+      "value": "Q13955"
+    },
+    {
+      "property": "P407",
+      "value": "Q9610"
+    },
+    {
+      "property": "P407",
+      "value": "Q750553"
+    },
+    {
+      "property": "P407",
+      "value": "Q7918"
+    },
+    {
+      "property": "P407",
+      "value": "Q7026"
+    },
+    {
+      "property": "P407",
+      "value": "Q13414913"
+    },
+    {
+      "property": "P407",
+      "value": "Q37041"
+    },
+    {
+      "property": "P407",
+      "value": "Q6654"
+    },
+    {
+      "property": "P407",
+      "value": "Q9056"
+    },
+    {
+      "property": "P407",
+      "value": "Q9035"
+    },
+    {
+      "property": "P407",
+      "value": "Q7411"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q9072"
+    },
+    {
+      "property": "P407",
+      "value": "Q33298"
+    },
+    {
+      "property": "P407",
+      "value": "Q1412"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P407",
+      "value": "Q8108"
+    },
+    {
+      "property": "P407",
+      "value": "Q188"
+    },
+    {
+      "property": "P407",
+      "value": "Q9129"
+    },
+    {
+      "property": "P407",
+      "value": "Q9288"
+    },
+    {
+      "property": "P407",
+      "value": "Q1568"
+    },
+    {
+      "property": "P407",
+      "value": "Q9067"
+    },
+    {
+      "property": "P407",
+      "value": "Q9240"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P407",
+      "value": "Q33673"
+    },
+    {
+      "property": "P407",
+      "value": "Q9176"
+    },
+    {
+      "property": "P407",
+      "value": "Q9078"
+    },
+    {
+      "property": "P407",
+      "value": "Q9083"
+    },
+    {
+      "property": "P407",
+      "value": "Q9237"
+    },
+    {
+      "property": "P407",
+      "value": "Q36236"
+    },
+    {
+      "property": "P407",
+      "value": "Q1571"
+    },
+    {
+      "property": "P407",
+      "value": "Q25167"
+    },
+    {
+      "property": "P407",
+      "value": "Q9168"
+    },
+    {
+      "property": "P407",
+      "value": "Q809"
+    },
+    {
+      "property": "P407",
+      "value": "Q5146"
+    },
+    {
+      "property": "P407",
+      "value": "Q7913"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q9299"
+    },
+    {
+      "property": "P407",
+      "value": "Q9058"
+    },
+    {
+      "property": "P407",
+      "value": "Q9063"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P407",
+      "value": "Q7838"
+    },
+    {
+      "property": "P407",
+      "value": "Q9027"
+    },
+    {
+      "property": "P407",
+      "value": "Q5885"
+    },
+    {
+      "property": "P407",
+      "value": "Q8097"
+    },
+    {
+      "property": "P407",
+      "value": "Q9217"
+    },
+    {
+      "property": "P407",
+      "value": "Q256"
+    },
+    {
+      "property": "P407",
+      "value": "Q8798"
+    },
+    {
+      "property": "P407",
+      "value": "Q9199"
+    },
+    {
+      "property": "P408",
+      "value": "Q574992"
+    },
+    {
+      "property": "P408",
+      "value": "Q9603949"
+    },
+    {
+      "property": "P408",
+      "value": "Q7534974"
+    },
+    {
+      "property": "P4107",
+      "value": "chromium"
+    },
+    {
+      "property": "P4162",
+      "value": "chromium-dev"
+    },
+    {
+      "property": "P4435",
+      "value": "chromium"
+    },
+    {
+      "property": "P452",
+      "value": "Q880371"
+    },
+    {
+      "property": "P4655",
+      "value": "org.chromium.Chromium"
+    },
+    {
+      "property": "P571",
+      "value": "+2008-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2008-09-03T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "logos:Chromium"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:Chromium"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Chromium"
+    },
+    {
+      "property": "P646",
+      "value": "/m/064qsgg"
+    },
+    {
+      "property": "P6665",
+      "value": "14959"
+    },
+    {
+      "property": "P6900",
+      "value": "chromium"
+    },
+    {
+      "property": "P6931",
+      "value": "chromium"
+    },
+    {
+      "property": "P737",
+      "value": "Q698"
+    },
+    {
+      "property": "P737",
+      "value": "Q35773"
+    },
+    {
+      "property": "P7427",
+      "value": "www/chromium"
+    },
+    {
+      "property": "P7788",
+      "value": "chromium"
+    },
+    {
+      "property": "P7967",
+      "value": "www/chromium"
+    },
+    {
+      "property": "P8209",
+      "value": "22"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.chromium.org/Home"
+    },
+    {
+      "property": "P8687",
+      "value": "+390797"
+    },
+    {
+      "property": "P8956",
+      "value": "Q113688157"
+    },
+    {
+      "property": "P910",
+      "value": "Q7581993"
+    },
+    {
+      "property": "P9100",
+      "value": "chromium"
+    },
+    {
+      "property": "P935",
+      "value": "Chromium (web browser)"
+    },
+    {
+      "property": "P9618",
+      "value": "chromium"
+    }
+  ]
+}

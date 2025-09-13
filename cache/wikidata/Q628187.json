@@ -1,0 +1,62 @@
+{
+  "id": "Q628187",
+  "label": "Mozilla Calendar Project",
+  "facts": [
+    {
+      "property": "P1366",
+      "value": "Q387313"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Mozilla calendar.PNG"
+    },
+    {
+      "property": "P1972",
+      "value": "MozillaCalendar"
+    },
+    {
+      "property": "P275",
+      "value": "Q27016752"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q26737735"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q2933820"
+    },
+    {
+      "property": "P31",
+      "value": "Q7593080"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0cp2h0"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozilla.org/projects/calendar"
+    }
+  ]
+}

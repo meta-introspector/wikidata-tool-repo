@@ -1,0 +1,18 @@
+{
+  "id": "Q4135245",
+  "label": "generational list of programming languages",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q13406463"
+    },
+    {
+      "property": "P360",
+      "value": "Q9143"
+    },
+    {
+      "property": "P373",
+      "value": "Tree diagrams of the history of programming languages"
+    }
+  ]
+}

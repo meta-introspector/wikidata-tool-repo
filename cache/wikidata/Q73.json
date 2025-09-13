@@ -1,0 +1,270 @@
+{
+  "id": "Q73",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10291",
+      "value": "12400"
+    },
+    {
+      "property": "P11714",
+      "value": "Team_Fortress_Wiki:IRC"
+    },
+    {
+      "property": "P12086",
+      "value": "Internet_Relay_Chat"
+    },
+    {
+      "property": "P1245",
+      "value": "1081615"
+    },
+    {
+      "property": "P12695",
+      "value": "IRC"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:IRC"
+    },
+    {
+      "property": "P12984",
+      "value": "3520"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47286131"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47484234"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47165334"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47456336"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47467779"
+    },
+    {
+      "property": "P1343",
+      "value": "Q3415157"
+    },
+    {
+      "property": "P13520",
+      "value": "2552"
+    },
+    {
+      "property": "P1424",
+      "value": "Q25942051"
+    },
+    {
+      "property": "P1449",
+      "value": "irkki"
+    },
+    {
+      "property": "P1641",
+      "value": "+194"
+    },
+    {
+      "property": "P1641",
+      "value": "+194"
+    },
+    {
+      "property": "P1641",
+      "value": "+6697"
+    },
+    {
+      "property": "P1641",
+      "value": "+6667"
+    },
+    {
+      "property": "P1641",
+      "value": "+6665"
+    },
+    {
+      "property": "P1641",
+      "value": "+6666"
+    },
+    {
+      "property": "P1641",
+      "value": "+6668"
+    },
+    {
+      "property": "P1641",
+      "value": "+6669"
+    },
+    {
+      "property": "P1641",
+      "value": "+6665"
+    },
+    {
+      "property": "P1641",
+      "value": "+6666"
+    },
+    {
+      "property": "P1641",
+      "value": "+6667"
+    },
+    {
+      "property": "P1641",
+      "value": "+6668"
+    },
+    {
+      "property": "P1641",
+      "value": "+6669"
+    },
+    {
+      "property": "P1687",
+      "value": "P1613"
+    },
+    {
+      "property": "P18",
+      "value": "WeeChat 3.4 screenshot.png"
+    },
+    {
+      "property": "P1813",
+      "value": "IRC"
+    },
+    {
+      "property": "P1889",
+      "value": "Q7409299"
+    },
+    {
+      "property": "P2581",
+      "value": "00683774n"
+    },
+    {
+      "property": "P31",
+      "value": "Q287198"
+    },
+    {
+      "property": "P31",
+      "value": "Q15836568"
+    },
+    {
+      "property": "P31",
+      "value": "Q340169"
+    },
+    {
+      "property": "P31",
+      "value": "Q146813"
+    },
+    {
+      "property": "P31",
+      "value": "Q16935517"
+    },
+    {
+      "property": "P3222",
+      "value": "irc"
+    },
+    {
+      "property": "P3417",
+      "value": "Internet-Relay-Chat-IRC"
+    },
+    {
+      "property": "P3553",
+      "value": "19578410"
+    },
+    {
+      "property": "P373",
+      "value": "IRC"
+    },
+    {
+      "property": "P3984",
+      "value": "irc"
+    },
+    {
+      "property": "P4342",
+      "value": "IRC"
+    },
+    {
+      "property": "P4742",
+      "value": "irc"
+    },
+    {
+      "property": "P4742",
+      "value": "ircs"
+    },
+    {
+      "property": "P5019",
+      "value": "irc"
+    },
+    {
+      "property": "P571",
+      "value": "+1989-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1988-00-00T00:00:00Z"
+    },
+    {
+      "property": "P5805",
+      "value": "Q189768"
+    },
+    {
+      "property": "P5814",
+      "value": "irc"
+    },
+    {
+      "property": "P5814",
+      "value": "ircu"
+    },
+    {
+      "property": "P5814",
+      "value": "ircs-u"
+    },
+    {
+      "property": "P61",
+      "value": "Q1995054"
+    },
+    {
+      "property": "P6366",
+      "value": "2776376212"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03t2s"
+    },
+    {
+      "property": "P6706",
+      "value": "IRC"
+    },
+    {
+      "property": "P6900",
+      "value": "irc"
+    },
+    {
+      "property": "P737",
+      "value": "Q878833"
+    },
+    {
+      "property": "P8408",
+      "value": "InternetRelayChat"
+    },
+    {
+      "property": "P910",
+      "value": "Q7459541"
+    },
+    {
+      "property": "P935",
+      "value": "IRC"
+    },
+    {
+      "property": "P9621",
+      "value": "irc"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.ionos.de/digitalguide/server/knowhow/irc/"
+    },
+    {
+      "property": "P9827",
+      "value": "000181"
+    }
+  ]
+}

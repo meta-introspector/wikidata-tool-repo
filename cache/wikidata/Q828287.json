@@ -1,0 +1,114 @@
+{
+  "id": "Q828287",
+  "label": "IEEE 754",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C137231763"
+    },
+    {
+      "property": "P10565",
+      "value": "31447"
+    },
+    {
+      "property": "P123",
+      "value": "Q131566"
+    },
+    {
+      "property": "P12946",
+      "value": "IEEE+754"
+    },
+    {
+      "property": "P1448",
+      "value": "IEEE Standard for Floating-Point Arithmetic"
+    },
+    {
+      "property": "P1462",
+      "value": "Q131566"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/ieee-754"
+    },
+    {
+      "property": "P279",
+      "value": "Q55755785"
+    },
+    {
+      "property": "P3381",
+      "value": "IEEE_floating_point"
+    },
+    {
+      "property": "P3417",
+      "value": "Ieee754"
+    },
+    {
+      "property": "P3553",
+      "value": "19847340"
+    },
+    {
+      "property": "P373",
+      "value": "IEEE 754"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P527",
+      "value": "Q1994657"
+    },
+    {
+      "property": "P527",
+      "value": "Q1307173"
+    },
+    {
+      "property": "P527",
+      "value": "Q1243369"
+    },
+    {
+      "property": "P527",
+      "value": "Q448573"
+    },
+    {
+      "property": "P527",
+      "value": "Q5249164"
+    },
+    {
+      "property": "P527",
+      "value": "Q5249165"
+    },
+    {
+      "property": "P527",
+      "value": "Q5249163"
+    },
+    {
+      "property": "P5638",
+      "value": "754"
+    },
+    {
+      "property": "P6366",
+      "value": "137231763"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0249x4"
+    },
+    {
+      "property": "P747",
+      "value": "Q951059"
+    },
+    {
+      "property": "P747",
+      "value": "Q14954905"
+    },
+    {
+      "property": "P856",
+      "value": "http://grouper.ieee.org/groups/754/"
+    },
+    {
+      "property": "P921",
+      "value": "Q117879"
+    }
+  ]
+}

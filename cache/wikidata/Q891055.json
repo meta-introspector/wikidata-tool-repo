@@ -1,0 +1,78 @@
+{
+  "id": "Q891055",
+  "label": "package manager",
+  "facts": [
+    {
+      "property": "P121",
+      "value": "Q1995545"
+    },
+    {
+      "property": "P13397",
+      "value": "package+management"
+    },
+    {
+      "property": "P1424",
+      "value": "Q14955574"
+    },
+    {
+      "property": "P1687",
+      "value": "P3033"
+    },
+    {
+      "property": "P18",
+      "value": "Synaptic screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Apt-get install mediawiki.png"
+    },
+    {
+      "property": "P18",
+      "value": "Pamac gui.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1464880"
+    },
+    {
+      "property": "P2283",
+      "value": "Q107362984"
+    },
+    {
+      "property": "P2354",
+      "value": "Q6639720"
+    },
+    {
+      "property": "P279",
+      "value": "Q7397"
+    },
+    {
+      "property": "P279",
+      "value": "Q121182"
+    },
+    {
+      "property": "P361",
+      "value": "Q629173"
+    },
+    {
+      "property": "P366",
+      "value": "Q29017603"
+    },
+    {
+      "property": "P373",
+      "value": "Package management systems"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0cnzh"
+    },
+    {
+      "property": "P910",
+      "value": "Q6859193"
+    },
+    {
+      "property": "P9100",
+      "value": "package-manager"
+    }
+  ]
+}

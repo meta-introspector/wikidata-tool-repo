@@ -1,0 +1,218 @@
+{
+  "id": "Q549037",
+  "label": "Stack Overflow",
+  "facts": [
+    {
+      "property": "P101",
+      "value": "Q80006"
+    },
+    {
+      "property": "P1019",
+      "value": "https://stackoverflow.blog/feed/"
+    },
+    {
+      "property": "P10206",
+      "value": "stack-overflow"
+    },
+    {
+      "property": "P10768",
+      "value": "+61"
+    },
+    {
+      "property": "P10768",
+      "value": "+270"
+    },
+    {
+      "property": "P112",
+      "value": "Q4703800"
+    },
+    {
+      "property": "P112",
+      "value": "Q2387083"
+    },
+    {
+      "property": "P127",
+      "value": "Q67389109"
+    },
+    {
+      "property": "P1325",
+      "value": "https://archive.org/download/stackexchange"
+    },
+    {
+      "property": "P13337",
+      "value": "stackoverflow.com"
+    },
+    {
+      "property": "P13397",
+      "value": "stack-overflow"
+    },
+    {
+      "property": "P138",
+      "value": "Q1343128"
+    },
+    {
+      "property": "P1476",
+      "value": "Stack Overflow"
+    },
+    {
+      "property": "P154",
+      "value": "Stack Overflow logo.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://stackoverflow.blog/"
+    },
+    {
+      "property": "P1661",
+      "value": "+61"
+    },
+    {
+      "property": "P1661",
+      "value": "+270"
+    },
+    {
+      "property": "P1687",
+      "value": "P1482"
+    },
+    {
+      "property": "P18",
+      "value": "StackOverflow.com Top Questions Page Screenshot.png"
+    },
+    {
+      "property": "P1813",
+      "value": "SO"
+    },
+    {
+      "property": "P1889",
+      "value": "Q13218767"
+    },
+    {
+      "property": "P2002",
+      "value": "stackoverflow"
+    },
+    {
+      "property": "P2002",
+      "value": "StackOverflow"
+    },
+    {
+      "property": "P2013",
+      "value": "officialstackoverflow"
+    },
+    {
+      "property": "P2088",
+      "value": "stack-overflow"
+    },
+    {
+      "property": "P2699",
+      "value": "https://stackoverflow.com/"
+    },
+    {
+      "property": "P275",
+      "value": "Q19113751"
+    },
+    {
+      "property": "P275",
+      "value": "Q14946043"
+    },
+    {
+      "property": "P275",
+      "value": "Q18199165"
+    },
+    {
+      "property": "P2910",
+      "value": "Stack Overflow icon.svg"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1860"
+    },
+    {
+      "property": "P31",
+      "value": "Q110256698"
+    },
+    {
+      "property": "P3417",
+      "value": "Stack-Overflow-4"
+    },
+    {
+      "property": "P373",
+      "value": "Stack Overflow"
+    },
+    {
+      "property": "P4264",
+      "value": "stack-overflow"
+    },
+    {
+      "property": "P4354",
+      "value": "https://stackoverflow.com/search?q=$1"
+    },
+    {
+      "property": "P50",
+      "value": "Q2387083"
+    },
+    {
+      "property": "P571",
+      "value": "+2008-09-15T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Stack_Overflow"
+    },
+    {
+      "property": "P6363",
+      "value": "http://data.thenextweb.com/tnw/entity/stack_overflow"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05mw61p"
+    },
+    {
+      "property": "P7306",
+      "value": "stackoverflow"
+    },
+    {
+      "property": "P856",
+      "value": "https://stackoverflow.com"
+    },
+    {
+      "property": "P8687",
+      "value": "+97120"
+    },
+    {
+      "property": "P8687",
+      "value": "+84634"
+    },
+    {
+      "property": "P8687",
+      "value": "+137406"
+    },
+    {
+      "property": "P8687",
+      "value": "+230443"
+    },
+    {
+      "property": "P8972",
+      "value": "Stack Overflow icon.svg"
+    },
+    {
+      "property": "P9100",
+      "value": "stackoverflow"
+    },
+    {
+      "property": "P9100",
+      "value": "stack-overflow"
+    },
+    {
+      "property": "P9549",
+      "value": "Q108867404"
+    },
+    {
+      "property": "P9618",
+      "value": "stackoverflow"
+    }
+  ]
+}

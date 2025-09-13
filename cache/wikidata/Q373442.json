@@ -1,0 +1,54 @@
+{
+  "id": "Q373442",
+  "label": "browser engine",
+  "facts": [
+    {
+      "property": "P18",
+      "value": "Web Browser, Search Engine Page, Gear Cogwheel.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q591919"
+    },
+    {
+      "property": "P1889",
+      "value": "Q10614538"
+    },
+    {
+      "property": "P279",
+      "value": "Q2622299"
+    },
+    {
+      "property": "P279",
+      "value": "Q100744571"
+    },
+    {
+      "property": "P31",
+      "value": "Q2297645"
+    },
+    {
+      "property": "P3417",
+      "value": "Web-Browser-Engine"
+    },
+    {
+      "property": "P3553",
+      "value": "19805974"
+    },
+    {
+      "property": "P366",
+      "value": "Q115203785"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Web_Browser_Engine"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0cgk3"
+    },
+    {
+      "property": "P910",
+      "value": "Q7468896"
+    }
+  ]
+}

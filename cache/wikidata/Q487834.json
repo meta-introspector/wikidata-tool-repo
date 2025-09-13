@@ -1,0 +1,234 @@
+{
+  "id": "Q487834",
+  "label": "Gecko",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/mozilla-central/"
+    },
+    {
+      "property": "P138",
+      "value": "Q16546828"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/gecko"
+    },
+    {
+      "property": "P154",
+      "value": "Mozillagecko-logo.svg"
+    },
+    {
+      "property": "P170",
+      "value": "Q210057"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513445"
+    },
+    {
+      "property": "P275",
+      "value": "Q18534390"
+    },
+    {
+      "property": "P275",
+      "value": "Q18534393"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q14646"
+    },
+    {
+      "property": "P306",
+      "value": "Q34236"
+    },
+    {
+      "property": "P306",
+      "value": "Q62563"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P31",
+      "value": "Q373442"
+    },
+    {
+      "property": "P3417",
+      "value": "Gecko-layout-engine"
+    },
+    {
+      "property": "P348",
+      "value": "33.0"
+    },
+    {
+      "property": "P348",
+      "value": "36.0"
+    },
+    {
+      "property": "P348",
+      "value": "46.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "73.0"
+    },
+    {
+      "property": "P348",
+      "value": "74"
+    },
+    {
+      "property": "P348",
+      "value": "75.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.0"
+    },
+    {
+      "property": "P348",
+      "value": "101.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "103.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "106.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "116.0.2"
+    },
+    {
+      "property": "P3553",
+      "value": "19601402"
+    },
+    {
+      "property": "P361",
+      "value": "Q550303"
+    },
+    {
+      "property": "P361",
+      "value": "Q698"
+    },
+    {
+      "property": "P4969",
+      "value": "Q483604"
+    },
+    {
+      "property": "P4969",
+      "value": "Q550315"
+    },
+    {
+      "property": "P4969",
+      "value": "Q1324793"
+    },
+    {
+      "property": "P571",
+      "value": "+1998-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Gecko"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0cgj4"
+    },
+    {
+      "property": "P8205",
+      "value": "Glossary/Gecko"
+    },
+    {
+      "property": "P8205",
+      "value": "Mozilla/Gecko"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/en-US/docs/Glossary/Gecko"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/fr/docs/Glossary/Gecko"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/ja/docs/Glossary/Gecko"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/zh-CN/docs/Glossary/Gecko"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/pt-BR/docs/Glossary/Gecko"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/ru/docs/Glossary/Gecko"
+    },
+    {
+      "property": "P910",
+      "value": "Q32072179"
+    },
+    {
+      "property": "P9100",
+      "value": "gecko"
+    },
+    {
+      "property": "P9618",
+      "value": "gecko"
+    },
+    {
+      "property": "P973",
+      "value": "https://wiki.mozilla.org/Gecko:Home_Page"
+    },
+    {
+      "property": "P973",
+      "value": "https://firefox-source-docs.mozilla.org/overview/gecko.html"
+    }
+  ]
+}

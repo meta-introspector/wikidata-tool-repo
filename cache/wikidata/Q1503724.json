@@ -1,0 +1,82 @@
+{
+  "id": "Q1503724",
+  "label": "pattern matching",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C68859911"
+    },
+    {
+      "property": "P10565",
+      "value": "46840"
+    },
+    {
+      "property": "P1269",
+      "value": "Q21198"
+    },
+    {
+      "property": "P1269",
+      "value": "Q531152"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/pattern-matching"
+    },
+    {
+      "property": "P1889",
+      "value": "Q378859"
+    },
+    {
+      "property": "P1889",
+      "value": "Q374040"
+    },
+    {
+      "property": "P227",
+      "value": "4307192-2"
+    },
+    {
+      "property": "P279",
+      "value": "Q8366"
+    },
+    {
+      "property": "P279",
+      "value": "Q817862"
+    },
+    {
+      "property": "P279",
+      "value": "Q27067613"
+    },
+    {
+      "property": "P3417",
+      "value": "Pattern-Matching"
+    },
+    {
+      "property": "P366",
+      "value": "Q193076"
+    },
+    {
+      "property": "P366",
+      "value": "Q830340"
+    },
+    {
+      "property": "P373",
+      "value": "Pattern matching"
+    },
+    {
+      "property": "P6366",
+      "value": "68859911"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01pn1k"
+    },
+    {
+      "property": "P8408",
+      "value": "PatternMatching"
+    },
+    {
+      "property": "P910",
+      "value": "Q8718628"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "Q308915",
+  "label": "Mozilla Public License",
+  "facts": [
+    {
+      "property": "P123",
+      "value": "Q55672"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Logo 2024.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla logo (2017–2024).svg"
+    },
+    {
+      "property": "P1813",
+      "value": "MPL"
+    },
+    {
+      "property": "P1889",
+      "value": "Q398558"
+    },
+    {
+      "property": "P279",
+      "value": "Q207621"
+    },
+    {
+      "property": "P31",
+      "value": "Q95107111"
+    },
+    {
+      "property": "P31",
+      "value": "Q77205602"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla Public License"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q9288 (heb)-Uziel302-הרישיון הציבורי של מוזילה.wav"
+    },
+    {
+      "property": "P4969",
+      "value": "Q304628"
+    },
+    {
+      "property": "P4969",
+      "value": "Q648252"
+    },
+    {
+      "property": "P4969",
+      "value": "Q1116195"
+    },
+    {
+      "property": "P4969",
+      "value": "Q4653881"
+    },
+    {
+      "property": "P50",
+      "value": "Q55672"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02w1yc"
+    },
+    {
+      "property": "P747",
+      "value": "Q26737738"
+    },
+    {
+      "property": "P747",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P747",
+      "value": "Q26737735"
+    },
+    {
+      "property": "P7502",
+      "value": "Mozilla_Public_License-JR43V"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/MPL/"
+    },
+    {
+      "property": "P910",
+      "value": "Q28108304"
+    }
+  ]
+}

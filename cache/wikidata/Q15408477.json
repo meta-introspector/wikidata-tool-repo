@@ -1,0 +1,346 @@
+{
+  "id": "Q15408477",
+  "label": "Idris",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q127703853"
+    },
+    {
+      "property": "P1072",
+      "value": "Q130241065"
+    },
+    {
+      "property": "P1073",
+      "value": "Q127703853"
+    },
+    {
+      "property": "P1073",
+      "value": "Q130241065"
+    },
+    {
+      "property": "P10766",
+      "value": "idris"
+    },
+    {
+      "property": "P1195",
+      "value": "idr"
+    },
+    {
+      "property": "P1195",
+      "value": "lidr"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/idris-lang/Idris-dev"
+    },
+    {
+      "property": "P1324",
+      "value": "http://www-fp.cs.st-and.ac.uk/~eb/darcs/Idris/"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://libera.chat/#idris"
+    },
+    {
+      "property": "P2002",
+      "value": "idrislang"
+    },
+    {
+      "property": "P2037",
+      "value": "idris-lang"
+    },
+    {
+      "property": "P275",
+      "value": "Q191307"
+    },
+    {
+      "property": "P277",
+      "value": "Q34010"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920201"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q56223375"
+    },
+    {
+      "property": "P31",
+      "value": "Q11387554"
+    },
+    {
+      "property": "P3454",
+      "value": "idris"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.10"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.11"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.12"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.13"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.13.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.14"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.14.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.14.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.15"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.15.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.16"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.17"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.17.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.18"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.18.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.19"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.19.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.20"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.20.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.20.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.10"
+    },
+    {
+      "property": "P348",
+      "value": "0.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.10.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.10.3"
+    },
+    {
+      "property": "P348",
+      "value": "0.11"
+    },
+    {
+      "property": "P348",
+      "value": "0.11.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.11.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.12"
+    },
+    {
+      "property": "P348",
+      "value": "0.12.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.12.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.12.3"
+    },
+    {
+      "property": "P348",
+      "value": "0.99"
+    },
+    {
+      "property": "P348",
+      "value": "0.99.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.99.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.3"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q28453809"
+    },
+    {
+      "property": "P3966",
+      "value": "Q17146827"
+    },
+    {
+      "property": "P3984",
+      "value": "Idris"
+    },
+    {
+      "property": "P4162",
+      "value": "idris-git"
+    },
+    {
+      "property": "P571",
+      "value": "+2007-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "2777851530"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0swpzmh"
+    },
+    {
+      "property": "P6665",
+      "value": "20066"
+    },
+    {
+      "property": "P6931",
+      "value": "idris"
+    },
+    {
+      "property": "P7078",
+      "value": "Q56232424"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q72735794"
+    },
+    {
+      "property": "P7078",
+      "value": "Q7886969"
+    },
+    {
+      "property": "P737",
+      "value": "Q34010"
+    },
+    {
+      "property": "P737",
+      "value": "Q20479"
+    },
+    {
+      "property": "P737",
+      "value": "Q1131652"
+    },
+    {
+      "property": "P737",
+      "value": "Q377986"
+    },
+    {
+      "property": "P737",
+      "value": "Q5382927"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/idris"
+    },
+    {
+      "property": "P8443",
+      "value": "idris"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.idris-lang.org"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.cs.st-andrews.ac.uk/~eb/Idris"
+    }
+  ]
+}

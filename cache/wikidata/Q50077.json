@@ -1,0 +1,266 @@
+{
+  "id": "Q50077",
+  "label": "Visual Basic",
+  "facts": [
+    {
+      "property": "P1195",
+      "value": "vb"
+    },
+    {
+      "property": "P12385",
+      "value": "visual-basic-.net"
+    },
+    {
+      "property": "P1296",
+      "value": "0518948"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/dotnet/vblang"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/dotnet/roslyn"
+    },
+    {
+      "property": "P1365",
+      "value": "Q2378"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/dotnet/vblang/issues"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/dotnet/roslyn/issues"
+    },
+    {
+      "property": "P1401",
+      "value": "https://roslyn.codeplex.com/workitem/list/basic"
+    },
+    {
+      "property": "P144",
+      "value": "Q2378"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/vb.net"
+    },
+    {
+      "property": "P154",
+      "value": "VB.NET Logo.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://devblogs.microsoft.com/vbteam/"
+    },
+    {
+      "property": "P1661",
+      "value": "+47"
+    },
+    {
+      "property": "P178",
+      "value": "Q2283"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2378"
+    },
+    {
+      "property": "P2347",
+      "value": "13306"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P287",
+      "value": "Q2283"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q34264"
+    },
+    {
+      "property": "P306",
+      "value": "Q48493"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q14646"
+    },
+    {
+      "property": "P306",
+      "value": "Q11368"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922858"
+    },
+    {
+      "property": "P31",
+      "value": "Q211496"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923017"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920813"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923026"
+    },
+    {
+      "property": "P348",
+      "value": "16.9"
+    },
+    {
+      "property": "P3553",
+      "value": "20036670"
+    },
+    {
+      "property": "P373",
+      "value": "Visual Basic .NET"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1056451"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1135914"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q7623620"
+    },
+    {
+      "property": "P3966",
+      "value": "Q5127844"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P400",
+      "value": "Q5289"
+    },
+    {
+      "property": "P400",
+      "value": "Q722656"
+    },
+    {
+      "property": "P400",
+      "value": "Q21622213"
+    },
+    {
+      "property": "P571",
+      "value": "+2001-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "16458"
+    },
+    {
+      "property": "P6366",
+      "value": "2777114085"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01dpgv"
+    },
+    {
+      "property": "P691",
+      "value": "ph138666"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P737",
+      "value": "Q2378"
+    },
+    {
+      "property": "P856",
+      "value": "https://docs.microsoft.com/en-us/dotnet/visual-basic/"
+    },
+    {
+      "property": "P856",
+      "value": "https://docs.microsoft.com/ja-jp/dotnet/visual-basic/"
+    },
+    {
+      "property": "P910",
+      "value": "Q19366778"
+    },
+    {
+      "property": "P9100",
+      "value": "visual-basic"
+    },
+    {
+      "property": "P9100",
+      "value": "vb-net"
+    },
+    {
+      "property": "P9100",
+      "value": "vbnet"
+    }
+  ]
+}

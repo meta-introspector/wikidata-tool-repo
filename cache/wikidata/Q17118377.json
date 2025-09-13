@@ -1,0 +1,562 @@
+{
+  "id": "Q17118377",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C116188536"
+    },
+    {
+      "property": "P1072",
+      "value": "Q34747905"
+    },
+    {
+      "property": "P1073",
+      "value": "Q34747905"
+    },
+    {
+      "property": "P11196",
+      "value": "swift"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-swift"
+    },
+    {
+      "property": "P11947",
+      "value": "swift@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "swift"
+    },
+    {
+      "property": "P12873",
+      "value": "Swift"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/apple/swift"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/swiftlang/swift"
+    },
+    {
+      "property": "P13397",
+      "value": "swift"
+    },
+    {
+      "property": "P13397",
+      "value": "swiftlang"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/1d66a570-4141-48cc-a40a-0bab62ac47aa"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/swift"
+    },
+    {
+      "property": "P154",
+      "value": "Swift logo.svg"
+    },
+    {
+      "property": "P170",
+      "value": "Q312"
+    },
+    {
+      "property": "P1705",
+      "value": "Swift"
+    },
+    {
+      "property": "P178",
+      "value": "Q2964778"
+    },
+    {
+      "property": "P178",
+      "value": "Q312"
+    },
+    {
+      "property": "P227",
+      "value": "1066617112"
+    },
+    {
+      "property": "P244",
+      "value": "sh2015001571"
+    },
+    {
+      "property": "P268",
+      "value": "17039945c"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P287",
+      "value": "Q2964778"
+    },
+    {
+      "property": "P287",
+      "value": "Q115121160"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q48493"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q18168774"
+    },
+    {
+      "property": "P306",
+      "value": "Q64350339"
+    },
+    {
+      "property": "P306",
+      "value": "Q20965967"
+    },
+    {
+      "property": "P306",
+      "value": "Q18012472"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q119105052"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923023"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.7"
+    },
+    {
+      "property": "P348",
+      "value": "5.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.8"
+    },
+    {
+      "property": "P348",
+      "value": "5.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.9"
+    },
+    {
+      "property": "P348",
+      "value": "5.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.9.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.10"
+    },
+    {
+      "property": "P348",
+      "value": "5.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.0"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "6.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.2"
+    },
+    {
+      "property": "P373",
+      "value": "Swift (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3966",
+      "value": "Q28916730"
+    },
+    {
+      "property": "P3966",
+      "value": "Q531152"
+    },
+    {
+      "property": "P3984",
+      "value": "swift"
+    },
+    {
+      "property": "P4033",
+      "value": "swiftlang@mastodon.social"
+    },
+    {
+      "property": "P4644",
+      "value": "be80acfc-b6f2-4411-9b8d-b19d9cd2556a"
+    },
+    {
+      "property": "P527",
+      "value": "Q223490"
+    },
+    {
+      "property": "P571",
+      "value": "+2014-06-02T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "116188536"
+    },
+    {
+      "property": "P646",
+      "value": "/m/010sd4y3"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P737",
+      "value": "Q575650"
+    },
+    {
+      "property": "P737",
+      "value": "Q34010"
+    },
+    {
+      "property": "P737",
+      "value": "Q161053"
+    },
+    {
+      "property": "P737",
+      "value": "Q188531"
+    },
+    {
+      "property": "P737",
+      "value": "Q28865"
+    },
+    {
+      "property": "P737",
+      "value": "Q2370"
+    },
+    {
+      "property": "P737",
+      "value": "Q775159"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q251"
+    },
+    {
+      "property": "P737",
+      "value": "Q460584"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P737",
+      "value": "Q504453"
+    },
+    {
+      "property": "P737",
+      "value": "Q319268"
+    },
+    {
+      "property": "P7502",
+      "value": "Swift_(programming_language)-MKKYMW"
+    },
+    {
+      "property": "P8189",
+      "value": "987007412504105171"
+    },
+    {
+      "property": "P856",
+      "value": "https://swift.org/"
+    },
+    {
+      "property": "P8778",
+      "value": "library/swift"
+    },
+    {
+      "property": "P910",
+      "value": "Q125070470"
+    },
+    {
+      "property": "P9100",
+      "value": "swift"
+    },
+    {
+      "property": "P9100",
+      "value": "swift-language"
+    },
+    {
+      "property": "P9618",
+      "value": "swift-programming-language"
+    }
+  ]
+}

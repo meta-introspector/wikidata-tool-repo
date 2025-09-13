@@ -1,0 +1,406 @@
+{
+  "id": "Q6368",
+  "label": "web browser",
+  "facts": [
+    {
+      "property": "P10037",
+      "value": "browser"
+    },
+    {
+      "property": "P10283",
+      "value": "C2983909278"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/internet-browser"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/popular-web-browser"
+    },
+    {
+      "property": "P1051",
+      "value": "13779"
+    },
+    {
+      "property": "P10565",
+      "value": "218571"
+    },
+    {
+      "property": "P11129",
+      "value": "Webbrowser"
+    },
+    {
+      "property": "P11137",
+      "value": "web_browser"
+    },
+    {
+      "property": "P11196",
+      "value": "浏览器"
+    },
+    {
+      "property": "P11514",
+      "value": "brauzer-49ca58"
+    },
+    {
+      "property": "P11540",
+      "value": "browser"
+    },
+    {
+      "property": "P11947",
+      "value": "browsers@lemmy.ml"
+    },
+    {
+      "property": "P12086",
+      "value": "Webbrowser"
+    },
+    {
+      "property": "P1245",
+      "value": "397826"
+    },
+    {
+      "property": "P12596",
+      "value": "41737"
+    },
+    {
+      "property": "P12667",
+      "value": "browser_games"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Navigateur_Web"
+    },
+    {
+      "property": "P12873",
+      "value": "Browser"
+    },
+    {
+      "property": "P12946",
+      "value": "web+browser"
+    },
+    {
+      "property": "P12946",
+      "value": "WWW+browser"
+    },
+    {
+      "property": "P13411",
+      "value": "Q671"
+    },
+    {
+      "property": "P13513",
+      "value": "browser"
+    },
+    {
+      "property": "P13520",
+      "value": "1262"
+    },
+    {
+      "property": "P13572",
+      "value": "Web+browser"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/2b3b079a-2bfd-40d5-be76-5afa4ef3d1d8"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/browser"
+    },
+    {
+      "property": "P1424",
+      "value": "Q6372019"
+    },
+    {
+      "property": "P1424",
+      "value": "Q13034039"
+    },
+    {
+      "property": "P18",
+      "value": "Wiki Smartphones.jpg"
+    },
+    {
+      "property": "P1814",
+      "value": "ウェブブラウザ"
+    },
+    {
+      "property": "P1889",
+      "value": "Q4182287"
+    },
+    {
+      "property": "P1889",
+      "value": "Q10614538"
+    },
+    {
+      "property": "P2179",
+      "value": "10003302"
+    },
+    {
+      "property": "P2184",
+      "value": "Q5870947"
+    },
+    {
+      "property": "P227",
+      "value": "4423006-0"
+    },
+    {
+      "property": "P2283",
+      "value": "Q373442"
+    },
+    {
+      "property": "P2283",
+      "value": "Q874411"
+    },
+    {
+      "property": "P2347",
+      "value": "8440"
+    },
+    {
+      "property": "P2354",
+      "value": "Q849199"
+    },
+    {
+      "property": "P244",
+      "value": "sh98001500"
+    },
+    {
+      "property": "P2581",
+      "value": "00013447n"
+    },
+    {
+      "property": "P268",
+      "value": "13191246q"
+    },
+    {
+      "property": "P279",
+      "value": "Q166142"
+    },
+    {
+      "property": "P279",
+      "value": "Q2979024"
+    },
+    {
+      "property": "P279",
+      "value": "Q241317"
+    },
+    {
+      "property": "P279",
+      "value": "Q104574429"
+    },
+    {
+      "property": "P2892",
+      "value": "C3658317"
+    },
+    {
+      "property": "P2924",
+      "value": "1882439"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P31",
+      "value": "Q1047113"
+    },
+    {
+      "property": "P31",
+      "value": "Q2267705"
+    },
+    {
+      "property": "P3365",
+      "value": "browser"
+    },
+    {
+      "property": "P3417",
+      "value": "Web-Browsers"
+    },
+    {
+      "property": "P349",
+      "value": "01065399"
+    },
+    {
+      "property": "P3553",
+      "value": "19552572"
+    },
+    {
+      "property": "P366",
+      "value": "Q7978592"
+    },
+    {
+      "property": "P373",
+      "value": "Web browsers"
+    },
+    {
+      "property": "P3827",
+      "value": "web-browsers"
+    },
+    {
+      "property": "P3984",
+      "value": "browsers"
+    },
+    {
+      "property": "P4428",
+      "value": "Q20202982"
+    },
+    {
+      "property": "P461",
+      "value": "Q11288"
+    },
+    {
+      "property": "P486",
+      "value": "D064878"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5247",
+      "value": "3045-140"
+    },
+    {
+      "property": "P5250",
+      "value": "609"
+    },
+    {
+      "property": "P5398",
+      "value": "000000644"
+    },
+    {
+      "property": "P5437",
+      "value": "6182"
+    },
+    {
+      "property": "P575",
+      "value": "+1990-12-20T00:00:00Z"
+    },
+    {
+      "property": "P5795",
+      "value": "browser"
+    },
+    {
+      "property": "P5844",
+      "value": "browser"
+    },
+    {
+      "property": "P5868",
+      "value": "browser"
+    },
+    {
+      "property": "P6009",
+      "value": "288"
+    },
+    {
+      "property": "P6078",
+      "value": "webonly"
+    },
+    {
+      "property": "P61",
+      "value": "Q80"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Web_browser"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:Web_browser"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Web_browser"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Web_Browser"
+    },
+    {
+      "property": "P646",
+      "value": "/m/082hp"
+    },
+    {
+      "property": "P6573",
+      "value": "Browser"
+    },
+    {
+      "property": "P672",
+      "value": "L01.224.900.940"
+    },
+    {
+      "property": "P672",
+      "value": "L01.470.937"
+    },
+    {
+      "property": "P6900",
+      "value": "ブラウザ"
+    },
+    {
+      "property": "P691",
+      "value": "ph118201"
+    },
+    {
+      "property": "P7033",
+      "value": "technicalRequirement/browser"
+    },
+    {
+      "property": "P7556",
+      "value": "92"
+    },
+    {
+      "property": "P7592",
+      "value": "5084"
+    },
+    {
+      "property": "P7617",
+      "value": "browser"
+    },
+    {
+      "property": "P7809",
+      "value": "85"
+    },
+    {
+      "property": "P8189",
+      "value": "987007561341405171"
+    },
+    {
+      "property": "P8313",
+      "value": "browser"
+    },
+    {
+      "property": "P8313",
+      "value": "webbrowser"
+    },
+    {
+      "property": "P8408",
+      "value": "WorldWideWebClientProgram"
+    },
+    {
+      "property": "P8814",
+      "value": "06583477-n"
+    },
+    {
+      "property": "P8885",
+      "value": "웹 브라우저"
+    },
+    {
+      "property": "P910",
+      "value": "Q4014375"
+    },
+    {
+      "property": "P9272",
+      "value": "55441"
+    },
+    {
+      "property": "P950",
+      "value": "XX545901"
+    },
+    {
+      "property": "P9621",
+      "value": "browser"
+    },
+    {
+      "property": "P9775",
+      "value": "browser"
+    }
+  ]
+}

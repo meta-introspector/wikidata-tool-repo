@@ -1,0 +1,362 @@
+{
+  "id": "Q45130783",
+  "label": "Basilisk",
+  "facts": [
+    {
+      "property": "P10766",
+      "value": "basilisk.install"
+    },
+    {
+      "property": "P1324",
+      "value": "https://repo.palemoon.org/Basilisk-Dev/Basilisk"
+    },
+    {
+      "property": "P154",
+      "value": "Basilisk Web Browser Logo.png"
+    },
+    {
+      "property": "P18",
+      "value": "W7-Basilisk-Wikipedia.jpg"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11h9q1sn89"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q46441"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q726218"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P31",
+      "value": "Q15477174"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q806106"
+    },
+    {
+      "property": "P348",
+      "value": "2017.11.12/13"
+    },
+    {
+      "property": "P348",
+      "value": "2017.11.30/2017.12.01"
+    },
+    {
+      "property": "P348",
+      "value": "2017.12.03"
+    },
+    {
+      "property": "P348",
+      "value": "2017.12.28"
+    },
+    {
+      "property": "P348",
+      "value": "2018.01.05"
+    },
+    {
+      "property": "P348",
+      "value": "2018.02.02"
+    },
+    {
+      "property": "P348",
+      "value": "2018.02.14"
+    },
+    {
+      "property": "P348",
+      "value": "2018.03.21"
+    },
+    {
+      "property": "P348",
+      "value": "2018.04.24"
+    },
+    {
+      "property": "P348",
+      "value": "2018.04.26"
+    },
+    {
+      "property": "P348",
+      "value": "2018.04.27"
+    },
+    {
+      "property": "P348",
+      "value": "2018.05.15"
+    },
+    {
+      "property": "P348",
+      "value": "2018.06.01"
+    },
+    {
+      "property": "P348",
+      "value": "2018.07.18"
+    },
+    {
+      "property": "P348",
+      "value": "2018.09.05"
+    },
+    {
+      "property": "P348",
+      "value": "2018.09.27"
+    },
+    {
+      "property": "P348",
+      "value": "2018.11.04"
+    },
+    {
+      "property": "P348",
+      "value": "2018.11.07"
+    },
+    {
+      "property": "P348",
+      "value": "2018.12.18"
+    },
+    {
+      "property": "P348",
+      "value": "2019.02.11"
+    },
+    {
+      "property": "P348",
+      "value": "2019.03.08"
+    },
+    {
+      "property": "P348",
+      "value": "2019.03.27"
+    },
+    {
+      "property": "P348",
+      "value": "2019.06.08"
+    },
+    {
+      "property": "P348",
+      "value": "2019.09.03"
+    },
+    {
+      "property": "P348",
+      "value": "2019.09.04 (Linux)"
+    },
+    {
+      "property": "P348",
+      "value": "2019.09.12"
+    },
+    {
+      "property": "P348",
+      "value": "2019.10.31"
+    },
+    {
+      "property": "P348",
+      "value": "2020.01.12"
+    },
+    {
+      "property": "P348",
+      "value": "2020.02.06/07"
+    },
+    {
+      "property": "P348",
+      "value": "2020.02.18"
+    },
+    {
+      "property": "P348",
+      "value": "2020.03.04"
+    },
+    {
+      "property": "P348",
+      "value": "2020.03.11"
+    },
+    {
+      "property": "P348",
+      "value": "2020.04.15"
+    },
+    {
+      "property": "P348",
+      "value": "2020.04.17"
+    },
+    {
+      "property": "P348",
+      "value": "2020.05.08"
+    },
+    {
+      "property": "P348",
+      "value": "2020.06.10"
+    },
+    {
+      "property": "P348",
+      "value": "2020.08.05"
+    },
+    {
+      "property": "P348",
+      "value": "2020.09.11"
+    },
+    {
+      "property": "P348",
+      "value": "2020.10.05"
+    },
+    {
+      "property": "P348",
+      "value": "2020.10.28/29"
+    },
+    {
+      "property": "P348",
+      "value": "2020.11.25"
+    },
+    {
+      "property": "P348",
+      "value": "2021.01.05"
+    },
+    {
+      "property": "P348",
+      "value": "2021.02.06"
+    },
+    {
+      "property": "P348",
+      "value": "2021.03.11"
+    },
+    {
+      "property": "P348",
+      "value": "2021.03.17"
+    },
+    {
+      "property": "P348",
+      "value": "2021.04.27"
+    },
+    {
+      "property": "P348",
+      "value": "2021.07.19"
+    },
+    {
+      "property": "P348",
+      "value": "2021.09.27"
+    },
+    {
+      "property": "P348",
+      "value": "2021.11.14"
+    },
+    {
+      "property": "P348",
+      "value": "2022.01.27"
+    },
+    {
+      "property": "P348",
+      "value": "2023.01.26"
+    },
+    {
+      "property": "P348",
+      "value": "2023.03.07"
+    },
+    {
+      "property": "P348",
+      "value": "2023.06.20"
+    },
+    {
+      "property": "P348",
+      "value": "2023.07.18"
+    },
+    {
+      "property": "P348",
+      "value": "2023.09.15"
+    },
+    {
+      "property": "P348",
+      "value": "2023.10.03"
+    },
+    {
+      "property": "P348",
+      "value": "2023.12.09"
+    },
+    {
+      "property": "P348",
+      "value": "2024.02.03"
+    },
+    {
+      "property": "P348",
+      "value": "2024.05.01"
+    },
+    {
+      "property": "P348",
+      "value": "2024.09.13"
+    },
+    {
+      "property": "P348",
+      "value": "2024.10.24"
+    },
+    {
+      "property": "P348",
+      "value": "2024.11.23"
+    },
+    {
+      "property": "P348",
+      "value": "2025.01.04"
+    },
+    {
+      "property": "P348",
+      "value": "2025.02.22"
+    },
+    {
+      "property": "P348",
+      "value": "2025.04.23"
+    },
+    {
+      "property": "P348",
+      "value": "2025.07.04"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P577",
+      "value": "+2017-11-17T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P7101",
+      "value": "https://basilisk-browser.org/privacy.shtml"
+    },
+    {
+      "property": "P856",
+      "value": "https://basilisk-browser.org/"
+    },
+    {
+      "property": "P9214",
+      "value": "https://basilisk-browser.org/faq.shtml"
+    },
+    {
+      "property": "P9618",
+      "value": "basilisk"
+    }
+  ]
+}

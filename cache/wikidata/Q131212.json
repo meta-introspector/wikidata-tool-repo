@@ -1,0 +1,194 @@
+{
+  "id": "Q131212",
+  "label": "text editor",
+  "facts": [
+    {
+      "property": "P11514",
+      "value": "tekstovyi-redaktor-a14d59"
+    },
+    {
+      "property": "P11947",
+      "value": "text_editors@programming.dev"
+    },
+    {
+      "property": "P12086",
+      "value": "Teksteditor"
+    },
+    {
+      "property": "P12093",
+      "value": "Text_editor"
+    },
+    {
+      "property": "P12695",
+      "value": "Text_editor"
+    },
+    {
+      "property": "P12861",
+      "value": "E352"
+    },
+    {
+      "property": "P12946",
+      "value": "text+editor"
+    },
+    {
+      "property": "P13411",
+      "value": "Q290"
+    },
+    {
+      "property": "P13572",
+      "value": "text+editor"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/39ece0b1-0c6f-437e-9e08-491426a71834"
+    },
+    {
+      "property": "P13616",
+      "value": "TextEditor"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/editor"
+    },
+    {
+      "property": "P1424",
+      "value": "Q22819153"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/text-editor"
+    },
+    {
+      "property": "P18",
+      "value": "Bluefish (text editor).png"
+    },
+    {
+      "property": "P227",
+      "value": "4013565-2"
+    },
+    {
+      "property": "P2354",
+      "value": "Q1705353"
+    },
+    {
+      "property": "P244",
+      "value": "sh85134303"
+    },
+    {
+      "property": "P2581",
+      "value": "00076736n"
+    },
+    {
+      "property": "P268",
+      "value": "11931946h"
+    },
+    {
+      "property": "P279",
+      "value": "Q985394"
+    },
+    {
+      "property": "P279",
+      "value": "Q166142"
+    },
+    {
+      "property": "P2924",
+      "value": "4185695"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3417",
+      "value": "Text-Editors"
+    },
+    {
+      "property": "P3553",
+      "value": "19551344"
+    },
+    {
+      "property": "P366",
+      "value": "Q194105"
+    },
+    {
+      "property": "P366",
+      "value": "Q42214913"
+    },
+    {
+      "property": "P373",
+      "value": "Text editor software"
+    },
+    {
+      "property": "P3827",
+      "value": "text-editors"
+    },
+    {
+      "property": "P3847",
+      "value": "text_editors_(computer_programs)"
+    },
+    {
+      "property": "P4746",
+      "value": "041251"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"TextEditor::h3m59\"]"
+    },
+    {
+      "property": "P5398",
+      "value": "000000258"
+    },
+    {
+      "property": "P6009",
+      "value": "5478"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Text_editor"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Editor"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:Text_editor"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07gcf"
+    },
+    {
+      "property": "P6706",
+      "value": "editor"
+    },
+    {
+      "property": "P691",
+      "value": "ph139315"
+    },
+    {
+      "property": "P8189",
+      "value": "987007531722705171"
+    },
+    {
+      "property": "P8313",
+      "value": "teksteditor"
+    },
+    {
+      "property": "P8408",
+      "value": "TextEditorProgram"
+    },
+    {
+      "property": "P910",
+      "value": "Q7144775"
+    },
+    {
+      "property": "P9100",
+      "value": "text-editor"
+    },
+    {
+      "property": "P950",
+      "value": "XX554725"
+    }
+  ]
+}

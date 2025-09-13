@@ -1,0 +1,30 @@
+{
+  "id": "Q2532873",
+  "label": "NPAPI",
+  "facts": [
+    {
+      "property": "P138",
+      "value": "Q210057"
+    },
+    {
+      "property": "P178",
+      "value": "Q210057"
+    },
+    {
+      "property": "P31",
+      "value": "Q165194"
+    },
+    {
+      "property": "P3417",
+      "value": "NPAPI"
+    },
+    {
+      "property": "P366",
+      "value": "Q874411"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05ltf8"
+    }
+  ]
+}

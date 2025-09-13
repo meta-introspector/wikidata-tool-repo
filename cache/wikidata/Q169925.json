@@ -1,0 +1,250 @@
+{
+  "id": "Q169925",
+  "label": "Mozilla Corporation",
+  "facts": [
+    {
+      "property": "P10206",
+      "value": "mozilla"
+    },
+    {
+      "property": "P10283",
+      "value": "I205402242"
+    },
+    {
+      "property": "P1037",
+      "value": "Q445250"
+    },
+    {
+      "property": "P1056",
+      "value": "Q698"
+    },
+    {
+      "property": "P1056",
+      "value": "Q550303"
+    },
+    {
+      "property": "P1056",
+      "value": "Q31020870"
+    },
+    {
+      "property": "P1056",
+      "value": "Q550315"
+    },
+    {
+      "property": "P1056",
+      "value": "Q483604"
+    },
+    {
+      "property": "P1056",
+      "value": "Q47110258"
+    },
+    {
+      "property": "P112",
+      "value": "Q55672"
+    },
+    {
+      "property": "P127",
+      "value": "Q55672"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Mozilla-Corporation"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Logo 2024.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla logo (2017–2024).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Corporation logo (2005-2017).svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.mozilla.org/"
+    },
+    {
+      "property": "P159",
+      "value": "Q62"
+    },
+    {
+      "property": "P159",
+      "value": "Q486860"
+    },
+    {
+      "property": "P169",
+      "value": "Q445250"
+    },
+    {
+      "property": "P169",
+      "value": "Q454092"
+    },
+    {
+      "property": "P169",
+      "value": "Q3916015"
+    },
+    {
+      "property": "P169",
+      "value": "Q92648"
+    },
+    {
+      "property": "P169",
+      "value": "Q16334560"
+    },
+    {
+      "property": "P169",
+      "value": "Q445250"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P18",
+      "value": "Mozilla San Francisco Headquarters Monument.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "MozillaEvelynAveHeadquarters.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q9661"
+    },
+    {
+      "property": "P1889",
+      "value": "Q55672"
+    },
+    {
+      "property": "P1889",
+      "value": "Q698"
+    },
+    {
+      "property": "P2003",
+      "value": "mozilla"
+    },
+    {
+      "property": "P2088",
+      "value": "mozilla"
+    },
+    {
+      "property": "P214",
+      "value": "138267836"
+    },
+    {
+      "property": "P2179",
+      "value": "10011507"
+    },
+    {
+      "property": "P227",
+      "value": "6527433-7"
+    },
+    {
+      "property": "P2657",
+      "value": "174457719063-67"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q6881511"
+    },
+    {
+      "property": "P31",
+      "value": "Q1058914"
+    },
+    {
+      "property": "P3393",
+      "value": "155248"
+    },
+    {
+      "property": "P3417",
+      "value": "Mozilla-Corporation"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla"
+    },
+    {
+      "property": "P4264",
+      "value": "mozilla-corporation"
+    },
+    {
+      "property": "P4486",
+      "value": "7083182635971239206"
+    },
+    {
+      "property": "P452",
+      "value": "Q880371"
+    },
+    {
+      "property": "P463",
+      "value": "Q20947086"
+    },
+    {
+      "property": "P463",
+      "value": "Q67904121"
+    },
+    {
+      "property": "P463",
+      "value": "Q75097496"
+    },
+    {
+      "property": "P5260",
+      "value": "380366936"
+    },
+    {
+      "property": "P5514",
+      "value": "Q8889"
+    },
+    {
+      "property": "P571",
+      "value": "+2005-09-00T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "205402242"
+    },
+    {
+      "property": "P646",
+      "value": "/m/077308"
+    },
+    {
+      "property": "P749",
+      "value": "Q55672"
+    },
+    {
+      "property": "P7502",
+      "value": "Mozilla_Corporation-8JEGEX"
+    },
+    {
+      "property": "P793",
+      "value": "Q76313638"
+    },
+    {
+      "property": "P8060",
+      "value": "19129"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+259412"
+    },
+    {
+      "property": "P8687",
+      "value": "+273404"
+    },
+    {
+      "property": "P8687",
+      "value": "+279924"
+    }
+  ]
+}

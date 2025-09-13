@@ -1,0 +1,226 @@
+{
+  "id": "Q550303",
+  "label": "Firefox OS",
+  "facts": [
+    {
+      "property": "P12695",
+      "value": "Firefox_OS"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-b2g/B2G"
+    },
+    {
+      "property": "P1366",
+      "value": "Q48774201"
+    },
+    {
+      "property": "P144",
+      "value": "Q14579"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/firefox-os"
+    },
+    {
+      "property": "P154",
+      "value": "Firefox OS Horizontal SVG Logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "B2G logo.png"
+    },
+    {
+      "property": "P154",
+      "value": "B2g wordmark.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "FirefoxOS2.2Homescreen.png"
+    },
+    {
+      "property": "P18",
+      "value": "B2g-os-2.6.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q225156"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/1hb_dh_p4"
+    },
+    {
+      "property": "P2739",
+      "value": "Q15290851"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q196294"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q2053"
+    },
+    {
+      "property": "P277",
+      "value": "Q46441"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q131669"
+    },
+    {
+      "property": "P31",
+      "value": "Q920890"
+    },
+    {
+      "property": "P3381",
+      "value": "Firefox_OS"
+    },
+    {
+      "property": "P3417",
+      "value": "Firefox-OS"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.6"
+    },
+    {
+      "property": "P3553",
+      "value": "19804204"
+    },
+    {
+      "property": "P373",
+      "value": "Firefox OS"
+    },
+    {
+      "property": "P3984",
+      "value": "FireFoxOS"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P400",
+      "value": "Q527464"
+    },
+    {
+      "property": "P407",
+      "value": "Q20923490"
+    },
+    {
+      "property": "P527",
+      "value": "Q487834"
+    },
+    {
+      "property": "P527",
+      "value": "Q20871231"
+    },
+    {
+      "property": "P527",
+      "value": "Q20871234"
+    },
+    {
+      "property": "P5555",
+      "value": "Firefox OS Architecture diagram.png"
+    },
+    {
+      "property": "P571",
+      "value": "+2013-02-21T00:00:00Z"
+    },
+    {
+      "property": "P576",
+      "value": "+2016-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0h1g4n5"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozilla.org/en-US/firefox/os"
+    },
+    {
+      "property": "P910",
+      "value": "Q15099876"
+    },
+    {
+      "property": "P9618",
+      "value": "firefox-os"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Q3509459",
+  "label": "nominative typing",
+  "facts": [
+    {
+      "property": "P1813",
+      "value": "nominative"
+    },
+    {
+      "property": "P279",
+      "value": "Q865760"
+    },
+    {
+      "property": "P31",
+      "value": "Q122624423"
+    },
+    {
+      "property": "P461",
+      "value": "Q936724"
+    },
+    {
+      "property": "P6366",
+      "value": "14962876"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0c49_h"
+    }
+  ]
+}

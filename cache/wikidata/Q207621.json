@@ -1,0 +1,50 @@
+{
+  "id": "Q207621",
+  "label": "software license",
+  "facts": [
+    {
+      "property": "P1245",
+      "value": "975384"
+    },
+    {
+      "property": "P1269",
+      "value": "Q58286088"
+    },
+    {
+      "property": "P12861",
+      "value": "E110"
+    },
+    {
+      "property": "P1424",
+      "value": "Q8852541"
+    },
+    {
+      "property": "P279",
+      "value": "Q79719"
+    },
+    {
+      "property": "P279",
+      "value": "Q77205602"
+    },
+    {
+      "property": "P3417",
+      "value": "Eula-1"
+    },
+    {
+      "property": "P3553",
+      "value": "19662086"
+    },
+    {
+      "property": "P373",
+      "value": "Software licenses"
+    },
+    {
+      "property": "P3827",
+      "value": "software-licenses"
+    },
+    {
+      "property": "P6366",
+      "value": "2780952101"
+    }
+  ]
+}

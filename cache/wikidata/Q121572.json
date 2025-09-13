@@ -1,0 +1,42 @@
+{
+  "id": "Q121572",
+  "label": "literal",
+  "facts": [
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/literals"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2627911"
+    },
+    {
+      "property": "P279",
+      "value": "Q1196827"
+    },
+    {
+      "property": "P279",
+      "value": "Q6486712"
+    },
+    {
+      "property": "P3417",
+      "value": "Literal-1"
+    },
+    {
+      "property": "P361",
+      "value": "Q40056"
+    },
+    {
+      "property": "P646",
+      "value": "/m/065dy5"
+    },
+    {
+      "property": "P8168",
+      "value": "Q37192"
+    },
+    {
+      "property": "P8885",
+      "value": "리터럴"
+    }
+  ]
+}

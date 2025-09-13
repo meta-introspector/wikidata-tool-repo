@@ -1,0 +1,226 @@
+{
+  "id": "Q725967",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/windows-azure"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105850036"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105850070"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105850036"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105850070"
+    },
+    {
+      "property": "P11137",
+      "value": "microsoft_azure"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/f7af1ba7-2ad2-4da7-98d2-a9f8ad255414"
+    },
+    {
+      "property": "P1424",
+      "value": "Q21212685"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/azure"
+    },
+    {
+      "property": "P154",
+      "value": "Microsoft Azure.svg"
+    },
+    {
+      "property": "P1638",
+      "value": "Project Red Dog"
+    },
+    {
+      "property": "P178",
+      "value": "Q2283"
+    },
+    {
+      "property": "P2002",
+      "value": "Azure"
+    },
+    {
+      "property": "P2002",
+      "value": "AzureSupport"
+    },
+    {
+      "property": "P2002",
+      "value": "AzureDevOps"
+    },
+    {
+      "property": "P227",
+      "value": "7693533-4"
+    },
+    {
+      "property": "P244",
+      "value": "sh2016001752"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q48493"
+    },
+    {
+      "property": "P31",
+      "value": "Q483639"
+    },
+    {
+      "property": "P31",
+      "value": "Q1346018"
+    },
+    {
+      "property": "P31",
+      "value": "Q117350903"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P3417",
+      "value": "Microsoft-Azure"
+    },
+    {
+      "property": "P373",
+      "value": "Microsoft Azure"
+    },
+    {
+      "property": "P3984",
+      "value": "AZURE"
+    },
+    {
+      "property": "P527",
+      "value": "Q43079896"
+    },
+    {
+      "property": "P527",
+      "value": "Q24833870"
+    },
+    {
+      "property": "P527",
+      "value": "Q20707889"
+    },
+    {
+      "property": "P527",
+      "value": "Q110661332"
+    },
+    {
+      "property": "P527",
+      "value": "Q110661364"
+    },
+    {
+      "property": "P527",
+      "value": "Q110661395"
+    },
+    {
+      "property": "P527",
+      "value": "Q30947247"
+    },
+    {
+      "property": "P527",
+      "value": "Q114603160"
+    },
+    {
+      "property": "P5555",
+      "value": "Windows Azure Network and Computes Architecture.png"
+    },
+    {
+      "property": "P5555",
+      "value": "Windows Azure Architecture.png"
+    },
+    {
+      "property": "P571",
+      "value": "+2010-02-01T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04y7lrx"
+    },
+    {
+      "property": "P691",
+      "value": "ph579332"
+    },
+    {
+      "property": "P6949",
+      "value": "+2008-10-00T00:00:00Z"
+    },
+    {
+      "property": "P7306",
+      "value": "windows-azure"
+    },
+    {
+      "property": "P7502",
+      "value": "Microsoft_Azure-RYVN89"
+    },
+    {
+      "property": "P7771",
+      "value": "Q2984"
+    },
+    {
+      "property": "P8189",
+      "value": "987007398311305171"
+    },
+    {
+      "property": "P856",
+      "value": "https://azure.microsoft.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+117135"
+    },
+    {
+      "property": "P898",
+      "value": "ˈæʒər"
+    },
+    {
+      "property": "P910",
+      "value": "Q8625387"
+    },
+    {
+      "property": "P9100",
+      "value": "azure"
+    },
+    {
+      "property": "P9138",
+      "value": "https://status.azure.com"
+    },
+    {
+      "property": "P9138",
+      "value": "https://azure.status.microsoft"
+    },
+    {
+      "property": "P9138",
+      "value": "https://azure.status.microsoft/fr-fr/status"
+    },
+    {
+      "property": "P9138",
+      "value": "https://status.cloud.microsoft/"
+    }
+  ]
+}

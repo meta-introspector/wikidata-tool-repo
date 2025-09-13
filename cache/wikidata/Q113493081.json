@@ -1,0 +1,34 @@
+{
+  "id": "Q113493081",
+  "label": "Rust for Linux",
+  "facts": [
+    {
+      "property": "P154",
+      "value": "Rust for Linux logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q123862801"
+    },
+    {
+      "property": "P2037",
+      "value": "Rust-for-Linux"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P571",
+      "value": "+2020-00-00T00:00:00Z"
+    },
+    {
+      "property": "P856",
+      "value": "https://rust-for-linux.com/"
+    }
+  ]
+}

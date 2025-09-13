@@ -1,0 +1,954 @@
+{
+  "id": "Q37227",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P1037",
+      "value": "Q102267528"
+    },
+    {
+      "property": "P10565",
+      "value": "584529"
+    },
+    {
+      "property": "P10766",
+      "value": "go"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-go"
+    },
+    {
+      "property": "P11947",
+      "value": "golang@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "go"
+    },
+    {
+      "property": "P12361",
+      "value": "golang.org"
+    },
+    {
+      "property": "P12695",
+      "value": "Go"
+    },
+    {
+      "property": "P12873",
+      "value": "Go"
+    },
+    {
+      "property": "P12873",
+      "value": "Go_(Español)"
+    },
+    {
+      "property": "P12873",
+      "value": "Go_(Русский)"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/golang/go"
+    },
+    {
+      "property": "P13397",
+      "value": "go"
+    },
+    {
+      "property": "P13397",
+      "value": "golang"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/db1c8d6e-07da-4d7c-9a17-93c6c01b07bf"
+    },
+    {
+      "property": "P138",
+      "value": "Q221612"
+    },
+    {
+      "property": "P1401",
+      "value": "https://go-review.googlesource.com"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Go-programming-language"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/go"
+    },
+    {
+      "property": "P154",
+      "value": "Go Logo Blue.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q95"
+    },
+    {
+      "property": "P178",
+      "value": "Q517764"
+    },
+    {
+      "property": "P178",
+      "value": "Q1107006"
+    },
+    {
+      "property": "P178",
+      "value": "Q66022953"
+    },
+    {
+      "property": "P178",
+      "value": "Q16729446"
+    },
+    {
+      "property": "P1889",
+      "value": "Q28974885"
+    },
+    {
+      "property": "P1889",
+      "value": "Q3109515"
+    },
+    {
+      "property": "P2002",
+      "value": "golang"
+    },
+    {
+      "property": "P2037",
+      "value": "golang"
+    },
+    {
+      "property": "P2163",
+      "value": "1893916"
+    },
+    {
+      "property": "P227",
+      "value": "7725033-3"
+    },
+    {
+      "property": "P2397",
+      "value": "UCO3LEtymiLrgvpb59cNsb8A"
+    },
+    {
+      "property": "P244",
+      "value": "sh2012000746"
+    },
+    {
+      "property": "P2572",
+      "value": "GoogleGo"
+    },
+    {
+      "property": "P2572",
+      "value": "golang"
+    },
+    {
+      "property": "P2675",
+      "value": "Q2407"
+    },
+    {
+      "property": "P275",
+      "value": "Q191307"
+    },
+    {
+      "property": "P277",
+      "value": "Q37227"
+    },
+    {
+      "property": "P287",
+      "value": "Q517764"
+    },
+    {
+      "property": "P287",
+      "value": "Q1107006"
+    },
+    {
+      "property": "P287",
+      "value": "Q16729446"
+    },
+    {
+      "property": "P306",
+      "value": "Q751067"
+    },
+    {
+      "property": "P306",
+      "value": "Q34236"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q34225"
+    },
+    {
+      "property": "P306",
+      "value": "Q34215"
+    },
+    {
+      "property": "P306",
+      "value": "Q725779"
+    },
+    {
+      "property": "P306",
+      "value": "Q14646"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q48493"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q269856"
+    },
+    {
+      "property": "P306",
+      "value": "Q2274332"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920117"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q28919943"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q651794"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P3417",
+      "value": "Go-programming-language"
+    },
+    {
+      "property": "P3463",
+      "value": "golang"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.15"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.16"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.17"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.18"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.19rc2"
+    },
+    {
+      "property": "P348",
+      "value": "1.19"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.20"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.20rc3"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.14"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.15"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.19.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.20.14"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.21.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.22.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.25.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.23.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.24.6"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/go"
+    },
+    {
+      "property": "P361",
+      "value": "Q7397"
+    },
+    {
+      "property": "P373",
+      "value": "Go (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3984",
+      "value": "golang"
+    },
+    {
+      "property": "P571",
+      "value": "+2009-11-10T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/09gbxjr"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q936724"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q374282"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q28865"
+    },
+    {
+      "property": "P737",
+      "value": "Q3251260"
+    },
+    {
+      "property": "P737",
+      "value": "Q544927"
+    },
+    {
+      "property": "P737",
+      "value": "Q344108"
+    },
+    {
+      "property": "P737",
+      "value": "Q1120460"
+    },
+    {
+      "property": "P737",
+      "value": "Q81571"
+    },
+    {
+      "property": "P737",
+      "value": "Q1323362"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P737",
+      "value": "Q262003"
+    },
+    {
+      "property": "P737",
+      "value": "Q777358"
+    },
+    {
+      "property": "P737",
+      "value": "Q1895587"
+    },
+    {
+      "property": "P737",
+      "value": "Q296187"
+    },
+    {
+      "property": "P737",
+      "value": "Q810009"
+    },
+    {
+      "property": "P737",
+      "value": "Q2428476"
+    },
+    {
+      "property": "P737",
+      "value": "Q838062"
+    },
+    {
+      "property": "P8189",
+      "value": "987007581576905171"
+    },
+    {
+      "property": "P822",
+      "value": "Q30278191"
+    },
+    {
+      "property": "P856",
+      "value": "https://golang.org"
+    },
+    {
+      "property": "P856",
+      "value": "https://go.dev"
+    },
+    {
+      "property": "P8687",
+      "value": "+110384"
+    },
+    {
+      "property": "P8687",
+      "value": "+61975"
+    },
+    {
+      "property": "P8687",
+      "value": "+135438"
+    },
+    {
+      "property": "P8687",
+      "value": "+166743"
+    },
+    {
+      "property": "P8687",
+      "value": "+205833"
+    },
+    {
+      "property": "P8687",
+      "value": "+33700"
+    },
+    {
+      "property": "P8885",
+      "value": "Go(프로그래밍 언어)"
+    },
+    {
+      "property": "P910",
+      "value": "Q47482699"
+    },
+    {
+      "property": "P9100",
+      "value": "go"
+    },
+    {
+      "property": "P9100",
+      "value": "golang"
+    },
+    {
+      "property": "P9618",
+      "value": "go-programming-language-"
+    }
+  ]
+}

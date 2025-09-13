@@ -1,0 +1,210 @@
+{
+  "id": "Q235086",
+  "label": "Smalltalk",
+  "facts": [
+    {
+      "property": "P10017",
+      "value": "smalltalk"
+    },
+    {
+      "property": "P10283",
+      "value": "C2777293101"
+    },
+    {
+      "property": "P1072",
+      "value": "Q127433402"
+    },
+    {
+      "property": "P1073",
+      "value": "Q127433402"
+    },
+    {
+      "property": "P1195",
+      "value": "st"
+    },
+    {
+      "property": "P12946",
+      "value": "Smalltalk"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/a51c596c-c6a5-45a6-8180-dbf1cd1cfd91"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Smalltalk"
+    },
+    {
+      "property": "P1424",
+      "value": "Q106299454"
+    },
+    {
+      "property": "P154",
+      "value": "Smalltalk Balloon.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q92742"
+    },
+    {
+      "property": "P178",
+      "value": "Q11605"
+    },
+    {
+      "property": "P178",
+      "value": "Q92772"
+    },
+    {
+      "property": "P178",
+      "value": "Q5271235"
+    },
+    {
+      "property": "P2347",
+      "value": "17802"
+    },
+    {
+      "property": "P244",
+      "value": "sh87003115"
+    },
+    {
+      "property": "P268",
+      "value": "12158691c"
+    },
+    {
+      "property": "P269",
+      "value": "030104092"
+    },
+    {
+      "property": "P287",
+      "value": "Q92742"
+    },
+    {
+      "property": "P287",
+      "value": "Q11605"
+    },
+    {
+      "property": "P287",
+      "value": "Q750428"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922858"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3381",
+      "value": "Smalltalk"
+    },
+    {
+      "property": "P3417",
+      "value": "Smalltalk-1"
+    },
+    {
+      "property": "P3417",
+      "value": "Smalltalk-programming-language"
+    },
+    {
+      "property": "P348",
+      "value": "ANSI Smalltalk"
+    },
+    {
+      "property": "P3553",
+      "value": "19663498"
+    },
+    {
+      "property": "P373",
+      "value": "Smalltalk (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "smalltalk_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q5127844"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-Smalltalk.wav"
+    },
+    {
+      "property": "P4644",
+      "value": "42ed3bfb-1a01-4c8b-9758-fc6438865734"
+    },
+    {
+      "property": "P571",
+      "value": "+1972-00-00T00:00:00Z"
+    },
+    {
+      "property": "P5844",
+      "value": "smalltalk"
+    },
+    {
+      "property": "P6293",
+      "value": "Y113104"
+    },
+    {
+      "property": "P6366",
+      "value": "2777293101"
+    },
+    {
+      "property": "P646",
+      "value": "/m/070d2"
+    },
+    {
+      "property": "P6706",
+      "value": "small+talk"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q10371720"
+    },
+    {
+      "property": "P737",
+      "value": "Q212569"
+    },
+    {
+      "property": "P737",
+      "value": "Q201436"
+    },
+    {
+      "property": "P8189",
+      "value": "987007534093605171"
+    },
+    {
+      "property": "P8313",
+      "value": "Smalltalk"
+    },
+    {
+      "property": "P910",
+      "value": "Q8754949"
+    },
+    {
+      "property": "P9100",
+      "value": "smalltalk"
+    }
+  ]
+}

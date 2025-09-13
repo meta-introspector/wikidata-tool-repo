@@ -1,0 +1,226 @@
+{
+  "id": "Q1544247",
+  "label": "CNET",
+  "facts": [
+    {
+      "property": "P10006",
+      "value": "cnet"
+    },
+    {
+      "property": "P11212",
+      "value": "https://www.cnet.com/sitemaps/"
+    },
+    {
+      "property": "P11472",
+      "value": "cnetj"
+    },
+    {
+      "property": "P11965",
+      "value": "e153addfff9f25ed1a5a27526a9f7029"
+    },
+    {
+      "property": "P12079",
+      "value": "cnet"
+    },
+    {
+      "property": "P1258",
+      "value": "source-892"
+    },
+    {
+      "property": "P1258",
+      "value": "critics/source/892"
+    },
+    {
+      "property": "P127",
+      "value": "Q56299588"
+    },
+    {
+      "property": "P12942",
+      "value": "1582"
+    },
+    {
+      "property": "P13337",
+      "value": "cnet.com"
+    },
+    {
+      "property": "P1343",
+      "value": "Q101246972"
+    },
+    {
+      "property": "P1387",
+      "value": "Q3289782"
+    },
+    {
+      "property": "P1454",
+      "value": "Q134161"
+    },
+    {
+      "property": "P154",
+      "value": "CNET (2022).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Cnet logo.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q62"
+    },
+    {
+      "property": "P1661",
+      "value": "+131"
+    },
+    {
+      "property": "P1661",
+      "value": "+154"
+    },
+    {
+      "property": "P1661",
+      "value": "+152"
+    },
+    {
+      "property": "P2002",
+      "value": "CNET"
+    },
+    {
+      "property": "P2002",
+      "value": "CNETNews"
+    },
+    {
+      "property": "P2003",
+      "value": "cnet"
+    },
+    {
+      "property": "P2013",
+      "value": "cnet"
+    },
+    {
+      "property": "P213",
+      "value": "0000000098270711"
+    },
+    {
+      "property": "P214",
+      "value": "145624829"
+    },
+    {
+      "property": "P2397",
+      "value": "UCOmcA3f_RrH6b9NmcNa4tdg"
+    },
+    {
+      "property": "P244",
+      "value": "n2004101923"
+    },
+    {
+      "property": "P2942",
+      "value": "CNET"
+    },
+    {
+      "property": "P31",
+      "value": "Q1153191"
+    },
+    {
+      "property": "P3393",
+      "value": "102572"
+    },
+    {
+      "property": "P3417",
+      "value": "CNET-product"
+    },
+    {
+      "property": "P3417",
+      "value": "CNET-com"
+    },
+    {
+      "property": "P373",
+      "value": "CNET"
+    },
+    {
+      "property": "P4013",
+      "value": "cnet"
+    },
+    {
+      "property": "P571",
+      "value": "+1994-03-05T00:00:00Z"
+    },
+    {
+      "property": "P576",
+      "value": "+2008-05-15T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "1320402651"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0by1jyj"
+    },
+    {
+      "property": "P7306",
+      "value": "cnet"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf10985824"
+    },
+    {
+      "property": "P8189",
+      "value": "987007446254205171"
+    },
+    {
+      "property": "P856",
+      "value": "https://cnet.com/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cnet.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+1752341"
+    },
+    {
+      "property": "P8687",
+      "value": "+3090000"
+    },
+    {
+      "property": "P8687",
+      "value": "+3400000"
+    },
+    {
+      "property": "P8687",
+      "value": "+3610000"
+    },
+    {
+      "property": "P8687",
+      "value": "+3760000"
+    },
+    {
+      "property": "P8687",
+      "value": "+3990000"
+    },
+    {
+      "property": "P9035",
+      "value": "cnet"
+    },
+    {
+      "property": "P910",
+      "value": "Q8334630"
+    },
+    {
+      "property": "P921",
+      "value": "Q2155573"
+    },
+    {
+      "property": "P9618",
+      "value": "cnet"
+    },
+    {
+      "property": "P9852",
+      "value": "cnet"
+    },
+    {
+      "property": "P9922",
+      "value": "cnet"
+    }
+  ]
+}

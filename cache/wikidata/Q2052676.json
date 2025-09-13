@@ -1,0 +1,218 @@
+{
+  "id": "Q2052676",
+  "label": "Raku",
+  "facts": [
+    {
+      "property": "P1195",
+      "value": "raku"
+    },
+    {
+      "property": "P1195",
+      "value": "rakumod"
+    },
+    {
+      "property": "P1195",
+      "value": "rakudoc"
+    },
+    {
+      "property": "P1195",
+      "value": "rakutest"
+    },
+    {
+      "property": "P1195",
+      "value": "t"
+    },
+    {
+      "property": "P12695",
+      "value": "Raku"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/Raku/roast"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/raku"
+    },
+    {
+      "property": "P154",
+      "value": "Camelia.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.libera.chat/#raku"
+    },
+    {
+      "property": "P178",
+      "value": "Q92597"
+    },
+    {
+      "property": "P178",
+      "value": "Q15025"
+    },
+    {
+      "property": "P275",
+      "value": "Q14624826"
+    },
+    {
+      "property": "P277",
+      "value": "Q2052676"
+    },
+    {
+      "property": "P287",
+      "value": "Q92597"
+    },
+    {
+      "property": "P287",
+      "value": "Q92683"
+    },
+    {
+      "property": "P287",
+      "value": "Q15025"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3473",
+      "value": "raku"
+    },
+    {
+      "property": "P348",
+      "value": "v6.d \"Diwali\""
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3984",
+      "value": "perl6"
+    },
+    {
+      "property": "P3984",
+      "value": "rakulang"
+    },
+    {
+      "property": "P5047",
+      "value": "Category:Raku"
+    },
+    {
+      "property": "P571",
+      "value": "+2015-12-25T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "2776765972"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04b9q6"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q16965428"
+    },
+    {
+      "property": "P737",
+      "value": "Q34010"
+    },
+    {
+      "property": "P737",
+      "value": "Q42478"
+    },
+    {
+      "property": "P737",
+      "value": "Q849146"
+    },
+    {
+      "property": "P737",
+      "value": "Q154755"
+    },
+    {
+      "property": "P737",
+      "value": "Q6715473"
+    },
+    {
+      "property": "P737",
+      "value": "Q296187"
+    },
+    {
+      "property": "P737",
+      "value": "Q161053"
+    },
+    {
+      "property": "P737",
+      "value": "Q28865"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P737",
+      "value": "Q1864529"
+    },
+    {
+      "property": "P822",
+      "value": "Q124816732"
+    },
+    {
+      "property": "P8408",
+      "value": "Perl6"
+    },
+    {
+      "property": "P856",
+      "value": "https://raku.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://perl6.org/"
+    },
+    {
+      "property": "P8934",
+      "value": "https://www.nntp.perl.org/group/perl.perl6.users/"
+    },
+    {
+      "property": "P910",
+      "value": "Q8758040"
+    },
+    {
+      "property": "P9100",
+      "value": "raku"
+    },
+    {
+      "property": "P9128",
+      "value": "raku"
+    },
+    {
+      "property": "P9618",
+      "value": "perl-6"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "Q5366250",
+  "label": "Elm",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q127691413"
+    },
+    {
+      "property": "P1073",
+      "value": "Q127691413"
+    },
+    {
+      "property": "P10766",
+      "value": "elm-platform"
+    },
+    {
+      "property": "P11201",
+      "value": "https://elm-lang.org/try"
+    },
+    {
+      "property": "P1195",
+      "value": "elm"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/elm/compiler"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/elm"
+    },
+    {
+      "property": "P154",
+      "value": "Elm logo.svg"
+    },
+    {
+      "property": "P2002",
+      "value": "elmlang"
+    },
+    {
+      "property": "P2037",
+      "value": "elm"
+    },
+    {
+      "property": "P275",
+      "value": "Q191307"
+    },
+    {
+      "property": "P277",
+      "value": "Q34010"
+    },
+    {
+      "property": "P287",
+      "value": "Q28937568"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920193"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922871"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920201"
+    },
+    {
+      "property": "P31",
+      "value": "Q50843083"
+    },
+    {
+      "property": "P348",
+      "value": "0.17"
+    },
+    {
+      "property": "P348",
+      "value": "0.18"
+    },
+    {
+      "property": "P348",
+      "value": "0.19"
+    },
+    {
+      "property": "P348",
+      "value": "0.19.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.16.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.17.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.17.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.18.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.19.0"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4354073"
+    },
+    {
+      "property": "P3966",
+      "value": "Q28453809"
+    },
+    {
+      "property": "P3966",
+      "value": "Q5508843"
+    },
+    {
+      "property": "P3984",
+      "value": "elm"
+    },
+    {
+      "property": "P571",
+      "value": "+2012-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0ncc1sv"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P737",
+      "value": "Q34010"
+    },
+    {
+      "property": "P737",
+      "value": "Q597330"
+    },
+    {
+      "property": "P737",
+      "value": "Q212587"
+    },
+    {
+      "property": "P737",
+      "value": "Q648619"
+    },
+    {
+      "property": "P856",
+      "value": "https://elm-lang.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+18804"
+    },
+    {
+      "property": "P8687",
+      "value": "+19023"
+    },
+    {
+      "property": "P8687",
+      "value": "+18895"
+    },
+    {
+      "property": "P9100",
+      "value": "elm"
+    },
+    {
+      "property": "P9100",
+      "value": "elmlang"
+    },
+    {
+      "property": "P9100",
+      "value": "elm-lang"
+    },
+    {
+      "property": "P9100",
+      "value": "elm-language"
+    },
+    {
+      "property": "P9618",
+      "value": "elm"
+    }
+  ]
+}

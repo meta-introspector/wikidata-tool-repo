@@ -1,0 +1,38 @@
+{
+  "id": "Q18384745",
+  "label": "AArch64",
+  "facts": [
+    {
+      "property": "P1068",
+      "value": "Q101508290"
+    },
+    {
+      "property": "P1068",
+      "value": "Q29167149"
+    },
+    {
+      "property": "P13520",
+      "value": "2978"
+    },
+    {
+      "property": "P18",
+      "value": "Huawei P8 Lite 2017 - main board - HiSilicon Hi6250-6719.jpg"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11fw9kg3g0"
+    },
+    {
+      "property": "P31",
+      "value": "Q16980"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.arm.com/products/processors/instruction-set-architectures/armv8-architecture.php"
+    },
+    {
+      "property": "P9100",
+      "value": "arm64"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "Q775159",
+  "label": "CLU",
+  "facts": [
+    {
+      "property": "P13591",
+      "value": "concept/a8e46a18-c60c-42a7-a0a5-be1dd09d380a"
+    },
+    {
+      "property": "P178",
+      "value": "Q16080922"
+    },
+    {
+      "property": "P178",
+      "value": "Q49108"
+    },
+    {
+      "property": "P244",
+      "value": "sh85027223"
+    },
+    {
+      "property": "P287",
+      "value": "Q16080922"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P571",
+      "value": "+1975-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02471"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q1209759"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q212569"
+    },
+    {
+      "property": "P8189",
+      "value": "987007283915205171"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.pmg.lcs.mit.edu/CLU.html"
+    },
+    {
+      "property": "P9100",
+      "value": "clu"
+    }
+  ]
+}

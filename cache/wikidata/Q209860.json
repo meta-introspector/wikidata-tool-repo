@@ -1,0 +1,174 @@
+{
+  "id": "Q209860",
+  "label": "PowerPC",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C56005371"
+    },
+    {
+      "property": "P12385",
+      "value": "powerpc"
+    },
+    {
+      "property": "P12695",
+      "value": "PPC"
+    },
+    {
+      "property": "P12946",
+      "value": "PowerPC"
+    },
+    {
+      "property": "P1296",
+      "value": "0282350"
+    },
+    {
+      "property": "P13572",
+      "value": "PowerPC"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/d2a7af63-1d06-401f-8529-1dc148c3df1c"
+    },
+    {
+      "property": "P13616",
+      "value": "PowerPC"
+    },
+    {
+      "property": "P13616",
+      "value": "powerpc"
+    },
+    {
+      "property": "P13616",
+      "value": "PPC64"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/powerpc"
+    },
+    {
+      "property": "P154",
+      "value": "PowerPC logo.svg"
+    },
+    {
+      "property": "P1552",
+      "value": "Q30167277"
+    },
+    {
+      "property": "P178",
+      "value": "Q2660973"
+    },
+    {
+      "property": "P18",
+      "value": "IBM PowerPC601 PPC601FD-080-2 top.jpg"
+    },
+    {
+      "property": "P2179",
+      "value": "10011517"
+    },
+    {
+      "property": "P244",
+      "value": "sh94000036"
+    },
+    {
+      "property": "P279",
+      "value": "Q5300"
+    },
+    {
+      "property": "P287",
+      "value": "Q2660973"
+    },
+    {
+      "property": "P31",
+      "value": "Q272683"
+    },
+    {
+      "property": "P31",
+      "value": "Q6663274"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P31",
+      "value": "Q30167277"
+    },
+    {
+      "property": "P31",
+      "value": "Q122967152"
+    },
+    {
+      "property": "P3222",
+      "value": "powerpc"
+    },
+    {
+      "property": "P3417",
+      "value": "PowerPC"
+    },
+    {
+      "property": "P348",
+      "value": "2.02"
+    },
+    {
+      "property": "P3553",
+      "value": "19669454"
+    },
+    {
+      "property": "P373",
+      "value": "PowerPC"
+    },
+    {
+      "property": "P3984",
+      "value": "PowerPC"
+    },
+    {
+      "property": "P4342",
+      "value": "PowerPC_-_IT"
+    },
+    {
+      "property": "P580",
+      "value": "+1992-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "28749"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:PowerPC"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:PowerPC"
+    },
+    {
+      "property": "P629",
+      "value": "Q863823"
+    },
+    {
+      "property": "P6366",
+      "value": "56005371"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0620f"
+    },
+    {
+      "property": "P6900",
+      "value": "powerpc"
+    },
+    {
+      "property": "P8189",
+      "value": "987007556205405171"
+    },
+    {
+      "property": "P8885",
+      "value": "PowerPC"
+    },
+    {
+      "property": "P910",
+      "value": "Q9416671"
+    }
+  ]
+}

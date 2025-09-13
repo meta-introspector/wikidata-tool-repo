@@ -1,0 +1,50 @@
+{
+  "id": "Q865760",
+  "label": "type system",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q9143"
+    },
+    {
+      "property": "P1424",
+      "value": "Q18858226"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/type-systems"
+    },
+    {
+      "property": "P1687",
+      "value": "P7078"
+    },
+    {
+      "property": "P2283",
+      "value": "Q190087"
+    },
+    {
+      "property": "P2579",
+      "value": "Q1056428"
+    },
+    {
+      "property": "P279",
+      "value": "Q649732"
+    },
+    {
+      "property": "P361",
+      "value": "Q9143"
+    },
+    {
+      "property": "P6366",
+      "value": "20740285"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01cc54"
+    },
+    {
+      "property": "P910",
+      "value": "Q8877945"
+    }
+  ]
+}

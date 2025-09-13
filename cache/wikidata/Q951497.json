@@ -1,0 +1,26 @@
+{
+  "id": "Q951497",
+  "label": "general-purpose programming language",
+  "facts": [
+    {
+      "property": "P279",
+      "value": "Q9143"
+    },
+    {
+      "property": "P279",
+      "value": "Q16963996"
+    },
+    {
+      "property": "P461",
+      "value": "Q691358"
+    },
+    {
+      "property": "P6366",
+      "value": "2778984776"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0b7426n"
+    }
+  ]
+}

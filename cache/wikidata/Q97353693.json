@@ -1,0 +1,286 @@
+{
+  "id": "Q97353693",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10766",
+      "value": "mozilla-vpn"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-mobile/mozilla-vpn-client"
+    },
+    {
+      "property": "P137",
+      "value": "Q169925"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla VPN logo.svg"
+    },
+    {
+      "property": "P1716",
+      "value": "Q112752529"
+    },
+    {
+      "property": "P2002",
+      "value": "mozillavpn"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11jj0w7_41"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P31",
+      "value": "Q56240391"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P31",
+      "value": "Q11320567"
+    },
+    {
+      "property": "P31",
+      "value": "Q620615"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.21"
+    },
+    {
+      "property": "P348",
+      "value": "2.22.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.22.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.23.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.23.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.24.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.24.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.24.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.24.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.25.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.26.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.28.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.27.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.29.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.29.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.29.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.8.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.13.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.14.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.15.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.15.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.15.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.15.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.16.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.16.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.17.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.17.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.18.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.18.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.19.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.19.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.19.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.20.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.21.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.30.0"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla VPN"
+    },
+    {
+      "property": "P580",
+      "value": "+2020-07-15T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P7936",
+      "value": "Q322948"
+    },
+    {
+      "property": "P856",
+      "value": "https://vpn.mozilla.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/en-US/products/vpn/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/products/vpn/"
+    },
+    {
+      "property": "P8687",
+      "value": "+371"
+    },
+    {
+      "property": "P9214",
+      "value": "https://support.mozilla.org/en-US/products/firefox-private-network-vpn"
+    }
+  ]
+}

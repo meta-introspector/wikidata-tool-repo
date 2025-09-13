@@ -1,0 +1,62 @@
+{
+  "id": "Q838101",
+  "label": "while loop",
+  "facts": [
+    {
+      "property": "P12946",
+      "value": "while+loop"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/while-loop"
+    },
+    {
+      "property": "P1889",
+      "value": "Q30278326"
+    },
+    {
+      "property": "P1889",
+      "value": "Q3242594"
+    },
+    {
+      "property": "P279",
+      "value": "Q8868615"
+    },
+    {
+      "property": "P31",
+      "value": "Q1192029"
+    },
+    {
+      "property": "P3417",
+      "value": "While-Loop"
+    },
+    {
+      "property": "P361",
+      "value": "Q128751"
+    },
+    {
+      "property": "P361",
+      "value": "Q9143"
+    },
+    {
+      "property": "P4342",
+      "value": "while-løkke_(IT)"
+    },
+    {
+      "property": "P5555",
+      "value": "While-loop-diagram.svg"
+    },
+    {
+      "property": "P6366",
+      "value": "134224410"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02d6ch"
+    },
+    {
+      "property": "P6564",
+      "value": "while"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q54878378",
+  "label": "comparison of programming languages",
+  "facts": [
+    {
+      "property": "P1424",
+      "value": "Q14338496"
+    },
+    {
+      "property": "P31",
+      "value": "Q1720648"
+    },
+    {
+      "property": "P31",
+      "value": "Q13406463"
+    },
+    {
+      "property": "P910",
+      "value": "Q7476792"
+    }
+  ]
+}

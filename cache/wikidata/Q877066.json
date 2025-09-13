@@ -1,0 +1,30 @@
+{
+  "id": "Q877066",
+  "label": "The Book of Mozilla",
+  "facts": [
+    {
+      "property": "P1889",
+      "value": "Q398558"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1934928"
+    },
+    {
+      "property": "P31",
+      "value": "Q330574"
+    },
+    {
+      "property": "P31",
+      "value": "Q788790"
+    },
+    {
+      "property": "P373",
+      "value": "The Book of Mozilla"
+    },
+    {
+      "property": "P646",
+      "value": "/m/026f1s"
+    }
+  ]
+}

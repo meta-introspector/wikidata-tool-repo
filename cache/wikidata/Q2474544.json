@@ -1,0 +1,74 @@
+{
+  "id": "Q2474544",
+  "label": "InfoWorld",
+  "facts": [
+    {
+      "property": "P123",
+      "value": "Q1360149"
+    },
+    {
+      "property": "P1476",
+      "value": "InfoWorld"
+    },
+    {
+      "property": "P154",
+      "value": "InfoWorld Logo with Maroon Background.svg"
+    },
+    {
+      "property": "P214",
+      "value": "6868149489114193810008"
+    },
+    {
+      "property": "P236",
+      "value": "0199-6649"
+    },
+    {
+      "property": "P31",
+      "value": "Q41298"
+    },
+    {
+      "property": "P31",
+      "value": "Q847906"
+    },
+    {
+      "property": "P3417",
+      "value": "Infoworld"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P495",
+      "value": "Q30"
+    },
+    {
+      "property": "P571",
+      "value": "+1978-01-01T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05ytvy"
+    },
+    {
+      "property": "P724",
+      "value": "pub_infoworld"
+    },
+    {
+      "property": "P7363",
+      "value": "0199-6649"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.infoworld.com/"
+    },
+    {
+      "property": "P856",
+      "value": "http://infoworld.com"
+    },
+    {
+      "property": "P8903",
+      "value": "5518"
+    }
+  ]
+}

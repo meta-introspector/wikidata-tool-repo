@@ -1,0 +1,50 @@
+{
+  "id": "Q6815100",
+  "label": "membership organization",
+  "facts": [
+    {
+      "property": "P279",
+      "value": "Q43229"
+    },
+    {
+      "property": "P31",
+      "value": "Q17197366"
+    },
+    {
+      "property": "P452",
+      "value": "Q123131239"
+    },
+    {
+      "property": "P461",
+      "value": "Q134732741"
+    },
+    {
+      "property": "P527",
+      "value": "Q8191099"
+    },
+    {
+      "property": "P527",
+      "value": "Q123131830"
+    },
+    {
+      "property": "P527",
+      "value": "Q123131831"
+    },
+    {
+      "property": "P527",
+      "value": "Q123131832"
+    },
+    {
+      "property": "P527",
+      "value": "Q123131833"
+    },
+    {
+      "property": "P527",
+      "value": "Q123131835"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0gwz19b"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Q116745226",
+  "label": "Cranelift",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://github.com/bytecodealliance/cranelift"
+    },
+    {
+      "property": "P170",
+      "value": "Q75097496"
+    },
+    {
+      "property": "P2078",
+      "value": "https://cranelift.readthedocs.io/"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11sht82ls0"
+    },
+    {
+      "property": "P275",
+      "value": "Q115053103"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P361",
+      "value": "Q119398768"
+    },
+    {
+      "property": "P4763",
+      "value": "cranelift"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P856",
+      "value": "https://cranelift.dev/"
+    }
+  ]
+}

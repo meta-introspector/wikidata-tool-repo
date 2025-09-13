@@ -1,0 +1,198 @@
+{
+  "id": "Q163468",
+  "label": "Prolog",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C81721847"
+    },
+    {
+      "property": "P1051",
+      "value": "12525"
+    },
+    {
+      "property": "P11410",
+      "value": "prolog"
+    },
+    {
+      "property": "P1195",
+      "value": "pl"
+    },
+    {
+      "property": "P1195",
+      "value": "pro"
+    },
+    {
+      "property": "P1195",
+      "value": "P"
+    },
+    {
+      "property": "P12385",
+      "value": "prolog"
+    },
+    {
+      "property": "P1296",
+      "value": "0052839"
+    },
+    {
+      "property": "P1343",
+      "value": "Q56059057"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/e3f1d9a2-c9a5-4580-bd9d-5af464ca6a09"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/prolog"
+    },
+    {
+      "property": "P1889",
+      "value": "Q920285"
+    },
+    {
+      "property": "P2347",
+      "value": "18041"
+    },
+    {
+      "property": "P244",
+      "value": "sh85107397"
+    },
+    {
+      "property": "P268",
+      "value": "11970224v"
+    },
+    {
+      "property": "P269",
+      "value": "027719774"
+    },
+    {
+      "property": "P287",
+      "value": "Q93072"
+    },
+    {
+      "property": "P287",
+      "value": "Q3490465"
+    },
+    {
+      "property": "P287",
+      "value": "Q3380671"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q1144882"
+    },
+    {
+      "property": "P31",
+      "value": "Q5249852"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920209"
+    },
+    {
+      "property": "P3381",
+      "value": "Prolog"
+    },
+    {
+      "property": "P3417",
+      "value": "Prolog"
+    },
+    {
+      "property": "P348",
+      "value": "9.2.x"
+    },
+    {
+      "property": "P348",
+      "value": "9.3.19"
+    },
+    {
+      "property": "P3553",
+      "value": "19635053"
+    },
+    {
+      "property": "P3827",
+      "value": "prolog"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275603"
+    },
+    {
+      "property": "P3966",
+      "value": "Q531152"
+    },
+    {
+      "property": "P3966",
+      "value": "Q6453666"
+    },
+    {
+      "property": "P3984",
+      "value": "prolog"
+    },
+    {
+      "property": "P4342",
+      "value": "Prolog_-_programmeringsspråk"
+    },
+    {
+      "property": "P4342",
+      "value": "Prolog_-_IT"
+    },
+    {
+      "property": "P4644",
+      "value": "2bde42ae-e776-41c1-9ded-b07b30bfe985"
+    },
+    {
+      "property": "P4969",
+      "value": "Q7622471"
+    },
+    {
+      "property": "P4969",
+      "value": "Q1172264"
+    },
+    {
+      "property": "P571",
+      "value": "+1972-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6293",
+      "value": "Y109733"
+    },
+    {
+      "property": "P6366",
+      "value": "81721847"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05vpz"
+    },
+    {
+      "property": "P691",
+      "value": "ph117111"
+    },
+    {
+      "property": "P737",
+      "value": "Q2349274"
+    },
+    {
+      "property": "P8189",
+      "value": "987007538888605171"
+    },
+    {
+      "property": "P8408",
+      "value": "Prolog-ComputerLanguage"
+    },
+    {
+      "property": "P910",
+      "value": "Q8797446"
+    },
+    {
+      "property": "P9100",
+      "value": "prolog"
+    }
+  ]
+}

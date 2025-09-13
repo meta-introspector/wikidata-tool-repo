@@ -1,0 +1,90 @@
+{
+  "id": "Q616526",
+  "label": "Apache License",
+  "facts": [
+    {
+      "property": "P123",
+      "value": "Q489709"
+    },
+    {
+      "property": "P154",
+      "value": "Apache Software Foundation Logo (2016).svg"
+    },
+    {
+      "property": "P170",
+      "value": "Q489709"
+    },
+    {
+      "property": "P279",
+      "value": "Q79719"
+    },
+    {
+      "property": "P31",
+      "value": "Q95107111"
+    },
+    {
+      "property": "P31",
+      "value": "Q207621"
+    },
+    {
+      "property": "P3417",
+      "value": "Apache-License"
+    },
+    {
+      "property": "P373",
+      "value": "Apache License"
+    },
+    {
+      "property": "P577",
+      "value": "+1990-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "31714"
+    },
+    {
+      "property": "P646",
+      "value": "/m/012k_9"
+    },
+    {
+      "property": "P747",
+      "value": "Q17817999"
+    },
+    {
+      "property": "P747",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P747",
+      "value": "Q26897902"
+    },
+    {
+      "property": "P7502",
+      "value": "Apache_License-6RE5P"
+    },
+    {
+      "property": "P790",
+      "value": "Q845918"
+    },
+    {
+      "property": "P790",
+      "value": "Q48413"
+    },
+    {
+      "property": "P790",
+      "value": "Q7715973"
+    },
+    {
+      "property": "P790",
+      "value": "Q109888"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apache.org/licenses/"
+    },
+    {
+      "property": "P8885",
+      "value": "아파치 라이선스"
+    }
+  ]
+}

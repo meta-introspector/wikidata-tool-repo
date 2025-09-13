@@ -1,0 +1,42 @@
+{
+  "id": "Q935742",
+  "label": "Ubiquity",
+  "facts": [
+    {
+      "property": "P18",
+      "value": "Ubiquity-screenshot.PNG"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2323375"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q15008061"
+    },
+    {
+      "property": "P3417",
+      "value": "Ubiquity"
+    },
+    {
+      "property": "P366",
+      "value": "Q7593080"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04j4nmy"
+    },
+    {
+      "property": "P856",
+      "value": "https://addons.mozilla.org/fr/firefox/addon/mozilla-labs-ubiquity/"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "Q2067684",
+  "label": "LWN.net",
+  "facts": [
+    {
+      "property": "P112",
+      "value": "Q134288859"
+    },
+    {
+      "property": "P136",
+      "value": "Q3402519"
+    },
+    {
+      "property": "P159",
+      "value": "Q65"
+    },
+    {
+      "property": "P1661",
+      "value": "+64457"
+    },
+    {
+      "property": "P18",
+      "value": "LWN net screenshot.png"
+    },
+    {
+      "property": "P2002",
+      "value": "lwnnet"
+    },
+    {
+      "property": "P31",
+      "value": "Q1153191"
+    },
+    {
+      "property": "P31",
+      "value": "Q847906"
+    },
+    {
+      "property": "P4033",
+      "value": "LWN@fosstodon.org"
+    },
+    {
+      "property": "P4033",
+      "value": "LWN@lwn.net"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P571",
+      "value": "+1998-01-29T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05b3rp"
+    },
+    {
+      "property": "P856",
+      "value": "https://lwn.net/"
+    },
+    {
+      "property": "P8687",
+      "value": "+17244"
+    },
+    {
+      "property": "P8687",
+      "value": "+5523"
+    },
+    {
+      "property": "P8687",
+      "value": "+5610"
+    },
+    {
+      "property": "P8687",
+      "value": "+5734"
+    },
+    {
+      "property": "P8687",
+      "value": "+4412"
+    }
+  ]
+}

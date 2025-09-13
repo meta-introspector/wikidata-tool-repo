@@ -1,0 +1,18 @@
+{
+  "id": "Q136277",
+  "label": "Linux on System z",
+  "facts": [
+    {
+      "property": "P279",
+      "value": "Q388"
+    },
+    {
+      "property": "P6366",
+      "value": "187225968"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04nk6b"
+    }
+  ]
+}

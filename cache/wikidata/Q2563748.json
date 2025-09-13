@@ -1,0 +1,34 @@
+{
+  "id": "Q2563748",
+  "label": "Swiftfox",
+  "facts": [
+    {
+      "property": "P279",
+      "value": "Q1130645"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P582",
+      "value": "+2017-03-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0f2g3s"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.getswiftfox.com/"
+    }
+  ]
+}

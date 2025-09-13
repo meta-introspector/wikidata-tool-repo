@@ -1,0 +1,70 @@
+{
+  "id": "Q1326388",
+  "label": "iterator",
+  "facts": [
+    {
+      "property": "P1268",
+      "value": "Q17008256"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/iterator"
+    },
+    {
+      "property": "P1552",
+      "value": "Q12893838"
+    },
+    {
+      "property": "P1552",
+      "value": "Q529711"
+    },
+    {
+      "property": "P1552",
+      "value": "Q1643805"
+    },
+    {
+      "property": "P1552",
+      "value": "Q7881229"
+    },
+    {
+      "property": "P1557",
+      "value": "Q651022"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2142696"
+    },
+    {
+      "property": "P279",
+      "value": "Q216601"
+    },
+    {
+      "property": "P279",
+      "value": "Q1575058"
+    },
+    {
+      "property": "P3417",
+      "value": "Iterators"
+    },
+    {
+      "property": "P373",
+      "value": "Iterator pattern"
+    },
+    {
+      "property": "P6366",
+      "value": "2779466404"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0177n_"
+    },
+    {
+      "property": "P6611",
+      "value": "218219"
+    },
+    {
+      "property": "P7726",
+      "value": "Iterator"
+    }
+  ]
+}

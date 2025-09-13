@@ -1,0 +1,42 @@
+{
+  "id": "Q124463276",
+  "label": "Laura Chambers",
+  "facts": [
+    {
+      "property": "P106",
+      "value": "Q484876"
+    },
+    {
+      "property": "P108",
+      "value": "Q169925"
+    },
+    {
+      "property": "P19",
+      "value": "Q408"
+    },
+    {
+      "property": "P21",
+      "value": "Q6581072"
+    },
+    {
+      "property": "P31",
+      "value": "Q5"
+    },
+    {
+      "property": "P69",
+      "value": "Q319078"
+    },
+    {
+      "property": "P69",
+      "value": "Q1413558"
+    },
+    {
+      "property": "P734",
+      "value": "Q13573116"
+    },
+    {
+      "property": "P735",
+      "value": "Q429948"
+    }
+  ]
+}

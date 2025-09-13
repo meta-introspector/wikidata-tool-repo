@@ -1,0 +1,510 @@
+{
+  "id": "Q2009630",
+  "label": "GNU IceCat",
+  "facts": [
+    {
+      "property": "P126",
+      "value": "Q20517888"
+    },
+    {
+      "property": "P126",
+      "value": "Q109231092"
+    },
+    {
+      "property": "P126",
+      "value": "Q110737523"
+    },
+    {
+      "property": "P126",
+      "value": "Q109375808"
+    },
+    {
+      "property": "P126",
+      "value": "Q110736906"
+    },
+    {
+      "property": "P12695",
+      "value": "GNU_Icecat"
+    },
+    {
+      "property": "P1324",
+      "value": "https://git.savannah.gnu.org/cgit/gnuzilla.git"
+    },
+    {
+      "property": "P13397",
+      "value": "gnu-icecat"
+    },
+    {
+      "property": "P13397",
+      "value": "icecat"
+    },
+    {
+      "property": "P13397",
+      "value": "gnuzilla"
+    },
+    {
+      "property": "P135",
+      "value": "Q1076638"
+    },
+    {
+      "property": "P138",
+      "value": "Q146"
+    },
+    {
+      "property": "P144",
+      "value": "Q698"
+    },
+    {
+      "property": "P1448",
+      "value": "GNUzilla"
+    },
+    {
+      "property": "P1448",
+      "value": "IceWeasel"
+    },
+    {
+      "property": "P1448",
+      "value": "IceCat"
+    },
+    {
+      "property": "P154",
+      "value": "Icecat1-300x300.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/icecat"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.libera.chat/icecat"
+    },
+    {
+      "property": "P170",
+      "value": "Q110736906"
+    },
+    {
+      "property": "P178",
+      "value": "Q7598"
+    },
+    {
+      "property": "P18",
+      "value": "Icecatdefaultsquantum.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1324793"
+    },
+    {
+      "property": "P1889",
+      "value": "Q95720756"
+    },
+    {
+      "property": "P2537",
+      "value": "IceCat"
+    },
+    {
+      "property": "P2581",
+      "value": "03892093n"
+    },
+    {
+      "property": "P275",
+      "value": "Q27016754"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P279",
+      "value": "Q332903"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P31",
+      "value": "Q20825628"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3417",
+      "value": "Icecat"
+    },
+    {
+      "property": "P348",
+      "value": "31.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "38.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "38.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.8.0-gnu2"
+    },
+    {
+      "property": "P348",
+      "value": "45.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "45.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "60.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "60.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.15.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "128.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.21.0"
+    },
+    {
+      "property": "P348",
+      "value": "128.12.0"
+    },
+    {
+      "property": "P3597",
+      "value": "org.gnu.icecat"
+    },
+    {
+      "property": "P361",
+      "value": "Q2637167"
+    },
+    {
+      "property": "P361",
+      "value": "Q7598"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P373",
+      "value": "GNU IceCat"
+    },
+    {
+      "property": "P3931",
+      "value": "Q48413"
+    },
+    {
+      "property": "P3931",
+      "value": "Q20517888"
+    },
+    {
+      "property": "P400",
+      "value": "Q94"
+    },
+    {
+      "property": "P400",
+      "value": "Q388"
+    },
+    {
+      "property": "P407",
+      "value": "Q20923490"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P408",
+      "value": "Q487834"
+    },
+    {
+      "property": "P4162",
+      "value": "icecat-bin"
+    },
+    {
+      "property": "P4162",
+      "value": "icecat"
+    },
+    {
+      "property": "P479",
+      "value": "Q165970"
+    },
+    {
+      "property": "P571",
+      "value": "+2005-10-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02vkp97"
+    },
+    {
+      "property": "P6765",
+      "value": "icecat"
+    },
+    {
+      "property": "P6931",
+      "value": "icecat"
+    },
+    {
+      "property": "P7966",
+      "value": "wip/icecat"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.gnu.org/software/icecat/"
+    },
+    {
+      "property": "P9618",
+      "value": "icecat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Q56303789",
+  "label": "standard output",
+  "facts": [
+    {
+      "property": "P12946",
+      "value": "stdout"
+    },
+    {
+      "property": "P1889",
+      "value": "Q56303791"
+    },
+    {
+      "property": "P279",
+      "value": "Q1172540"
+    },
+    {
+      "property": "P279",
+      "value": "Q778569"
+    },
+    {
+      "property": "P361",
+      "value": "Q1070408"
+    }
+  ]
+}

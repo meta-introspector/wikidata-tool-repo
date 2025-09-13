@@ -1,0 +1,166 @@
+{
+  "id": "Q13741",
+  "label": "integrated development environment",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/integrated-development-environment"
+    },
+    {
+      "property": "P12385",
+      "value": "entorn-integrat-de-desenvolupament"
+    },
+    {
+      "property": "P1245",
+      "value": "975335"
+    },
+    {
+      "property": "P12946",
+      "value": "integrated+development+environment"
+    },
+    {
+      "property": "P1296",
+      "value": "0517579"
+    },
+    {
+      "property": "P1424",
+      "value": "Q13405922"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/ide"
+    },
+    {
+      "property": "P18",
+      "value": "Anjuta-2.0.0-2.png"
+    },
+    {
+      "property": "P18",
+      "value": "Lazarus IDE v0.9.22.png"
+    },
+    {
+      "property": "P1813",
+      "value": "IDE"
+    },
+    {
+      "property": "P1813",
+      "value": "EDI"
+    },
+    {
+      "property": "P1813",
+      "value": "ИСР"
+    },
+    {
+      "property": "P1813",
+      "value": "ІСР"
+    },
+    {
+      "property": "P1813",
+      "value": "TGO"
+    },
+    {
+      "property": "P1813",
+      "value": "ИРО"
+    },
+    {
+      "property": "P1813",
+      "value": "IRO"
+    },
+    {
+      "property": "P1813",
+      "value": "ІАР"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2391834"
+    },
+    {
+      "property": "P2283",
+      "value": "Q116761507"
+    },
+    {
+      "property": "P2347",
+      "value": "11252"
+    },
+    {
+      "property": "P279",
+      "value": "Q166142"
+    },
+    {
+      "property": "P279",
+      "value": "Q1077784"
+    },
+    {
+      "property": "P279",
+      "value": "Q522972"
+    },
+    {
+      "property": "P279",
+      "value": "Q3055454"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3417",
+      "value": "Integrated-Development-Environments"
+    },
+    {
+      "property": "P3553",
+      "value": "19584972"
+    },
+    {
+      "property": "P366",
+      "value": "Q638608"
+    },
+    {
+      "property": "P373",
+      "value": "Integrated development environments"
+    },
+    {
+      "property": "P4644",
+      "value": "925463a7-d51f-4d5b-9f79-4d28cf30acde"
+    },
+    {
+      "property": "P527",
+      "value": "Q131212"
+    },
+    {
+      "property": "P527",
+      "value": "Q47506"
+    },
+    {
+      "property": "P527",
+      "value": "Q193231"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03ylk"
+    },
+    {
+      "property": "P8408",
+      "value": "IntegratedDevelopmentEnvironment"
+    },
+    {
+      "property": "P8885",
+      "value": "통합 개발 환경"
+    },
+    {
+      "property": "P910",
+      "value": "Q8549964"
+    },
+    {
+      "property": "P9100",
+      "value": "integrated-development-environment"
+    },
+    {
+      "property": "P9100",
+      "value": "ide"
+    },
+    {
+      "property": "P9621",
+      "value": "ambiente-di-sviluppo"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "id": "Q9143",
+  "label": "programming language",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C199360897"
+    },
+    {
+      "property": "P10376",
+      "value": "earth-and-planetary-sciences/programming-language"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/programming-language"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/computer-programming-languages"
+    },
+    {
+      "property": "P10376",
+      "value": "social-sciences/programming-language"
+    },
+    {
+      "property": "P10380",
+      "value": "programming-language-and-code"
+    },
+    {
+      "property": "P1051",
+      "value": "12474"
+    },
+    {
+      "property": "P10565",
+      "value": "584505"
+    },
+    {
+      "property": "P11129",
+      "value": "Programmiersprache"
+    },
+    {
+      "property": "P11137",
+      "value": "programming_language"
+    },
+    {
+      "property": "P11408",
+      "value": "プログラミング言語"
+    },
+    {
+      "property": "P11567",
+      "value": "programming-language"
+    },
+    {
+      "property": "P12086",
+      "value": "Programmeertaal"
+    },
+    {
+      "property": "P1245",
+      "value": "488500"
+    },
+    {
+      "property": "P12800",
+      "value": "it:Linguaggio_di_programmazione"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Lenguaje_de_programación"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Langage_de_programmation"
+    },
+    {
+      "property": "P12861",
+      "value": "E55"
+    },
+    {
+      "property": "P12873",
+      "value": "Programming_languages"
+    },
+    {
+      "property": "P12873",
+      "value": "Programming_languages_(Español)"
+    },
+    {
+      "property": "P12873",
+      "value": "Programming_languages_(Русский)"
+    },
+    {
+      "property": "P12946",
+      "value": "programming+language"
+    },
+    {
+      "property": "P13572",
+      "value": "programming+language"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/8e69c0b6-f8c2-464d-9dcd-a39587db0d8f"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/computer-programming-language"
+    },
+    {
+      "property": "P1424",
+      "value": "Q7480464"
+    },
+    {
+      "property": "P1424",
+      "value": "Q6459089"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/programming-languages"
+    },
+    {
+      "property": "P1552",
+      "value": "Q55121384"
+    },
+    {
+      "property": "P1552",
+      "value": "Q116481801"
+    },
+    {
+      "property": "P1557",
+      "value": "Q188267"
+    },
+    {
+      "property": "P1617",
+      "value": "ad0de66c-5709-424e-935b-2838275bce6a"
+    },
+    {
+      "property": "P1687",
+      "value": "P277"
+    },
+    {
+      "property": "P1687",
+      "value": "P3985"
+    },
+    {
+      "property": "P1687",
+      "value": "P4428"
+    },
+    {
+      "property": "P1709",
+      "value": "http://dbpedia.org/ontology/ProgrammingLanguage"
+    },
+    {
+      "property": "P18",
+      "value": "C Hello World Program.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q4117406"
+    },
+    {
+      "property": "P1889",
+      "value": "Q173341"
+    },
+    {
+      "property": "P1889",
+      "value": "Q189224"
+    },
+    {
+      "property": "P1889",
+      "value": "Q629206"
+    },
+    {
+      "property": "P1963",
+      "value": "P571"
+    },
+    {
+      "property": "P1963",
+      "value": "P348"
+    },
+    {
+      "property": "P1963",
+      "value": "P1195"
+    },
+    {
+      "property": "P1963",
+      "value": "P178"
+    },
+    {
+      "property": "P1963",
+      "value": "P306"
+    },
+    {
+      "property": "P1963",
+      "value": "P275"
+    },
+    {
+      "property": "P1963",
+      "value": "P856"
+    },
+    {
+      "property": "P1963",
+      "value": "P737"
+    },
+    {
+      "property": "P1963",
+      "value": "P1482"
+    },
+    {
+      "property": "P1963",
+      "value": "P1324"
+    },
+    {
+      "property": "P1963",
+      "value": "P527"
+    },
+    {
+      "property": "P1963",
+      "value": "P2992"
+    },
+    {
+      "property": "P1963",
+      "value": "P2572"
+    },
+    {
+      "property": "P1963",
+      "value": "P154"
+    },
+    {
+      "property": "P1963",
+      "value": "P18"
+    },
+    {
+      "property": "P1963",
+      "value": "P1814"
+    },
+    {
+      "property": "P1963",
+      "value": "P1424"
+    },
+    {
+      "property": "P1963",
+      "value": "P1401"
+    },
+    {
+      "property": "P1963",
+      "value": "P138"
+    },
+    {
+      "property": "P1963",
+      "value": "P1613"
+    },
+    {
+      "property": "P1963",
+      "value": "P287"
+    },
+    {
+      "property": "P1963",
+      "value": "P2184"
+    },
+    {
+      "property": "P1963",
+      "value": "P822"
+    },
+    {
+      "property": "P1963",
+      "value": "P3966"
+    },
+    {
+      "property": "P1963",
+      "value": "P61"
+    },
+    {
+      "property": "P1963",
+      "value": "P144"
+    },
+    {
+      "property": "P1963",
+      "value": "P8131"
+    },
+    {
+      "property": "P1963",
+      "value": "P10027"
+    },
+    {
+      "property": "P1963",
+      "value": "P7078"
+    },
+    {
+      "property": "P1963",
+      "value": "P11201"
+    },
+    {
+      "property": "P2004",
+      "value": "28433"
+    },
+    {
+      "property": "P2163",
+      "value": "1078704"
+    },
+    {
+      "property": "P2184",
+      "value": "Q1068652"
+    },
+    {
+      "property": "P2184",
+      "value": "Q186936"
+    },
+    {
+      "property": "P227",
+      "value": "4047409-4"
+    },
+    {
+      "property": "P2283",
+      "value": "Q613299"
+    },
+    {
+      "property": "P2347",
+      "value": "162"
+    },
+    {
+      "property": "P2354",
+      "value": "Q389085"
+    },
+    {
+      "property": "P2354",
+      "value": "Q11707952"
+    },
+    {
+      "property": "P244",
+      "value": "sh85107313"
+    },
+    {
+      "property": "P2579",
+      "value": "Q2670534"
+    },
+    {
+      "property": "P2581",
+      "value": "00064652n"
+    },
+    {
+      "property": "P268",
+      "value": "13318353n"
+    },
+    {
+      "property": "P279",
+      "value": "Q629206"
+    },
+    {
+      "property": "P2924",
+      "value": "4924750"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P3365",
+      "value": "linguaggio-di-programmazione"
+    },
+    {
+      "property": "P3381",
+      "value": "Programming_Languages"
+    },
+    {
+      "property": "P3417",
+      "value": "Programming-Languages"
+    },
+    {
+      "property": "P349",
+      "value": "00569224"
+    },
+    {
+      "property": "P3553",
+      "value": "19552826"
+    },
+    {
+      "property": "P3569",
+      "value": "techologie-en-techniek/programmeertaal"
+    },
+    {
+      "property": "P361",
+      "value": "Q68"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P373",
+      "value": "Programming languages"
+    },
+    {
+      "property": "P3827",
+      "value": "programming-languages"
+    },
+    {
+      "property": "P3911",
+      "value": "15619-1"
+    },
+    {
+      "property": "P3984",
+      "value": "ProgrammingLanguages"
+    },
+    {
+      "property": "P4212",
+      "value": "pcrt9JHcIcEP5f"
+    },
+    {
+      "property": "P4215",
+      "value": "programming language"
+    },
+    {
+      "property": "P4342",
+      "value": "programmeringsspråk"
+    },
+    {
+      "property": "P5008",
+      "value": "Q5460604"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P508",
+      "value": "5676"
+    },
+    {
+      "property": "P5250",
+      "value": "631"
+    },
+    {
+      "property": "P527",
+      "value": "Q1152399"
+    },
+    {
+      "property": "P527",
+      "value": "Q25346349"
+    },
+    {
+      "property": "P527",
+      "value": "Q1199356"
+    },
+    {
+      "property": "P527",
+      "value": "Q865760"
+    },
+    {
+      "property": "P5437",
+      "value": "5199"
+    },
+    {
+      "property": "P5922",
+      "value": "080308"
+    },
+    {
+      "property": "P6009",
+      "value": "24815"
+    },
+    {
+      "property": "P6058",
+      "value": "divers/wd/187281"
+    },
+    {
+      "property": "P6104",
+      "value": "Q6526225"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Programming_language"
+    },
+    {
+      "property": "P6366",
+      "value": "199360897"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05r20"
+    },
+    {
+      "property": "P6611",
+      "value": "8202"
+    },
+    {
+      "property": "P6781",
+      "value": "Definition:Programming_Language"
+    },
+    {
+      "property": "P6900",
+      "value": "プログラミング言語"
+    },
+    {
+      "property": "P691",
+      "value": "ph115890"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/16498"
+    },
+    {
+      "property": "P7497",
+      "value": "ProgrammingLanguage"
+    },
+    {
+      "property": "P8313",
+      "value": "programmeringssprog"
+    },
+    {
+      "property": "P8408",
+      "value": "ProgrammingLanguage"
+    },
+    {
+      "property": "P8529",
+      "value": "461204"
+    },
+    {
+      "property": "P8834",
+      "value": "programmingLanguage"
+    },
+    {
+      "property": "P8855",
+      "value": "171-05-10"
+    },
+    {
+      "property": "P8972",
+      "value": "OOjs UI icon markup.svg"
+    },
+    {
+      "property": "P910",
+      "value": "Q34059"
+    },
+    {
+      "property": "P9100",
+      "value": "programming-language"
+    },
+    {
+      "property": "P9100",
+      "value": "programming-languages"
+    },
+    {
+      "property": "P9497",
+      "value": "2440"
+    },
+    {
+      "property": "P9983",
+      "value": "linguaggi-di-programmazione"
+    }
+  ]
+}

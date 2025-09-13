@@ -1,0 +1,42 @@
+{
+  "id": "Q244916",
+  "label": "intermediate representation",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C77660490"
+    },
+    {
+      "property": "P13397",
+      "value": "intermediate+representation"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/intermediate-language"
+    },
+    {
+      "property": "P1889",
+      "value": "Q837330"
+    },
+    {
+      "property": "P2283",
+      "value": "Q837330"
+    },
+    {
+      "property": "P279",
+      "value": "Q175263"
+    },
+    {
+      "property": "P279",
+      "value": "Q629206"
+    },
+    {
+      "property": "P6366",
+      "value": "77660490"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04hgsc"
+    }
+  ]
+}

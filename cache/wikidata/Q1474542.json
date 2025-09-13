@@ -1,0 +1,38 @@
+{
+  "id": "Q1474542",
+  "label": "higher-order function",
+  "facts": [
+    {
+      "property": "P1889",
+      "value": "Q99239584"
+    },
+    {
+      "property": "P279",
+      "value": "Q15810910"
+    },
+    {
+      "property": "P6366",
+      "value": "168106702"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01kft1"
+    },
+    {
+      "property": "P7726",
+      "value": "HigherorderFunction"
+    },
+    {
+      "property": "P8408",
+      "value": "HigherOrderFunction"
+    },
+    {
+      "property": "P8885",
+      "value": "고차 함수"
+    },
+    {
+      "property": "P910",
+      "value": "Q8513467"
+    }
+  ]
+}

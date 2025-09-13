@@ -1,0 +1,394 @@
+{
+  "id": "Q7000904",
+  "label": "Network Security Services",
+  "facts": [
+    {
+      "property": "P12873",
+      "value": "Network_Security_Services"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/projects/nss"
+    },
+    {
+      "property": "P178",
+      "value": "Q9661"
+    },
+    {
+      "property": "P18",
+      "value": "Network Security Services 3.106 as used on Firefox 133 screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "nss"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q165436"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q188860"
+    },
+    {
+      "property": "P31",
+      "value": "Q5375622"
+    },
+    {
+      "property": "P3454",
+      "value": "nss"
+    },
+    {
+      "property": "P3454",
+      "value": "ca-certificates-mozilla"
+    },
+    {
+      "property": "P3454",
+      "value": "lib32-nss"
+    },
+    {
+      "property": "P3463",
+      "value": "nss"
+    },
+    {
+      "property": "P348",
+      "value": "3.44"
+    },
+    {
+      "property": "P348",
+      "value": "3.45"
+    },
+    {
+      "property": "P348",
+      "value": "3.46"
+    },
+    {
+      "property": "P348",
+      "value": "3.47"
+    },
+    {
+      "property": "P348",
+      "value": "3.48"
+    },
+    {
+      "property": "P348",
+      "value": "3.49"
+    },
+    {
+      "property": "P348",
+      "value": "3.50"
+    },
+    {
+      "property": "P348",
+      "value": "3.51"
+    },
+    {
+      "property": "P348",
+      "value": "3.52"
+    },
+    {
+      "property": "P348",
+      "value": "3.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.58"
+    },
+    {
+      "property": "P348",
+      "value": "3.60"
+    },
+    {
+      "property": "P348",
+      "value": "3.61"
+    },
+    {
+      "property": "P348",
+      "value": "3.62"
+    },
+    {
+      "property": "P348",
+      "value": "3.63"
+    },
+    {
+      "property": "P348",
+      "value": "3.64"
+    },
+    {
+      "property": "P348",
+      "value": "3.65"
+    },
+    {
+      "property": "P348",
+      "value": "3.66"
+    },
+    {
+      "property": "P348",
+      "value": "3.67"
+    },
+    {
+      "property": "P348",
+      "value": "3.68"
+    },
+    {
+      "property": "P348",
+      "value": "3.69"
+    },
+    {
+      "property": "P348",
+      "value": "3.69.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.70"
+    },
+    {
+      "property": "P348",
+      "value": "3.71"
+    },
+    {
+      "property": "P348",
+      "value": "3.72"
+    },
+    {
+      "property": "P348",
+      "value": "3.73"
+    },
+    {
+      "property": "P348",
+      "value": "3.73.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.74"
+    },
+    {
+      "property": "P348",
+      "value": "3.75"
+    },
+    {
+      "property": "P348",
+      "value": "3.76"
+    },
+    {
+      "property": "P348",
+      "value": "3.76.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.77"
+    },
+    {
+      "property": "P348",
+      "value": "3.78"
+    },
+    {
+      "property": "P348",
+      "value": "3.79"
+    },
+    {
+      "property": "P348",
+      "value": "3.80"
+    },
+    {
+      "property": "P348",
+      "value": "3.81"
+    },
+    {
+      "property": "P348",
+      "value": "3.82"
+    },
+    {
+      "property": "P348",
+      "value": "3.83"
+    },
+    {
+      "property": "P348",
+      "value": "3.84"
+    },
+    {
+      "property": "P348",
+      "value": "3.85"
+    },
+    {
+      "property": "P348",
+      "value": "3.86"
+    },
+    {
+      "property": "P348",
+      "value": "3.89"
+    },
+    {
+      "property": "P348",
+      "value": "3.89.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.90"
+    },
+    {
+      "property": "P348",
+      "value": "3.91"
+    },
+    {
+      "property": "P348",
+      "value": "3.92"
+    },
+    {
+      "property": "P348",
+      "value": "3.93"
+    },
+    {
+      "property": "P348",
+      "value": "3.94"
+    },
+    {
+      "property": "P348",
+      "value": "3.95"
+    },
+    {
+      "property": "P348",
+      "value": "3.96"
+    },
+    {
+      "property": "P348",
+      "value": "3.97"
+    },
+    {
+      "property": "P348",
+      "value": "3.98"
+    },
+    {
+      "property": "P348",
+      "value": "3.99"
+    },
+    {
+      "property": "P348",
+      "value": "3.100"
+    },
+    {
+      "property": "P348",
+      "value": "3.101"
+    },
+    {
+      "property": "P348",
+      "value": "3.101.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.103"
+    },
+    {
+      "property": "P348",
+      "value": "3.104"
+    },
+    {
+      "property": "P348",
+      "value": "3.106"
+    },
+    {
+      "property": "P348",
+      "value": "3.107"
+    },
+    {
+      "property": "P348",
+      "value": "3.109"
+    },
+    {
+      "property": "P348",
+      "value": "3.110"
+    },
+    {
+      "property": "P348",
+      "value": "3.112"
+    },
+    {
+      "property": "P348",
+      "value": "3.113"
+    },
+    {
+      "property": "P348",
+      "value": "3.114"
+    },
+    {
+      "property": "P348",
+      "value": "3.115"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-libs/nss"
+    },
+    {
+      "property": "P4162",
+      "value": "nss-hg"
+    },
+    {
+      "property": "P4428",
+      "value": "Q206494"
+    },
+    {
+      "property": "P4428",
+      "value": "Q1172260"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0d4h50"
+    },
+    {
+      "property": "P6931",
+      "value": "nss"
+    },
+    {
+      "property": "P7427",
+      "value": "security/nss"
+    },
+    {
+      "property": "P7427",
+      "value": "security/linux-c6-nss"
+    },
+    {
+      "property": "P7427",
+      "value": "security/linux-c7-nss"
+    },
+    {
+      "property": "P7966",
+      "value": "devel/nss"
+    },
+    {
+      "property": "P7967",
+      "value": "security/nss"
+    },
+    {
+      "property": "P8443",
+      "value": "nss"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS"
+    }
+  ]
+}

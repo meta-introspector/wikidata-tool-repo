@@ -1,0 +1,278 @@
+{
+  "id": "Q20947086",
+  "label": "Alliance for Open Media",
+  "facts": [
+    {
+      "property": "P1056",
+      "value": "Q26046105"
+    },
+    {
+      "property": "P1056",
+      "value": "Q59913607"
+    },
+    {
+      "property": "P112",
+      "value": "Q3884"
+    },
+    {
+      "property": "P112",
+      "value": "Q173395"
+    },
+    {
+      "property": "P112",
+      "value": "Q95"
+    },
+    {
+      "property": "P112",
+      "value": "Q248"
+    },
+    {
+      "property": "P112",
+      "value": "Q2283"
+    },
+    {
+      "property": "P112",
+      "value": "Q907311"
+    },
+    {
+      "property": "P112",
+      "value": "Q169925"
+    },
+    {
+      "property": "P12388",
+      "value": "https://aomedia.org/membership/members/"
+    },
+    {
+      "property": "P1329",
+      "value": "+1-781-486-3868"
+    },
+    {
+      "property": "P1329",
+      "value": "+1-781-876-6280"
+    },
+    {
+      "property": "P154",
+      "value": "Alliance for Open Media logo 2018.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q2426909"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P2002",
+      "value": "a4omedia"
+    },
+    {
+      "property": "P2037",
+      "value": "AOMediaCodec"
+    },
+    {
+      "property": "P2397",
+      "value": "UC87BPvt71Dl2pW9twt38Rew"
+    },
+    {
+      "property": "P2650",
+      "value": "Q26046105"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11bw3d_rb_"
+    },
+    {
+      "property": "P31",
+      "value": "Q163740"
+    },
+    {
+      "property": "P31",
+      "value": "Q194166"
+    },
+    {
+      "property": "P373",
+      "value": "Alliance for Open Media"
+    },
+    {
+      "property": "P527",
+      "value": "Q11463"
+    },
+    {
+      "property": "P527",
+      "value": "Q3884"
+    },
+    {
+      "property": "P527",
+      "value": "Q128896"
+    },
+    {
+      "property": "P527",
+      "value": "Q296782"
+    },
+    {
+      "property": "P527",
+      "value": "Q2819537"
+    },
+    {
+      "property": "P527",
+      "value": "Q173395"
+    },
+    {
+      "property": "P527",
+      "value": "Q95"
+    },
+    {
+      "property": "P527",
+      "value": "Q248"
+    },
+    {
+      "property": "P527",
+      "value": "Q6095017"
+    },
+    {
+      "property": "P527",
+      "value": "Q2283"
+    },
+    {
+      "property": "P527",
+      "value": "Q169925"
+    },
+    {
+      "property": "P527",
+      "value": "Q907311"
+    },
+    {
+      "property": "P527",
+      "value": "Q182477"
+    },
+    {
+      "property": "P527",
+      "value": "Q4052686"
+    },
+    {
+      "property": "P527",
+      "value": "Q4834941"
+    },
+    {
+      "property": "P527",
+      "value": "Q555925"
+    },
+    {
+      "property": "P527",
+      "value": "Q963809"
+    },
+    {
+      "property": "P527",
+      "value": "Q15924744"
+    },
+    {
+      "property": "P527",
+      "value": "Q5101727"
+    },
+    {
+      "property": "P527",
+      "value": "Q380"
+    },
+    {
+      "property": "P527",
+      "value": "Q312"
+    },
+    {
+      "property": "P527",
+      "value": "Q37156"
+    },
+    {
+      "property": "P527",
+      "value": "Q47518909"
+    },
+    {
+      "property": "P527",
+      "value": "Q47518923"
+    },
+    {
+      "property": "P527",
+      "value": "Q20313351"
+    },
+    {
+      "property": "P527",
+      "value": "Q1630304"
+    },
+    {
+      "property": "P527",
+      "value": "Q47518940"
+    },
+    {
+      "property": "P527",
+      "value": "Q619364"
+    },
+    {
+      "property": "P527",
+      "value": "Q7512309"
+    },
+    {
+      "property": "P527",
+      "value": "Q20983128"
+    },
+    {
+      "property": "P527",
+      "value": "Q1282963"
+    },
+    {
+      "property": "P527",
+      "value": "Q1046482"
+    },
+    {
+      "property": "P527",
+      "value": "Q15913890"
+    },
+    {
+      "property": "P527",
+      "value": "Q5015618"
+    },
+    {
+      "property": "P527",
+      "value": "Q156376"
+    },
+    {
+      "property": "P527",
+      "value": "Q162345"
+    },
+    {
+      "property": "P527",
+      "value": "Q17460900"
+    },
+    {
+      "property": "P571",
+      "value": "+2015-09-01T00:00:00Z"
+    },
+    {
+      "property": "P7014",
+      "value": "https://aomedia.org/terms-of-service/"
+    },
+    {
+      "property": "P740",
+      "value": "Q2426909"
+    },
+    {
+      "property": "P856",
+      "value": "https://aomedia.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+2283"
+    },
+    {
+      "property": "P8687",
+      "value": "+2062"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:membership@aomedia.org"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:press@aomedia.org"
+    }
+  ]
+}

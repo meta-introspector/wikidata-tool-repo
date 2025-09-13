@@ -1,0 +1,50 @@
+{
+  "id": "Q288510",
+  "label": "run time",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2989134064"
+    },
+    {
+      "property": "P1245",
+      "value": "954123"
+    },
+    {
+      "property": "P1269",
+      "value": "Q205663"
+    },
+    {
+      "property": "P13044",
+      "value": "Q1197550"
+    },
+    {
+      "property": "P13044",
+      "value": "Q40056"
+    },
+    {
+      "property": "P279",
+      "value": "Q186081"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P31",
+      "value": "Q17004438"
+    },
+    {
+      "property": "P3847",
+      "value": "run_time_(computers)"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01b99v"
+    },
+    {
+      "property": "P8834",
+      "value": "runTime"
+    }
+  ]
+}

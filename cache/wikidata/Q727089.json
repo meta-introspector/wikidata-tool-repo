@@ -1,0 +1,82 @@
+{
+  "id": "Q727089",
+  "label": "Camino",
+  "facts": [
+    {
+      "property": "P154",
+      "value": "Camino icon.png"
+    },
+    {
+      "property": "P18",
+      "value": "Camino screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "camino"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P277",
+      "value": "Q188531"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.2"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P373",
+      "value": "Camino (web browser)"
+    },
+    {
+      "property": "P571",
+      "value": "+2002-02-13T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01b79k"
+    },
+    {
+      "property": "P6665",
+      "value": "9733"
+    },
+    {
+      "property": "P856",
+      "value": "https://caminobrowser.org"
+    },
+    {
+      "property": "P9618",
+      "value": "camino"
+    }
+  ]
+}

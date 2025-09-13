@@ -1,0 +1,362 @@
+{
+  "id": "Q163740",
+  "label": "nonprofit organization",
+  "facts": [
+    {
+      "property": "P1014",
+      "value": "300253162"
+    },
+    {
+      "property": "P10283",
+      "value": "C2991981842"
+    },
+    {
+      "property": "P10283",
+      "value": "C2992586968"
+    },
+    {
+      "property": "P10283",
+      "value": "C2986758647"
+    },
+    {
+      "property": "P1051",
+      "value": "1252"
+    },
+    {
+      "property": "P10565",
+      "value": "147880"
+    },
+    {
+      "property": "P10565",
+      "value": "395482"
+    },
+    {
+      "property": "P12086",
+      "value": "Non-profit"
+    },
+    {
+      "property": "P1225",
+      "value": "10644512"
+    },
+    {
+      "property": "P13388",
+      "value": "isut194"
+    },
+    {
+      "property": "P1343",
+      "value": "Q103892210"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/806b76c6-3fce-43b9-ad68-ebbb3847266d"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/nonprofit-organization"
+    },
+    {
+      "property": "P1424",
+      "value": "Q5622928"
+    },
+    {
+      "property": "P1709",
+      "value": "http://dbpedia.org/ontology/Non-ProfitOrganisation"
+    },
+    {
+      "property": "P1813",
+      "value": "NPO"
+    },
+    {
+      "property": "P1813",
+      "value": "OSAL"
+    },
+    {
+      "property": "P1813",
+      "value": "OSFL"
+    },
+    {
+      "property": "P1813",
+      "value": "ONL"
+    },
+    {
+      "property": "P1813",
+      "value": "ESAL"
+    },
+    {
+      "property": "P1813",
+      "value": "idéburen organisation"
+    },
+    {
+      "property": "P1813",
+      "value": "OSBL"
+    },
+    {
+      "property": "P1813",
+      "value": "מלכ\"ר"
+    },
+    {
+      "property": "P1813",
+      "value": "אלכ\"ר"
+    },
+    {
+      "property": "P1813",
+      "value": "NPO"
+    },
+    {
+      "property": "P1813",
+      "value": "НКО"
+    },
+    {
+      "property": "P1813",
+      "value": "NPO"
+    },
+    {
+      "property": "P1813",
+      "value": "OSAL"
+    },
+    {
+      "property": "P1889",
+      "value": "Q361647"
+    },
+    {
+      "property": "P1889",
+      "value": "Q48204"
+    },
+    {
+      "property": "P1963",
+      "value": "P2139"
+    },
+    {
+      "property": "P1963",
+      "value": "P8093"
+    },
+    {
+      "property": "P1963",
+      "value": "P6589"
+    },
+    {
+      "property": "P1963",
+      "value": "P571"
+    },
+    {
+      "property": "P1963",
+      "value": "P17"
+    },
+    {
+      "property": "P1963",
+      "value": "P3712"
+    },
+    {
+      "property": "P1963",
+      "value": "P859"
+    },
+    {
+      "property": "P1963",
+      "value": "P2541"
+    },
+    {
+      "property": "P1963",
+      "value": "P1297"
+    },
+    {
+      "property": "P1963",
+      "value": "P3057"
+    },
+    {
+      "property": "P1963",
+      "value": "P1320"
+    },
+    {
+      "property": "P1963",
+      "value": "P131"
+    },
+    {
+      "property": "P2004",
+      "value": "20586"
+    },
+    {
+      "property": "P227",
+      "value": "4293729-2"
+    },
+    {
+      "property": "P2347",
+      "value": "4610"
+    },
+    {
+      "property": "P2347",
+      "value": "17650"
+    },
+    {
+      "property": "P2390",
+      "value": "Nonprofit_organization"
+    },
+    {
+      "property": "P244",
+      "value": "sh85032985"
+    },
+    {
+      "property": "P2579",
+      "value": "Q975065"
+    },
+    {
+      "property": "P2581",
+      "value": "00057958n"
+    },
+    {
+      "property": "P268",
+      "value": "119498393"
+    },
+    {
+      "property": "P279",
+      "value": "Q43229"
+    },
+    {
+      "property": "P2892",
+      "value": "C0029247"
+    },
+    {
+      "property": "P2924",
+      "value": "2257319"
+    },
+    {
+      "property": "P31",
+      "value": "Q10541491"
+    },
+    {
+      "property": "P31",
+      "value": "Q17197366"
+    },
+    {
+      "property": "P31",
+      "value": "Q268592"
+    },
+    {
+      "property": "P3222",
+      "value": "ideell-förening"
+    },
+    {
+      "property": "P3365",
+      "value": "non-profit"
+    },
+    {
+      "property": "P3417",
+      "value": "Nonprofit-Organizations-1"
+    },
+    {
+      "property": "P349",
+      "value": "00577640"
+    },
+    {
+      "property": "P373",
+      "value": "Non-profit organizations"
+    },
+    {
+      "property": "P3827",
+      "value": "nonprofit-organizations"
+    },
+    {
+      "property": "P3847",
+      "value": "nonprofit_organizations"
+    },
+    {
+      "property": "P3911",
+      "value": "12047-0"
+    },
+    {
+      "property": "P3916",
+      "value": "concept3210"
+    },
+    {
+      "property": "P452",
+      "value": "Q1063076"
+    },
+    {
+      "property": "P461",
+      "value": "Q21980538"
+    },
+    {
+      "property": "P461",
+      "value": "Q5466627"
+    },
+    {
+      "property": "P486",
+      "value": "D009939"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P508",
+      "value": "2132"
+    },
+    {
+      "property": "P5250",
+      "value": "108"
+    },
+    {
+      "property": "P5437",
+      "value": "4204"
+    },
+    {
+      "property": "P5869",
+      "value": "Q20533"
+    },
+    {
+      "property": "P5869",
+      "value": "Q170418"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0259tnd"
+    },
+    {
+      "property": "P672",
+      "value": "N03.540.630"
+    },
+    {
+      "property": "P691",
+      "value": "ph115448"
+    },
+    {
+      "property": "P691",
+      "value": "ph123286"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/3471"
+    },
+    {
+      "property": "P7084",
+      "value": "Q7192704"
+    },
+    {
+      "property": "P7502",
+      "value": "Nonprofit_organization-J6GYV"
+    },
+    {
+      "property": "P8168",
+      "value": "Q434670"
+    },
+    {
+      "property": "P8189",
+      "value": "987007565368705171"
+    },
+    {
+      "property": "P8408",
+      "value": "NonProfitOrganization"
+    },
+    {
+      "property": "P8672",
+      "value": "839543621107884032"
+    },
+    {
+      "property": "P910",
+      "value": "Q6178741"
+    },
+    {
+      "property": "P9100",
+      "value": "nonprofits"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "Q1638134",
+  "label": "Firefox 3.5",
+  "facts": [
+    {
+      "property": "P154",
+      "value": "Mozilla Firefox 3.5 logo.png"
+    },
+    {
+      "property": "P155",
+      "value": "Q1092491"
+    },
+    {
+      "property": "P156",
+      "value": "Q2615631"
+    },
+    {
+      "property": "P1638",
+      "value": "Shiretoko"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P18",
+      "value": "Mozilla Firefox 3.5.png"
+    },
+    {
+      "property": "P2581",
+      "value": "01657027n"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P279",
+      "value": "Q698"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P348",
+      "value": "3.1a1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.1b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.1b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.5b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.5b99"
+    },
+    {
+      "property": "P348",
+      "value": "3.5 RC1"
+    },
+    {
+      "property": "P348",
+      "value": "3.5 RC2"
+    },
+    {
+      "property": "P348",
+      "value": "3.5 RC3"
+    },
+    {
+      "property": "P348",
+      "value": "3.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.16"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.17"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.18"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.19"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06w56jl"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozilla.com/firefox/"
+    }
+  ]
+}

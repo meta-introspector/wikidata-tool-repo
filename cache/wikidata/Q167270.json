@@ -1,0 +1,402 @@
+{
+  "id": "Q167270",
+  "label": "trademark",
+  "facts": [
+    {
+      "property": "P1014",
+      "value": "300028776"
+    },
+    {
+      "property": "P10283",
+      "value": "C2779027411"
+    },
+    {
+      "property": "P1036",
+      "value": "929.95"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/trademarks"
+    },
+    {
+      "property": "P1051",
+      "value": "1744"
+    },
+    {
+      "property": "P10565",
+      "value": "519409"
+    },
+    {
+      "property": "P10565",
+      "value": "652535"
+    },
+    {
+      "property": "P11514",
+      "value": "tovarnyi-znak-22eb13"
+    },
+    {
+      "property": "P11514",
+      "value": "torgovaia-marka-780ee8"
+    },
+    {
+      "property": "P11567",
+      "value": "trademark"
+    },
+    {
+      "property": "P1225",
+      "value": "10641814"
+    },
+    {
+      "property": "P1225",
+      "value": "10633658"
+    },
+    {
+      "property": "P1245",
+      "value": "354335"
+    },
+    {
+      "property": "P12596",
+      "value": "1310"
+    },
+    {
+      "property": "P13411",
+      "value": "Q3156"
+    },
+    {
+      "property": "P1343",
+      "value": "Q602358"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19219752"
+    },
+    {
+      "property": "P1343",
+      "value": "Q867541"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19077875"
+    },
+    {
+      "property": "P1343",
+      "value": "Q16082057"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/b40f23fb-9fd8-4560-ae0c-ee2dce4e8b0d"
+    },
+    {
+      "property": "P1368",
+      "value": "000068490"
+    },
+    {
+      "property": "P1382",
+      "value": "Q70382745"
+    },
+    {
+      "property": "P1382",
+      "value": "Q431289"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/trademark"
+    },
+    {
+      "property": "P1424",
+      "value": "Q5616238"
+    },
+    {
+      "property": "P1709",
+      "value": "http://www.yso.fi/onto/koko/p34668"
+    },
+    {
+      "property": "P1709",
+      "value": "http://id.cabi.org/cabt/118741"
+    },
+    {
+      "property": "P18",
+      "value": "U+2122.svg"
+    },
+    {
+      "property": "P18",
+      "value": "Registered trademark symbol.png"
+    },
+    {
+      "property": "P1813",
+      "value": "TM"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1853446"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1417728"
+    },
+    {
+      "property": "P2004",
+      "value": "48646"
+    },
+    {
+      "property": "P2163",
+      "value": "1153892"
+    },
+    {
+      "property": "P2167",
+      "value": "64141502"
+    },
+    {
+      "property": "P2167",
+      "value": "64141602"
+    },
+    {
+      "property": "P2179",
+      "value": "10003467"
+    },
+    {
+      "property": "P227",
+      "value": "4114513-6"
+    },
+    {
+      "property": "P2347",
+      "value": "1488"
+    },
+    {
+      "property": "P244",
+      "value": "sh85136742"
+    },
+    {
+      "property": "P2581",
+      "value": "00077877n"
+    },
+    {
+      "property": "P268",
+      "value": "135052424"
+    },
+    {
+      "property": "P279",
+      "value": "Q3695082"
+    },
+    {
+      "property": "P279",
+      "value": "Q80071"
+    },
+    {
+      "property": "P279",
+      "value": "Q1886349"
+    },
+    {
+      "property": "P2924",
+      "value": "4197787"
+    },
+    {
+      "property": "P2924",
+      "value": "4194684"
+    },
+    {
+      "property": "P31",
+      "value": "Q108855835"
+    },
+    {
+      "property": "P3221",
+      "value": "subject/trademarks-and-trade-names"
+    },
+    {
+      "property": "P3417",
+      "value": "Trademarks"
+    },
+    {
+      "property": "P349",
+      "value": "00572073"
+    },
+    {
+      "property": "P3553",
+      "value": "19564173"
+    },
+    {
+      "property": "P373",
+      "value": "Trademarks"
+    },
+    {
+      "property": "P3827",
+      "value": "trademarks"
+    },
+    {
+      "property": "P3847",
+      "value": "trademarks"
+    },
+    {
+      "property": "P3911",
+      "value": "30067-6"
+    },
+    {
+      "property": "P3916",
+      "value": "concept5683"
+    },
+    {
+      "property": "P4212",
+      "value": "pcrtbUunFprb1b"
+    },
+    {
+      "property": "P4342",
+      "value": "varemerke"
+    },
+    {
+      "property": "P4427",
+      "value": "12127"
+    },
+    {
+      "property": "P4527",
+      "value": "93307"
+    },
+    {
+      "property": "P4613",
+      "value": "63689"
+    },
+    {
+      "property": "P4613",
+      "value": "16377"
+    },
+    {
+      "property": "P4644",
+      "value": "66da3162-6c8d-44cb-9dd5-6f9efe1fcf67"
+    },
+    {
+      "property": "P4854",
+      "value": "Varumaerke"
+    },
+    {
+      "property": "P487",
+      "value": "™"
+    },
+    {
+      "property": "P5019",
+      "value": "marke-recht"
+    },
+    {
+      "property": "P508",
+      "value": "21611"
+    },
+    {
+      "property": "P5160",
+      "value": "tgm010964"
+    },
+    {
+      "property": "P5198",
+      "value": "294941452"
+    },
+    {
+      "property": "P5395",
+      "value": "trademarks"
+    },
+    {
+      "property": "P5398",
+      "value": "000015135"
+    },
+    {
+      "property": "P5437",
+      "value": "1821"
+    },
+    {
+      "property": "P5801",
+      "value": "Trademarks"
+    },
+    {
+      "property": "P6293",
+      "value": "Y99335"
+    },
+    {
+      "property": "P6366",
+      "value": "2779027411"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07d0f"
+    },
+    {
+      "property": "P691",
+      "value": "ph123671"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/4449"
+    },
+    {
+      "property": "P7305",
+      "value": "4001937"
+    },
+    {
+      "property": "P7666",
+      "value": "prekes-zenklas"
+    },
+    {
+      "property": "P7870",
+      "value": "63566"
+    },
+    {
+      "property": "P7884",
+      "value": "T520-72"
+    },
+    {
+      "property": "P8061",
+      "value": "c_6228"
+    },
+    {
+      "property": "P8072",
+      "value": "72091"
+    },
+    {
+      "property": "P8189",
+      "value": "987007543717005171"
+    },
+    {
+      "property": "P8313",
+      "value": "varemærke"
+    },
+    {
+      "property": "P8365",
+      "value": "10079893"
+    },
+    {
+      "property": "P8370",
+      "value": "1006609"
+    },
+    {
+      "property": "P8408",
+      "value": "InternationalTrademarkSystemTrademark"
+    },
+    {
+      "property": "P8814",
+      "value": "06864792-n"
+    },
+    {
+      "property": "P902",
+      "value": "013728"
+    },
+    {
+      "property": "P910",
+      "value": "Q5896763"
+    },
+    {
+      "property": "P913",
+      "value": "Q1944044"
+    },
+    {
+      "property": "P913",
+      "value": "Q1853446"
+    },
+    {
+      "property": "P9374",
+      "value": "t.aspx#trademark"
+    },
+    {
+      "property": "P950",
+      "value": "XX524679"
+    },
+    {
+      "property": "P9545",
+      "value": "228400"
+    }
+  ]
+}

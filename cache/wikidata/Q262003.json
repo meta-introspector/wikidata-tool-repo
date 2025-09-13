@@ -1,0 +1,46 @@
+{
+  "id": "Q262003",
+  "label": "Newsqueak",
+  "facts": [
+    {
+      "property": "P178",
+      "value": "Q217365"
+    },
+    {
+      "property": "P287",
+      "value": "Q517764"
+    },
+    {
+      "property": "P31",
+      "value": "Q28919943"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P571",
+      "value": "+1980-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "2777512765"
+    },
+    {
+      "property": "P646",
+      "value": "/m/09gdqsb"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q56210209"
+    }
+  ]
+}

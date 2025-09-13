@@ -1,0 +1,78 @@
+{
+  "id": "Q11774329",
+  "label": "David Baron",
+  "facts": [
+    {
+      "property": "P106",
+      "value": "Q5482740"
+    },
+    {
+      "property": "P1581",
+      "value": "https://dbaron.org/log/"
+    },
+    {
+      "property": "P18",
+      "value": "David Baron 2017.jpg"
+    },
+    {
+      "property": "P2002",
+      "value": "davidbaron"
+    },
+    {
+      "property": "P2013",
+      "value": "dbaron"
+    },
+    {
+      "property": "P2037",
+      "value": "dbaron"
+    },
+    {
+      "property": "P21",
+      "value": "Q6581097"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/1223qndh"
+    },
+    {
+      "property": "P27",
+      "value": "Q30"
+    },
+    {
+      "property": "P31",
+      "value": "Q5"
+    },
+    {
+      "property": "P3267",
+      "value": "14869313@N00"
+    },
+    {
+      "property": "P373",
+      "value": "David Baron (computer scientist)"
+    },
+    {
+      "property": "P569",
+      "value": "+1980-07-04T00:00:00Z"
+    },
+    {
+      "property": "P6634",
+      "value": "ldavidbaron"
+    },
+    {
+      "property": "P734",
+      "value": "Q21448079"
+    },
+    {
+      "property": "P735",
+      "value": "Q18057751"
+    },
+    {
+      "property": "P856",
+      "value": "https://dbaron.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+4185"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "Q186152",
+  "label": "array data structure",
+  "facts": [
+    {
+      "property": "P10037",
+      "value": "array"
+    },
+    {
+      "property": "P10283",
+      "value": "C146064661"
+    },
+    {
+      "property": "P13411",
+      "value": "Q156"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/arrays"
+    },
+    {
+      "property": "P1482",
+      "value": "https://cs.stackexchange.com/tags/arrays"
+    },
+    {
+      "property": "P1552",
+      "value": "Q253405"
+    },
+    {
+      "property": "P1552",
+      "value": "Q1868547"
+    },
+    {
+      "property": "P18",
+      "value": "Array1.svg"
+    },
+    {
+      "property": "P1814",
+      "value": "はいれつ"
+    },
+    {
+      "property": "P1889",
+      "value": "Q15777392"
+    },
+    {
+      "property": "P227",
+      "value": "4376624-9"
+    },
+    {
+      "property": "P2347",
+      "value": "13579"
+    },
+    {
+      "property": "P2581",
+      "value": "00005869n"
+    },
+    {
+      "property": "P279",
+      "value": "Q175263"
+    },
+    {
+      "property": "P279",
+      "value": "Q17008256"
+    },
+    {
+      "property": "P2812",
+      "value": "Array"
+    },
+    {
+      "property": "P3553",
+      "value": "19725906"
+    },
+    {
+      "property": "P373",
+      "value": "Array data structure"
+    },
+    {
+      "property": "P4428",
+      "value": "Q27948"
+    },
+    {
+      "property": "P4428",
+      "value": "Q184754"
+    },
+    {
+      "property": "P5047",
+      "value": "Collections"
+    },
+    {
+      "property": "P5106",
+      "value": "array"
+    },
+    {
+      "property": "P5398",
+      "value": "000000123"
+    },
+    {
+      "property": "P6104",
+      "value": "Q8487137"
+    },
+    {
+      "property": "P6366",
+      "value": "146064661"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0wcx"
+    },
+    {
+      "property": "P6564",
+      "value": "arrays"
+    },
+    {
+      "property": "P6706",
+      "value": "array"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/1653"
+    },
+    {
+      "property": "P8885",
+      "value": "배열"
+    },
+    {
+      "property": "P910",
+      "value": "Q8264625"
+    },
+    {
+      "property": "P9621",
+      "value": "array"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Q6964898",
+  "label": "Napier88",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P571",
+      "value": "+1988-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0f2l04"
+    }
+  ]
+}

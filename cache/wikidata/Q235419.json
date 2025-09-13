@@ -1,0 +1,134 @@
+{
+  "id": "Q235419",
+  "label": "Netscape Navigator",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/netscape-navigator"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Netscape-Navigator"
+    },
+    {
+      "property": "P154",
+      "value": "Netscape icon.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q210057"
+    },
+    {
+      "property": "P178",
+      "value": "Q27585"
+    },
+    {
+      "property": "P18",
+      "value": "Netscape7.png"
+    },
+    {
+      "property": "P227",
+      "value": "4390521-3"
+    },
+    {
+      "property": "P2347",
+      "value": "17225"
+    },
+    {
+      "property": "P2669",
+      "value": "+2008-02-21T00:00:00Z"
+    },
+    {
+      "property": "P31",
+      "value": "Q218616"
+    },
+    {
+      "property": "P31",
+      "value": "Q266990"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.8"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.0.6"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P373",
+      "value": "Netscape (web browser)"
+    },
+    {
+      "property": "P5063",
+      "value": "i70986"
+    },
+    {
+      "property": "P577",
+      "value": "+1994-12-15T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "5964"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Netscape_Navigator"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05h99"
+    },
+    {
+      "property": "P691",
+      "value": "ph117917"
+    },
+    {
+      "property": "P747",
+      "value": "Q33129612"
+    },
+    {
+      "property": "P747",
+      "value": "Q7000317"
+    },
+    {
+      "property": "P747",
+      "value": "Q31830878"
+    },
+    {
+      "property": "P747",
+      "value": "Q33129632"
+    },
+    {
+      "property": "P747",
+      "value": "Q33129642"
+    },
+    {
+      "property": "P747",
+      "value": "Q114266272"
+    },
+    {
+      "property": "P747",
+      "value": "Q986963"
+    },
+    {
+      "property": "P747",
+      "value": "Q3297609"
+    },
+    {
+      "property": "P747",
+      "value": "Q33130523"
+    },
+    {
+      "property": "P747",
+      "value": "Q3273413"
+    },
+    {
+      "property": "P856",
+      "value": "http://netscape.com/"
+    }
+  ]
+}

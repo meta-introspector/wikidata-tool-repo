@@ -1,0 +1,42 @@
+{
+  "id": "Q4327986",
+  "label": "zero-copy",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q1156793"
+    },
+    {
+      "property": "P1269",
+      "value": "Q1936256"
+    },
+    {
+      "property": "P1269",
+      "value": "Q17148339"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/zero-copy"
+    },
+    {
+      "property": "P31",
+      "value": "Q4485156"
+    },
+    {
+      "property": "P3417",
+      "value": "Zero-Copy"
+    },
+    {
+      "property": "P6366",
+      "value": "2780358583"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0753l9"
+    },
+    {
+      "property": "P9100",
+      "value": "zero-copy"
+    }
+  ]
+}

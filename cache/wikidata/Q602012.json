@@ -1,0 +1,86 @@
+{
+  "id": "Q602012",
+  "label": "Sather",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "http://bzr.savannah.gnu.org/lh/sather/trunk/files"
+    },
+    {
+      "property": "P1324",
+      "value": "http://bzr.savannah.gnu.org/r/sather/trunk"
+    },
+    {
+      "property": "P138",
+      "value": "Q357019"
+    },
+    {
+      "property": "P178",
+      "value": "Q7598"
+    },
+    {
+      "property": "P2537",
+      "value": "Sather"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513445"
+    },
+    {
+      "property": "P287",
+      "value": "Q7613510"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.3"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P571",
+      "value": "+1990-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "2780283097"
+    },
+    {
+      "property": "P646",
+      "value": "/m/073yv"
+    },
+    {
+      "property": "P6931",
+      "value": "sather"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/sather"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.gnu.org/software/sather/"
+    }
+  ]
+}

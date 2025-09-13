@@ -1,0 +1,566 @@
+{
+  "id": "Q388",
+  "label": "Linux",
+  "facts": [
+    {
+      "property": "P10227",
+      "value": "vtls002394842"
+    },
+    {
+      "property": "P10283",
+      "value": "C517481932"
+    },
+    {
+      "property": "P1051",
+      "value": "12506"
+    },
+    {
+      "property": "P10565",
+      "value": "149121"
+    },
+    {
+      "property": "P11129",
+      "value": "Linux"
+    },
+    {
+      "property": "P11196",
+      "value": "linux"
+    },
+    {
+      "property": "P11408",
+      "value": "Linux"
+    },
+    {
+      "property": "P1151",
+      "value": "Q8210921"
+    },
+    {
+      "property": "P11947",
+      "value": "linux@sopuli.xyz"
+    },
+    {
+      "property": "P11947",
+      "value": "linux@lemmy.ml"
+    },
+    {
+      "property": "P11947",
+      "value": "linux@lemmy.world"
+    },
+    {
+      "property": "P12043",
+      "value": "linux"
+    },
+    {
+      "property": "P12086",
+      "value": "Linux"
+    },
+    {
+      "property": "P12204",
+      "value": "10254"
+    },
+    {
+      "property": "P12385",
+      "value": "linus-unix"
+    },
+    {
+      "property": "P1245",
+      "value": "525916"
+    },
+    {
+      "property": "P12508",
+      "value": "176/04"
+    },
+    {
+      "property": "P12590",
+      "value": "Online:Linux"
+    },
+    {
+      "property": "P1296",
+      "value": "0263202"
+    },
+    {
+      "property": "P13165",
+      "value": "26761"
+    },
+    {
+      "property": "P13397",
+      "value": "linux"
+    },
+    {
+      "property": "P13535",
+      "value": "platform-linux"
+    },
+    {
+      "property": "P13599",
+      "value": "33"
+    },
+    {
+      "property": "P138",
+      "value": "Q14579"
+    },
+    {
+      "property": "P138",
+      "value": "Q34253"
+    },
+    {
+      "property": "P138",
+      "value": "Q11368"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Linux"
+    },
+    {
+      "property": "P1424",
+      "value": "Q8084313"
+    },
+    {
+      "property": "P144",
+      "value": "Q14579"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/linux"
+    },
+    {
+      "property": "P154",
+      "value": "Tux.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/linux"
+    },
+    {
+      "property": "P170",
+      "value": "Q34253"
+    },
+    {
+      "property": "P1889",
+      "value": "Q14579"
+    },
+    {
+      "property": "P2078",
+      "value": "https://kernel.org/doc/html/latest/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://wiki.kernel.org"
+    },
+    {
+      "property": "P214",
+      "value": "185985901"
+    },
+    {
+      "property": "P2184",
+      "value": "Q1517650"
+    },
+    {
+      "property": "P227",
+      "value": "4337730-0"
+    },
+    {
+      "property": "P2347",
+      "value": "723"
+    },
+    {
+      "property": "P244",
+      "value": "n94087892"
+    },
+    {
+      "property": "P2579",
+      "value": "Q21198"
+    },
+    {
+      "property": "P268",
+      "value": "124906479"
+    },
+    {
+      "property": "P269",
+      "value": "034116125"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q165436"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P279",
+      "value": "Q14656"
+    },
+    {
+      "property": "P279",
+      "value": "Q341"
+    },
+    {
+      "property": "P279",
+      "value": "Q241317"
+    },
+    {
+      "property": "P31",
+      "value": "Q170584"
+    },
+    {
+      "property": "P31",
+      "value": "Q15545584"
+    },
+    {
+      "property": "P31",
+      "value": "Q9135"
+    },
+    {
+      "property": "P3221",
+      "value": "subject/linux-computer-operating-system"
+    },
+    {
+      "property": "P3222",
+      "value": "linux"
+    },
+    {
+      "property": "P3280",
+      "value": "0000425577"
+    },
+    {
+      "property": "P3348",
+      "value": "51688"
+    },
+    {
+      "property": "P3381",
+      "value": "Linux"
+    },
+    {
+      "property": "P3417",
+      "value": "Linux"
+    },
+    {
+      "property": "P3417",
+      "value": "Linux-Operating-System"
+    },
+    {
+      "property": "P348",
+      "value": "6.14"
+    },
+    {
+      "property": "P348",
+      "value": "6.5-rc7"
+    },
+    {
+      "property": "P3553",
+      "value": "19554300"
+    },
+    {
+      "property": "P373",
+      "value": "Linux"
+    },
+    {
+      "property": "P3847",
+      "value": "linux_(computer_operating_system)"
+    },
+    {
+      "property": "P3984",
+      "value": "linux"
+    },
+    {
+      "property": "P3984",
+      "value": "linuxquestions"
+    },
+    {
+      "property": "P3984",
+      "value": "linuxmasterrace"
+    },
+    {
+      "property": "P3984",
+      "value": "linux4noobs"
+    },
+    {
+      "property": "P400",
+      "value": "Q858065"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P400",
+      "value": "Q209860"
+    },
+    {
+      "property": "P400",
+      "value": "Q17637401"
+    },
+    {
+      "property": "P400",
+      "value": "Q527464"
+    },
+    {
+      "property": "P4342",
+      "value": "Linux"
+    },
+    {
+      "property": "P437",
+      "value": "Q54820071"
+    },
+    {
+      "property": "P437",
+      "value": "Q5293"
+    },
+    {
+      "property": "P437",
+      "value": "Q7982"
+    },
+    {
+      "property": "P437",
+      "value": "Q2144513"
+    },
+    {
+      "property": "P443",
+      "value": "Linus-linux.ogg"
+    },
+    {
+      "property": "P443",
+      "value": "Linus-linux (swedish).ogg"
+    },
+    {
+      "property": "P443",
+      "value": "De-Linux.ogg"
+    },
+    {
+      "property": "P460",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"Linux::x59m3\"]"
+    },
+    {
+      "property": "P4854",
+      "value": "Linux"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "linux"
+    },
+    {
+      "property": "P5063",
+      "value": "i70973"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqJggKIiBDQkFTRWdvSkwyMHZNR1p3ZW5wd0VnVndkQzFDVWlnQVAB"
+    },
+    {
+      "property": "P5379",
+      "value": "1007"
+    },
+    {
+      "property": "P5568",
+      "value": "linux"
+    },
+    {
+      "property": "P571",
+      "value": "+1991-09-17T00:00:00Z"
+    },
+    {
+      "property": "P5795",
+      "value": "linux"
+    },
+    {
+      "property": "P6078",
+      "value": "unixlinux"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Linux"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Linux"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Linux"
+    },
+    {
+      "property": "P6366",
+      "value": "517481932"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0fpzzp"
+    },
+    {
+      "property": "P6541",
+      "value": "https://unix.stackexchange.com"
+    },
+    {
+      "property": "P6541",
+      "value": "https://linux.stackexchange.com/"
+    },
+    {
+      "property": "P6611",
+      "value": "99295"
+    },
+    {
+      "property": "P6760",
+      "value": "16950"
+    },
+    {
+      "property": "P6900",
+      "value": "linux"
+    },
+    {
+      "property": "P691",
+      "value": "ph117043"
+    },
+    {
+      "property": "P7039",
+      "value": "000051747"
+    },
+    {
+      "property": "P737",
+      "value": "Q187906"
+    },
+    {
+      "property": "P737",
+      "value": "Q11368"
+    },
+    {
+      "property": "P7556",
+      "value": "106"
+    },
+    {
+      "property": "P7592",
+      "value": "5248"
+    },
+    {
+      "property": "P7617",
+      "value": "linux"
+    },
+    {
+      "property": "P7809",
+      "value": "218"
+    },
+    {
+      "property": "P7982",
+      "value": "68101"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf10464991"
+    },
+    {
+      "property": "P8189",
+      "value": "987007289819405171"
+    },
+    {
+      "property": "P822",
+      "value": "Q131200"
+    },
+    {
+      "property": "P8313",
+      "value": "Linux"
+    },
+    {
+      "property": "P8408",
+      "value": "LinuxOS"
+    },
+    {
+      "property": "P856",
+      "value": "https://kernel.org"
+    },
+    {
+      "property": "P859",
+      "value": "Q858851"
+    },
+    {
+      "property": "P8672",
+      "value": "848959431836487680"
+    },
+    {
+      "property": "P8814",
+      "value": "06581031-n"
+    },
+    {
+      "property": "P8885",
+      "value": "Linux"
+    },
+    {
+      "property": "P8934",
+      "value": "https://lkml.org/"
+    },
+    {
+      "property": "P8934",
+      "value": "http://vger.kernel.org/"
+    },
+    {
+      "property": "P9075",
+      "value": "Category:Linux"
+    },
+    {
+      "property": "P910",
+      "value": "Q8591663"
+    },
+    {
+      "property": "P9100",
+      "value": "linux"
+    },
+    {
+      "property": "P9346",
+      "value": "linux"
+    },
+    {
+      "property": "P935",
+      "value": "Linux"
+    },
+    {
+      "property": "P9526",
+      "value": "Linux"
+    },
+    {
+      "property": "P9621",
+      "value": "linux"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.videogameschronicle.com/?post_type=platforms&p=417"
+    },
+    {
+      "property": "P989",
+      "value": "Nl-Linux-article.ogg"
+    },
+    {
+      "property": "P989",
+      "value": "Ta-லினக்சு.ogg"
+    },
+    {
+      "property": "P989",
+      "value": "Wikipedia - Linux (spoken Wikipedia using AI-generated voice).opus"
+    },
+    {
+      "property": "P989",
+      "value": "Wikipedia - Linux (gesprochene Wikipedia mit KI-Stimme).mp3"
+    },
+    {
+      "property": "P989",
+      "value": "Wikipedia Spanish Article GNU Linux id 25740860.wav"
+    }
+  ]
+}

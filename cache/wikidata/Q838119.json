@@ -1,0 +1,46 @@
+{
+  "id": "Q838119",
+  "label": "for loop",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2779624466"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/for-loop"
+    },
+    {
+      "property": "P18",
+      "value": "For loop example.svg"
+    },
+    {
+      "property": "P279",
+      "value": "Q8868615"
+    },
+    {
+      "property": "P373",
+      "value": "For loops"
+    },
+    {
+      "property": "P4342",
+      "value": "for-løkke_(IT)"
+    },
+    {
+      "property": "P6366",
+      "value": "140461892"
+    },
+    {
+      "property": "P6366",
+      "value": "2779624466"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02d6dm"
+    },
+    {
+      "property": "P6564",
+      "value": "for"
+    }
+  ]
+}

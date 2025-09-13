@@ -1,0 +1,82 @@
+{
+  "id": "Q17186285",
+  "label": "Shumway",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q594447"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/shumway"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Shumway logo and wordmark.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.mozilla.org:6697/shumway"
+    },
+    {
+      "property": "P18",
+      "value": "Mozilla Shumway screenshot.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2483798"
+    },
+    {
+      "property": "P275",
+      "value": "Q1150837"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P31",
+      "value": "Q1004415"
+    },
+    {
+      "property": "P31",
+      "value": "Q192726"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla Shumway"
+    },
+    {
+      "property": "P400",
+      "value": "Q466"
+    },
+    {
+      "property": "P571",
+      "value": "+2012-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/010vvvx_"
+    },
+    {
+      "property": "P6949",
+      "value": "+2012-11-12T00:00:00Z"
+    },
+    {
+      "property": "P856",
+      "value": "https://mozilla.github.io/shumway"
+    }
+  ]
+}

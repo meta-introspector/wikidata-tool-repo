@@ -1,0 +1,306 @@
+{
+  "id": "Q34225",
+  "label": "NetBSD",
+  "facts": [
+    {
+      "property": "P123",
+      "value": "Q56753378"
+    },
+    {
+      "property": "P1324",
+      "value": "http://cvsweb.netbsd.org"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/NetBSD/src"
+    },
+    {
+      "property": "P1324",
+      "value": "https://anonhg.netbsd.org/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://nxr.netbsd.org/"
+    },
+    {
+      "property": "P1414",
+      "value": "Q189053"
+    },
+    {
+      "property": "P144",
+      "value": "Q228413"
+    },
+    {
+      "property": "P154",
+      "value": "NetBSD textlogo.svg"
+    },
+    {
+      "property": "P156",
+      "value": "Q34215"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/netbsd"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.ircnet.net/netbsd"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.efnet.net/netbsd"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.libera.chat/netbsd"
+    },
+    {
+      "property": "P18",
+      "value": "NetBSD 9.2 xdm screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "netbsd"
+    },
+    {
+      "property": "P2002",
+      "value": "netbsd"
+    },
+    {
+      "property": "P2037",
+      "value": "NetBSD"
+    },
+    {
+      "property": "P275",
+      "value": "Q191307"
+    },
+    {
+      "property": "P3033",
+      "value": "Q310603"
+    },
+    {
+      "property": "P31",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P31",
+      "value": "Q20983788"
+    },
+    {
+      "property": "P31",
+      "value": "Q9135"
+    },
+    {
+      "property": "P3112",
+      "value": "netbsd"
+    },
+    {
+      "property": "P3417",
+      "value": "NetBSD"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "8.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.2"
+    },
+    {
+      "property": "P348",
+      "value": "8.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.99.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.0"
+    },
+    {
+      "property": "P348",
+      "value": "8.2"
+    },
+    {
+      "property": "P348",
+      "value": "9.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.2"
+    },
+    {
+      "property": "P348",
+      "value": "9.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.0 BETA"
+    },
+    {
+      "property": "P348",
+      "value": "10.0 RC1"
+    },
+    {
+      "property": "P348",
+      "value": "10.0 RC2"
+    },
+    {
+      "property": "P348",
+      "value": "10.0 RC3"
+    },
+    {
+      "property": "P348",
+      "value": "10.0 RC4"
+    },
+    {
+      "property": "P348",
+      "value": "10.0 RC5"
+    },
+    {
+      "property": "P348",
+      "value": "10.0"
+    },
+    {
+      "property": "P348",
+      "value": "9.4"
+    },
+    {
+      "property": "P348",
+      "value": "8.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.1"
+    },
+    {
+      "property": "P373",
+      "value": "NetBSD"
+    },
+    {
+      "property": "P3984",
+      "value": "NetBSD"
+    },
+    {
+      "property": "P400",
+      "value": "Q858065"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P400",
+      "value": "Q113585"
+    },
+    {
+      "property": "P400",
+      "value": "Q667808"
+    },
+    {
+      "property": "P400",
+      "value": "Q527464"
+    },
+    {
+      "property": "P400",
+      "value": "Q209860"
+    },
+    {
+      "property": "P400",
+      "value": "Q1205020"
+    },
+    {
+      "property": "P400",
+      "value": "Q273190"
+    },
+    {
+      "property": "P400",
+      "value": "Q17637401"
+    },
+    {
+      "property": "P400",
+      "value": "Q960616"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P4033",
+      "value": "netbsd@mastodon.sdf.org"
+    },
+    {
+      "property": "P577",
+      "value": "+1993-04-19T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05d82"
+    },
+    {
+      "property": "P6665",
+      "value": "12214"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.NetBSD.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+8916"
+    },
+    {
+      "property": "P8687",
+      "value": "+9274"
+    },
+    {
+      "property": "P8687",
+      "value": "+10103"
+    },
+    {
+      "property": "P8934",
+      "value": "https://mail-index.netbsd.org/netbsd-announce/"
+    },
+    {
+      "property": "P910",
+      "value": "Q7456739"
+    }
+  ]
+}

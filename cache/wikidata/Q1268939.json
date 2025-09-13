@@ -1,0 +1,46 @@
+{
+  "id": "Q1268939",
+  "label": "dynamic dispatch",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q4202184"
+    },
+    {
+      "property": "P1269",
+      "value": "Q79872"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/dynamic-dispatch"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/dynamic-binding"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/121d1hs2"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P461",
+      "value": "Q11919276"
+    },
+    {
+      "property": "P6366",
+      "value": "2779717432"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03gs2y"
+    },
+    {
+      "property": "P6611",
+      "value": "88169"
+    }
+  ]
+}

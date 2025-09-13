@@ -1,0 +1,18 @@
+{
+  "id": "Q768046",
+  "label": "Sertum Laetitiae",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q221409"
+    },
+    {
+      "property": "P50",
+      "value": "Q2604"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03qntg_"
+    }
+  ]
+}

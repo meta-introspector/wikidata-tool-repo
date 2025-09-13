@@ -1,0 +1,902 @@
+{
+  "id": "Q978185",
+  "label": "TypeScript",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2777869424"
+    },
+    {
+      "property": "P11201",
+      "value": "https://www.typescriptlang.org/play"
+    },
+    {
+      "property": "P11206",
+      "value": "typescript"
+    },
+    {
+      "property": "P1195",
+      "value": "ts"
+    },
+    {
+      "property": "P1195",
+      "value": "tsx"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/Microsoft/TypeScript"
+    },
+    {
+      "property": "P13397",
+      "value": "typescript"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/12b1d541-4e68-4096-83a4-1301ae14bd85"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/typescript"
+    },
+    {
+      "property": "P154",
+      "value": "TypeScript Logo (Blue).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Typescript logo 2020.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://devblogs.microsoft.com/typescript/"
+    },
+    {
+      "property": "P170",
+      "value": "Q316544"
+    },
+    {
+      "property": "P178",
+      "value": "Q2283"
+    },
+    {
+      "property": "P1889",
+      "value": "Q28924364"
+    },
+    {
+      "property": "P1972",
+      "value": "typescript"
+    },
+    {
+      "property": "P2179",
+      "value": "10011490"
+    },
+    {
+      "property": "P244",
+      "value": "sh2013001822"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q978185"
+    },
+    {
+      "property": "P287",
+      "value": "Q2283"
+    },
+    {
+      "property": "P2992",
+      "value": "Q965769"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q187432"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920813"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923017"
+    },
+    {
+      "property": "P31",
+      "value": "Q211496"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P3381",
+      "value": "TypeScript"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.8.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.9.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.9 RC"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.7"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.8"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.9"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.3 Beta"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.5"
+    },
+    {
+      "property": "P348",
+      "value": "4.4 Beta"
+    },
+    {
+      "property": "P348",
+      "value": "4.4 RC"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.5 Beta"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "4.6 Beta"
+    },
+    {
+      "property": "P348",
+      "value": "4.6 RC"
+    },
+    {
+      "property": "P348",
+      "value": "4.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.1-beta"
+    },
+    {
+      "property": "P348",
+      "value": "4.7.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.10"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.8"
+    },
+    {
+      "property": "P348",
+      "value": "4.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.6.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.8.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.9"
+    },
+    {
+      "property": "P348",
+      "value": "4.9.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.0 beta"
+    },
+    {
+      "property": "P348",
+      "value": "4.9.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.0 release candidate"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.0-beta"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "5.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.9"
+    },
+    {
+      "property": "P3553",
+      "value": "19766226"
+    },
+    {
+      "property": "P373",
+      "value": "TypeScript"
+    },
+    {
+      "property": "P3847",
+      "value": "typescript_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1135914"
+    },
+    {
+      "property": "P3984",
+      "value": "typescript"
+    },
+    {
+      "property": "P4033",
+      "value": "TypeScript@fosstodon.org"
+    },
+    {
+      "property": "P4644",
+      "value": "867137fb-ff1b-4ca3-99f3-cb6969aa2c68"
+    },
+    {
+      "property": "P571",
+      "value": "+2012-10-01T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "2777869424"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0n50hxv"
+    },
+    {
+      "property": "P7078",
+      "value": "Q374282"
+    },
+    {
+      "property": "P7078",
+      "value": "Q16965428"
+    },
+    {
+      "property": "P7078",
+      "value": "Q936724"
+    },
+    {
+      "property": "P737",
+      "value": "Q2005"
+    },
+    {
+      "property": "P737",
+      "value": "Q2370"
+    },
+    {
+      "property": "P737",
+      "value": "Q251"
+    },
+    {
+      "property": "P737",
+      "value": "Q1106819"
+    },
+    {
+      "property": "P7502",
+      "value": "TypeScript-EPZ5JN"
+    },
+    {
+      "property": "P7788",
+      "value": "typescript"
+    },
+    {
+      "property": "P8131",
+      "value": "Q2005"
+    },
+    {
+      "property": "P8189",
+      "value": "987007570557905171"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.typescriptlang.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+105432"
+    },
+    {
+      "property": "P910",
+      "value": "Q102409549"
+    },
+    {
+      "property": "P9100",
+      "value": "typescript"
+    },
+    {
+      "property": "P9618",
+      "value": "typescript"
+    }
+  ]
+}

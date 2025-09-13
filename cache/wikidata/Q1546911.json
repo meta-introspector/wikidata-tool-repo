@@ -1,0 +1,46 @@
+{
+  "id": "Q1546911",
+  "label": "Cross-Platform Installer Module",
+  "facts": [
+    {
+      "property": "P1163",
+      "value": "application/x-xpinstall"
+    },
+    {
+      "property": "P1195",
+      "value": "xpi"
+    },
+    {
+      "property": "P144",
+      "value": "Q136218"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P31",
+      "value": "Q235557"
+    },
+    {
+      "property": "P3381",
+      "value": "Cross-Platform_Installer_Module"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04y3n6"
+    },
+    {
+      "property": "P8205",
+      "value": "Mozilla/XPI"
+    },
+    {
+      "property": "P8205",
+      "value": "XPInstall"
+    },
+    {
+      "property": "P856",
+      "value": "https://addons.mozilla.org/en-US/firefox/browse/type:1"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "Q1121892",
+  "label": "OpenDNS",
+  "facts": [
+    {
+      "property": "P112",
+      "value": "Q3703358"
+    },
+    {
+      "property": "P1128",
+      "value": "+12"
+    },
+    {
+      "property": "P127",
+      "value": "Q173395"
+    },
+    {
+      "property": "P1454",
+      "value": "Q33685"
+    },
+    {
+      "property": "P154",
+      "value": "OpenDNS.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q62"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1951",
+      "value": "Q1852025"
+    },
+    {
+      "property": "P1951",
+      "value": "Q1392009"
+    },
+    {
+      "property": "P1951",
+      "value": "Q7650156"
+    },
+    {
+      "property": "P1951",
+      "value": "Q17081427"
+    },
+    {
+      "property": "P1951",
+      "value": "Q86473943"
+    },
+    {
+      "property": "P2002",
+      "value": "opendns"
+    },
+    {
+      "property": "P2013",
+      "value": "OpenDNS"
+    },
+    {
+      "property": "P2088",
+      "value": "opendns"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q1668024"
+    },
+    {
+      "property": "P31",
+      "value": "Q28404302"
+    },
+    {
+      "property": "P3417",
+      "value": "OpenDNS"
+    },
+    {
+      "property": "P3797",
+      "value": "25605"
+    },
+    {
+      "property": "P3797",
+      "value": "30607"
+    },
+    {
+      "property": "P3797",
+      "value": "36692"
+    },
+    {
+      "property": "P5531",
+      "value": "0001502522"
+    },
+    {
+      "property": "P571",
+      "value": "+2006-07-01T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0fd3q0"
+    },
+    {
+      "property": "P749",
+      "value": "Q173395"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.opendns.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+32577"
+    },
+    {
+      "property": "P9138",
+      "value": "https://downdetector.ph/status/opendns/"
+    }
+  ]
+}

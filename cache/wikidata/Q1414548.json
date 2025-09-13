@@ -1,0 +1,66 @@
+{
+  "id": "Q1414548",
+  "label": "concurrency",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C193702766"
+    },
+    {
+      "property": "P1245",
+      "value": "986124"
+    },
+    {
+      "property": "P13044",
+      "value": "Q13407144"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/concurrency"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/concurrency"
+    },
+    {
+      "property": "P31",
+      "value": "Q937228"
+    },
+    {
+      "property": "P31",
+      "value": "Q232661"
+    },
+    {
+      "property": "P3417",
+      "value": "Concurrency-computer-science"
+    },
+    {
+      "property": "P373",
+      "value": "Concurrency (computer science)"
+    },
+    {
+      "property": "P6366",
+      "value": "193702766"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03qtj_"
+    },
+    {
+      "property": "P6611",
+      "value": "10068"
+    },
+    {
+      "property": "P8529",
+      "value": "461304"
+    },
+    {
+      "property": "P910",
+      "value": "Q7415169"
+    },
+    {
+      "property": "P9100",
+      "value": "concurrency"
+    }
+  ]
+}

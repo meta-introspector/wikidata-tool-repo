@@ -1,0 +1,394 @@
+{
+  "id": "Q13977",
+  "label": "Bloomberg L.P.",
+  "facts": [
+    {
+      "property": "P10006",
+      "value": "bloomberg-media-bias"
+    },
+    {
+      "property": "P10206",
+      "value": "bloomberg"
+    },
+    {
+      "property": "P10283",
+      "value": "P4310316102"
+    },
+    {
+      "property": "P10311",
+      "value": "https://www.bloomberg.com/company/careers/"
+    },
+    {
+      "property": "P10804",
+      "value": "58155074"
+    },
+    {
+      "property": "P11136",
+      "value": "http://bloom.bg/$1"
+    },
+    {
+      "property": "P11136",
+      "value": "https://bloom.bg/$1"
+    },
+    {
+      "property": "P11137",
+      "value": "bloomberg_lp"
+    },
+    {
+      "property": "P112",
+      "value": "Q607"
+    },
+    {
+      "property": "P112",
+      "value": "Q7793856"
+    },
+    {
+      "property": "P112",
+      "value": "Q5314471"
+    },
+    {
+      "property": "P112",
+      "value": "Q16123170"
+    },
+    {
+      "property": "P1128",
+      "value": "+19000"
+    },
+    {
+      "property": "P1128",
+      "value": "+19000"
+    },
+    {
+      "property": "P1128",
+      "value": "+20000"
+    },
+    {
+      "property": "P1167",
+      "value": "1188"
+    },
+    {
+      "property": "P12361",
+      "value": "bloomberg.com"
+    },
+    {
+      "property": "P12385",
+      "value": "bloomberg-l.p."
+    },
+    {
+      "property": "P127",
+      "value": "Q607"
+    },
+    {
+      "property": "P1278",
+      "value": "549300B56MD0ZC402L06"
+    },
+    {
+      "property": "P1296",
+      "value": "21935956"
+    },
+    {
+      "property": "P13290",
+      "value": "corporate_entities/507"
+    },
+    {
+      "property": "P13300",
+      "value": "cap-bloomberg"
+    },
+    {
+      "property": "P13337",
+      "value": "bloomberglinea.com"
+    },
+    {
+      "property": "P13591",
+      "value": "group/35498c9f-ff91-40e3-a9f5-111dcb779167"
+    },
+    {
+      "property": "P138",
+      "value": "Q607"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Bloomberg-LP"
+    },
+    {
+      "property": "P1454",
+      "value": "Q909695"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/bloomberg"
+    },
+    {
+      "property": "P154",
+      "value": "Bloomberg L.P. logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Bloomberg News logo.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q875078"
+    },
+    {
+      "property": "P159",
+      "value": "Q60"
+    },
+    {
+      "property": "P1687",
+      "value": "P3052"
+    },
+    {
+      "property": "P1687",
+      "value": "P3377"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P18",
+      "value": "Bloomberg in London.jpg"
+    },
+    {
+      "property": "P1830",
+      "value": "Q875078"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3564619"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4928189"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4998403"
+    },
+    {
+      "property": "P1830",
+      "value": "Q7953259"
+    },
+    {
+      "property": "P1830",
+      "value": "Q14270642"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15524972"
+    },
+    {
+      "property": "P1830",
+      "value": "Q25245121"
+    },
+    {
+      "property": "P1830",
+      "value": "Q13975"
+    },
+    {
+      "property": "P1830",
+      "value": "Q46996829"
+    },
+    {
+      "property": "P1830",
+      "value": "Q112610835"
+    },
+    {
+      "property": "P2002",
+      "value": "business"
+    },
+    {
+      "property": "P2002",
+      "value": "BloombergJapan"
+    },
+    {
+      "property": "P2013",
+      "value": "BloombergNews"
+    },
+    {
+      "property": "P2088",
+      "value": "bloomberg"
+    },
+    {
+      "property": "P213",
+      "value": "0000000406244591"
+    },
+    {
+      "property": "P2139",
+      "value": "+10000000000"
+    },
+    {
+      "property": "P214",
+      "value": "134069181"
+    },
+    {
+      "property": "P2397",
+      "value": "UCUMZ7gohGI9HcU9VNsr2FJQ"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.431434.5"
+    },
+    {
+      "property": "P244",
+      "value": "no2007042801"
+    },
+    {
+      "property": "P2561",
+      "value": "Bloomberg"
+    },
+    {
+      "property": "P2657",
+      "value": "272910022778-05"
+    },
+    {
+      "property": "P2657",
+      "value": "214140728444-40"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q6881511"
+    },
+    {
+      "property": "P3153",
+      "value": "100004703"
+    },
+    {
+      "property": "P3221",
+      "value": "company/bloomberg-lp"
+    },
+    {
+      "property": "P3225",
+      "value": "8700150002453"
+    },
+    {
+      "property": "P3347",
+      "value": "4295956702"
+    },
+    {
+      "property": "P3417",
+      "value": "Bloomberg-company"
+    },
+    {
+      "property": "P3500",
+      "value": "50421"
+    },
+    {
+      "property": "P355",
+      "value": "Q14270642"
+    },
+    {
+      "property": "P373",
+      "value": "Bloomberg L.P."
+    },
+    {
+      "property": "P3789",
+      "value": "bloomberg"
+    },
+    {
+      "property": "P3984",
+      "value": "bloomberg"
+    },
+    {
+      "property": "P4265",
+      "value": "bloomberg"
+    },
+    {
+      "property": "P452",
+      "value": "Q56611639"
+    },
+    {
+      "property": "P463",
+      "value": "Q37033"
+    },
+    {
+      "property": "P463",
+      "value": "Q7095994"
+    },
+    {
+      "property": "P4691",
+      "value": "D000031992"
+    },
+    {
+      "property": "P488",
+      "value": "Q7174340"
+    },
+    {
+      "property": "P571",
+      "value": "+1981-10-01T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "1299907687"
+    },
+    {
+      "property": "P646",
+      "value": "/m/027sm6"
+    },
+    {
+      "property": "P6782",
+      "value": "02rdpzb15"
+    },
+    {
+      "property": "P740",
+      "value": "Q60"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.bloomberg.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+2780000"
+    },
+    {
+      "property": "P8687",
+      "value": "+3060000"
+    },
+    {
+      "property": "P8687",
+      "value": "+3390000"
+    },
+    {
+      "property": "P8687",
+      "value": "+3750000"
+    },
+    {
+      "property": "P8687",
+      "value": "+4150000"
+    },
+    {
+      "property": "P8687",
+      "value": "+4580000"
+    },
+    {
+      "property": "P910",
+      "value": "Q8303010"
+    },
+    {
+      "property": "P9368",
+      "value": "bloomberg"
+    },
+    {
+      "property": "P973",
+      "value": "http://www.fundinguniverse.com/company-histories/bloomberg-l-p-history/"
+    },
+    {
+      "property": "P9765",
+      "value": "Bloomberg"
+    },
+    {
+      "property": "P9852",
+      "value": "bloomberg"
+    },
+    {
+      "property": "P9922",
+      "value": "bloomberg"
+    }
+  ]
+}

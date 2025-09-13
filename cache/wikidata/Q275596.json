@@ -1,0 +1,86 @@
+{
+  "id": "Q275596",
+  "label": "imperative programming",
+  "facts": [
+    {
+      "property": "P12946",
+      "value": "imperative+programming"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/ef1e2447-a3e6-4920-98cd-0e2b9a1d75e2"
+    },
+    {
+      "property": "P1557",
+      "value": "Q925783"
+    },
+    {
+      "property": "P18",
+      "value": "Add all numbers block.png"
+    },
+    {
+      "property": "P1813",
+      "value": "Imperativ"
+    },
+    {
+      "property": "P244",
+      "value": "sh2009011030"
+    },
+    {
+      "property": "P279",
+      "value": "Q80006"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P31",
+      "value": "Q188267"
+    },
+    {
+      "property": "P3222",
+      "value": "imperativa-programspråk"
+    },
+    {
+      "property": "P3417",
+      "value": "Imperative-Programming"
+    },
+    {
+      "property": "P4215",
+      "value": "imperative programming"
+    },
+    {
+      "property": "P461",
+      "value": "Q531152"
+    },
+    {
+      "property": "P461",
+      "value": "Q28453809"
+    },
+    {
+      "property": "P6366",
+      "value": "90871949"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01c3bz"
+    },
+    {
+      "property": "P6611",
+      "value": "1485"
+    },
+    {
+      "property": "P8189",
+      "value": "987007572661305171"
+    },
+    {
+      "property": "P8885",
+      "value": "명령형 프로그래밍"
+    },
+    {
+      "property": "P910",
+      "value": "Q6303643"
+    }
+  ]
+}

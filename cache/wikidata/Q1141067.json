@@ -1,0 +1,54 @@
+{
+  "id": "Q1141067",
+  "label": "program comment",
+  "facts": [
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/comments"
+    },
+    {
+      "property": "P18",
+      "value": "Servo & Arduino Code.JPG"
+    },
+    {
+      "property": "P1889",
+      "value": "Q58897583"
+    },
+    {
+      "property": "P1889",
+      "value": "Q5152388"
+    },
+    {
+      "property": "P279",
+      "value": "Q857525"
+    },
+    {
+      "property": "P279",
+      "value": "Q6486712"
+    },
+    {
+      "property": "P279",
+      "value": "Q181702"
+    },
+    {
+      "property": "P31",
+      "value": "Q107984415"
+    },
+    {
+      "property": "P31",
+      "value": "Q234460"
+    },
+    {
+      "property": "P3417",
+      "value": "Comment-computer-programming"
+    },
+    {
+      "property": "P443",
+      "value": "De-Kommentar.ogg"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0279593"
+    }
+  ]
+}

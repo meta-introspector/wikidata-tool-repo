@@ -1,0 +1,458 @@
+{
+  "id": "Q2370",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/c-programming-language"
+    },
+    {
+      "property": "P1051",
+      "value": "13863"
+    },
+    {
+      "property": "P11046",
+      "value": "c-number"
+    },
+    {
+      "property": "P11046",
+      "value": "c-number--1"
+    },
+    {
+      "property": "P11408",
+      "value": "C#"
+    },
+    {
+      "property": "P11947",
+      "value": "csharp@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "cs"
+    },
+    {
+      "property": "P1195",
+      "value": "csx"
+    },
+    {
+      "property": "P12204",
+      "value": "10877"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/dotnet/csharplang"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/dotnet/roslyn"
+    },
+    {
+      "property": "P13397",
+      "value": "C%2523"
+    },
+    {
+      "property": "P13397",
+      "value": "language%253A+csharp"
+    },
+    {
+      "property": "P13397",
+      "value": "csharp"
+    },
+    {
+      "property": "P1343",
+      "value": "Q42769354"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/7953a614-4dab-469b-8740-221571c086b7"
+    },
+    {
+      "property": "P138",
+      "value": "Q3267651"
+    },
+    {
+      "property": "P138",
+      "value": "Q2407"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/dotnet/csharplang/issues"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/dotnet/roslyn/issues"
+    },
+    {
+      "property": "P1401",
+      "value": "https://roslyn.codeplex.com/workitem/list/basic"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/c%23"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ja.stackoverflow.com/tags/c%23"
+    },
+    {
+      "property": "P1482",
+      "value": "https://es.stackoverflow.com/tags/c%23"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ru.stackoverflow.com/tags/c%23"
+    },
+    {
+      "property": "P1482",
+      "value": "https://pt.stackoverflow.com/tags/c%23"
+    },
+    {
+      "property": "P1482",
+      "value": "https://or.stackexchange.com/tags/c%23"
+    },
+    {
+      "property": "P154",
+      "value": "C Sharp wordmark.svg"
+    },
+    {
+      "property": "P154",
+      "value": "C Sharp Logo 2023.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q2283"
+    },
+    {
+      "property": "P18",
+      "value": "Af-Helloworld (C Sharp).svg"
+    },
+    {
+      "property": "P227",
+      "value": "4616843-6"
+    },
+    {
+      "property": "P2347",
+      "value": "13591"
+    },
+    {
+      "property": "P244",
+      "value": "sh2001001705"
+    },
+    {
+      "property": "P268",
+      "value": "13614817q"
+    },
+    {
+      "property": "P277",
+      "value": "Q2370"
+    },
+    {
+      "property": "P287",
+      "value": "Q2283"
+    },
+    {
+      "property": "P287",
+      "value": "Q316544"
+    },
+    {
+      "property": "P287",
+      "value": "Q102339757"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922858"
+    },
+    {
+      "property": "P31",
+      "value": "Q211496"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923017"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920813"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923026"
+    },
+    {
+      "property": "P3417",
+      "value": "C-programming-language-2"
+    },
+    {
+      "property": "P348",
+      "value": "7.3"
+    },
+    {
+      "property": "P348",
+      "value": "8.0"
+    },
+    {
+      "property": "P348",
+      "value": "9.0"
+    },
+    {
+      "property": "P348",
+      "value": "10.0"
+    },
+    {
+      "property": "P348",
+      "value": "11.0"
+    },
+    {
+      "property": "P348",
+      "value": "12.0"
+    },
+    {
+      "property": "P348",
+      "value": "13.0"
+    },
+    {
+      "property": "P348",
+      "value": "14.0"
+    },
+    {
+      "property": "P3553",
+      "value": "19590712"
+    },
+    {
+      "property": "P361",
+      "value": "Q5289"
+    },
+    {
+      "property": "P361",
+      "value": "Q21622213"
+    },
+    {
+      "property": "P373",
+      "value": "C Sharp"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1135914"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1056451"
+    },
+    {
+      "property": "P3966",
+      "value": "Q5127844"
+    },
+    {
+      "property": "P3966",
+      "value": "Q7623620"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3984",
+      "value": "csharp"
+    },
+    {
+      "property": "P4342",
+      "value": "C#_-_programmeringsspråk"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-C sharp.wav"
+    },
+    {
+      "property": "P571",
+      "value": "+2001-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6293",
+      "value": "Y128071"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07657k"
+    },
+    {
+      "property": "P6857",
+      "value": "X3015"
+    },
+    {
+      "property": "P6900",
+      "value": "c#"
+    },
+    {
+      "property": "P691",
+      "value": "ph137696"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q251"
+    },
+    {
+      "property": "P737",
+      "value": "Q4037189"
+    },
+    {
+      "property": "P737",
+      "value": "Q1928222"
+    },
+    {
+      "property": "P737",
+      "value": "Q1151190"
+    },
+    {
+      "property": "P737",
+      "value": "Q732089"
+    },
+    {
+      "property": "P737",
+      "value": "Q648619"
+    },
+    {
+      "property": "P737",
+      "value": "Q34010"
+    },
+    {
+      "property": "P737",
+      "value": "Q1156474"
+    },
+    {
+      "property": "P737",
+      "value": "Q1160312"
+    },
+    {
+      "property": "P737",
+      "value": "Q973097"
+    },
+    {
+      "property": "P737",
+      "value": "Q633894"
+    },
+    {
+      "property": "P737",
+      "value": "Q575650"
+    },
+    {
+      "property": "P737",
+      "value": "Q860654"
+    },
+    {
+      "property": "P737",
+      "value": "Q2378"
+    },
+    {
+      "property": "P747",
+      "value": "Q5015097"
+    },
+    {
+      "property": "P747",
+      "value": "Q5015099"
+    },
+    {
+      "property": "P747",
+      "value": "Q5015098"
+    },
+    {
+      "property": "P8189",
+      "value": "987012430917105171"
+    },
+    {
+      "property": "P856",
+      "value": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+    },
+    {
+      "property": "P856",
+      "value": "https://docs.microsoft.com/de-de/dotnet/csharp/"
+    },
+    {
+      "property": "P856",
+      "value": "https://docs.microsoft.com/ja-jp/dotnet/csharp/"
+    },
+    {
+      "property": "P856",
+      "value": "https://docs.microsoft.com/fr-fr/dotnet/csharp/"
+    },
+    {
+      "property": "P856",
+      "value": "https://docs.microsoft.com/it-it/dotnet/csharp/"
+    },
+    {
+      "property": "P8885",
+      "value": "C#"
+    },
+    {
+      "property": "P910",
+      "value": "Q8334859"
+    },
+    {
+      "property": "P9100",
+      "value": "csharp"
+    },
+    {
+      "property": "P9100",
+      "value": "c-sharp"
+    },
+    {
+      "property": "P9322",
+      "value": "0240000-C-programovaci-jazyk"
+    },
+    {
+      "property": "P9618",
+      "value": "c--programming-language-"
+    }
+  ]
+}

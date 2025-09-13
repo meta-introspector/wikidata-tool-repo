@@ -1,0 +1,58 @@
+{
+  "id": "Q1370678",
+  "label": "Mozilla Messaging",
+  "facts": [
+    {
+      "property": "P1056",
+      "value": "Q483604"
+    },
+    {
+      "property": "P112",
+      "value": "Q169925"
+    },
+    {
+      "property": "P127",
+      "value": "Q55672"
+    },
+    {
+      "property": "P1454",
+      "value": "Q5225895"
+    },
+    {
+      "property": "P159",
+      "value": "Q486860"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q6881511"
+    },
+    {
+      "property": "P452",
+      "value": "Q880371"
+    },
+    {
+      "property": "P571",
+      "value": "+2008-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0462rd_"
+    },
+    {
+      "property": "P749",
+      "value": "Q55672"
+    },
+    {
+      "property": "P7888",
+      "value": "Q169925"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozillamessaging.com"
+    }
+  ]
+}

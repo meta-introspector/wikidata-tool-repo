@@ -1,0 +1,338 @@
+{
+  "id": "Q132874",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10017",
+      "value": "lisp"
+    },
+    {
+      "property": "P10283",
+      "value": "C190883126"
+    },
+    {
+      "property": "P1036",
+      "value": "005.133"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/lisp"
+    },
+    {
+      "property": "P11129",
+      "value": "LISP"
+    },
+    {
+      "property": "P11947",
+      "value": "lisp@lemmy.ml"
+    },
+    {
+      "property": "P12385",
+      "value": "lisp"
+    },
+    {
+      "property": "P12695",
+      "value": "Lisp"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Lisp"
+    },
+    {
+      "property": "P1296",
+      "value": "0037382"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/b0c80f46-b25a-44a3-a89e-136dfa465de9"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/LISP-computer-language"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/lisp"
+    },
+    {
+      "property": "P154",
+      "value": "Lisp logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q92739"
+    },
+    {
+      "property": "P178",
+      "value": "Q2634274"
+    },
+    {
+      "property": "P18",
+      "value": "4.3 BSD UWisc VAX Emulation Lisp Manual.png"
+    },
+    {
+      "property": "P18",
+      "value": "LISP Programazio Lengoaia UEU.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q527892"
+    },
+    {
+      "property": "P2163",
+      "value": "989718"
+    },
+    {
+      "property": "P227",
+      "value": "4035918-9"
+    },
+    {
+      "property": "P2283",
+      "value": "Q242028"
+    },
+    {
+      "property": "P2347",
+      "value": "20571"
+    },
+    {
+      "property": "P244",
+      "value": "sh85077449"
+    },
+    {
+      "property": "P2581",
+      "value": "00051502n"
+    },
+    {
+      "property": "P268",
+      "value": "11934831x"
+    },
+    {
+      "property": "P269",
+      "value": "027270394"
+    },
+    {
+      "property": "P287",
+      "value": "Q92739"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922893"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922887"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P3222",
+      "value": "lisp"
+    },
+    {
+      "property": "P3365",
+      "value": "lisp"
+    },
+    {
+      "property": "P3381",
+      "value": "LISP"
+    },
+    {
+      "property": "P3417",
+      "value": "Lisp-programming-language"
+    },
+    {
+      "property": "P366",
+      "value": "Q11660"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819227"
+    },
+    {
+      "property": "P366",
+      "value": "Q217602"
+    },
+    {
+      "property": "P366",
+      "value": "Q653137"
+    },
+    {
+      "property": "P373",
+      "value": "Lisp (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "lisp_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q661075"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1056451"
+    },
+    {
+      "property": "P3984",
+      "value": "lisp"
+    },
+    {
+      "property": "P4342",
+      "value": "LISP"
+    },
+    {
+      "property": "P4342",
+      "value": "Lisp"
+    },
+    {
+      "property": "P4644",
+      "value": "0de61385-de6d-4146-ba32-1cc1bc102220"
+    },
+    {
+      "property": "P4969",
+      "value": "Q782397"
+    },
+    {
+      "property": "P4969",
+      "value": "Q1882973"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P571",
+      "value": "+1958-01-01T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1958-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1959-01-15T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "190883126"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04kyw"
+    },
+    {
+      "property": "P6706",
+      "value": "LISP"
+    },
+    {
+      "property": "P6900",
+      "value": "lisp"
+    },
+    {
+      "property": "P691",
+      "value": "ph117699"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q776372"
+    },
+    {
+      "property": "P7554",
+      "value": "Lisp"
+    },
+    {
+      "property": "P8189",
+      "value": "987007531493805171"
+    },
+    {
+      "property": "P822",
+      "value": "Q124816689"
+    },
+    {
+      "property": "P8313",
+      "value": "LISP"
+    },
+    {
+      "property": "P8408",
+      "value": "ProgrammingLanguage-Lisp"
+    },
+    {
+      "property": "P8687",
+      "value": "+37044"
+    },
+    {
+      "property": "P8814",
+      "value": "06914712-n"
+    },
+    {
+      "property": "P8885",
+      "value": "LISP"
+    },
+    {
+      "property": "P910",
+      "value": "Q7583708"
+    },
+    {
+      "property": "P9100",
+      "value": "lisp"
+    },
+    {
+      "property": "P950",
+      "value": "XX535292"
+    },
+    {
+      "property": "P9621",
+      "value": "lisp"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/495"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/iheHw8"
+    },
+    {
+      "property": "P998",
+      "value": "Computers/Programming/Languages/Lisp/"
+    }
+  ]
+}

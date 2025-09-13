@@ -1,0 +1,1258 @@
+{
+  "id": "Q161053",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/bg/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/de/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/en/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/es/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/fr/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/id/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/it/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/ja/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/ko/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/pl/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/pt/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/ru/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/tr/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/vi/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/zh_cn/feeds/news.rss"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.ruby-lang.org/zh_tw/feeds/news.rss"
+    },
+    {
+      "property": "P1051",
+      "value": "13862"
+    },
+    {
+      "property": "P10565",
+      "value": "546691"
+    },
+    {
+      "property": "P10766",
+      "value": "ruby"
+    },
+    {
+      "property": "P11201",
+      "value": "https://try.ruby-lang.org/"
+    },
+    {
+      "property": "P11408",
+      "value": "Ruby"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-ruby"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-script.ruby"
+    },
+    {
+      "property": "P11810",
+      "value": "https://ruby.social"
+    },
+    {
+      "property": "P11947",
+      "value": "ruby@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "rb"
+    },
+    {
+      "property": "P1195",
+      "value": "rbw"
+    },
+    {
+      "property": "P12695",
+      "value": "Ruby"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Ruby"
+    },
+    {
+      "property": "P12873",
+      "value": "Ruby"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/ruby/ruby.git"
+    },
+    {
+      "property": "P1324",
+      "value": "https://git.ruby-lang.org/ruby.git"
+    },
+    {
+      "property": "P1324",
+      "value": "https://svn.ruby-lang.org/repos/ruby/"
+    },
+    {
+      "property": "P13397",
+      "value": "ruby"
+    },
+    {
+      "property": "P13397",
+      "value": "ruby2-7"
+    },
+    {
+      "property": "P1344",
+      "value": "Q54276825"
+    },
+    {
+      "property": "P135",
+      "value": "Q1076638"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/4b402eb0-e1f2-4ba7-8274-aeb8a89d02db"
+    },
+    {
+      "property": "P138",
+      "value": "Q43088"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/ruby"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ja.stackoverflow.com/tags/ruby"
+    },
+    {
+      "property": "P1482",
+      "value": "https://gamedev.stackexchange.com/tags/ruby"
+    },
+    {
+      "property": "P1482",
+      "value": "https://raspberrypi.stackexchange.com/tags/ruby"
+    },
+    {
+      "property": "P1482",
+      "value": "https://unix.stackexchange.com/tags/ruby"
+    },
+    {
+      "property": "P1482",
+      "value": "https://superuser.com/tags/ruby"
+    },
+    {
+      "property": "P1482",
+      "value": "https://serverfault.com/tags/ruby"
+    },
+    {
+      "property": "P154",
+      "value": "Ruby logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Ruby-logo-notext.png"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/ruby-lang"
+    },
+    {
+      "property": "P178",
+      "value": "Q92748"
+    },
+    {
+      "property": "P1889",
+      "value": "Q218935"
+    },
+    {
+      "property": "P1889",
+      "value": "Q7376262"
+    },
+    {
+      "property": "P1972",
+      "value": "ruby"
+    },
+    {
+      "property": "P2037",
+      "value": "ruby"
+    },
+    {
+      "property": "P2078",
+      "value": "https://docs.ruby-lang.org/en/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://docs.ruby-lang.org/ja/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://docs.ruby-lang.org/"
+    },
+    {
+      "property": "P227",
+      "value": "4653817-3"
+    },
+    {
+      "property": "P2347",
+      "value": "9657"
+    },
+    {
+      "property": "P244",
+      "value": "sh00000128"
+    },
+    {
+      "property": "P2537",
+      "value": "Ruby"
+    },
+    {
+      "property": "P268",
+      "value": "144105976"
+    },
+    {
+      "property": "P269",
+      "value": "07705802X"
+    },
+    {
+      "property": "P275",
+      "value": "Q3066722"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513450"
+    },
+    {
+      "property": "P275",
+      "value": "Q18517294"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P287",
+      "value": "Q92748"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3381",
+      "value": "Ruby"
+    },
+    {
+      "property": "P3417",
+      "value": "Ruby-programming-language"
+    },
+    {
+      "property": "P3442",
+      "value": "ruby"
+    },
+    {
+      "property": "P3454",
+      "value": "ruby"
+    },
+    {
+      "property": "P3454",
+      "value": "ruby-docs"
+    },
+    {
+      "property": "P3454",
+      "value": "ruby2.6"
+    },
+    {
+      "property": "P3473",
+      "value": "ruby2.3"
+    },
+    {
+      "property": "P3473",
+      "value": "ruby2.5"
+    },
+    {
+      "property": "P3473",
+      "value": "ruby2.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.1.376"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.1.378"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.1.429"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.1.430"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.1.431"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2.136"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2.180"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2.290"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2.318"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2.320"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2.381"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.125"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.194"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.195"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.283"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.284"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.286"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.326"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.327"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.360"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.361"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.362"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.374"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.383"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.384"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.385"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.392"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.426"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.429"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.448"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.483"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.484"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.545"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.547"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.550"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3.551"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.195"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.247"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.352"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.353"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.451"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.481"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.576"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.594"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.598"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.643"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.645"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.647"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0.648"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.10"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.10"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.10"
+    },
+    {
+      "property": "P348",
+      "value": "2.5.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.5"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/ruby"
+    },
+    {
+      "property": "P3553",
+      "value": "19552831"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819227"
+    },
+    {
+      "property": "P366",
+      "value": "Q217602"
+    },
+    {
+      "property": "P366",
+      "value": "Q386275"
+    },
+    {
+      "property": "P373",
+      "value": "Ruby programming language"
+    },
+    {
+      "property": "P3847",
+      "value": "ruby_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1056451"
+    },
+    {
+      "property": "P3984",
+      "value": "ruby"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby2.2"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby-git"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby2.4"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby2.5-docs"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby-svn"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby2.0"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby-1.9"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby1.8"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby1.9"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby2.5"
+    },
+    {
+      "property": "P4162",
+      "value": "ruby2.1"
+    },
+    {
+      "property": "P4428",
+      "value": "Q3446568"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q9288 (heb)-Uziel302-Ruby.wav"
+    },
+    {
+      "property": "P503",
+      "value": "30170"
+    },
+    {
+      "property": "P571",
+      "value": "+1995-00-00T00:00:00Z"
+    },
+    {
+      "property": "P5869",
+      "value": "Q190478"
+    },
+    {
+      "property": "P5869",
+      "value": "Q3446568"
+    },
+    {
+      "property": "P600",
+      "value": "4816"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6251",
+      "value": "Ruby is optimized for programmer happiness"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06ff5"
+    },
+    {
+      "property": "P6611",
+      "value": "197924"
+    },
+    {
+      "property": "P6765",
+      "value": "ruby"
+    },
+    {
+      "property": "P6857",
+      "value": "X3017"
+    },
+    {
+      "property": "P6900",
+      "value": "ruby"
+    },
+    {
+      "property": "P691",
+      "value": "ph503938"
+    },
+    {
+      "property": "P6931",
+      "value": "ruby"
+    },
+    {
+      "property": "P7078",
+      "value": "Q374282"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q154755"
+    },
+    {
+      "property": "P737",
+      "value": "Q1268744"
+    },
+    {
+      "property": "P737",
+      "value": "Q42478"
+    },
+    {
+      "property": "P737",
+      "value": "Q28865"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q775159"
+    },
+    {
+      "property": "P737",
+      "value": "Q732089"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q42979"
+    },
+    {
+      "property": "P737",
+      "value": "Q207316"
+    },
+    {
+      "property": "P737",
+      "value": "Q189722"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/ruby30"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/ruby27"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/ruby26"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/ruby25"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/ruby26"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/ruby"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/ruby25"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/ruby27"
+    },
+    {
+      "property": "P7966",
+      "value": "databases/ruby-gdbm"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/ruby/2.6"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/ruby/2.7"
+    },
+    {
+      "property": "P8189",
+      "value": "987007290697005171"
+    },
+    {
+      "property": "P8313",
+      "value": "ruby"
+    },
+    {
+      "property": "P8408",
+      "value": "Ruby-ProgrammingLanguage"
+    },
+    {
+      "property": "P8443",
+      "value": "ruby@2.6"
+    },
+    {
+      "property": "P8443",
+      "value": "ruby@2.4"
+    },
+    {
+      "property": "P8443",
+      "value": "ruby"
+    },
+    {
+      "property": "P8443",
+      "value": "ruby@2.5"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.ruby-lang.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+79758"
+    },
+    {
+      "property": "P8778",
+      "value": "library/ruby"
+    },
+    {
+      "property": "P8885",
+      "value": "Ruby"
+    },
+    {
+      "property": "P910",
+      "value": "Q8810204"
+    },
+    {
+      "property": "P9100",
+      "value": "ruby"
+    },
+    {
+      "property": "P9128",
+      "value": "ruby-defaults"
+    },
+    {
+      "property": "P9128",
+      "value": "ruby2.1"
+    },
+    {
+      "property": "P9128",
+      "value": "ruby2.3"
+    },
+    {
+      "property": "P9128",
+      "value": "ruby2.5"
+    },
+    {
+      "property": "P9128",
+      "value": "ruby2.7"
+    },
+    {
+      "property": "P9128",
+      "value": "ruby3.0"
+    },
+    {
+      "property": "P950",
+      "value": "XX4424926"
+    },
+    {
+      "property": "P9618",
+      "value": "ruby"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/1012"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/W5GAXY"
+    }
+  ]
+}

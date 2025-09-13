@@ -1,0 +1,326 @@
+{
+  "id": "Q251212",
+  "label": "Internet of things",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C81860439"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/internet-of-things"
+    },
+    {
+      "property": "P10376",
+      "value": "physics-and-astronomy/iot"
+    },
+    {
+      "property": "P10376",
+      "value": "social-sciences/internet-of-things"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/internet-of-things"
+    },
+    {
+      "property": "P10376",
+      "value": "mathematics/internet-of-things"
+    },
+    {
+      "property": "P10376",
+      "value": "psychology/internet-of-things"
+    },
+    {
+      "property": "P10565",
+      "value": "112623"
+    },
+    {
+      "property": "P10565",
+      "value": "218819"
+    },
+    {
+      "property": "P10565",
+      "value": "548306"
+    },
+    {
+      "property": "P10565",
+      "value": "548427"
+    },
+    {
+      "property": "P11196",
+      "value": "物联网"
+    },
+    {
+      "property": "P12086",
+      "value": "Internet_der_dingen"
+    },
+    {
+      "property": "P12596",
+      "value": "89816"
+    },
+    {
+      "property": "P1269",
+      "value": "Q457396"
+    },
+    {
+      "property": "P13397",
+      "value": "iot"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/f6493157-fb33-435f-85f8-eac6dddf16e4"
+    },
+    {
+      "property": "P1424",
+      "value": "Q117818149"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/iot"
+    },
+    {
+      "property": "P1617",
+      "value": "5292b2e2-8069-4039-a00f-020a1c5d7417"
+    },
+    {
+      "property": "P1705",
+      "value": "Internet of Things"
+    },
+    {
+      "property": "P18",
+      "value": "Internet of things signed by the author.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Internet de las Cosas.jpg"
+    },
+    {
+      "property": "P1813",
+      "value": "IoT"
+    },
+    {
+      "property": "P1813",
+      "value": "IdO"
+    },
+    {
+      "property": "P1813",
+      "value": "IdC"
+    },
+    {
+      "property": "P1813",
+      "value": "IdD"
+    },
+    {
+      "property": "P1813",
+      "value": "IdA"
+    },
+    {
+      "property": "P1813",
+      "value": "IdC"
+    },
+    {
+      "property": "P1889",
+      "value": "Q115467851"
+    },
+    {
+      "property": "P227",
+      "value": "7713781-4"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1067099"
+    },
+    {
+      "property": "P2347",
+      "value": "27206"
+    },
+    {
+      "property": "P244",
+      "value": "sh2013000266"
+    },
+    {
+      "property": "P2579",
+      "value": "Q97008347"
+    },
+    {
+      "property": "P2579",
+      "value": "Q21198"
+    },
+    {
+      "property": "P268",
+      "value": "162314171"
+    },
+    {
+      "property": "P279",
+      "value": "Q11253473"
+    },
+    {
+      "property": "P2892",
+      "value": "C5197895"
+    },
+    {
+      "property": "P31",
+      "value": "Q151885"
+    },
+    {
+      "property": "P31",
+      "value": "Q11016"
+    },
+    {
+      "property": "P31",
+      "value": "Q117356127"
+    },
+    {
+      "property": "P3393",
+      "value": "337106"
+    },
+    {
+      "property": "P3417",
+      "value": "Internet-of-Things-IoT-1"
+    },
+    {
+      "property": "P3553",
+      "value": "19551271"
+    },
+    {
+      "property": "P373",
+      "value": "Internet of things"
+    },
+    {
+      "property": "P3847",
+      "value": "internet_of_things"
+    },
+    {
+      "property": "P3911",
+      "value": "30072-6"
+    },
+    {
+      "property": "P3984",
+      "value": "IOT"
+    },
+    {
+      "property": "P4342",
+      "value": "tingenes_internett"
+    },
+    {
+      "property": "P4644",
+      "value": "f049d050-12da-4e40-813a-2b5eb6df6b51"
+    },
+    {
+      "property": "P486",
+      "value": "D000080487"
+    },
+    {
+      "property": "P508",
+      "value": "59687"
+    },
+    {
+      "property": "P5250",
+      "value": "625"
+    },
+    {
+      "property": "P527",
+      "value": "Q10322548"
+    },
+    {
+      "property": "P527",
+      "value": "Q18761595"
+    },
+    {
+      "property": "P527",
+      "value": "Q2551624"
+    },
+    {
+      "property": "P527",
+      "value": "Q379626"
+    },
+    {
+      "property": "P527",
+      "value": "Q483639"
+    },
+    {
+      "property": "P527",
+      "value": "Q62029351"
+    },
+    {
+      "property": "P5429",
+      "value": "mediatopic/20001161"
+    },
+    {
+      "property": "P5437",
+      "value": "c_b12a760a"
+    },
+    {
+      "property": "P5555",
+      "value": "Différents aspects de l’Internet des objets.svg"
+    },
+    {
+      "property": "P5844",
+      "value": "internet-of-things_res-7e9f1ee2-7aa2-11eb-9a1f-00271042e8d9"
+    },
+    {
+      "property": "P5844",
+      "value": "internet-delle-cose"
+    },
+    {
+      "property": "P6366",
+      "value": "81860439"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02vnd10"
+    },
+    {
+      "property": "P6541",
+      "value": "https://iot.stackexchange.com"
+    },
+    {
+      "property": "P6706",
+      "value": "IOT"
+    },
+    {
+      "property": "P672",
+      "value": "L01.224.230.110.500.657"
+    },
+    {
+      "property": "P691",
+      "value": "ph945025"
+    },
+    {
+      "property": "P7502",
+      "value": "Internet_of_things_(IoT)-KJ4GXP"
+    },
+    {
+      "property": "P7870",
+      "value": "95741"
+    },
+    {
+      "property": "P8189",
+      "value": "987007600184405171"
+    },
+    {
+      "property": "P8672",
+      "value": "898657691010191360"
+    },
+    {
+      "property": "P8885",
+      "value": "사물인터넷"
+    },
+    {
+      "property": "P910",
+      "value": "Q6465232"
+    },
+    {
+      "property": "P9100",
+      "value": "internet-of-things"
+    },
+    {
+      "property": "P9100",
+      "value": "iot"
+    },
+    {
+      "property": "P9775",
+      "value": "internet-of-things"
+    }
+  ]
+}

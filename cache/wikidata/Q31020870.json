@@ -1,0 +1,710 @@
+{
+  "id": "Q31020870",
+  "label": "Firefox Focus",
+  "facts": [
+    {
+      "property": "P11137",
+      "value": "firefox_focus"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-mobile/firefox-android"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-mobile/focus-ios"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-mobile/focus-android"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-mobile/firefox-ios"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/mozilla-central"
+    },
+    {
+      "property": "P154",
+      "value": "Firefox Focus Logo, 2018.png"
+    },
+    {
+      "property": "P154",
+      "value": "Firefox Focus logo, 2017.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Firefox Focus 2021 Icon.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "EN-Find-in-Page-2-600x1000.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Firefox Focus 93.png"
+    },
+    {
+      "property": "P18",
+      "value": "Firefox Focus 102.png"
+    },
+    {
+      "property": "P18",
+      "value": "Screenshot of Wikipedia on Firefox Focus - el.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q20820972"
+    },
+    {
+      "property": "P1889",
+      "value": "Q550315"
+    },
+    {
+      "property": "P2561",
+      "value": "Firefox Focus"
+    },
+    {
+      "property": "P2561",
+      "value": "Firefox Focus: Privacy browser"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11csq97xhl"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P306",
+      "value": "Q48493"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P31",
+      "value": "Q845620"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q620615"
+    },
+    {
+      "property": "P3418",
+      "value": "org.mozilla.focus"
+    },
+    {
+      "property": "P348",
+      "value": "5.0"
+    },
+    {
+      "property": "P348",
+      "value": "8.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.11.3"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "8.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "8.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "6.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "8.0"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "34.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "35.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "36.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "37.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "39.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "40.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "96.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "97.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "99.0"
+    },
+    {
+      "property": "P348",
+      "value": "100.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.0"
+    },
+    {
+      "property": "P348",
+      "value": "103.0"
+    },
+    {
+      "property": "P348",
+      "value": "104.0"
+    },
+    {
+      "property": "P348",
+      "value": "105.0"
+    },
+    {
+      "property": "P348",
+      "value": "106.0"
+    },
+    {
+      "property": "P348",
+      "value": "107.0"
+    },
+    {
+      "property": "P348",
+      "value": "107.1"
+    },
+    {
+      "property": "P348",
+      "value": "108.0"
+    },
+    {
+      "property": "P348",
+      "value": "108.1"
+    },
+    {
+      "property": "P348",
+      "value": "109.0"
+    },
+    {
+      "property": "P348",
+      "value": "110.0"
+    },
+    {
+      "property": "P348",
+      "value": "111.0"
+    },
+    {
+      "property": "P348",
+      "value": "111.1"
+    },
+    {
+      "property": "P348",
+      "value": "112.0"
+    },
+    {
+      "property": "P348",
+      "value": "113.0"
+    },
+    {
+      "property": "P348",
+      "value": "114.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.0"
+    },
+    {
+      "property": "P348",
+      "value": "116.0"
+    },
+    {
+      "property": "P348",
+      "value": "117.0"
+    },
+    {
+      "property": "P348",
+      "value": "118.0"
+    },
+    {
+      "property": "P348",
+      "value": "119.0"
+    },
+    {
+      "property": "P348",
+      "value": "120.0"
+    },
+    {
+      "property": "P348",
+      "value": "121.0"
+    },
+    {
+      "property": "P348",
+      "value": "122.0"
+    },
+    {
+      "property": "P348",
+      "value": "122.1"
+    },
+    {
+      "property": "P348",
+      "value": "123.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.2"
+    },
+    {
+      "property": "P348",
+      "value": "29.0"
+    },
+    {
+      "property": "P348",
+      "value": "29.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.2"
+    },
+    {
+      "property": "P348",
+      "value": "30.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.0"
+    },
+    {
+      "property": "P348",
+      "value": "34.0"
+    },
+    {
+      "property": "P348",
+      "value": "34.1"
+    },
+    {
+      "property": "P348",
+      "value": "35.0"
+    },
+    {
+      "property": "P348",
+      "value": "36.0"
+    },
+    {
+      "property": "P348",
+      "value": "37.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.1"
+    },
+    {
+      "property": "P348",
+      "value": "39.0"
+    },
+    {
+      "property": "P348",
+      "value": "40.0"
+    },
+    {
+      "property": "P348",
+      "value": "40.1"
+    },
+    {
+      "property": "P348",
+      "value": "40.2"
+    },
+    {
+      "property": "P348",
+      "value": "96.0"
+    },
+    {
+      "property": "P348",
+      "value": "97.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.1"
+    },
+    {
+      "property": "P348",
+      "value": "98.2"
+    },
+    {
+      "property": "P348",
+      "value": "99.1"
+    },
+    {
+      "property": "P348",
+      "value": "99.3"
+    },
+    {
+      "property": "P348",
+      "value": "100.1"
+    },
+    {
+      "property": "P348",
+      "value": "101.0"
+    },
+    {
+      "property": "P348",
+      "value": "101.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.2"
+    },
+    {
+      "property": "P348",
+      "value": "103.1"
+    },
+    {
+      "property": "P348",
+      "value": "104.1"
+    },
+    {
+      "property": "P348",
+      "value": "104.2"
+    },
+    {
+      "property": "P348",
+      "value": "105.1"
+    },
+    {
+      "property": "P348",
+      "value": "106.1"
+    },
+    {
+      "property": "P348",
+      "value": "106.2"
+    },
+    {
+      "property": "P348",
+      "value": "107.2"
+    },
+    {
+      "property": "P348",
+      "value": "107.3"
+    },
+    {
+      "property": "P348",
+      "value": "110.1"
+    },
+    {
+      "property": "P348",
+      "value": "110.2"
+    },
+    {
+      "property": "P348",
+      "value": "111.2"
+    },
+    {
+      "property": "P348",
+      "value": "112.1"
+    },
+    {
+      "property": "P348",
+      "value": "112.2"
+    },
+    {
+      "property": "P348",
+      "value": "113.1"
+    },
+    {
+      "property": "P348",
+      "value": "113.2"
+    },
+    {
+      "property": "P348",
+      "value": "114.1"
+    },
+    {
+      "property": "P348",
+      "value": "114.2"
+    },
+    {
+      "property": "P348",
+      "value": "114.3"
+    },
+    {
+      "property": "P348",
+      "value": "114.4"
+    },
+    {
+      "property": "P348",
+      "value": "115.1"
+    },
+    {
+      "property": "P348",
+      "value": "116.1"
+    },
+    {
+      "property": "P348",
+      "value": "116.2"
+    },
+    {
+      "property": "P348",
+      "value": "116.3"
+    },
+    {
+      "property": "P348",
+      "value": "117.1"
+    },
+    {
+      "property": "P348",
+      "value": "117.2"
+    },
+    {
+      "property": "P348",
+      "value": "117.3"
+    },
+    {
+      "property": "P348",
+      "value": "118.1"
+    },
+    {
+      "property": "P348",
+      "value": "118.2"
+    },
+    {
+      "property": "P348",
+      "value": "119.1"
+    },
+    {
+      "property": "P348",
+      "value": "119.2"
+    },
+    {
+      "property": "P348",
+      "value": "120.1"
+    },
+    {
+      "property": "P348",
+      "value": "120.2"
+    },
+    {
+      "property": "P348",
+      "value": "120.3"
+    },
+    {
+      "property": "P348",
+      "value": "120.4"
+    },
+    {
+      "property": "P348",
+      "value": "121.1"
+    },
+    {
+      "property": "P348",
+      "value": "121.2"
+    },
+    {
+      "property": "P348",
+      "value": "122.2"
+    },
+    {
+      "property": "P348",
+      "value": "123.1"
+    },
+    {
+      "property": "P348",
+      "value": "123.2"
+    },
+    {
+      "property": "P348",
+      "value": "123.3"
+    },
+    {
+      "property": "P348",
+      "value": "123.4"
+    },
+    {
+      "property": "P366",
+      "value": "Q845620"
+    },
+    {
+      "property": "P373",
+      "value": "Firefox Focus"
+    },
+    {
+      "property": "P3861",
+      "value": "1055677337"
+    },
+    {
+      "property": "P400",
+      "value": "Q94"
+    },
+    {
+      "property": "P400",
+      "value": "Q48493"
+    },
+    {
+      "property": "P408",
+      "value": "Q487834"
+    },
+    {
+      "property": "P408",
+      "value": "Q654034"
+    },
+    {
+      "property": "P4290",
+      "value": "Q31020870"
+    },
+    {
+      "property": "P437",
+      "value": "Q54820071"
+    },
+    {
+      "property": "P479",
+      "value": "Q165970"
+    },
+    {
+      "property": "P571",
+      "value": "+2016-11-17T00:00:00Z"
+    },
+    {
+      "property": "P7429",
+      "value": "org.mozilla.ios.Focus"
+    },
+    {
+      "property": "P750",
+      "value": "Q79576"
+    },
+    {
+      "property": "P750",
+      "value": "Q368215"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/el/firefox/browsers/mobile/focus/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/tr/firefox/browsers/mobile/focus/"
+    },
+    {
+      "property": "P9618",
+      "value": "firefox-focus"
+    },
+    {
+      "property": "P9897",
+      "value": "Q106410968"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Q1642293",
+  "label": "dangling pointer",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q4080983"
+    },
+    {
+      "property": "P1269",
+      "value": "Q17157128"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/dangling-pointer"
+    },
+    {
+      "property": "P1542",
+      "value": "Q179550"
+    },
+    {
+      "property": "P1889",
+      "value": "Q55397116"
+    },
+    {
+      "property": "P279",
+      "value": "Q118155"
+    },
+    {
+      "property": "P279",
+      "value": "Q55397116"
+    },
+    {
+      "property": "P31",
+      "value": "Q125292064"
+    },
+    {
+      "property": "P3624",
+      "value": "416"
+    },
+    {
+      "property": "P3624",
+      "value": "825"
+    },
+    {
+      "property": "P373",
+      "value": "Dangling Pointer"
+    },
+    {
+      "property": "P6009",
+      "value": "18671"
+    },
+    {
+      "property": "P6366",
+      "value": "61419568"
+    },
+    {
+      "property": "P646",
+      "value": "/m/047r1t"
+    }
+  ]
+}

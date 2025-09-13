@@ -1,0 +1,690 @@
+{
+  "id": "Q5362035",
+  "label": "Elixir",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C103472402"
+    },
+    {
+      "property": "P1072",
+      "value": "Q129081321"
+    },
+    {
+      "property": "P1072",
+      "value": "Q129082474"
+    },
+    {
+      "property": "P1073",
+      "value": "Q129081321"
+    },
+    {
+      "property": "P1073",
+      "value": "Q129082474"
+    },
+    {
+      "property": "P10766",
+      "value": "Elixir"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-elixir"
+    },
+    {
+      "property": "P11947",
+      "value": "elixir@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "ex"
+    },
+    {
+      "property": "P1195",
+      "value": "exs"
+    },
+    {
+      "property": "P12077",
+      "value": "development/elixir"
+    },
+    {
+      "property": "P12695",
+      "value": "Elixir"
+    },
+    {
+      "property": "P12873",
+      "value": "Elixir"
+    },
+    {
+      "property": "P12873",
+      "value": "Elixir_(Español)"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/elixir-lang/elixir"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/a1b7cd3d-b576-4215-8a07-762587e17c74"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/elixir"
+    },
+    {
+      "property": "P154",
+      "value": "Official Elixir logo.png"
+    },
+    {
+      "property": "P1547",
+      "value": "Q17382855"
+    },
+    {
+      "property": "P1581",
+      "value": "https://elixir-lang.org/blog/"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.libera.chat/elixir"
+    },
+    {
+      "property": "P170",
+      "value": "Q20741655"
+    },
+    {
+      "property": "P178",
+      "value": "Q20741655"
+    },
+    {
+      "property": "P2002",
+      "value": "elixirlang"
+    },
+    {
+      "property": "P2037",
+      "value": "elixir-lang"
+    },
+    {
+      "property": "P244",
+      "value": "sh2015000669"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P277",
+      "value": "Q5362035"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q50843083"
+    },
+    {
+      "property": "P31",
+      "value": "Q1130645"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3442",
+      "value": "elixir"
+    },
+    {
+      "property": "P3454",
+      "value": "elixir"
+    },
+    {
+      "property": "P3463",
+      "value": "elixir"
+    },
+    {
+      "property": "P3473",
+      "value": "elixir"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.0-rc.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.6.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.9.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.13.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.12.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.14.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.7"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.15.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.16.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.17.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.18.4"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/elixir"
+    },
+    {
+      "property": "P3553",
+      "value": "20010974"
+    },
+    {
+      "property": "P373",
+      "value": "Elixir (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P3966",
+      "value": "Q7247229"
+    },
+    {
+      "property": "P400",
+      "value": "Q17382855"
+    },
+    {
+      "property": "P4162",
+      "value": "elixir-git"
+    },
+    {
+      "property": "P571",
+      "value": "+2011-01-09T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "103472402"
+    },
+    {
+      "property": "P6366",
+      "value": "2779008791"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0pl075p"
+    },
+    {
+      "property": "P691",
+      "value": "ph1236496"
+    },
+    {
+      "property": "P6931",
+      "value": "elixir"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q374282"
+    },
+    {
+      "property": "P737",
+      "value": "Q334879"
+    },
+    {
+      "property": "P737",
+      "value": "Q161053"
+    },
+    {
+      "property": "P737",
+      "value": "Q51798"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/elixir"
+    },
+    {
+      "property": "P7788",
+      "value": "elixir"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/elixir"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/elixir"
+    },
+    {
+      "property": "P8189",
+      "value": "987007409094405171"
+    },
+    {
+      "property": "P8443",
+      "value": "elixir"
+    },
+    {
+      "property": "P856",
+      "value": "https://elixir-lang.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+34556"
+    },
+    {
+      "property": "P8687",
+      "value": "+36498"
+    },
+    {
+      "property": "P8778",
+      "value": "library/elixir"
+    },
+    {
+      "property": "P9078",
+      "value": "elixir"
+    },
+    {
+      "property": "P9100",
+      "value": "elixir"
+    },
+    {
+      "property": "P9618",
+      "value": "elixir"
+    }
+  ]
+}

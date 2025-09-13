@@ -1,0 +1,14 @@
+{
+  "id": "Q169927",
+  "label": "list of Mozilla products",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q13406463"
+    },
+    {
+      "property": "P360",
+      "value": "Q2424752"
+    }
+  ]
+}

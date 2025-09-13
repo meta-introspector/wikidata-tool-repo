@@ -1,0 +1,302 @@
+{
+  "id": "Q65056751",
+  "label": "Stratis",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://github.com/stratis-storage/stratisd"
+    },
+    {
+      "property": "P2037",
+      "value": "stratis-storage"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11fksl677s"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P306",
+      "value": "Q185576"
+    },
+    {
+      "property": "P306",
+      "value": "Q48267"
+    },
+    {
+      "property": "P31",
+      "value": "Q174989"
+    },
+    {
+      "property": "P348",
+      "value": "0.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "0.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "0.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.2"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P856",
+      "value": "https://stratis-storage.github.io/"
+    }
+  ]
+}

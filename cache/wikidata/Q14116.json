@@ -1,0 +1,970 @@
+{
+  "id": "Q14116",
+  "label": "macOS",
+  "facts": [
+    {
+      "property": "P10027",
+      "value": "https://discussions.apple.com/community/mac_os"
+    },
+    {
+      "property": "P1015",
+      "value": "98025087"
+    },
+    {
+      "property": "P10227",
+      "value": "vtls002105870"
+    },
+    {
+      "property": "P10283",
+      "value": "C515153823"
+    },
+    {
+      "property": "P11137",
+      "value": "macos"
+    },
+    {
+      "property": "P112",
+      "value": "Q19837"
+    },
+    {
+      "property": "P12086",
+      "value": "MacOS"
+    },
+    {
+      "property": "P12204",
+      "value": "10654"
+    },
+    {
+      "property": "P12204",
+      "value": "10260"
+    },
+    {
+      "property": "P12468",
+      "value": "Operating System :: MacOS"
+    },
+    {
+      "property": "P12468",
+      "value": "Environment :: MacOS X"
+    },
+    {
+      "property": "P12468",
+      "value": "Environment :: MacOS X"
+    },
+    {
+      "property": "P12468",
+      "value": "Operating System :: MacOS"
+    },
+    {
+      "property": "P12508",
+      "value": "176/13"
+    },
+    {
+      "property": "P12561",
+      "value": "5269301"
+    },
+    {
+      "property": "P12800",
+      "value": "en:Mac_OS_X"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:MacOS"
+    },
+    {
+      "property": "P12946",
+      "value": "Mac+OS+X"
+    },
+    {
+      "property": "P13397",
+      "value": "macos"
+    },
+    {
+      "property": "P13397",
+      "value": "macosx"
+    },
+    {
+      "property": "P13397",
+      "value": "macos-desktop"
+    },
+    {
+      "property": "P13535",
+      "value": "platform-osx"
+    },
+    {
+      "property": "P1365",
+      "value": "Q831367"
+    },
+    {
+      "property": "P1365",
+      "value": "Q13522376"
+    },
+    {
+      "property": "P1365",
+      "value": "Q264020"
+    },
+    {
+      "property": "P138",
+      "value": "Q1144556"
+    },
+    {
+      "property": "P1389",
+      "value": "Q635130"
+    },
+    {
+      "property": "P1414",
+      "value": "Q622898"
+    },
+    {
+      "property": "P1414",
+      "value": "Q1051988"
+    },
+    {
+      "property": "P1414",
+      "value": "Q134784675"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Mac-OS-X"
+    },
+    {
+      "property": "P1424",
+      "value": "Q10594699"
+    },
+    {
+      "property": "P144",
+      "value": "Q14581"
+    },
+    {
+      "property": "P144",
+      "value": "Q34236"
+    },
+    {
+      "property": "P1448",
+      "value": "macOS"
+    },
+    {
+      "property": "P1448",
+      "value": "OS X"
+    },
+    {
+      "property": "P1448",
+      "value": "Mac OS X"
+    },
+    {
+      "property": "P1448",
+      "value": "macOS"
+    },
+    {
+      "property": "P1448",
+      "value": "OS X"
+    },
+    {
+      "property": "P1448",
+      "value": "Mac OS X"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/osx"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/macos"
+    },
+    {
+      "property": "P154",
+      "value": "MacOS wordmark.svg"
+    },
+    {
+      "property": "P154",
+      "value": "MacOS wordmark (2017).svg"
+    },
+    {
+      "property": "P154",
+      "value": "The OS X Logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "OS X Logo Modern.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q312"
+    },
+    {
+      "property": "P179",
+      "value": "Q14583"
+    },
+    {
+      "property": "P179",
+      "value": "Q34236"
+    },
+    {
+      "property": "P179",
+      "value": "Q11368"
+    },
+    {
+      "property": "P179",
+      "value": "Q14581"
+    },
+    {
+      "property": "P18",
+      "value": "2010-01-21 MacBook Pro Mac OS X Snow Leopard with Earth background.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q43627"
+    },
+    {
+      "property": "P1889",
+      "value": "Q13522376"
+    },
+    {
+      "property": "P214",
+      "value": "8146152942405251549"
+    },
+    {
+      "property": "P227",
+      "value": "4642298-5"
+    },
+    {
+      "property": "P2347",
+      "value": "923"
+    },
+    {
+      "property": "P2361",
+      "value": "Q283469"
+    },
+    {
+      "property": "P244",
+      "value": "n96060065"
+    },
+    {
+      "property": "P2581",
+      "value": "01334510n"
+    },
+    {
+      "property": "P268",
+      "value": "13512513v"
+    },
+    {
+      "property": "P269",
+      "value": "05040637X"
+    },
+    {
+      "property": "P275",
+      "value": "Q3238057"
+    },
+    {
+      "property": "P275",
+      "value": "Q191307"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q621330"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q188531"
+    },
+    {
+      "property": "P277",
+      "value": "Q17118377"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P279",
+      "value": "Q43627"
+    },
+    {
+      "property": "P279",
+      "value": "Q11368"
+    },
+    {
+      "property": "P31",
+      "value": "Q218616"
+    },
+    {
+      "property": "P31",
+      "value": "Q811701"
+    },
+    {
+      "property": "P31",
+      "value": "Q11368"
+    },
+    {
+      "property": "P31",
+      "value": "Q9135"
+    },
+    {
+      "property": "P31",
+      "value": "Q43627"
+    },
+    {
+      "property": "P31",
+      "value": "Q105989562"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P3222",
+      "value": "mac-os"
+    },
+    {
+      "property": "P3280",
+      "value": "0000392062"
+    },
+    {
+      "property": "P3348",
+      "value": "281776"
+    },
+    {
+      "property": "P3417",
+      "value": "macOS-operating-system"
+    },
+    {
+      "property": "P3417",
+      "value": "Mac-OS-X"
+    },
+    {
+      "property": "P348",
+      "value": "10.0 (Cheetah)"
+    },
+    {
+      "property": "P348",
+      "value": "10.1 (Puma)"
+    },
+    {
+      "property": "P348",
+      "value": "10.2 (Jaguar)"
+    },
+    {
+      "property": "P348",
+      "value": "10.3 Panther"
+    },
+    {
+      "property": "P348",
+      "value": "10.4 Tiger"
+    },
+    {
+      "property": "P348",
+      "value": "10.5 Leopard"
+    },
+    {
+      "property": "P348",
+      "value": "10.6 Snow Leopard"
+    },
+    {
+      "property": "P348",
+      "value": "10.7 Lion"
+    },
+    {
+      "property": "P348",
+      "value": "10.8 Mountain Lion"
+    },
+    {
+      "property": "P348",
+      "value": "10.9 Mavericks"
+    },
+    {
+      "property": "P348",
+      "value": "10.10 Yosemite"
+    },
+    {
+      "property": "P348",
+      "value": "10.11 El Capitan"
+    },
+    {
+      "property": "P348",
+      "value": "10.12 Sierra"
+    },
+    {
+      "property": "P348",
+      "value": "10.13 High Sierra"
+    },
+    {
+      "property": "P348",
+      "value": "10.14 Mojave"
+    },
+    {
+      "property": "P348",
+      "value": "10.15 Catalina"
+    },
+    {
+      "property": "P348",
+      "value": "11 Big Sur"
+    },
+    {
+      "property": "P348",
+      "value": "11.5 bêta 2 (20G5033c)"
+    },
+    {
+      "property": "P348",
+      "value": "11.4 (20F71) Big Sur"
+    },
+    {
+      "property": "P348",
+      "value": "12.0.1 Monterey"
+    },
+    {
+      "property": "P348",
+      "value": "12.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "12.3 RC"
+    },
+    {
+      "property": "P348",
+      "value": "12.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.2"
+    },
+    {
+      "property": "P348",
+      "value": "13.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "14 beta 2"
+    },
+    {
+      "property": "P348",
+      "value": "13.5"
+    },
+    {
+      "property": "P348",
+      "value": "14.0 beta 4"
+    },
+    {
+      "property": "P348",
+      "value": "13.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.0 beta 7"
+    },
+    {
+      "property": "P348",
+      "value": "13.6"
+    },
+    {
+      "property": "P348",
+      "value": "14.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.3 beta"
+    },
+    {
+      "property": "P348",
+      "value": "14.4"
+    },
+    {
+      "property": "P348",
+      "value": "14.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.5"
+    },
+    {
+      "property": "P348",
+      "value": "14.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "15.0"
+    },
+    {
+      "property": "P348",
+      "value": "15.1 beta 4"
+    },
+    {
+      "property": "P348",
+      "value": "14.7"
+    },
+    {
+      "property": "P348",
+      "value": "15.1"
+    },
+    {
+      "property": "P348",
+      "value": "15.2"
+    },
+    {
+      "property": "P348",
+      "value": "15.3"
+    },
+    {
+      "property": "P348",
+      "value": "15.4"
+    },
+    {
+      "property": "P348",
+      "value": "15.5"
+    },
+    {
+      "property": "P3553",
+      "value": "19550290"
+    },
+    {
+      "property": "P373",
+      "value": "MacOS"
+    },
+    {
+      "property": "P3931",
+      "value": "Q312"
+    },
+    {
+      "property": "P3984",
+      "value": "MacOS"
+    },
+    {
+      "property": "P400",
+      "value": "Q209860"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P400",
+      "value": "Q18384745"
+    },
+    {
+      "property": "P407",
+      "value": "Q188"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q13955"
+    },
+    {
+      "property": "P407",
+      "value": "Q616620"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P407",
+      "value": "Q7026"
+    },
+    {
+      "property": "P407",
+      "value": "Q9176"
+    },
+    {
+      "property": "P407",
+      "value": "Q6654"
+    },
+    {
+      "property": "P407",
+      "value": "Q9035"
+    },
+    {
+      "property": "P407",
+      "value": "Q9058"
+    },
+    {
+      "property": "P407",
+      "value": "Q1412"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P407",
+      "value": "Q9129"
+    },
+    {
+      "property": "P407",
+      "value": "Q9288"
+    },
+    {
+      "property": "P407",
+      "value": "Q9067"
+    },
+    {
+      "property": "P407",
+      "value": "Q9240"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P407",
+      "value": "Q7411"
+    },
+    {
+      "property": "P407",
+      "value": "Q750553"
+    },
+    {
+      "property": "P407",
+      "value": "Q5146"
+    },
+    {
+      "property": "P407",
+      "value": "Q7913"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q9056"
+    },
+    {
+      "property": "P407",
+      "value": "Q256"
+    },
+    {
+      "property": "P407",
+      "value": "Q8798"
+    },
+    {
+      "property": "P407",
+      "value": "Q9199"
+    },
+    {
+      "property": "P407",
+      "value": "Q13414913"
+    },
+    {
+      "property": "P407",
+      "value": "Q18130932"
+    },
+    {
+      "property": "P407",
+      "value": "Q9043"
+    },
+    {
+      "property": "P4342",
+      "value": "MacOS"
+    },
+    {
+      "property": "P4969",
+      "value": "Q48493"
+    },
+    {
+      "property": "P527",
+      "value": "Q1350156"
+    },
+    {
+      "property": "P527",
+      "value": "Q912481"
+    },
+    {
+      "property": "P527",
+      "value": "Q478451"
+    },
+    {
+      "property": "P527",
+      "value": "Q570216"
+    },
+    {
+      "property": "P527",
+      "value": "Q747434"
+    },
+    {
+      "property": "P527",
+      "value": "Q693478"
+    },
+    {
+      "property": "P527",
+      "value": "Q222996"
+    },
+    {
+      "property": "P527",
+      "value": "Q381215"
+    },
+    {
+      "property": "P527",
+      "value": "Q476915"
+    },
+    {
+      "property": "P527",
+      "value": "Q63734"
+    },
+    {
+      "property": "P527",
+      "value": "Q13426234"
+    },
+    {
+      "property": "P527",
+      "value": "Q17107792"
+    },
+    {
+      "property": "P527",
+      "value": "Q20056454"
+    },
+    {
+      "property": "P527",
+      "value": "Q22095865"
+    },
+    {
+      "property": "P527",
+      "value": "Q30134996"
+    },
+    {
+      "property": "P527",
+      "value": "Q54807273"
+    },
+    {
+      "property": "P527",
+      "value": "Q64351129"
+    },
+    {
+      "property": "P527",
+      "value": "Q96583789"
+    },
+    {
+      "property": "P527",
+      "value": "Q107140155"
+    },
+    {
+      "property": "P527",
+      "value": "Q112257668"
+    },
+    {
+      "property": "P527",
+      "value": "Q119104560"
+    },
+    {
+      "property": "P527",
+      "value": "Q126486559"
+    },
+    {
+      "property": "P5379",
+      "value": "1010"
+    },
+    {
+      "property": "P571",
+      "value": "+2001-03-24T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2001-03-24T00:00:00Z"
+    },
+    {
+      "property": "P5795",
+      "value": "mac"
+    },
+    {
+      "property": "P6009",
+      "value": "2637"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "gamicus:Mac_OS"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:MacOS"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:MacOS"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:MacOS"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Mac_OS_X"
+    },
+    {
+      "property": "P6262",
+      "value": "technologyinfo:MacOS"
+    },
+    {
+      "property": "P6363",
+      "value": "http://data.thenextweb.com/tnw/entity/macos"
+    },
+    {
+      "property": "P6366",
+      "value": "515153823"
+    },
+    {
+      "property": "P646",
+      "value": "/m/055yr"
+    },
+    {
+      "property": "P6900",
+      "value": "macos"
+    },
+    {
+      "property": "P691",
+      "value": "ph156625"
+    },
+    {
+      "property": "P7039",
+      "value": "000051989"
+    },
+    {
+      "property": "P737",
+      "value": "Q819563"
+    },
+    {
+      "property": "P737",
+      "value": "Q34264"
+    },
+    {
+      "property": "P737",
+      "value": "Q308993"
+    },
+    {
+      "property": "P737",
+      "value": "Q1193981"
+    },
+    {
+      "property": "P737",
+      "value": "Q388"
+    },
+    {
+      "property": "P737",
+      "value": "Q1355451"
+    },
+    {
+      "property": "P737",
+      "value": "Q34236"
+    },
+    {
+      "property": "P737",
+      "value": "Q34215"
+    },
+    {
+      "property": "P737",
+      "value": "Q14643"
+    },
+    {
+      "property": "P7502",
+      "value": "MacOS-33KK"
+    },
+    {
+      "property": "P7502",
+      "value": "MacOS"
+    },
+    {
+      "property": "P7556",
+      "value": "219"
+    },
+    {
+      "property": "P7623",
+      "value": "37"
+    },
+    {
+      "property": "P7699",
+      "value": "LNB:BgDD;=BH"
+    },
+    {
+      "property": "P7757",
+      "value": "146"
+    },
+    {
+      "property": "P7914",
+      "value": "160076"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf12078397"
+    },
+    {
+      "property": "P8189",
+      "value": "987007588651905171"
+    },
+    {
+      "property": "P8408",
+      "value": "MacOS"
+    },
+    {
+      "property": "P856",
+      "value": "https://apple.com/macos"
+    },
+    {
+      "property": "P856",
+      "value": "https://apple.com/uk/macos"
+    },
+    {
+      "property": "P856",
+      "value": "https://apple.com/tr/macos"
+    },
+    {
+      "property": "P856",
+      "value": "https://apple.com/cn/macos"
+    },
+    {
+      "property": "P856",
+      "value": "https://apple.com/ru/macos"
+    },
+    {
+      "property": "P8885",
+      "value": "macOS"
+    },
+    {
+      "property": "P9075",
+      "value": "Category:Mac_OS"
+    },
+    {
+      "property": "P9075",
+      "value": "Category:MacOS"
+    },
+    {
+      "property": "P910",
+      "value": "Q7464130"
+    },
+    {
+      "property": "P9100",
+      "value": "macos"
+    },
+    {
+      "property": "P9618",
+      "value": "mac-os"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.videogameschronicle.com/?post_type=platforms&p=419"
+    }
+  ]
+}

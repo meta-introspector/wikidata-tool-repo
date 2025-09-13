@@ -1,0 +1,82 @@
+{
+  "id": "Q93213277",
+  "label": "Fira",
+  "facts": [
+    {
+      "property": "P138",
+      "value": "Q3196"
+    },
+    {
+      "property": "P138",
+      "value": "Q550303"
+    },
+    {
+      "property": "P144",
+      "value": "Q368188"
+    },
+    {
+      "property": "P275",
+      "value": "Q1150837"
+    },
+    {
+      "property": "P279",
+      "value": "Q21777259"
+    },
+    {
+      "property": "P279",
+      "value": "Q864011"
+    },
+    {
+      "property": "P282",
+      "value": "Q1828555"
+    },
+    {
+      "property": "P282",
+      "value": "Q8229"
+    },
+    {
+      "property": "P31",
+      "value": "Q58481926"
+    },
+    {
+      "property": "P373",
+      "value": "Fira (typeface)"
+    },
+    {
+      "property": "P4969",
+      "value": "Q76421173"
+    },
+    {
+      "property": "P527",
+      "value": "Q15290851"
+    },
+    {
+      "property": "P527",
+      "value": "Q76421181"
+    },
+    {
+      "property": "P527",
+      "value": "Q76421173"
+    },
+    {
+      "property": "P571",
+      "value": "+2013-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0w505bq"
+    },
+    {
+      "property": "P856",
+      "value": "https://bboxtype.com/fira/"
+    },
+    {
+      "property": "P856",
+      "value": "https://mozilla.github.io/Fira/"
+    }
+  ]
+}

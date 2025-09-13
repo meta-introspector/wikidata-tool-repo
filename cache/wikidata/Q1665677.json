@@ -1,0 +1,34 @@
+{
+  "id": "Q1665677",
+  "label": "smart pointer",
+  "facts": [
+    {
+      "property": "P13397",
+      "value": "Smart+Pointers"
+    },
+    {
+      "property": "P279",
+      "value": "Q118155"
+    },
+    {
+      "property": "P31",
+      "value": "Q827335"
+    },
+    {
+      "property": "P3553",
+      "value": "19616318"
+    },
+    {
+      "property": "P366",
+      "value": "Q2308807"
+    },
+    {
+      "property": "P6366",
+      "value": "35299574"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01vcmh"
+    }
+  ]
+}

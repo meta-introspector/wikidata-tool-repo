@@ -1,0 +1,222 @@
+{
+  "id": "Q725779",
+  "label": "Plan 9",
+  "facts": [
+    {
+      "property": "P138",
+      "value": "Q217365"
+    },
+    {
+      "property": "P138",
+      "value": "Q257515"
+    },
+    {
+      "property": "P1414",
+      "value": "Q4645516"
+    },
+    {
+      "property": "P1414",
+      "value": "Q628802"
+    },
+    {
+      "property": "P154",
+      "value": "Spaceglenda.svg"
+    },
+    {
+      "property": "P155",
+      "value": "Q2666693"
+    },
+    {
+      "property": "P156",
+      "value": "Q908615"
+    },
+    {
+      "property": "P178",
+      "value": "Q217365"
+    },
+    {
+      "property": "P18",
+      "value": "Plan 9 Fourth Edition rio interaction screenshot.png"
+    },
+    {
+      "property": "P2078",
+      "value": "http://p9f.org/sys/man/"
+    },
+    {
+      "property": "P2078",
+      "value": "http://p9f.org/sys/doc/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://9p.io/wiki/plan9/plan_9_wiki/"
+    },
+    {
+      "property": "P2078",
+      "value": "http://doc.cat-v.org/plan_9/"
+    },
+    {
+      "property": "P227",
+      "value": "4551500-1"
+    },
+    {
+      "property": "P275",
+      "value": "Q6696468"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513450"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P279",
+      "value": "Q11368"
+    },
+    {
+      "property": "P31",
+      "value": "Q588145"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P348",
+      "value": "First Edition"
+    },
+    {
+      "property": "P348",
+      "value": "Second Edition"
+    },
+    {
+      "property": "P348",
+      "value": "Third Edition"
+    },
+    {
+      "property": "P348",
+      "value": "Fourth Edition"
+    },
+    {
+      "property": "P3587",
+      "value": "CVE-2007-1189"
+    },
+    {
+      "property": "P373",
+      "value": "Plan 9 from Bell Labs"
+    },
+    {
+      "property": "P3931",
+      "value": "Q217365"
+    },
+    {
+      "property": "P3931",
+      "value": "Q106151794"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P400",
+      "value": "Q527464"
+    },
+    {
+      "property": "P400",
+      "value": "Q858065"
+    },
+    {
+      "property": "P400",
+      "value": "Q209860"
+    },
+    {
+      "property": "P400",
+      "value": "Q273190"
+    },
+    {
+      "property": "P400",
+      "value": "Q29167149"
+    },
+    {
+      "property": "P400",
+      "value": "Q101508290"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P437",
+      "value": "Q54820071"
+    },
+    {
+      "property": "P4945",
+      "value": "https://plan9.io/plan9/download.html"
+    },
+    {
+      "property": "P4969",
+      "value": "Q4646465"
+    },
+    {
+      "property": "P4969",
+      "value": "Q4047022"
+    },
+    {
+      "property": "P4969",
+      "value": "Q908615"
+    },
+    {
+      "property": "P4969",
+      "value": "Q28465365"
+    },
+    {
+      "property": "P4969",
+      "value": "Q7200878"
+    },
+    {
+      "property": "P577",
+      "value": "+1992-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/061gq"
+    },
+    {
+      "property": "P6665",
+      "value": "8998"
+    },
+    {
+      "property": "P737",
+      "value": "Q11368"
+    },
+    {
+      "property": "P822",
+      "value": "Q78513964"
+    },
+    {
+      "property": "P856",
+      "value": "https://p9f.org"
+    },
+    {
+      "property": "P910",
+      "value": "Q8764879"
+    },
+    {
+      "property": "P941",
+      "value": "Q11368"
+    }
+  ]
+}

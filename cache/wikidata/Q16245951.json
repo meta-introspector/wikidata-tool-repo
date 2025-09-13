@@ -1,0 +1,38 @@
+{
+  "id": "Q16245951",
+  "label": "async/await",
+  "facts": [
+    {
+      "property": "P11144",
+      "value": "5643236399906816"
+    },
+    {
+      "property": "P13397",
+      "value": "async_await"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/async-await"
+    },
+    {
+      "property": "P31",
+      "value": "Q868299"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0ynxfls"
+    },
+    {
+      "property": "P8205",
+      "value": "Web/JavaScript/Reference/Statements/async_function"
+    },
+    {
+      "property": "P9100",
+      "value": "async-await"
+    },
+    {
+      "property": "P9151",
+      "value": "async-functions"
+    }
+  ]
+}

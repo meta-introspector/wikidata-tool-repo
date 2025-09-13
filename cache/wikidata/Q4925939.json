@@ -1,0 +1,62 @@
+{
+  "id": "Q4925939",
+  "label": "Bleeping Computer",
+  "facts": [
+    {
+      "property": "P13337",
+      "value": "bleepingcomputer.com"
+    },
+    {
+      "property": "P2002",
+      "value": "BleepinComputer"
+    },
+    {
+      "property": "P2013",
+      "value": "BleepingComputer"
+    },
+    {
+      "property": "P2561",
+      "value": "Bleeping Computer"
+    },
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P4033",
+      "value": "BleepingComputer@infosec.exchange"
+    },
+    {
+      "property": "P571",
+      "value": "+2004-01-26T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/080hl8_"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.bleepingcomputer.com"
+    },
+    {
+      "property": "P8687",
+      "value": "+79000"
+    },
+    {
+      "property": "P8687",
+      "value": "+32340"
+    },
+    {
+      "property": "P8687",
+      "value": "+128132"
+    },
+    {
+      "property": "P8687",
+      "value": "+175068"
+    },
+    {
+      "property": "P9852",
+      "value": "bleeping-computer-bias-rating"
+    }
+  ]
+}

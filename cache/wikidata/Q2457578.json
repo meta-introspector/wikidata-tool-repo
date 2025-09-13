@@ -1,0 +1,94 @@
+{
+  "id": "Q2457578",
+  "label": "ZDNET",
+  "facts": [
+    {
+      "property": "P11472",
+      "value": "zdnet"
+    },
+    {
+      "property": "P127",
+      "value": "Q7305191"
+    },
+    {
+      "property": "P12942",
+      "value": "2211"
+    },
+    {
+      "property": "P13337",
+      "value": "zdnet.com"
+    },
+    {
+      "property": "P1476",
+      "value": "ZDNET"
+    },
+    {
+      "property": "P154",
+      "value": "ZDNet logo 2022.svg"
+    },
+    {
+      "property": "P1661",
+      "value": "+3121"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P2002",
+      "value": "ZDNET"
+    },
+    {
+      "property": "P2002",
+      "value": "zdnetkorea"
+    },
+    {
+      "property": "P2088",
+      "value": "zdnet"
+    },
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P3417",
+      "value": "ZDNET"
+    },
+    {
+      "property": "P373",
+      "value": "ZDNet"
+    },
+    {
+      "property": "P571",
+      "value": "+1991-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6157",
+      "value": "CAAqIggKIhxDQklTRHdnTWFnc0tDWHBrYm1WMExtTnZiU2dBUAE"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02883b"
+    },
+    {
+      "property": "P856",
+      "value": "http://zdnet.com/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.zdnet.com/"
+    },
+    {
+      "property": "P921",
+      "value": "Q11016"
+    },
+    {
+      "property": "P9852",
+      "value": "zdnet"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Q5300179",
+  "label": "doubly linked list",
+  "facts": [
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/doubly-linked-list"
+    },
+    {
+      "property": "P31",
+      "value": "Q7003418"
+    },
+    {
+      "property": "P461",
+      "value": "Q9514201"
+    },
+    {
+      "property": "P5106",
+      "value": "doublyLinkedList"
+    },
+    {
+      "property": "P6366",
+      "value": "46678257"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05_5pd1"
+    }
+  ]
+}

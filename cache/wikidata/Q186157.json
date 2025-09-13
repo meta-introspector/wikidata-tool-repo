@@ -1,0 +1,82 @@
+{
+  "id": "Q186157",
+  "label": "filename extension",
+  "facts": [
+    {
+      "property": "P10476",
+      "value": "Q235557"
+    },
+    {
+      "property": "P11292",
+      "value": "suffixes.7"
+    },
+    {
+      "property": "P11514",
+      "value": "rasshirenie-imeni-faila-55c7f6"
+    },
+    {
+      "property": "P12086",
+      "value": "Bestandsextensie"
+    },
+    {
+      "property": "P1268",
+      "value": "Q235557"
+    },
+    {
+      "property": "P1687",
+      "value": "P1195"
+    },
+    {
+      "property": "P1889",
+      "value": "Q14296"
+    },
+    {
+      "property": "P279",
+      "value": "Q1773882"
+    },
+    {
+      "property": "P279",
+      "value": "Q2626534"
+    },
+    {
+      "property": "P279",
+      "value": "Q102047"
+    },
+    {
+      "property": "P361",
+      "value": "Q1144928"
+    },
+    {
+      "property": "P373",
+      "value": "Filename extensions"
+    },
+    {
+      "property": "P6366",
+      "value": "2780494125"
+    },
+    {
+      "property": "P646",
+      "value": "/m/012y_v"
+    },
+    {
+      "property": "P6760",
+      "value": "9408"
+    },
+    {
+      "property": "P8834",
+      "value": "filenameExtension"
+    },
+    {
+      "property": "P910",
+      "value": "Q7345953"
+    },
+    {
+      "property": "P913",
+      "value": "Q172008"
+    },
+    {
+      "property": "P9775",
+      "value": "estensione"
+    }
+  ]
+}

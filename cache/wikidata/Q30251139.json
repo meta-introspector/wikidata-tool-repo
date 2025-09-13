@@ -1,0 +1,74 @@
+{
+  "id": "Q30251139",
+  "label": "Language Server Protocol",
+  "facts": [
+    {
+      "property": "P12873",
+      "value": "Language_Server_Protocol"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/microsoft/language-server-protocol"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/microsoft/language-server-protocol/issues"
+    },
+    {
+      "property": "P178",
+      "value": "Q2283"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1164443"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11dxb3td2h"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P275",
+      "value": "Q18810143"
+    },
+    {
+      "property": "P31",
+      "value": "Q132364"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.15.0"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P856",
+      "value": "https://microsoft.github.io/language-server-protocol/"
+    }
+  ]
+}

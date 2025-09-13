@@ -1,0 +1,26 @@
+{
+  "id": "Q5532672",
+  "label": "generic function",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P361",
+      "value": "Q80006"
+    },
+    {
+      "property": "P6366",
+      "value": "2778914073"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01b5kc"
+    },
+    {
+      "property": "P6611",
+      "value": "238399"
+    }
+  ]
+}

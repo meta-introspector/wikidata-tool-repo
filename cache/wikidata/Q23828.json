@@ -1,0 +1,34 @@
+{
+  "id": "Q23828",
+  "label": "immutable object",
+  "facts": [
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/immutability"
+    },
+    {
+      "property": "P1552",
+      "value": "Q55111809"
+    },
+    {
+      "property": "P2581",
+      "value": "01246547n"
+    },
+    {
+      "property": "P279",
+      "value": "Q216601"
+    },
+    {
+      "property": "P461",
+      "value": "Q55111726"
+    },
+    {
+      "property": "P6366",
+      "value": "2780492165"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01c385"
+    }
+  ]
+}

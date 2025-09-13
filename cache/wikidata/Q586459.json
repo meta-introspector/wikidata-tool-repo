@@ -1,0 +1,46 @@
+{
+  "id": "Q586459",
+  "label": "inference typing",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C198370458"
+    },
+    {
+      "property": "P1813",
+      "value": "inference"
+    },
+    {
+      "property": "P1813",
+      "value": "inferens"
+    },
+    {
+      "property": "P1813",
+      "value": "inferenca"
+    },
+    {
+      "property": "P279",
+      "value": "Q865760"
+    },
+    {
+      "property": "P3417",
+      "value": "Type-Inference"
+    },
+    {
+      "property": "P461",
+      "value": "Q17123089"
+    },
+    {
+      "property": "P6366",
+      "value": "198370458"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01pn2b"
+    },
+    {
+      "property": "P910",
+      "value": "Q8877938"
+    }
+  ]
+}

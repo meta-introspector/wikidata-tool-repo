@@ -1,0 +1,166 @@
+{
+  "id": "Q64829394",
+  "label": "Firefox Lockwise",
+  "facts": [
+    {
+      "property": "P1401",
+      "value": "https://bugzilla.mozilla.org/home"
+    },
+    {
+      "property": "P1451",
+      "value": "Take your passwords everywhere."
+    },
+    {
+      "property": "P1451",
+      "value": "Hab deine Passwörter immer parat"
+    },
+    {
+      "property": "P1451",
+      "value": "Vezměte si svá hesla všude s sebou"
+    },
+    {
+      "property": "P154",
+      "value": "Firefox Lockwise Logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P2037",
+      "value": "mozilla-lockwise"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11hz07hz8g"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q3816639"
+    },
+    {
+      "property": "P277",
+      "value": "Q17118377"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q48493"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q1281199"
+    },
+    {
+      "property": "P31",
+      "value": "Q620615"
+    },
+    {
+      "property": "P3418",
+      "value": "mozilla.lockbox"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.8.1"
+    },
+    {
+      "property": "P3575",
+      "value": "+35"
+    },
+    {
+      "property": "P3575",
+      "value": "+63.2"
+    },
+    {
+      "property": "P3861",
+      "value": "1314000270"
+    },
+    {
+      "property": "P400",
+      "value": "Q94"
+    },
+    {
+      "property": "P400",
+      "value": "Q698"
+    },
+    {
+      "property": "P400",
+      "value": "Q48493"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P407",
+      "value": "Q188"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P437",
+      "value": "Q54820071"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P7101",
+      "value": "https://support.mozilla.org/kb/firefox-lockwise-and-privacy"
+    },
+    {
+      "property": "P7429",
+      "value": "org.mozilla.ios.Lockbox"
+    },
+    {
+      "property": "P750",
+      "value": "Q79576"
+    },
+    {
+      "property": "P750",
+      "value": "Q368215"
+    },
+    {
+      "property": "P856",
+      "value": "https://lockwise.firefox.com/"
+    },
+    {
+      "property": "P9214",
+      "value": "https://support.mozilla.org/en-US/products/firefox-lockwise"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:lockwise-contact@mozilla.com"
+    }
+  ]
+}

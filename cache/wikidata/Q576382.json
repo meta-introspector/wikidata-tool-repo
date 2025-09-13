@@ -1,0 +1,26 @@
+{
+  "id": "Q576382",
+  "label": "xB Browser",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P600",
+      "value": "7276"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0c3v4x"
+    },
+    {
+      "property": "P856",
+      "value": "http://xerobank.com/"
+    }
+  ]
+}

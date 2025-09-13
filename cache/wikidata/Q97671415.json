@@ -1,0 +1,182 @@
+{
+  "id": "Q97671415",
+  "label": "Ruffle",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q594447"
+    },
+    {
+      "property": "P11201",
+      "value": "https://ruffle.rs/demo/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/ruffle-rs/ruffle"
+    },
+    {
+      "property": "P154",
+      "value": "Ruffle vector logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Ruffle R logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q122229781"
+    },
+    {
+      "property": "P178",
+      "value": "Q122229873"
+    },
+    {
+      "property": "P178",
+      "value": "Q28153404"
+    },
+    {
+      "property": "P18",
+      "value": "Ruffle.rs demo (1).png"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11k60t6_n0"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P277",
+      "value": "Q234657"
+    },
+    {
+      "property": "P277",
+      "value": "Q978185"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q874411"
+    },
+    {
+      "property": "P31",
+      "value": "Q202871"
+    },
+    {
+      "property": "P3597",
+      "value": "rs.ruffle"
+    },
+    {
+      "property": "P373",
+      "value": "Ruffle (software)"
+    },
+    {
+      "property": "P400",
+      "value": "Q6368"
+    },
+    {
+      "property": "P400",
+      "value": "Q94"
+    },
+    {
+      "property": "P400",
+      "value": "Q1406"
+    },
+    {
+      "property": "P400",
+      "value": "Q388"
+    },
+    {
+      "property": "P400",
+      "value": "Q14116"
+    },
+    {
+      "property": "P4043",
+      "value": "Q165658"
+    },
+    {
+      "property": "P437",
+      "value": "Q54820071"
+    },
+    {
+      "property": "P479",
+      "value": "Q165970"
+    },
+    {
+      "property": "P479",
+      "value": "Q250"
+    },
+    {
+      "property": "P479",
+      "value": "Q7987"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P750",
+      "value": "Q1386210"
+    },
+    {
+      "property": "P750",
+      "value": "Q1211075"
+    },
+    {
+      "property": "P750",
+      "value": "Q604841"
+    },
+    {
+      "property": "P750",
+      "value": "Q135288"
+    },
+    {
+      "property": "P856",
+      "value": "https://ruffle.rs/"
+    },
+    {
+      "property": "P8885",
+      "value": "Ruffle"
+    },
+    {
+      "property": "P9345",
+      "value": "610531541889581066"
+    },
+    {
+      "property": "P9618",
+      "value": "ruffle"
+    }
+  ]
+}

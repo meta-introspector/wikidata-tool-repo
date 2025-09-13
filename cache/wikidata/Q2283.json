@@ -1,0 +1,2502 @@
+{
+  "id": "Q2283",
+  "label": "Microsoft",
+  "facts": [
+    {
+      "property": "P1005",
+      "value": "135822"
+    },
+    {
+      "property": "P10146",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P1015",
+      "value": "90182985"
+    },
+    {
+      "property": "P10206",
+      "value": "microsoft"
+    },
+    {
+      "property": "P10283",
+      "value": "I1290206253"
+    },
+    {
+      "property": "P10285",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P10311",
+      "value": "https://careers.microsoft.com/us/en"
+    },
+    {
+      "property": "P10499",
+      "value": "microsoft"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1406"
+    },
+    {
+      "property": "P1056",
+      "value": "Q11255"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1071340"
+    },
+    {
+      "property": "P1056",
+      "value": "Q40984"
+    },
+    {
+      "property": "P1056",
+      "value": "Q725967"
+    },
+    {
+      "property": "P1056",
+      "value": "Q856705"
+    },
+    {
+      "property": "P1056",
+      "value": "Q134067"
+    },
+    {
+      "property": "P1056",
+      "value": "Q15281614"
+    },
+    {
+      "property": "P1056",
+      "value": "Q471806"
+    },
+    {
+      "property": "P1056",
+      "value": "Q16538568"
+    },
+    {
+      "property": "P1056",
+      "value": "Q182496"
+    },
+    {
+      "property": "P1056",
+      "value": "Q3966"
+    },
+    {
+      "property": "P1056",
+      "value": "Q132020"
+    },
+    {
+      "property": "P1056",
+      "value": "Q7397"
+    },
+    {
+      "property": "P10768",
+      "value": "+44"
+    },
+    {
+      "property": "P10780",
+      "value": "microsoft"
+    },
+    {
+      "property": "P10854",
+      "value": "322"
+    },
+    {
+      "property": "P11129",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P11136",
+      "value": "https://msft.it/$1"
+    },
+    {
+      "property": "P11137",
+      "value": "microsoft"
+    },
+    {
+      "property": "P112",
+      "value": "Q5284"
+    },
+    {
+      "property": "P112",
+      "value": "Q162005"
+    },
+    {
+      "property": "P11266",
+      "value": "https://support.microsoft.com/en-us/contactus"
+    },
+    {
+      "property": "P1128",
+      "value": "+221000"
+    },
+    {
+      "property": "P1128",
+      "value": "+114000"
+    },
+    {
+      "property": "P1128",
+      "value": "+120849"
+    },
+    {
+      "property": "P1128",
+      "value": "+131300"
+    },
+    {
+      "property": "P1128",
+      "value": "+140768"
+    },
+    {
+      "property": "P1128",
+      "value": "+144000"
+    },
+    {
+      "property": "P1128",
+      "value": "+118000"
+    },
+    {
+      "property": "P1128",
+      "value": "+124000"
+    },
+    {
+      "property": "P1128",
+      "value": "+163000"
+    },
+    {
+      "property": "P1128",
+      "value": "+181000"
+    },
+    {
+      "property": "P1128",
+      "value": "+228000"
+    },
+    {
+      "property": "P11408",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P11471",
+      "value": "7354"
+    },
+    {
+      "property": "P11496",
+      "value": "1140000791574888960"
+    },
+    {
+      "property": "P1151",
+      "value": "Q7851739"
+    },
+    {
+      "property": "P11514",
+      "value": "microsoft-d51ded"
+    },
+    {
+      "property": "P1155",
+      "value": "60026532"
+    },
+    {
+      "property": "P1167",
+      "value": "045e"
+    },
+    {
+      "property": "P11686",
+      "value": "981058512489506706"
+    },
+    {
+      "property": "P11689",
+      "value": "13596"
+    },
+    {
+      "property": "P11792",
+      "value": "microsoft"
+    },
+    {
+      "property": "P11793",
+      "value": "microsoft"
+    },
+    {
+      "property": "P11947",
+      "value": "microsoft@lemdro.id"
+    },
+    {
+      "property": "P11961",
+      "value": "12331530069074480064"
+    },
+    {
+      "property": "P1207",
+      "value": "n97048261"
+    },
+    {
+      "property": "P12086",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P121",
+      "value": "Q364"
+    },
+    {
+      "property": "P12361",
+      "value": "microsoft.com"
+    },
+    {
+      "property": "P12385",
+      "value": "microsoft"
+    },
+    {
+      "property": "P12412",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P1245",
+      "value": "691844"
+    },
+    {
+      "property": "P12508",
+      "value": "139/MSF"
+    },
+    {
+      "property": "P12521",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P12542",
+      "value": "0029VaHChUt96H4JTM53W42p"
+    },
+    {
+      "property": "P12590",
+      "value": "General:Microsoft"
+    },
+    {
+      "property": "P12597",
+      "value": "12379"
+    },
+    {
+      "property": "P127",
+      "value": "Q219635"
+    },
+    {
+      "property": "P127",
+      "value": "Q5284"
+    },
+    {
+      "property": "P127",
+      "value": "Q849363"
+    },
+    {
+      "property": "P127",
+      "value": "Q505275"
+    },
+    {
+      "property": "P127",
+      "value": "Q2037125"
+    },
+    {
+      "property": "P127",
+      "value": "Q849363"
+    },
+    {
+      "property": "P127",
+      "value": "Q219635"
+    },
+    {
+      "property": "P127",
+      "value": "Q181162"
+    },
+    {
+      "property": "P127",
+      "value": "Q5284"
+    },
+    {
+      "property": "P127",
+      "value": "Q849363"
+    },
+    {
+      "property": "P127",
+      "value": "Q219635"
+    },
+    {
+      "property": "P1273",
+      "value": "a11919863"
+    },
+    {
+      "property": "P1278",
+      "value": "INR2EJN1ERAN0W5ZP974"
+    },
+    {
+      "property": "P12800",
+      "value": "en:Microsoft"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Microsoft"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Microsoft"
+    },
+    {
+      "property": "P1296",
+      "value": "0244351"
+    },
+    {
+      "property": "P1297",
+      "value": "91-1144442"
+    },
+    {
+      "property": "P13016",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P13092",
+      "value": "K000228561"
+    },
+    {
+      "property": "P13113",
+      "value": "microsoft"
+    },
+    {
+      "property": "P13135",
+      "value": "microsoft"
+    },
+    {
+      "property": "P1315",
+      "value": "1149675"
+    },
+    {
+      "property": "P1320",
+      "value": "us_wa/600413485"
+    },
+    {
+      "property": "P1329",
+      "value": "+1-425-882-8080"
+    },
+    {
+      "property": "P1329",
+      "value": "+49-1806-672255"
+    },
+    {
+      "property": "P13337",
+      "value": "microsoft.com"
+    },
+    {
+      "property": "P13337",
+      "value": "live.com"
+    },
+    {
+      "property": "P13401",
+      "value": "organization/microsoft"
+    },
+    {
+      "property": "P1343",
+      "value": "Q17311605"
+    },
+    {
+      "property": "P1343",
+      "value": "Q17290934"
+    },
+    {
+      "property": "P13561",
+      "value": "81329"
+    },
+    {
+      "property": "P13561",
+      "value": "81348"
+    },
+    {
+      "property": "P13572",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P13591",
+      "value": "group/aae6c561-6b10-4840-a065-706c0124bce4"
+    },
+    {
+      "property": "P13601",
+      "value": "311"
+    },
+    {
+      "property": "P1368",
+      "value": "000083581"
+    },
+    {
+      "property": "P13695",
+      "value": "pr"
+    },
+    {
+      "property": "P13695",
+      "value": "13d"
+    },
+    {
+      "property": "P13695",
+      "value": "13d"
+    },
+    {
+      "property": "P13738",
+      "value": "1414"
+    },
+    {
+      "property": "P13746",
+      "value": "MSFT"
+    },
+    {
+      "property": "P1375",
+      "value": "000351632"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Microsoft-Corporation"
+    },
+    {
+      "property": "P1424",
+      "value": "Q6149685"
+    },
+    {
+      "property": "P1448",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "property": "P1454",
+      "value": "Q98927546"
+    },
+    {
+      "property": "P1472",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P154",
+      "value": "Microsoft logo (2012).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Microsoft logo (1987).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Microsoft logo (1982).svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blogs.microsoft.com/"
+    },
+    {
+      "property": "P159",
+      "value": "Q223718"
+    },
+    {
+      "property": "P166",
+      "value": "Q110530811"
+    },
+    {
+      "property": "P166",
+      "value": "Q110530811"
+    },
+    {
+      "property": "P169",
+      "value": "Q181162"
+    },
+    {
+      "property": "P169",
+      "value": "Q7426870"
+    },
+    {
+      "property": "P169",
+      "value": "Q5284"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P18",
+      "value": "Building92microsoft.jpg"
+    },
+    {
+      "property": "P1830",
+      "value": "Q958338"
+    },
+    {
+      "property": "P1830",
+      "value": "Q978096"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1062711"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1065154"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1129295"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1146863"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1156115"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1358859"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2045936"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2118736"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2300682"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2499854"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2547997"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2611367"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2660350"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2878637"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2889043"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2894122"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3049573"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3073996"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3835206"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3835210"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3857021"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3903488"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4044236"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4048220"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4673224"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4914134"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4914149"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4914152"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4922077"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5072376"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5287259"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5582926"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6715783"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6717831"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6717838"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6717849"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6784797"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6840240"
+    },
+    {
+      "property": "P1830",
+      "value": "Q7663628"
+    },
+    {
+      "property": "P1830",
+      "value": "Q8043371"
+    },
+    {
+      "property": "P1830",
+      "value": "Q9303048"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15281614"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15897235"
+    },
+    {
+      "property": "P1830",
+      "value": "Q16967691"
+    },
+    {
+      "property": "P1830",
+      "value": "Q18199129"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20571273"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20712437"
+    },
+    {
+      "property": "P1830",
+      "value": "Q21490961"
+    },
+    {
+      "property": "P1830",
+      "value": "Q21515527"
+    },
+    {
+      "property": "P1830",
+      "value": "Q24063850"
+    },
+    {
+      "property": "P1830",
+      "value": "Q28136779"
+    },
+    {
+      "property": "P1830",
+      "value": "Q31327320"
+    },
+    {
+      "property": "P1830",
+      "value": "Q48817502"
+    },
+    {
+      "property": "P1830",
+      "value": "Q56348898"
+    },
+    {
+      "property": "P1830",
+      "value": "Q364"
+    },
+    {
+      "property": "P1830",
+      "value": "Q73801"
+    },
+    {
+      "property": "P1830",
+      "value": "Q130729"
+    },
+    {
+      "property": "P1830",
+      "value": "Q131910"
+    },
+    {
+      "property": "P1830",
+      "value": "Q182496"
+    },
+    {
+      "property": "P1830",
+      "value": "Q192527"
+    },
+    {
+      "property": "P1830",
+      "value": "Q192845"
+    },
+    {
+      "property": "P1830",
+      "value": "Q213660"
+    },
+    {
+      "property": "P1830",
+      "value": "Q219136"
+    },
+    {
+      "property": "P1830",
+      "value": "Q224599"
+    },
+    {
+      "property": "P1830",
+      "value": "Q240638"
+    },
+    {
+      "property": "P1830",
+      "value": "Q246125"
+    },
+    {
+      "property": "P1830",
+      "value": "Q246157"
+    },
+    {
+      "property": "P1830",
+      "value": "Q308913"
+    },
+    {
+      "property": "P1830",
+      "value": "Q332268"
+    },
+    {
+      "property": "P1830",
+      "value": "Q522563"
+    },
+    {
+      "property": "P1830",
+      "value": "Q641542"
+    },
+    {
+      "property": "P1830",
+      "value": "Q658148"
+    },
+    {
+      "property": "P1830",
+      "value": "Q835847"
+    },
+    {
+      "property": "P1830",
+      "value": "Q841814"
+    },
+    {
+      "property": "P1830",
+      "value": "Q848985"
+    },
+    {
+      "property": "P1830",
+      "value": "Q863756"
+    },
+    {
+      "property": "P1830",
+      "value": "Q864889"
+    },
+    {
+      "property": "P1830",
+      "value": "Q876646"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3400976"
+    },
+    {
+      "property": "P1830",
+      "value": "Q123485668"
+    },
+    {
+      "property": "P1830",
+      "value": "Q124993733"
+    },
+    {
+      "property": "P1889",
+      "value": "Q124993733"
+    },
+    {
+      "property": "P199",
+      "value": "Q1144725"
+    },
+    {
+      "property": "P199",
+      "value": "Q15378694"
+    },
+    {
+      "property": "P199",
+      "value": "Q2107343"
+    },
+    {
+      "property": "P199",
+      "value": "Q117536672"
+    },
+    {
+      "property": "P2002",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P2002",
+      "value": "MicrosoftUK"
+    },
+    {
+      "property": "P2002",
+      "value": "MicrosoftHelps"
+    },
+    {
+      "property": "P2002",
+      "value": "MSFTIssues"
+    },
+    {
+      "property": "P2002",
+      "value": "MSFTMechanics"
+    },
+    {
+      "property": "P2002",
+      "value": "msftsecresponse"
+    },
+    {
+      "property": "P2002",
+      "value": "msftsecurity"
+    },
+    {
+      "property": "P2002",
+      "value": "msuspartner"
+    },
+    {
+      "property": "P2002",
+      "value": "mslearningcurve"
+    },
+    {
+      "property": "P2002",
+      "value": "MSFTnews"
+    },
+    {
+      "property": "P2002",
+      "value": "MicrosoftDE"
+    },
+    {
+      "property": "P2002",
+      "value": "OpenAtMicrosoft"
+    },
+    {
+      "property": "P2003",
+      "value": "microsoft"
+    },
+    {
+      "property": "P2003",
+      "value": "microsoftdeutschland"
+    },
+    {
+      "property": "P2011",
+      "value": "68739191"
+    },
+    {
+      "property": "P2013",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P2013",
+      "value": "MicrosoftDE"
+    },
+    {
+      "property": "P2037",
+      "value": "microsoft"
+    },
+    {
+      "property": "P2037",
+      "value": "microsoftarchive"
+    },
+    {
+      "property": "P2037",
+      "value": "Microsoft-corp"
+    },
+    {
+      "property": "P2088",
+      "value": "microsoft"
+    },
+    {
+      "property": "P2088",
+      "value": "microsoft-dynamics"
+    },
+    {
+      "property": "P213",
+      "value": "0000000121813404"
+    },
+    {
+      "property": "P2137",
+      "value": "+102330000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+82718000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+118304000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+141988000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+166542000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+206223000000"
+    },
+    {
+      "property": "P2137",
+      "value": "+268500000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+93580000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+86833000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+77849000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+73723000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+69943000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+85320000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+89950000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+110360000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+125843000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+143015000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+168088000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+198270000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+60420000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+58437000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+62484000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+211915000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+245122000000"
+    },
+    {
+      "property": "P2139",
+      "value": "+281724000000"
+    },
+    {
+      "property": "P214",
+      "value": "148809628"
+    },
+    {
+      "property": "P2184",
+      "value": "Q3273141"
+    },
+    {
+      "property": "P2226",
+      "value": "+407000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+1780000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+2140000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+2270000000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+3162000000000"
+    },
+    {
+      "property": "P227",
+      "value": "5003949-0"
+    },
+    {
+      "property": "P227",
+      "value": "16293934-6"
+    },
+    {
+      "property": "P2295",
+      "value": "+16798000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+12193000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+25489000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+16571000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+39240000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+44281000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+61271000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+17681000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+18760000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+23150000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+16978000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+21863000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+22074000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+72738000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+14569000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+72361000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+88136000000"
+    },
+    {
+      "property": "P2295",
+      "value": "+101832000000"
+    },
+    {
+      "property": "P2397",
+      "value": "UCFtEEv80fQVKkD4h1PF-Xqw"
+    },
+    {
+      "property": "P2403",
+      "value": "+193694000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+176223000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+258848000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+250312000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+286556000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+301311000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+333779000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+411976000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+364840000000"
+    },
+    {
+      "property": "P2403",
+      "value": "+512100000000"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.419815.0"
+    },
+    {
+      "property": "P244",
+      "value": "n86810571"
+    },
+    {
+      "property": "P245",
+      "value": "500333090"
+    },
+    {
+      "property": "P2541",
+      "value": "Q13780930"
+    },
+    {
+      "property": "P2581",
+      "value": "01165400n"
+    },
+    {
+      "property": "P2612",
+      "value": "microsoft"
+    },
+    {
+      "property": "P2627",
+      "value": "MSFTUS66XXX"
+    },
+    {
+      "property": "P2627",
+      "value": "MSFTUSA1XXX"
+    },
+    {
+      "property": "P2652",
+      "value": "Q30689090"
+    },
+    {
+      "property": "P2657",
+      "value": "0801162959-21"
+    },
+    {
+      "property": "P268",
+      "value": "120673486"
+    },
+    {
+      "property": "P269",
+      "value": "030109434"
+    },
+    {
+      "property": "P270",
+      "value": "n2021026484"
+    },
+    {
+      "property": "P271",
+      "value": "DA04359585"
+    },
+    {
+      "property": "P2740",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P2924",
+      "value": "2164159"
+    },
+    {
+      "property": "P2959",
+      "value": "Q22828824"
+    },
+    {
+      "property": "P3065",
+      "value": "A003592805"
+    },
+    {
+      "property": "P31",
+      "value": "Q1058914"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q18388277"
+    },
+    {
+      "property": "P31",
+      "value": "Q891723"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P3106",
+      "value": "technology/microsoft"
+    },
+    {
+      "property": "P3153",
+      "value": "100004318"
+    },
+    {
+      "property": "P3221",
+      "value": "company/microsoft-corporation"
+    },
+    {
+      "property": "P3222",
+      "value": "microsoft-corporation"
+    },
+    {
+      "property": "P3225",
+      "value": "8700150090374"
+    },
+    {
+      "property": "P3320",
+      "value": "Q211098"
+    },
+    {
+      "property": "P3320",
+      "value": "Q5284"
+    },
+    {
+      "property": "P3320",
+      "value": "Q80049510"
+    },
+    {
+      "property": "P3320",
+      "value": "Q80050392"
+    },
+    {
+      "property": "P3320",
+      "value": "Q7426870"
+    },
+    {
+      "property": "P3320",
+      "value": "Q293365"
+    },
+    {
+      "property": "P3320",
+      "value": "Q18386868"
+    },
+    {
+      "property": "P3320",
+      "value": "Q4794669"
+    },
+    {
+      "property": "P3320",
+      "value": "Q6262563"
+    },
+    {
+      "property": "P3320",
+      "value": "Q3443484"
+    },
+    {
+      "property": "P3320",
+      "value": "Q27058352"
+    },
+    {
+      "property": "P3320",
+      "value": "Q55173"
+    },
+    {
+      "property": "P3320",
+      "value": "Q5081279"
+    },
+    {
+      "property": "P3320",
+      "value": "Q75724"
+    },
+    {
+      "property": "P3320",
+      "value": "Q20984972"
+    },
+    {
+      "property": "P3320",
+      "value": "Q18748951"
+    },
+    {
+      "property": "P3320",
+      "value": "Q107352040"
+    },
+    {
+      "property": "P3320",
+      "value": "Q107750634"
+    },
+    {
+      "property": "P3347",
+      "value": "4295907168"
+    },
+    {
+      "property": "P3348",
+      "value": "44026"
+    },
+    {
+      "property": "P3362",
+      "value": "+24098000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+20182000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+29025000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+35058000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+42959000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+52959000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+69916000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+22271000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+20363000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+27161000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+21763000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+26764000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+27759000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+18161000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+83383000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+88523000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+109433000000"
+    },
+    {
+      "property": "P3362",
+      "value": "+128528000000"
+    },
+    {
+      "property": "P3365",
+      "value": "microsoft"
+    },
+    {
+      "property": "P3393",
+      "value": "44"
+    },
+    {
+      "property": "P3417",
+      "value": "Microsoft-company-1"
+    },
+    {
+      "property": "P349",
+      "value": "00322150"
+    },
+    {
+      "property": "P3500",
+      "value": "6834"
+    },
+    {
+      "property": "P3509",
+      "value": "microsoft"
+    },
+    {
+      "property": "P355",
+      "value": "Q73801"
+    },
+    {
+      "property": "P355",
+      "value": "Q2277744"
+    },
+    {
+      "property": "P355",
+      "value": "Q6840080"
+    },
+    {
+      "property": "P355",
+      "value": "Q6840142"
+    },
+    {
+      "property": "P355",
+      "value": "Q765389"
+    },
+    {
+      "property": "P355",
+      "value": "Q16538568"
+    },
+    {
+      "property": "P355",
+      "value": "Q6840192"
+    },
+    {
+      "property": "P355",
+      "value": "Q642707"
+    },
+    {
+      "property": "P355",
+      "value": "Q308913"
+    },
+    {
+      "property": "P355",
+      "value": "Q1688786"
+    },
+    {
+      "property": "P355",
+      "value": "Q7246643"
+    },
+    {
+      "property": "P355",
+      "value": "Q5215986"
+    },
+    {
+      "property": "P355",
+      "value": "Q3899649"
+    },
+    {
+      "property": "P355",
+      "value": "Q5602200"
+    },
+    {
+      "property": "P355",
+      "value": "Q6840202"
+    },
+    {
+      "property": "P355",
+      "value": "Q649655"
+    },
+    {
+      "property": "P355",
+      "value": "Q6784797"
+    },
+    {
+      "property": "P355",
+      "value": "Q6176911"
+    },
+    {
+      "property": "P355",
+      "value": "Q224599"
+    },
+    {
+      "property": "P355",
+      "value": "Q7697636"
+    },
+    {
+      "property": "P355",
+      "value": "Q7936108"
+    },
+    {
+      "property": "P355",
+      "value": "Q296372"
+    },
+    {
+      "property": "P355",
+      "value": "Q130729"
+    },
+    {
+      "property": "P355",
+      "value": "Q572502"
+    },
+    {
+      "property": "P355",
+      "value": "Q835847"
+    },
+    {
+      "property": "P355",
+      "value": "Q3421389"
+    },
+    {
+      "property": "P355",
+      "value": "Q5204335"
+    },
+    {
+      "property": "P355",
+      "value": "Q3857016"
+    },
+    {
+      "property": "P355",
+      "value": "Q12238437"
+    },
+    {
+      "property": "P355",
+      "value": "Q28973181"
+    },
+    {
+      "property": "P355",
+      "value": "Q28973183"
+    },
+    {
+      "property": "P355",
+      "value": "Q28973185"
+    },
+    {
+      "property": "P355",
+      "value": "Q31327320"
+    },
+    {
+      "property": "P355",
+      "value": "Q20081886"
+    },
+    {
+      "property": "P355",
+      "value": "Q127278673"
+    },
+    {
+      "property": "P355",
+      "value": "Q30273752"
+    },
+    {
+      "property": "P355",
+      "value": "Q2660350"
+    },
+    {
+      "property": "P355",
+      "value": "Q80054718"
+    },
+    {
+      "property": "P355",
+      "value": "Q80054807"
+    },
+    {
+      "property": "P355",
+      "value": "Q80055035"
+    },
+    {
+      "property": "P355",
+      "value": "Q80055169"
+    },
+    {
+      "property": "P355",
+      "value": "Q80055510"
+    },
+    {
+      "property": "P355",
+      "value": "Q80055723"
+    },
+    {
+      "property": "P355",
+      "value": "Q80056039"
+    },
+    {
+      "property": "P355",
+      "value": "Q66741799"
+    },
+    {
+      "property": "P355",
+      "value": "Q246125"
+    },
+    {
+      "property": "P355",
+      "value": "Q6840157"
+    },
+    {
+      "property": "P355",
+      "value": "Q94781916"
+    },
+    {
+      "property": "P355",
+      "value": "Q98785815"
+    },
+    {
+      "property": "P355",
+      "value": "Q189557"
+    },
+    {
+      "property": "P355",
+      "value": "Q103528505"
+    },
+    {
+      "property": "P355",
+      "value": "Q103528991"
+    },
+    {
+      "property": "P355",
+      "value": "Q364"
+    },
+    {
+      "property": "P355",
+      "value": "Q111431417"
+    },
+    {
+      "property": "P355",
+      "value": "Q114561988"
+    },
+    {
+      "property": "P355",
+      "value": "Q1137289"
+    },
+    {
+      "property": "P355",
+      "value": "Q344341"
+    },
+    {
+      "property": "P355",
+      "value": "Q112660923"
+    },
+    {
+      "property": "P3579",
+      "value": "msftchina"
+    },
+    {
+      "property": "P361",
+      "value": "Q507306"
+    },
+    {
+      "property": "P361",
+      "value": "Q180816"
+    },
+    {
+      "property": "P361",
+      "value": "Q30748112"
+    },
+    {
+      "property": "P361",
+      "value": "Q242345"
+    },
+    {
+      "property": "P361",
+      "value": "Q773026"
+    },
+    {
+      "property": "P361",
+      "value": "Q133989581"
+    },
+    {
+      "property": "P361",
+      "value": "Q134661623"
+    },
+    {
+      "property": "P361",
+      "value": "Q1546793"
+    },
+    {
+      "property": "P3630",
+      "value": "99078"
+    },
+    {
+      "property": "P3721",
+      "value": "9A04 E819 0A5F 6502 1090 2D6E 03CC 7E21 D9AE 9F02"
+    },
+    {
+      "property": "P3721",
+      "value": "A771 72CD C2F5 173E E927 7358 FB02 5F08 B5E1 6ABC"
+    },
+    {
+      "property": "P3721",
+      "value": "3EE1 4A70 666B 335C 389B 4260 E142 F56D 0B02 12D8"
+    },
+    {
+      "property": "P3721",
+      "value": "998D 7EC1 A516 E3D1 7FF9 0480 EF14 8D3C DE71 4E0D"
+    },
+    {
+      "property": "P3721",
+      "value": "9CB2 E4CA 21D6 BE7F 2492 643C 9B11 7025 DE05 46F9"
+    },
+    {
+      "property": "P3721",
+      "value": "996C E103 C899 C36C DD36 343A 3B2F 3EFD 405D B2D9"
+    },
+    {
+      "property": "P3721",
+      "value": "BC52 8686 B50D 79E3 39D3 721C EB3E 94AD BE12 29CF"
+    },
+    {
+      "property": "P373",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.4.1.311"
+    },
+    {
+      "property": "P3743",
+      "value": "1.2.840.113556"
+    },
+    {
+      "property": "P3761",
+      "value": "52.96.0.0/12"
+    },
+    {
+      "property": "P3761",
+      "value": "52.112.0.0/14"
+    },
+    {
+      "property": "P3761",
+      "value": "20.160.0.0/12"
+    },
+    {
+      "property": "P3761",
+      "value": "52.130.0.0/15"
+    },
+    {
+      "property": "P3761",
+      "value": "52.132.0.0/14"
+    },
+    {
+      "property": "P3761",
+      "value": "52.136.0.0/13"
+    },
+    {
+      "property": "P3761",
+      "value": "20.180.0.0/14"
+    },
+    {
+      "property": "P3761",
+      "value": "20.184.0.0/13"
+    },
+    {
+      "property": "P3762",
+      "value": "159320"
+    },
+    {
+      "property": "P3797",
+      "value": "12076"
+    },
+    {
+      "property": "P3797",
+      "value": "8075"
+    },
+    {
+      "property": "P3797",
+      "value": "8068"
+    },
+    {
+      "property": "P3797",
+      "value": "8069"
+    },
+    {
+      "property": "P3836",
+      "value": "microsoft"
+    },
+    {
+      "property": "P3875",
+      "value": "microsoft"
+    },
+    {
+      "property": "P3984",
+      "value": "microsoft"
+    },
+    {
+      "property": "P3987",
+      "value": "288066"
+    },
+    {
+      "property": "P4073",
+      "value": "microsoft"
+    },
+    {
+      "property": "P409",
+      "value": "35928074"
+    },
+    {
+      "property": "P414",
+      "value": "Q82059"
+    },
+    {
+      "property": "P414",
+      "value": "Q496672"
+    },
+    {
+      "property": "P4167",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P4204",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P4264",
+      "value": "microsoft"
+    },
+    {
+      "property": "P4293",
+      "value": "co/029195"
+    },
+    {
+      "property": "P4342",
+      "value": "Microsoft_Corporation"
+    },
+    {
+      "property": "P4354",
+      "value": "https://www.microsoft.com/zh-cn/search/result.aspx?q=$1&form=MSHOME"
+    },
+    {
+      "property": "P4354",
+      "value": "https://www.microsoft.com/zh-cn/search/shop/games?q=$1"
+    },
+    {
+      "property": "P452",
+      "value": "Q21157865"
+    },
+    {
+      "property": "P452",
+      "value": "Q880371"
+    },
+    {
+      "property": "P452",
+      "value": "Q638608"
+    },
+    {
+      "property": "P452",
+      "value": "Q1666934"
+    },
+    {
+      "property": "P4527",
+      "value": "45631"
+    },
+    {
+      "property": "P4613",
+      "value": "60519"
+    },
+    {
+      "property": "P4619",
+      "value": "000296458"
+    },
+    {
+      "property": "P463",
+      "value": "Q6542248"
+    },
+    {
+      "property": "P463",
+      "value": "Q852297"
+    },
+    {
+      "property": "P463",
+      "value": "Q135419551"
+    },
+    {
+      "property": "P4691",
+      "value": "d000000115"
+    },
+    {
+      "property": "P4773",
+      "value": "microsoft-corporation"
+    },
+    {
+      "property": "P4776",
+      "value": "0050F2"
+    },
+    {
+      "property": "P4776",
+      "value": "3059B7"
+    },
+    {
+      "property": "P4776",
+      "value": "4C0BBE"
+    },
+    {
+      "property": "P4776",
+      "value": "501AC5"
+    },
+    {
+      "property": "P4776",
+      "value": "5882A8"
+    },
+    {
+      "property": "P4776",
+      "value": "6045BD"
+    },
+    {
+      "property": "P4776",
+      "value": "7C1E52"
+    },
+    {
+      "property": "P4776",
+      "value": "7CED8D"
+    },
+    {
+      "property": "P4776",
+      "value": "B4AE2B"
+    },
+    {
+      "property": "P4776",
+      "value": "C0335E"
+    },
+    {
+      "property": "P4776",
+      "value": "000D3A"
+    },
+    {
+      "property": "P4776",
+      "value": "0003FF"
+    },
+    {
+      "property": "P4776",
+      "value": "00125A"
+    },
+    {
+      "property": "P4776",
+      "value": "00155D"
+    },
+    {
+      "property": "P4776",
+      "value": "0017FA"
+    },
+    {
+      "property": "P4776",
+      "value": "001DD8"
+    },
+    {
+      "property": "P4776",
+      "value": "002248"
+    },
+    {
+      "property": "P4776",
+      "value": "0025AE"
+    },
+    {
+      "property": "P4776",
+      "value": "0C413E"
+    },
+    {
+      "property": "P4776",
+      "value": "0CE725"
+    },
+    {
+      "property": "P4776",
+      "value": "102F6B"
+    },
+    {
+      "property": "P4776",
+      "value": "149A10"
+    },
+    {
+      "property": "P4776",
+      "value": "206274"
+    },
+    {
+      "property": "P4776",
+      "value": "20A99B"
+    },
+    {
+      "property": "P4776",
+      "value": "2816A8"
+    },
+    {
+      "property": "P4776",
+      "value": "281878"
+    },
+    {
+      "property": "P4776",
+      "value": "2C2997"
+    },
+    {
+      "property": "P4776",
+      "value": "2C5491"
+    },
+    {
+      "property": "P4776",
+      "value": "3C8375"
+    },
+    {
+      "property": "P4776",
+      "value": "485073"
+    },
+    {
+      "property": "P4776",
+      "value": "4886E8"
+    },
+    {
+      "property": "P4776",
+      "value": "5CBA37"
+    },
+    {
+      "property": "P4776",
+      "value": "74E28C"
+    },
+    {
+      "property": "P4776",
+      "value": "80C5E6"
+    },
+    {
+      "property": "P4776",
+      "value": "8463D6"
+    },
+    {
+      "property": "P4776",
+      "value": "949AA9"
+    },
+    {
+      "property": "P4776",
+      "value": "985FD3"
+    },
+    {
+      "property": "P4776",
+      "value": "9C6C15"
+    },
+    {
+      "property": "P4776",
+      "value": "B84FD5"
+    },
+    {
+      "property": "P4776",
+      "value": "BC8385"
+    },
+    {
+      "property": "P4776",
+      "value": "C49DED"
+    },
+    {
+      "property": "P4776",
+      "value": "C83F26"
+    },
+    {
+      "property": "P4776",
+      "value": "D0929E"
+    },
+    {
+      "property": "P4776",
+      "value": "D48F33"
+    },
+    {
+      "property": "P4776",
+      "value": "EC59E7"
+    },
+    {
+      "property": "P4776",
+      "value": "EC8350"
+    },
+    {
+      "property": "P4776",
+      "value": "F01DBC"
+    },
+    {
+      "property": "P4776",
+      "value": "F06E0B"
+    },
+    {
+      "property": "P4776",
+      "value": "DCB4C4"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "microsoft-corp"
+    },
+    {
+      "property": "P5260",
+      "value": "298856275"
+    },
+    {
+      "property": "P5531",
+      "value": "0000789019"
+    },
+    {
+      "property": "P5587",
+      "value": "86lpvmjs41cgxwv"
+    },
+    {
+      "property": "P571",
+      "value": "+1975-04-04T00:00:00Z"
+    },
+    {
+      "property": "P6058",
+      "value": "divers/Microsoft/133113"
+    },
+    {
+      "property": "P6182",
+      "value": "76449"
+    },
+    {
+      "property": "P6200",
+      "value": "cvenzmgyg0lt"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "xbox:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "gamicus:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "nintendo:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "xbox-360:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "xboxone:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "video-games:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "gta:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "es.gta:Microsoft"
+    },
+    {
+      "property": "P6262",
+      "value": "it.gta:Microsoft"
+    },
+    {
+      "property": "P6328",
+      "value": "118"
+    },
+    {
+      "property": "P6337",
+      "value": "Company:Microsoft"
+    },
+    {
+      "property": "P6366",
+      "value": "1290206253"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04sv4"
+    },
+    {
+      "property": "P648",
+      "value": "OL4943148A"
+    },
+    {
+      "property": "P6517",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P6573",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P6640",
+      "value": "264531"
+    },
+    {
+      "property": "P6706",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P6782",
+      "value": "00d0nc645"
+    },
+    {
+      "property": "P6849",
+      "value": "microsoft"
+    },
+    {
+      "property": "P6900",
+      "value": "microsoft"
+    },
+    {
+      "property": "P691",
+      "value": "kn20020321575"
+    },
+    {
+      "property": "P7014",
+      "value": "https://www.microsoft.com/en-us/legal/terms-of-use"
+    },
+    {
+      "property": "P7014",
+      "value": "https://www.microsoft.com/de-de/rechtliche-hinweise/nutzungsbedingungen"
+    },
+    {
+      "property": "P7039",
+      "value": "000090454"
+    },
+    {
+      "property": "P7085",
+      "value": "microsoft"
+    },
+    {
+      "property": "P7101",
+      "value": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
+      "property": "P7101",
+      "value": "https://privacy.microsoft.com/de-de/privacystatement"
+    },
+    {
+      "property": "P7193",
+      "value": "33257"
+    },
+    {
+      "property": "P7293",
+      "value": "9810635047505606"
+    },
+    {
+      "property": "P740",
+      "value": "Q34804"
+    },
+    {
+      "property": "P7502",
+      "value": "Microsoft-6GKP"
+    },
+    {
+      "property": "P7699",
+      "value": "LNB:V*8936;=BM"
+    },
+    {
+      "property": "P7775",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P7886",
+      "value": "C45621"
+    },
+    {
+      "property": "P7982",
+      "value": "40580"
+    },
+    {
+      "property": "P8060",
+      "value": "1651"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf10383000"
+    },
+    {
+      "property": "P8189",
+      "value": "987007265465105171"
+    },
+    {
+      "property": "P8253",
+      "value": "microsoft-918717"
+    },
+    {
+      "property": "P8313",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.microsoft.com/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.microsoft.com/en-gb"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.microsoft.com/de-de/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.microsoft.com/ja-jp/"
+    },
+    {
+      "property": "P856",
+      "value": "https://microsoft.cz/"
+    },
+    {
+      "property": "P8571",
+      "value": "Q75746293"
+    },
+    {
+      "property": "P8672",
+      "value": "10027232467"
+    },
+    {
+      "property": "P8687",
+      "value": "+788000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1640000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1950000"
+    },
+    {
+      "property": "P8687",
+      "value": "+2160000"
+    },
+    {
+      "property": "P8885",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P8939",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "property": "P8972",
+      "value": "Microsoft icon.svg"
+    },
+    {
+      "property": "P906",
+      "value": "347184"
+    },
+    {
+      "property": "P910",
+      "value": "Q4515426"
+    },
+    {
+      "property": "P9100",
+      "value": "microsoft"
+    },
+    {
+      "property": "P9239",
+      "value": "Q113012912"
+    },
+    {
+      "property": "P9346",
+      "value": "microsoft"
+    },
+    {
+      "property": "P935",
+      "value": "Microsoft"
+    },
+    {
+      "property": "P937",
+      "value": "Q109926363"
+    },
+    {
+      "property": "P9402",
+      "value": "microsoft"
+    },
+    {
+      "property": "P946",
+      "value": "US5949181045"
+    },
+    {
+      "property": "P949",
+      "value": "000093139"
+    },
+    {
+      "property": "P950",
+      "value": "XX121178"
+    },
+    {
+      "property": "P9650",
+      "value": "microsoft"
+    },
+    {
+      "property": "P966",
+      "value": "d8cfe5d0-7427-4064-aa35-bc0ce2ba88d2"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:opensource@microsoft.com"
+    },
+    {
+      "property": "P973",
+      "value": "http://www.fundinguniverse.com/company-histories/microsoft-corporation-history/"
+    },
+    {
+      "property": "P9961",
+      "value": "microsoft"
+    },
+    {
+      "property": "P9984",
+      "value": "981058512489506706"
+    }
+  ]
+}

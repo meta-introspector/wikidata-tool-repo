@@ -1,0 +1,1930 @@
+{
+  "id": "Q483604",
+  "label": "Mozilla Thunderbird",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/mozilla-thunderbird"
+    },
+    {
+      "property": "P1072",
+      "value": "Q1246497"
+    },
+    {
+      "property": "P1072",
+      "value": "Q6912474"
+    },
+    {
+      "property": "P1072",
+      "value": "Q1066897"
+    },
+    {
+      "property": "P10766",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P11245",
+      "value": "thunderbirdproject"
+    },
+    {
+      "property": "P11292",
+      "value": "thunderbird.1"
+    },
+    {
+      "property": "P11478",
+      "value": "#maildev:mozilla.org"
+    },
+    {
+      "property": "P11478",
+      "value": "#thunderbird-community:mozilla.org"
+    },
+    {
+      "property": "P12361",
+      "value": "thunderbird.net"
+    },
+    {
+      "property": "P12433",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P12622",
+      "value": "thunderbird@tilvids.com"
+    },
+    {
+      "property": "P12695",
+      "value": "Thunderbird"
+    },
+    {
+      "property": "P12873",
+      "value": "Thunderbird"
+    },
+    {
+      "property": "P12873",
+      "value": "Thunderbird_(Русский)"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/comm-central"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/releases-comm-central.git"
+    },
+    {
+      "property": "P136",
+      "value": "Q570871"
+    },
+    {
+      "property": "P13616",
+      "value": "Thunderbird"
+    },
+    {
+      "property": "P1365",
+      "value": "Q596785"
+    },
+    {
+      "property": "P1401",
+      "value": "https://bugzilla.mozilla.org/"
+    },
+    {
+      "property": "P1414",
+      "value": "Q189464"
+    },
+    {
+      "property": "P144",
+      "value": "Q487834"
+    },
+    {
+      "property": "P154",
+      "value": "Thunderbird Logo, 2018.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Thunderbird logo.png"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Thunderbird old logo.png"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Thunderbird logo vector 2003.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Thunderbird 2023 icon.png"
+    },
+    {
+      "property": "P1547",
+      "value": "Q110965439"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.thunderbird.net/"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.thunderbird.net/"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P178",
+      "value": "Q1370678"
+    },
+    {
+      "property": "P178",
+      "value": "Q90137272"
+    },
+    {
+      "property": "P18",
+      "value": "Thunderbird 115.png"
+    },
+    {
+      "property": "P1972",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P2002",
+      "value": "mozthunderbird"
+    },
+    {
+      "property": "P2013",
+      "value": "Thunderbird"
+    },
+    {
+      "property": "P2037",
+      "value": "mozilla-comm"
+    },
+    {
+      "property": "P2037",
+      "value": "thundernest"
+    },
+    {
+      "property": "P214",
+      "value": "182119932"
+    },
+    {
+      "property": "P2184",
+      "value": "Q3138443"
+    },
+    {
+      "property": "P227",
+      "value": "4829733-1"
+    },
+    {
+      "property": "P2397",
+      "value": "UCuMTCmnwZPiXXVIy_TW6Bnw"
+    },
+    {
+      "property": "P244",
+      "value": "no2006020688"
+    },
+    {
+      "property": "P2572",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P275",
+      "value": "Q26737735"
+    },
+    {
+      "property": "P275",
+      "value": "Q18534390"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513450"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P31",
+      "value": "Q570871"
+    },
+    {
+      "property": "P31",
+      "value": "Q1324042"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P31",
+      "value": "Q1136404"
+    },
+    {
+      "property": "P31",
+      "value": "Q367035"
+    },
+    {
+      "property": "P31",
+      "value": "Q28094186"
+    },
+    {
+      "property": "P31",
+      "value": "Q1568118"
+    },
+    {
+      "property": "P3381",
+      "value": "Thunderbird"
+    },
+    {
+      "property": "P3417",
+      "value": "Mozilla-Thunderbird"
+    },
+    {
+      "property": "P3442",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P3454",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P3463",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P3473",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P348",
+      "value": "31.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "38.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "38.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "45.0"
+    },
+    {
+      "property": "P348",
+      "value": "45.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "45.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "45.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "45.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "45.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "45.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "45.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.1"
+    },
+    {
+      "property": "P348",
+      "value": "52.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "52.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "60.0"
+    },
+    {
+      "property": "P348",
+      "value": "60.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "60.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "60.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "60.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "60.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "60.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "60.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "60.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "60.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "60.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "60.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "60.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "60.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "60.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "60.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "60.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "68.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "68.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "68.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "68.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "68.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "68.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "68.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "68.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "68.12.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "78.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "78.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "78.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "78.10.2"
+    },
+    {
+      "property": "P348",
+      "value": "78.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "78.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "91.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "91.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "91.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "95.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "95.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "95.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "91.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "91.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "96.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "91.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "91.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "91.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "99.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "99.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "91.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.0"
+    },
+    {
+      "property": "P348",
+      "value": "103.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "102.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "102.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "102.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "104.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "105.0beta3"
+    },
+    {
+      "property": "P348",
+      "value": "102.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "102.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "102.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "102.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "108.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "109.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "110.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "102.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "111.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "112.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "113.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "114.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.11.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.11.2"
+    },
+    {
+      "property": "P348",
+      "value": "102.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "102.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.0"
+    },
+    {
+      "property": "P348",
+      "value": "116.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.13.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "117.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "118.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "115.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "115.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "119.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "115.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "120.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "115.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "115.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "121.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "115.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "122.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "123.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "124.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "115.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "125.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "115.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "126.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.10.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.11.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "127.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.11.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.12.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.12.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.13.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "129.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "128.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.0.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.1.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.14.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.1.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "130.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "128.2.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "131.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.15.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.2.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.2.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.2.3esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.3.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "132.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "128.3.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.3.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.3.3esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.16.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.16.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.16.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.4.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.4.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.4.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.4.3esr"
+    },
+    {
+      "property": "P348",
+      "value": "133.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "128.4.4esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.5.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "134.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "128.5.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.5.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "115.18.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.6.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.6.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.7.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "135.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "136.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "128.7.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "136.0"
+    },
+    {
+      "property": "P348",
+      "value": "128.8.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "137.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "115.16.3esr"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "128.8.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "137.0"
+    },
+    {
+      "property": "P348",
+      "value": "128.9.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "138.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "128.9.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.9.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "128.10.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "138.0"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "128.10.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "139.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "128.10.2esr"
+    },
+    {
+      "property": "P348",
+      "value": "139.0"
+    },
+    {
+      "property": "P348",
+      "value": "128.11.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "140.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "128.11.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "140.0"
+    },
+    {
+      "property": "P348",
+      "value": "141.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "128.12.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "140.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "140.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "140.0.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "141.0"
+    },
+    {
+      "property": "P348",
+      "value": "140.1.0esr"
+    },
+    {
+      "property": "P348",
+      "value": "142.0beta"
+    },
+    {
+      "property": "P348",
+      "value": "140.1.1esr"
+    },
+    {
+      "property": "P348",
+      "value": "142.0"
+    },
+    {
+      "property": "P348",
+      "value": "140.2.0esr"
+    },
+    {
+      "property": "P3499",
+      "value": "mail-client/thunderbird"
+    },
+    {
+      "property": "P3499",
+      "value": "mail-client/thunderbird-bin"
+    },
+    {
+      "property": "P366",
+      "value": "Q570871"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla Thunderbird"
+    },
+    {
+      "property": "P3847",
+      "value": "thunderbird_(computer_file)"
+    },
+    {
+      "property": "P3984",
+      "value": "Thunderbird"
+    },
+    {
+      "property": "P400",
+      "value": "Q1406"
+    },
+    {
+      "property": "P4033",
+      "value": "thunderbird@mastodon.online"
+    },
+    {
+      "property": "P407",
+      "value": "Q20923490"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P407",
+      "value": "Q14196"
+    },
+    {
+      "property": "P407",
+      "value": "Q8748"
+    },
+    {
+      "property": "P407",
+      "value": "Q7918"
+    },
+    {
+      "property": "P407",
+      "value": "Q12107"
+    },
+    {
+      "property": "P407",
+      "value": "Q8752"
+    },
+    {
+      "property": "P407",
+      "value": "Q9091"
+    },
+    {
+      "property": "P407",
+      "value": "Q7026"
+    },
+    {
+      "property": "P407",
+      "value": "Q13414913"
+    },
+    {
+      "property": "P407",
+      "value": "Q37041"
+    },
+    {
+      "property": "P407",
+      "value": "Q9056"
+    },
+    {
+      "property": "P407",
+      "value": "Q6654"
+    },
+    {
+      "property": "P407",
+      "value": "Q9035"
+    },
+    {
+      "property": "P407",
+      "value": "Q7411"
+    },
+    {
+      "property": "P407",
+      "value": "Q9072"
+    },
+    {
+      "property": "P407",
+      "value": "Q1412"
+    },
+    {
+      "property": "P407",
+      "value": "Q27175"
+    },
+    {
+      "property": "P407",
+      "value": "Q9314"
+    },
+    {
+      "property": "P407",
+      "value": "Q9307"
+    },
+    {
+      "property": "P407",
+      "value": "Q8108"
+    },
+    {
+      "property": "P407",
+      "value": "Q188"
+    },
+    {
+      "property": "P407",
+      "value": "Q9129"
+    },
+    {
+      "property": "P407",
+      "value": "Q9288"
+    },
+    {
+      "property": "P407",
+      "value": "Q9067"
+    },
+    {
+      "property": "P407",
+      "value": "Q294"
+    },
+    {
+      "property": "P407",
+      "value": "Q9240"
+    },
+    {
+      "property": "P407",
+      "value": "Q9142"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P407",
+      "value": "Q35853"
+    },
+    {
+      "property": "P407",
+      "value": "Q35115"
+    },
+    {
+      "property": "P407",
+      "value": "Q9252"
+    },
+    {
+      "property": "P407",
+      "value": "Q9176"
+    },
+    {
+      "property": "P407",
+      "value": "Q9078"
+    },
+    {
+      "property": "P407",
+      "value": "Q9083"
+    },
+    {
+      "property": "P407",
+      "value": "Q13286"
+    },
+    {
+      "property": "P407",
+      "value": "Q9237"
+    },
+    {
+      "property": "P407",
+      "value": "Q25167"
+    },
+    {
+      "property": "P407",
+      "value": "Q25164"
+    },
+    {
+      "property": "P407",
+      "value": "Q809"
+    },
+    {
+      "property": "P407",
+      "value": "Q750553"
+    },
+    {
+      "property": "P407",
+      "value": "Q5146"
+    },
+    {
+      "property": "P407",
+      "value": "Q58635"
+    },
+    {
+      "property": "P407",
+      "value": "Q7913"
+    },
+    {
+      "property": "P407",
+      "value": "Q13199"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q9299"
+    },
+    {
+      "property": "P407",
+      "value": "Q9058"
+    },
+    {
+      "property": "P407",
+      "value": "Q9063"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P407",
+      "value": "Q9027"
+    },
+    {
+      "property": "P407",
+      "value": "Q9217"
+    },
+    {
+      "property": "P407",
+      "value": "Q256"
+    },
+    {
+      "property": "P407",
+      "value": "Q8798"
+    },
+    {
+      "property": "P407",
+      "value": "Q13248"
+    },
+    {
+      "property": "P407",
+      "value": "Q9264"
+    },
+    {
+      "property": "P407",
+      "value": "Q9199"
+    },
+    {
+      "property": "P407",
+      "value": "Q9309"
+    },
+    {
+      "property": "P4107",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P4428",
+      "value": "Q160453"
+    },
+    {
+      "property": "P4428",
+      "value": "Q949493"
+    },
+    {
+      "property": "P4428",
+      "value": "Q163393"
+    },
+    {
+      "property": "P4428",
+      "value": "Q2044459"
+    },
+    {
+      "property": "P4428",
+      "value": "Q166936"
+    },
+    {
+      "property": "P4435",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P4655",
+      "value": "org.mozilla.Thunderbird"
+    },
+    {
+      "property": "P4969",
+      "value": "Q7716782"
+    },
+    {
+      "property": "P4969",
+      "value": "Q30242799"
+    },
+    {
+      "property": "P571",
+      "value": "+2003-07-28T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "1824"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "mozilla:Thunderbird"
+    },
+    {
+      "property": "P6262",
+      "value": "logo:Mozilla_Thunderbird"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01h8k1"
+    },
+    {
+      "property": "P6665",
+      "value": "3996"
+    },
+    {
+      "property": "P691",
+      "value": "ph349433"
+    },
+    {
+      "property": "P6931",
+      "value": "thunderbird"
+    },
+    {
+      "property": "P7427",
+      "value": "mail/thunderbird"
+    },
+    {
+      "property": "P7788",
+      "value": "MozillaThunderbird"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird52"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird60"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird52-l10n"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird60-l10n"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird-l10n"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird68"
+    },
+    {
+      "property": "P7966",
+      "value": "mail/thunderbird68-l10n"
+    },
+    {
+      "property": "P8205",
+      "value": "Mozilla/Thunderbird"
+    },
+    {
+      "property": "P8209",
+      "value": "147"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/zh-TW/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/zh-CN/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/en-CA/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/en-US/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/ja/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/uk/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/de/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/et/"
+    },
+    {
+      "property": "P8687",
+      "value": "+8613"
+    },
+    {
+      "property": "P8687",
+      "value": "+7071"
+    },
+    {
+      "property": "P8687",
+      "value": "+10006"
+    },
+    {
+      "property": "P8687",
+      "value": "+21674"
+    },
+    {
+      "property": "P8687",
+      "value": "+32450"
+    },
+    {
+      "property": "P8687",
+      "value": "+32962"
+    },
+    {
+      "property": "P8687",
+      "value": "+33183"
+    },
+    {
+      "property": "P8687",
+      "value": "+5060"
+    },
+    {
+      "property": "P8885",
+      "value": "모질라 썬더버드"
+    },
+    {
+      "property": "P910",
+      "value": "Q7466932"
+    },
+    {
+      "property": "P935",
+      "value": "Mozilla Thunderbird"
+    },
+    {
+      "property": "P9618",
+      "value": "mozilla-thunderbird"
+    },
+    {
+      "property": "P9885",
+      "value": "1c5686dc-4a2c-7c13-a4ea-a508157a694b"
+    }
+  ]
+}

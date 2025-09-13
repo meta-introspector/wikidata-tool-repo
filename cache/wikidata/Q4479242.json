@@ -1,0 +1,114 @@
+{
+  "id": "Q4479242",
+  "label": "class",
+  "facts": [
+    {
+      "property": "P10565",
+      "value": "546653"
+    },
+    {
+      "property": "P1269",
+      "value": "Q79872"
+    },
+    {
+      "property": "P1269",
+      "value": "Q5127844"
+    },
+    {
+      "property": "P1382",
+      "value": "Q1164699"
+    },
+    {
+      "property": "P144",
+      "value": "Q1164699"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/class"
+    },
+    {
+      "property": "P1552",
+      "value": "Q5128020"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1744556"
+    },
+    {
+      "property": "P1889",
+      "value": "Q453341"
+    },
+    {
+      "property": "P1889",
+      "value": "Q8346739"
+    },
+    {
+      "property": "P1889",
+      "value": "Q3679160"
+    },
+    {
+      "property": "P1889",
+      "value": "Q13085175"
+    },
+    {
+      "property": "P1889",
+      "value": "Q5128044"
+    },
+    {
+      "property": "P1889",
+      "value": "Q16889133"
+    },
+    {
+      "property": "P279",
+      "value": "Q190087"
+    },
+    {
+      "property": "P279",
+      "value": "Q7048977"
+    },
+    {
+      "property": "P31",
+      "value": "Q1924819"
+    },
+    {
+      "property": "P366",
+      "value": "Q79872"
+    },
+    {
+      "property": "P366",
+      "value": "Q1664689"
+    },
+    {
+      "property": "P5047",
+      "value": "Classes"
+    },
+    {
+      "property": "P527",
+      "value": "Q1172412"
+    },
+    {
+      "property": "P527",
+      "value": "Q815844"
+    },
+    {
+      "property": "P527",
+      "value": "Q123472450"
+    },
+    {
+      "property": "P6366",
+      "value": "22414024"
+    },
+    {
+      "property": "P646",
+      "value": "/m/022x0"
+    },
+    {
+      "property": "P6564",
+      "value": "classes-oop"
+    },
+    {
+      "property": "P910",
+      "value": "Q8381396"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q893290",
+  "label": "union type",
+  "facts": [
+    {
+      "property": "P1889",
+      "value": "Q185359"
+    },
+    {
+      "property": "P279",
+      "value": "Q175263"
+    },
+    {
+      "property": "P6366",
+      "value": "11778016"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02gzn3"
+    }
+  ]
+}

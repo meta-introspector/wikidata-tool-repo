@@ -1,0 +1,1778 @@
+{
+  "id": "Q28865",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10027",
+      "value": "https://discuss.python.org/"
+    },
+    {
+      "property": "P10283",
+      "value": "C519991488"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/python-language"
+    },
+    {
+      "property": "P1051",
+      "value": "13861"
+    },
+    {
+      "property": "P10565",
+      "value": "546617"
+    },
+    {
+      "property": "P10565",
+      "value": "88748"
+    },
+    {
+      "property": "P10757",
+      "value": "379092"
+    },
+    {
+      "property": "P10766",
+      "value": "python/3.12.6"
+    },
+    {
+      "property": "P11137",
+      "value": "python"
+    },
+    {
+      "property": "P11167",
+      "value": "NF00389"
+    },
+    {
+      "property": "P11196",
+      "value": "python"
+    },
+    {
+      "property": "P11408",
+      "value": "Python"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-python"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-httpd-python"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-python-code"
+    },
+    {
+      "property": "P11947",
+      "value": "python@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "py"
+    },
+    {
+      "property": "P1195",
+      "value": "pyc"
+    },
+    {
+      "property": "P1195",
+      "value": "pyd"
+    },
+    {
+      "property": "P1195",
+      "value": "pyo"
+    },
+    {
+      "property": "P1195",
+      "value": "pyw"
+    },
+    {
+      "property": "P1195",
+      "value": "pyz"
+    },
+    {
+      "property": "P1195",
+      "value": "pyi"
+    },
+    {
+      "property": "P12086",
+      "value": "Python_(programmeertaal)"
+    },
+    {
+      "property": "P12203",
+      "value": "https://wiki.python.org"
+    },
+    {
+      "property": "P12695",
+      "value": "Python"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Python_(langage_de_programmation)"
+    },
+    {
+      "property": "P12873",
+      "value": "Python"
+    },
+    {
+      "property": "P12873",
+      "value": "Python_(Português)"
+    },
+    {
+      "property": "P12873",
+      "value": "Python_(Українська)"
+    },
+    {
+      "property": "P12873",
+      "value": "Python_(Русский)"
+    },
+    {
+      "property": "P13385",
+      "value": "Python"
+    },
+    {
+      "property": "P135",
+      "value": "Q1076638"
+    },
+    {
+      "property": "P13520",
+      "value": "1213"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/c274a087-484b-4995-8a3c-dde45cfdd7e1"
+    },
+    {
+      "property": "P13616",
+      "value": "Python"
+    },
+    {
+      "property": "P138",
+      "value": "Q16402"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/python/cpython/issues"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Python-computer-language"
+    },
+    {
+      "property": "P1424",
+      "value": "Q8084959"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://quantumcomputing.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://softwareengineering.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://codereview.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://datascience.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://unix.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://dsp.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://raspberrypi.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://askubuntu.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://gis.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ai.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P1482",
+      "value": "https://or.stackexchange.com/tags/python"
+    },
+    {
+      "property": "P154",
+      "value": "Python logo and wordmark.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Python logo 1990s.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/python"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/python-dev"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/distutils"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/python.de"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/python-pt"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.ircnet.net/python.fi"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/python-tr"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://chat.freenode.net/pyar"
+    },
+    {
+      "property": "P178",
+      "value": "Q83818"
+    },
+    {
+      "property": "P178",
+      "value": "Q30942"
+    },
+    {
+      "property": "P18",
+      "value": "CPT-TheoryOfComp-Binary-Search-Python.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q599384"
+    },
+    {
+      "property": "P1889",
+      "value": "Q271218"
+    },
+    {
+      "property": "P2037",
+      "value": "python"
+    },
+    {
+      "property": "P2078",
+      "value": "https://docs.python.org/"
+    },
+    {
+      "property": "P2163",
+      "value": "1084736"
+    },
+    {
+      "property": "P2184",
+      "value": "Q4205080"
+    },
+    {
+      "property": "P2209",
+      "value": "python"
+    },
+    {
+      "property": "P227",
+      "value": "4434275-5"
+    },
+    {
+      "property": "P2347",
+      "value": "13019"
+    },
+    {
+      "property": "P244",
+      "value": "sh96008834"
+    },
+    {
+      "property": "P2572",
+      "value": "Python"
+    },
+    {
+      "property": "P2581",
+      "value": "01713224n"
+    },
+    {
+      "property": "P268",
+      "value": "13560465c"
+    },
+    {
+      "property": "P269",
+      "value": "051626225"
+    },
+    {
+      "property": "P275",
+      "value": "Q2600299"
+    },
+    {
+      "property": "P277",
+      "value": "Q28865"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P287",
+      "value": "Q30942"
+    },
+    {
+      "property": "P2910",
+      "value": ".PY file recreation.png"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q1268980"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q187432"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q211496"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q1004415"
+    },
+    {
+      "property": "P31",
+      "value": "Q50843083"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923017"
+    },
+    {
+      "property": "P31",
+      "value": "Q1130645"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P3222",
+      "value": "python-(programspråk)"
+    },
+    {
+      "property": "P3417",
+      "value": "Python-programming-language-1"
+    },
+    {
+      "property": "P3417",
+      "value": "Python-Programming-Languages"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.11"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.16"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.8rc1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.5rc1"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.17rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0rc2"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.17"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0a3"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.1rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.10rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.6rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.2rc2"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0a5"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.18rc1"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.18"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0a6"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.11rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.8rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.4rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0b5"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.10rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.5.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0rc2"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0.a1"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.7rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0a3"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.7rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0a5"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.8rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.2rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0a6"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0a7"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.6.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0rc2"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0a1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0a3"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0a5"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0a6"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0a7"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0b5"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0rc2"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0a1"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.16"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.16"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.16"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0a3"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0a5"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0a6"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0a7"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.17"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.17"
+    },
+    {
+      "property": "P348",
+      "value": "3.7.17"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.11"
+    },
+    {
+      "property": "P348",
+      "value": "2.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.18"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.18"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0rc2"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0rc3"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0a1"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0a3"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0a5"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.19"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.19"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0a6"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0rc2"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.20"
+    },
+    {
+      "property": "P348",
+      "value": "3.8.20"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0rc3"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0a1"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.21"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.16"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0a3"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0a5"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0a6"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.22"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.17"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0a7"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.9.23"
+    },
+    {
+      "property": "P348",
+      "value": "3.10.18"
+    },
+    {
+      "property": "P348",
+      "value": "3.11.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.12.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0rc1"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.13.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.14.0rc2"
+    },
+    {
+      "property": "P3553",
+      "value": "19552832"
+    },
+    {
+      "property": "P366",
+      "value": "Q638608"
+    },
+    {
+      "property": "P366",
+      "value": "Q117801"
+    },
+    {
+      "property": "P366",
+      "value": "Q2539"
+    },
+    {
+      "property": "P366",
+      "value": "Q1988917"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q386275"
+    },
+    {
+      "property": "P366",
+      "value": "Q11660"
+    },
+    {
+      "property": "P373",
+      "value": "Python (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "python_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q98609791"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3984",
+      "value": "python"
+    },
+    {
+      "property": "P3984",
+      "value": "learnpython"
+    },
+    {
+      "property": "P3984",
+      "value": "Python"
+    },
+    {
+      "property": "P4073",
+      "value": "python"
+    },
+    {
+      "property": "P4342",
+      "value": "Python_-_programmeringsspråk"
+    },
+    {
+      "property": "P4644",
+      "value": "ccd0a1d9-afda-43d9-b901-96344886e14d"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"Python::4g426\"]"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P527",
+      "value": "Q13741"
+    },
+    {
+      "property": "P571",
+      "value": "+1991-02-20T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "3533"
+    },
+    {
+      "property": "P6104",
+      "value": "Q15659621"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Python"
+    },
+    {
+      "property": "P6293",
+      "value": "Y135378"
+    },
+    {
+      "property": "P6366",
+      "value": "519991488"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05z1_"
+    },
+    {
+      "property": "P6611",
+      "value": "3739"
+    },
+    {
+      "property": "P6830",
+      "value": "14460"
+    },
+    {
+      "property": "P6900",
+      "value": "python"
+    },
+    {
+      "property": "P691",
+      "value": "ph170668"
+    },
+    {
+      "property": "P7078",
+      "value": "Q374282"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q16965428"
+    },
+    {
+      "property": "P737",
+      "value": "Q2166735"
+    },
+    {
+      "property": "P737",
+      "value": "Q1057802"
+    },
+    {
+      "property": "P737",
+      "value": "Q1928222"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q42478"
+    },
+    {
+      "property": "P737",
+      "value": "Q251"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q34010"
+    },
+    {
+      "property": "P737",
+      "value": "Q296187"
+    },
+    {
+      "property": "P737",
+      "value": "Q775159"
+    },
+    {
+      "property": "P737",
+      "value": "Q1268744"
+    },
+    {
+      "property": "P737",
+      "value": "Q1156474"
+    },
+    {
+      "property": "P737",
+      "value": "Q597330"
+    },
+    {
+      "property": "P747",
+      "value": "Q99513286"
+    },
+    {
+      "property": "P747",
+      "value": "Q31205855"
+    },
+    {
+      "property": "P7502",
+      "value": "Python_(programming_language)-MNA48"
+    },
+    {
+      "property": "P7788",
+      "value": "python"
+    },
+    {
+      "property": "P8168",
+      "value": "Q1264586"
+    },
+    {
+      "property": "P8189",
+      "value": "987007563637105171"
+    },
+    {
+      "property": "P8209",
+      "value": "294"
+    },
+    {
+      "property": "P8313",
+      "value": "Python"
+    },
+    {
+      "property": "P8324",
+      "value": "Q110973971"
+    },
+    {
+      "property": "P8408",
+      "value": "Python-ProgrammingLanguage"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.python.org/"
+    },
+    {
+      "property": "P8778",
+      "value": "library/python"
+    },
+    {
+      "property": "P8885",
+      "value": "Python"
+    },
+    {
+      "property": "P8972",
+      "value": "Python-logo-notext.svg"
+    },
+    {
+      "property": "P910",
+      "value": "Q7136128"
+    },
+    {
+      "property": "P9100",
+      "value": "python"
+    },
+    {
+      "property": "P935",
+      "value": "Python (programming language)"
+    },
+    {
+      "property": "P9602",
+      "value": "freshmeat_python"
+    },
+    {
+      "property": "P9618",
+      "value": "python"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/1366"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/tt0gGA"
+    }
+  ]
+}

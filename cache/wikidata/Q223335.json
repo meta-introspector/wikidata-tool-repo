@@ -1,0 +1,126 @@
+{
+  "id": "Q223335",
+  "label": "structured programming",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C77781355"
+    },
+    {
+      "property": "P10283",
+      "value": "C2986248174"
+    },
+    {
+      "property": "P1051",
+      "value": "6635"
+    },
+    {
+      "property": "P12946",
+      "value": "structured+programming"
+    },
+    {
+      "property": "P13397",
+      "value": "structured-programming"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/36bf4bab-18e5-48b4-b4dd-8755dac26b86"
+    },
+    {
+      "property": "P18",
+      "value": "Structured program patterns.svg"
+    },
+    {
+      "property": "P18",
+      "value": "Structured program patterns he.png"
+    },
+    {
+      "property": "P1813",
+      "value": "Strukturert"
+    },
+    {
+      "property": "P227",
+      "value": "4058133-0"
+    },
+    {
+      "property": "P2283",
+      "value": "Q27067613"
+    },
+    {
+      "property": "P244",
+      "value": "sh85129214"
+    },
+    {
+      "property": "P2581",
+      "value": "02130241n"
+    },
+    {
+      "property": "P268",
+      "value": "11966709k"
+    },
+    {
+      "property": "P279",
+      "value": "Q80006"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P31",
+      "value": "Q188267"
+    },
+    {
+      "property": "P3417",
+      "value": "Structured-Programming"
+    },
+    {
+      "property": "P373",
+      "value": "Structured programming"
+    },
+    {
+      "property": "P461",
+      "value": "Q905156"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P6366",
+      "value": "77781355"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06w_b"
+    },
+    {
+      "property": "P6611",
+      "value": "6218"
+    },
+    {
+      "property": "P6900",
+      "value": "構造化プログラミング"
+    },
+    {
+      "property": "P691",
+      "value": "ph126154"
+    },
+    {
+      "property": "P8189",
+      "value": "987007541329205171"
+    },
+    {
+      "property": "P8885",
+      "value": "구조적 프로그래밍"
+    },
+    {
+      "property": "P910",
+      "value": "Q32707129"
+    },
+    {
+      "property": "P950",
+      "value": "XX531013"
+    }
+  ]
+}

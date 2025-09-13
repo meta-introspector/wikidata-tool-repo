@@ -1,0 +1,150 @@
+{
+  "id": "Q1755724",
+  "label": "Computerworld",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "S21465148"
+    },
+    {
+      "property": "P1055",
+      "value": "9877037"
+    },
+    {
+      "property": "P112",
+      "value": "Q3821884"
+    },
+    {
+      "property": "P123",
+      "value": "Q1360149"
+    },
+    {
+      "property": "P13337",
+      "value": "computerworld.com"
+    },
+    {
+      "property": "P136",
+      "value": "Q3402519"
+    },
+    {
+      "property": "P1476",
+      "value": "Computerworld"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1889",
+      "value": "Q3210230"
+    },
+    {
+      "property": "P2002",
+      "value": "Computerworld"
+    },
+    {
+      "property": "P2003",
+      "value": "computerworldus"
+    },
+    {
+      "property": "P2013",
+      "value": "Computerworld"
+    },
+    {
+      "property": "P236",
+      "value": "0010-4841"
+    },
+    {
+      "property": "P236",
+      "value": "0882-9063"
+    },
+    {
+      "property": "P31",
+      "value": "Q41298"
+    },
+    {
+      "property": "P31",
+      "value": "Q847906"
+    },
+    {
+      "property": "P3417",
+      "value": "Computerworld"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P4342",
+      "value": "Computerworld"
+    },
+    {
+      "property": "P495",
+      "value": "Q30"
+    },
+    {
+      "property": "P5396",
+      "value": "computerworld"
+    },
+    {
+      "property": "P571",
+      "value": "+1967-06-14T00:00:00Z"
+    },
+    {
+      "property": "P582",
+      "value": "+2014-06-23T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/061wnr"
+    },
+    {
+      "property": "P724",
+      "value": "pub_computerworld"
+    },
+    {
+      "property": "P7363",
+      "value": "0010-4841"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.computerworld.com/"
+    },
+    {
+      "property": "P856",
+      "value": "http://computerworld.com"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.computerworld.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+250940"
+    },
+    {
+      "property": "P8687",
+      "value": "+250483"
+    },
+    {
+      "property": "P8687",
+      "value": "+249311"
+    },
+    {
+      "property": "P8687",
+      "value": "+248999"
+    },
+    {
+      "property": "P8903",
+      "value": "4119"
+    },
+    {
+      "property": "P9035",
+      "value": "computerworld"
+    },
+    {
+      "property": "P921",
+      "value": "Q3402519"
+    }
+  ]
+}

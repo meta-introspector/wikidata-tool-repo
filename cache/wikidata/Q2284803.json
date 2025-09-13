@@ -1,0 +1,42 @@
+{
+  "id": "Q2284803",
+  "label": "Classilla",
+  "facts": [
+    {
+      "property": "P18",
+      "value": "Classilla-9.2-on-Mac-OS-9.2.2.png"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P348",
+      "value": "9.3.4b1"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Classilla"
+    },
+    {
+      "property": "P646",
+      "value": "/m/09gqjx7"
+    },
+    {
+      "property": "P856",
+      "value": "http://classilla.org"
+    }
+  ]
+}

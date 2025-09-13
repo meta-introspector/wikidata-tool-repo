@@ -1,0 +1,54 @@
+{
+  "id": "Q6017127",
+  "label": "minimum viable product",
+  "facts": [
+    {
+      "property": "P11012",
+      "value": "Q2842409"
+    },
+    {
+      "property": "P18",
+      "value": "From minimum viable product to more complex product.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q16746501"
+    },
+    {
+      "property": "P1889",
+      "value": "Q136094540"
+    },
+    {
+      "property": "P2581",
+      "value": "01712348n"
+    },
+    {
+      "property": "P279",
+      "value": "Q207977"
+    },
+    {
+      "property": "P31",
+      "value": "Q1391494"
+    },
+    {
+      "property": "P3417",
+      "value": "Minimum-Viable-Product-3"
+    },
+    {
+      "property": "P361",
+      "value": "Q1395034"
+    },
+    {
+      "property": "P373",
+      "value": "Minimum viable product"
+    },
+    {
+      "property": "P6366",
+      "value": "90420525"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06_v116"
+    }
+  ]
+}

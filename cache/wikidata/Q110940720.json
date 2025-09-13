@@ -1,0 +1,30 @@
+{
+  "id": "Q110940720",
+  "label": "subroutine call",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/method-invocation"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/subroutine-call"
+    },
+    {
+      "property": "P2283",
+      "value": "Q190686"
+    },
+    {
+      "property": "P279",
+      "value": "Q6486712"
+    },
+    {
+      "property": "P460",
+      "value": "Q5508767"
+    },
+    {
+      "property": "P913",
+      "value": "Q10345750"
+    }
+  ]
+}

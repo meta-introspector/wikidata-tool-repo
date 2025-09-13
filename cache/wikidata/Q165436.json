@@ -1,0 +1,254 @@
+{
+  "id": "Q165436",
+  "label": "assembly language",
+  "facts": [
+    {
+      "property": "P10037",
+      "value": "linguaggio-assembler"
+    },
+    {
+      "property": "P10283",
+      "value": "C50831359"
+    },
+    {
+      "property": "P10376",
+      "value": "earth-and-planetary-sciences/assembly-language"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/assembly-language"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/assembler-language"
+    },
+    {
+      "property": "P11947",
+      "value": "asm@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "asm"
+    },
+    {
+      "property": "P1195",
+      "value": "s"
+    },
+    {
+      "property": "P12086",
+      "value": "Assembleertaal"
+    },
+    {
+      "property": "P12385",
+      "value": "assemblador"
+    },
+    {
+      "property": "P1245",
+      "value": "1098682"
+    },
+    {
+      "property": "P12695",
+      "value": "Assembly_Language"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Assembleur"
+    },
+    {
+      "property": "P1296",
+      "value": "0081313"
+    },
+    {
+      "property": "P13572",
+      "value": "assembly+language"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/26b6ce48-a6cb-42f6-83ca-fcd3042b79cb"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/assembly-language"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/assembly"
+    },
+    {
+      "property": "P18",
+      "value": "Motorola 6800 Assembly Language.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q6470767"
+    },
+    {
+      "property": "P227",
+      "value": "4003255-3"
+    },
+    {
+      "property": "P2347",
+      "value": "7766"
+    },
+    {
+      "property": "P244",
+      "value": "sh85008765"
+    },
+    {
+      "property": "P268",
+      "value": "11961749m"
+    },
+    {
+      "property": "P279",
+      "value": "Q28922854"
+    },
+    {
+      "property": "P279",
+      "value": "Q558937"
+    },
+    {
+      "property": "P2924",
+      "value": "1834909"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3222",
+      "value": "assemblerspråk"
+    },
+    {
+      "property": "P3365",
+      "value": "linguaggio-assemblatore"
+    },
+    {
+      "property": "P3381",
+      "value": "Assembly_language"
+    },
+    {
+      "property": "P3417",
+      "value": "Assembly-Language"
+    },
+    {
+      "property": "P3417",
+      "value": "Assembly-Language-Programming"
+    },
+    {
+      "property": "P3553",
+      "value": "19565122"
+    },
+    {
+      "property": "P373",
+      "value": "Assembly languages"
+    },
+    {
+      "property": "P3827",
+      "value": "assembly-language"
+    },
+    {
+      "property": "P3847",
+      "value": "assembler_language_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q905156"
+    },
+    {
+      "property": "P3984",
+      "value": "asm"
+    },
+    {
+      "property": "P3984",
+      "value": "Assembly_language"
+    },
+    {
+      "property": "P4342",
+      "value": "assemblerspråk"
+    },
+    {
+      "property": "P4644",
+      "value": "47b9bbcf-356c-4782-83a4-7f5a1b2b51a3"
+    },
+    {
+      "property": "P4969",
+      "value": "Q1486175"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5063",
+      "value": "i72765"
+    },
+    {
+      "property": "P508",
+      "value": "45031"
+    },
+    {
+      "property": "P571",
+      "value": "+1949-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "3903"
+    },
+    {
+      "property": "P6262",
+      "value": "ultimatepopculture:Assembly_language"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Assembly_language"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Assembly_language"
+    },
+    {
+      "property": "P6366",
+      "value": "50831359"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0p8g"
+    },
+    {
+      "property": "P6611",
+      "value": "68122"
+    },
+    {
+      "property": "P691",
+      "value": "ph318939"
+    },
+    {
+      "property": "P8189",
+      "value": "987007408650105171"
+    },
+    {
+      "property": "P8814",
+      "value": "06912086-n"
+    },
+    {
+      "property": "P8855",
+      "value": "171-05-15"
+    },
+    {
+      "property": "P910",
+      "value": "Q7135022"
+    },
+    {
+      "property": "P9100",
+      "value": "assembly"
+    },
+    {
+      "property": "P9100",
+      "value": "assembly-language"
+    },
+    {
+      "property": "P9618",
+      "value": "assembly-language"
+    }
+  ]
+}

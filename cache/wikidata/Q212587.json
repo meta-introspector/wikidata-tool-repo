@@ -1,0 +1,326 @@
+{
+  "id": "Q212587",
+  "label": "OCaml",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "10016856"
+    },
+    {
+      "property": "P11201",
+      "value": "https://try.ocamlpro.com/"
+    },
+    {
+      "property": "P11201",
+      "value": "https://ocaml.org/play"
+    },
+    {
+      "property": "P11410",
+      "value": "ocaml"
+    },
+    {
+      "property": "P11947",
+      "value": "ocaml@discuss.tchncs.de"
+    },
+    {
+      "property": "P1195",
+      "value": "ml"
+    },
+    {
+      "property": "P1195",
+      "value": "mli"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/da650b58-582a-4793-a183-42539ed9cab2"
+    },
+    {
+      "property": "P138",
+      "value": "Q1118153"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/ocaml"
+    },
+    {
+      "property": "P1482",
+      "value": "https://proofassistants.stackexchange.com/tags/ocaml"
+    },
+    {
+      "property": "P154",
+      "value": "OCaml Logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q1146208"
+    },
+    {
+      "property": "P1889",
+      "value": "Q838062"
+    },
+    {
+      "property": "P2078",
+      "value": "https://v2.ocaml.org/manual/"
+    },
+    {
+      "property": "P214",
+      "value": "8149106282068492326"
+    },
+    {
+      "property": "P227",
+      "value": "7578649-7"
+    },
+    {
+      "property": "P244",
+      "value": "sh2007000473"
+    },
+    {
+      "property": "P275",
+      "value": "Q1396282"
+    },
+    {
+      "property": "P275",
+      "value": "Q18534390"
+    },
+    {
+      "property": "P277",
+      "value": "Q212587"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P287",
+      "value": "Q3570727"
+    },
+    {
+      "property": "P287",
+      "value": "Q5212421"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q2458742"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P3417",
+      "value": "OCaml-programming-language"
+    },
+    {
+      "property": "P3442",
+      "value": "ocaml"
+    },
+    {
+      "property": "P3463",
+      "value": "ocaml"
+    },
+    {
+      "property": "P348",
+      "value": "4.02.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.03.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.04.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.05.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.06.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.07.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.07.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.08.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.08.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.09.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.09.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.11.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.13.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.0"
+    },
+    {
+      "property": "P3553",
+      "value": "19673704"
+    },
+    {
+      "property": "P373",
+      "value": "OCaml"
+    },
+    {
+      "property": "P3847",
+      "value": "ocaml_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q6453666"
+    },
+    {
+      "property": "P571",
+      "value": "+1996-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/09wmx"
+    },
+    {
+      "property": "P6611",
+      "value": "124215"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q936724"
+    },
+    {
+      "property": "P737",
+      "value": "Q597330"
+    },
+    {
+      "property": "P7788",
+      "value": "ocaml"
+    },
+    {
+      "property": "P8131",
+      "value": "Q860654"
+    },
+    {
+      "property": "P8189",
+      "value": "987007547107805171"
+    },
+    {
+      "property": "P856",
+      "value": "https://ocaml.org/"
+    },
+    {
+      "property": "P910",
+      "value": "Q8690746"
+    },
+    {
+      "property": "P9100",
+      "value": "ocaml"
+    },
+    {
+      "property": "P9602",
+      "value": "freshmeat_ocaml"
+    },
+    {
+      "property": "P9618",
+      "value": "ocaml"
+    }
+  ]
+}

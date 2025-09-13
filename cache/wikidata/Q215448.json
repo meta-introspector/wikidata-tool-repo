@@ -1,0 +1,206 @@
+{
+  "id": "Q215448",
+  "label": "Haiku",
+  "facts": [
+    {
+      "property": "P1019",
+      "value": "https://www.haiku-os.org/index.xml"
+    },
+    {
+      "property": "P1019",
+      "value": "https://www.haiku-os.org/blog/index.xml"
+    },
+    {
+      "property": "P1072",
+      "value": "Q5639159"
+    },
+    {
+      "property": "P11947",
+      "value": "haikuos@sopuli.xyz"
+    },
+    {
+      "property": "P1324",
+      "value": "https://git.haiku-os.org"
+    },
+    {
+      "property": "P144",
+      "value": "Q62563"
+    },
+    {
+      "property": "P1476",
+      "value": "Haiku"
+    },
+    {
+      "property": "P154",
+      "value": "Haiku (operating system) logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q5891315"
+    },
+    {
+      "property": "P178",
+      "value": "Q126884546"
+    },
+    {
+      "property": "P18",
+      "value": "Haiku R1 Beta 3 desktop screenshot.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q37707"
+    },
+    {
+      "property": "P1997",
+      "value": "https://www.facebook.com/groups/haikuosgroup/"
+    },
+    {
+      "property": "P2002",
+      "value": "haikuos"
+    },
+    {
+      "property": "P2078",
+      "value": "https://www.haiku-os.org/docs/userguide/en/contents.html"
+    },
+    {
+      "property": "P227",
+      "value": "7849409-6"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P31",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P3112",
+      "value": "haiku"
+    },
+    {
+      "property": "P3381",
+      "value": "Haiku"
+    },
+    {
+      "property": "P348",
+      "value": "R1 Alpha 4.1"
+    },
+    {
+      "property": "P348",
+      "value": "R1/beta1"
+    },
+    {
+      "property": "P348",
+      "value": "R1/beta2"
+    },
+    {
+      "property": "P348",
+      "value": "R1/beta3"
+    },
+    {
+      "property": "P348",
+      "value": "R1/beta4"
+    },
+    {
+      "property": "P348",
+      "value": "R1/beta5"
+    },
+    {
+      "property": "P3553",
+      "value": "19960955"
+    },
+    {
+      "property": "P373",
+      "value": "Haiku (operating system)"
+    },
+    {
+      "property": "P3789",
+      "value": "haiku_os"
+    },
+    {
+      "property": "P3984",
+      "value": "haikuOS"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P4033",
+      "value": "haiku@mastodon.xyz"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P4264",
+      "value": "haiku-inc-"
+    },
+    {
+      "property": "P527",
+      "value": "Q2562364"
+    },
+    {
+      "property": "P553",
+      "value": "Q16639197"
+    },
+    {
+      "property": "P571",
+      "value": "+2002-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2002-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02pd5y"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.haiku-os.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+1662"
+    },
+    {
+      "property": "P8687",
+      "value": "+1702"
+    },
+    {
+      "property": "P8687",
+      "value": "+1734"
+    },
+    {
+      "property": "P8885",
+      "value": "하이쿠(운영체제)"
+    },
+    {
+      "property": "P910",
+      "value": "Q7071486"
+    },
+    {
+      "property": "P9618",
+      "value": "haiku"
+    }
+  ]
+}

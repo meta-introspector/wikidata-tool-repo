@@ -1,0 +1,550 @@
+{
+  "id": "Q180445",
+  "label": "Nature",
+  "facts": [
+    {
+      "property": "P10006",
+      "value": "naturecom-media-bias"
+    },
+    {
+      "property": "P101",
+      "value": "Q249542"
+    },
+    {
+      "property": "P1015",
+      "value": "3038002"
+    },
+    {
+      "property": "P1019",
+      "value": "http://feeds.nature.com/nature/rss/current"
+    },
+    {
+      "property": "P1025",
+      "value": "038758717"
+    },
+    {
+      "property": "P10283",
+      "value": "S137773608"
+    },
+    {
+      "property": "P10283",
+      "value": "S4210191612"
+    },
+    {
+      "property": "P10283",
+      "value": "S4210210546"
+    },
+    {
+      "property": "P1042",
+      "value": "120714-3"
+    },
+    {
+      "property": "P1044",
+      "value": "014473941"
+    },
+    {
+      "property": "P1054",
+      "value": "000000118222"
+    },
+    {
+      "property": "P1055",
+      "value": "0410462"
+    },
+    {
+      "property": "P1058",
+      "value": "17479"
+    },
+    {
+      "property": "P11037",
+      "value": "1018957"
+    },
+    {
+      "property": "P11310",
+      "value": "1476-4687"
+    },
+    {
+      "property": "P1144",
+      "value": "12037118"
+    },
+    {
+      "property": "P11496",
+      "value": "1130000793566510848"
+    },
+    {
+      "property": "P1156",
+      "value": "21206"
+    },
+    {
+      "property": "P1159",
+      "value": "NATUAS"
+    },
+    {
+      "property": "P1160",
+      "value": "Nature"
+    },
+    {
+      "property": "P11686",
+      "value": "981058605880706706"
+    },
+    {
+      "property": "P11917",
+      "value": "40569"
+    },
+    {
+      "property": "P123",
+      "value": "Q180419"
+    },
+    {
+      "property": "P123",
+      "value": "Q176916"
+    },
+    {
+      "property": "P12385",
+      "value": "nature"
+    },
+    {
+      "property": "P1240",
+      "value": "2"
+    },
+    {
+      "property": "P1240",
+      "value": "3"
+    },
+    {
+      "property": "P1245",
+      "value": "449888"
+    },
+    {
+      "property": "P1250",
+      "value": "2298"
+    },
+    {
+      "property": "P1270",
+      "value": "422484"
+    },
+    {
+      "property": "P1272",
+      "value": "11795"
+    },
+    {
+      "property": "P1273",
+      "value": "a18274985"
+    },
+    {
+      "property": "P1277",
+      "value": "63759"
+    },
+    {
+      "property": "P1296",
+      "value": "0249964"
+    },
+    {
+      "property": "P1300",
+      "value": "Natur"
+    },
+    {
+      "property": "P13003",
+      "value": "nature-z0raj6t0"
+    },
+    {
+      "property": "P13337",
+      "value": "nature.com"
+    },
+    {
+      "property": "P1343",
+      "value": "Q118327527"
+    },
+    {
+      "property": "P136",
+      "value": "Q12042160"
+    },
+    {
+      "property": "P1375",
+      "value": "000070736"
+    },
+    {
+      "property": "P138",
+      "value": "Q7860"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Nature-British-periodical"
+    },
+    {
+      "property": "P1476",
+      "value": "Nature"
+    },
+    {
+      "property": "P154",
+      "value": "Nature journal logo.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q84"
+    },
+    {
+      "property": "P1609",
+      "value": "980"
+    },
+    {
+      "property": "P166",
+      "value": "Q3323451"
+    },
+    {
+      "property": "P1739",
+      "value": "AA00752384"
+    },
+    {
+      "property": "P18",
+      "value": "Nature cover, November 4, 1869.jpg"
+    },
+    {
+      "property": "P1813",
+      "value": "Nature"
+    },
+    {
+      "property": "P1844",
+      "value": "000637680"
+    },
+    {
+      "property": "P1844",
+      "value": "101703357"
+    },
+    {
+      "property": "P1889",
+      "value": "Q348620"
+    },
+    {
+      "property": "P2002",
+      "value": "nature"
+    },
+    {
+      "property": "P2002",
+      "value": "NatureNews"
+    },
+    {
+      "property": "P2008",
+      "value": "2590-2"
+    },
+    {
+      "property": "P214",
+      "value": "193146331915918691819"
+    },
+    {
+      "property": "P2163",
+      "value": "1384954"
+    },
+    {
+      "property": "P227",
+      "value": "4499779-6"
+    },
+    {
+      "property": "P2284",
+      "value": "+10290"
+    },
+    {
+      "property": "P236",
+      "value": "1476-4687"
+    },
+    {
+      "property": "P236",
+      "value": "0028-0836"
+    },
+    {
+      "property": "P236",
+      "value": "0302-2889"
+    },
+    {
+      "property": "P243",
+      "value": "01586310"
+    },
+    {
+      "property": "P244",
+      "value": "n90725469"
+    },
+    {
+      "property": "P2581",
+      "value": "03182284n"
+    },
+    {
+      "property": "P2687",
+      "value": "10010289"
+    },
+    {
+      "property": "P269",
+      "value": "078639247"
+    },
+    {
+      "property": "P2896",
+      "value": "+1"
+    },
+    {
+      "property": "P31",
+      "value": "Q5633421"
+    },
+    {
+      "property": "P31",
+      "value": "Q737498"
+    },
+    {
+      "property": "P3181",
+      "value": "16"
+    },
+    {
+      "property": "P3222",
+      "value": "nature"
+    },
+    {
+      "property": "P349",
+      "value": "001097666"
+    },
+    {
+      "property": "P356",
+      "value": "10.1038/41586.1476-4687"
+    },
+    {
+      "property": "P373",
+      "value": "Nature (journal)"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P4327",
+      "value": "40302"
+    },
+    {
+      "property": "P444",
+      "value": "38.138"
+    },
+    {
+      "property": "P444",
+      "value": "41.456"
+    },
+    {
+      "property": "P444",
+      "value": "42.351"
+    },
+    {
+      "property": "P444",
+      "value": "40.137"
+    },
+    {
+      "property": "P444",
+      "value": "2/2"
+    },
+    {
+      "property": "P4569",
+      "value": "68374"
+    },
+    {
+      "property": "P4616",
+      "value": "1412"
+    },
+    {
+      "property": "P4730",
+      "value": "12852"
+    },
+    {
+      "property": "P495",
+      "value": "Q145"
+    },
+    {
+      "property": "P5357",
+      "value": "nature"
+    },
+    {
+      "property": "P5396",
+      "value": "nature"
+    },
+    {
+      "property": "P571",
+      "value": "+1869-01-01T00:00:00Z"
+    },
+    {
+      "property": "P571",
+      "value": "+1869-11-04T00:00:00Z"
+    },
+    {
+      "property": "P580",
+      "value": "+1869-11-04T00:00:00Z"
+    },
+    {
+      "property": "P5983",
+      "value": "41586"
+    },
+    {
+      "property": "P6157",
+      "value": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVoZEhWeVpTNWpiMjBvQUFQAQ"
+    },
+    {
+      "property": "P6180",
+      "value": "1018957"
+    },
+    {
+      "property": "P6366",
+      "value": "137773608"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0bwyb"
+    },
+    {
+      "property": "P6721",
+      "value": "129292834"
+    },
+    {
+      "property": "P6954",
+      "value": "Q910845"
+    },
+    {
+      "property": "P6981",
+      "value": "2721"
+    },
+    {
+      "property": "P6981",
+      "value": "2166034"
+    },
+    {
+      "property": "P7293",
+      "value": "9810576685305606"
+    },
+    {
+      "property": "P7305",
+      "value": "3946149"
+    },
+    {
+      "property": "P7363",
+      "value": "0028-0836"
+    },
+    {
+      "property": "P7461",
+      "value": "21597"
+    },
+    {
+      "property": "P7502",
+      "value": "Nature_(journal)"
+    },
+    {
+      "property": "P7662",
+      "value": "2391156"
+    },
+    {
+      "property": "P7699",
+      "value": "LNB:vLA;=BZ"
+    },
+    {
+      "property": "P8104",
+      "value": "232926"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf12000244"
+    },
+    {
+      "property": "P8189",
+      "value": "987007364986005171"
+    },
+    {
+      "property": "P8313",
+      "value": "Nature"
+    },
+    {
+      "property": "P8359",
+      "value": "505"
+    },
+    {
+      "property": "P8360",
+      "value": "Q1 .N2"
+    },
+    {
+      "property": "P8362",
+      "value": "ZS 0001"
+    },
+    {
+      "property": "P8362",
+      "value": "TA 1000"
+    },
+    {
+      "property": "P8362",
+      "value": "UA 1000"
+    },
+    {
+      "property": "P8362",
+      "value": "WA 15000"
+    },
+    {
+      "property": "P8375",
+      "value": "3415"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.nature.com/"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.nature.com/nature/"
+    },
+    {
+      "property": "P8584",
+      "value": "123"
+    },
+    {
+      "property": "P8608",
+      "value": "container_drfdii35rzaibj3aml5uhvr5xm"
+    },
+    {
+      "property": "P8774",
+      "value": "3308"
+    },
+    {
+      "property": "P8801",
+      "value": "500000830"
+    },
+    {
+      "property": "P8875",
+      "value": "Q371467"
+    },
+    {
+      "property": "P8875",
+      "value": "Q104047209"
+    },
+    {
+      "property": "P8903",
+      "value": "7333"
+    },
+    {
+      "property": "P9035",
+      "value": "nature"
+    },
+    {
+      "property": "P921",
+      "value": "Q7991"
+    },
+    {
+      "property": "P921",
+      "value": "Q249542"
+    },
+    {
+      "property": "P9683",
+      "value": "Q107264142"
+    },
+    {
+      "property": "P98",
+      "value": "Q7183321"
+    },
+    {
+      "property": "P98",
+      "value": "Q52661223"
+    },
+    {
+      "property": "P9852",
+      "value": "nature"
+    },
+    {
+      "property": "P9984",
+      "value": "981058605880706706"
+    }
+  ]
+}

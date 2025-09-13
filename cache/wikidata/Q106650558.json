@@ -1,0 +1,26 @@
+{
+  "id": "Q106650558",
+  "label": "strong and weak typing",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q5282965"
+    },
+    {
+      "property": "P31",
+      "value": "Q5962346"
+    },
+    {
+      "property": "P527",
+      "value": "Q991202"
+    },
+    {
+      "property": "P527",
+      "value": "Q7977969"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03pygd"
+    }
+  ]
+}

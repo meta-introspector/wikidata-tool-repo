@@ -1,0 +1,110 @@
+{
+  "id": "Q3493345",
+  "label": "SPARK",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2781215313"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/AdaCore/spark2014"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/8541f691-077e-458f-b99b-33c1c676a5ec"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/spark-ada"
+    },
+    {
+      "property": "P178",
+      "value": "Q294532"
+    },
+    {
+      "property": "P178",
+      "value": "Q76473"
+    },
+    {
+      "property": "P1889",
+      "value": "Q11244114"
+    },
+    {
+      "property": "P244",
+      "value": "sh2015001170"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513445"
+    },
+    {
+      "property": "P277",
+      "value": "Q154755"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q4117406"
+    },
+    {
+      "property": "P31",
+      "value": "Q506883"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P571",
+      "value": "+1988-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01qplz"
+    },
+    {
+      "property": "P6931",
+      "value": "spark-adacore"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q736866"
+    },
+    {
+      "property": "P8131",
+      "value": "Q154755"
+    },
+    {
+      "property": "P8189",
+      "value": "987007411089005171"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.adacore.com/sparkpro/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Q838108",
+  "label": "volatile variable",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/volatile-keyword"
+    },
+    {
+      "property": "P1269",
+      "value": "Q28057154"
+    },
+    {
+      "property": "P12946",
+      "value": "volatile+variable"
+    },
+    {
+      "property": "P279",
+      "value": "Q877977"
+    },
+    {
+      "property": "P31",
+      "value": "Q4218445"
+    },
+    {
+      "property": "P366",
+      "value": "Q891094"
+    },
+    {
+      "property": "P366",
+      "value": "Q1952502"
+    },
+    {
+      "property": "P6366",
+      "value": "64928576"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03s51p"
+    }
+  ]
+}

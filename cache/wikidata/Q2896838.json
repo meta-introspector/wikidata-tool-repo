@@ -1,0 +1,42 @@
+{
+  "id": "Q2896838",
+  "label": "Beonex Communicator",
+  "facts": [
+    {
+      "property": "P18",
+      "value": "Beonex.6-book-of-mozilla.png"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P366",
+      "value": "Q955452"
+    },
+    {
+      "property": "P373",
+      "value": "Beonex Communicator"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0fl94"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.beonex.com"
+    }
+  ]
+}

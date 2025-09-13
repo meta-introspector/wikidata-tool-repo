@@ -1,0 +1,194 @@
+{
+  "id": "Q210057",
+  "label": "Netscape",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "98010225"
+    },
+    {
+      "property": "P1056",
+      "value": "Q7397"
+    },
+    {
+      "property": "P1065",
+      "value": "http://archive.netscape.com/releases"
+    },
+    {
+      "property": "P112",
+      "value": "Q62882"
+    },
+    {
+      "property": "P112",
+      "value": "Q1373397"
+    },
+    {
+      "property": "P127",
+      "value": "Q467752"
+    },
+    {
+      "property": "P127",
+      "value": "Q27585"
+    },
+    {
+      "property": "P13337",
+      "value": "mcom.com"
+    },
+    {
+      "property": "P13337",
+      "value": "netscape.com"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Netscape-Communications-Corp"
+    },
+    {
+      "property": "P1424",
+      "value": "Q10928925"
+    },
+    {
+      "property": "P1454",
+      "value": "Q134161"
+    },
+    {
+      "property": "P154",
+      "value": "Netscape logo.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q486860"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1830",
+      "value": "Q41226"
+    },
+    {
+      "property": "P1889",
+      "value": "Q7000365"
+    },
+    {
+      "property": "P2088",
+      "value": "netscape"
+    },
+    {
+      "property": "P213",
+      "value": "0000000122174974"
+    },
+    {
+      "property": "P214",
+      "value": "129930547"
+    },
+    {
+      "property": "P2163",
+      "value": "706739"
+    },
+    {
+      "property": "P227",
+      "value": "5503845-1"
+    },
+    {
+      "property": "P244",
+      "value": "nr95017006"
+    },
+    {
+      "property": "P31",
+      "value": "Q167270"
+    },
+    {
+      "property": "P31",
+      "value": "Q6881511"
+    },
+    {
+      "property": "P3280",
+      "value": "0000397199"
+    },
+    {
+      "property": "P3347",
+      "value": "4295910836"
+    },
+    {
+      "property": "P3417",
+      "value": "Netscape"
+    },
+    {
+      "property": "P349",
+      "value": "00753027"
+    },
+    {
+      "property": "P3553",
+      "value": "19665327"
+    },
+    {
+      "property": "P373",
+      "value": "Netscape"
+    },
+    {
+      "property": "P4293",
+      "value": "co/016850"
+    },
+    {
+      "property": "P4342",
+      "value": "Netscape"
+    },
+    {
+      "property": "P452",
+      "value": "Q880371"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"HistoricalEvent\", \"MosaicCommunicationsCorporationIsFounded\"]"
+    },
+    {
+      "property": "P571",
+      "value": "+1994-04-04T00:00:00Z"
+    },
+    {
+      "property": "P576",
+      "value": "+2003-07-15T00:00:00Z"
+    },
+    {
+      "property": "P6058",
+      "value": "images/Netscape/1004467"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05j3v"
+    },
+    {
+      "property": "P749",
+      "value": "Q27585"
+    },
+    {
+      "property": "P800",
+      "value": "Q235419"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf10901137"
+    },
+    {
+      "property": "P8189",
+      "value": "987007270745205171"
+    },
+    {
+      "property": "P822",
+      "value": "Q2465578"
+    },
+    {
+      "property": "P8313",
+      "value": "Netscape"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.netscape.com/"
+    },
+    {
+      "property": "P910",
+      "value": "Q8672578"
+    }
+  ]
+}

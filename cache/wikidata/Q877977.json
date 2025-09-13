@@ -1,0 +1,86 @@
+{
+  "id": "Q877977",
+  "label": "assignable variable",
+  "facts": [
+    {
+      "property": "P12946",
+      "value": "variable"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/variables"
+    },
+    {
+      "property": "P1552",
+      "value": "Q835713"
+    },
+    {
+      "property": "P1552",
+      "value": "Q1196827"
+    },
+    {
+      "property": "P1552",
+      "value": "Q190087"
+    },
+    {
+      "property": "P1552",
+      "value": "Q7661145"
+    },
+    {
+      "property": "P1552",
+      "value": "Q105666562"
+    },
+    {
+      "property": "P1889",
+      "value": "Q10954303"
+    },
+    {
+      "property": "P1889",
+      "value": "Q50701"
+    },
+    {
+      "property": "P2581",
+      "value": "00079583n"
+    },
+    {
+      "property": "P279",
+      "value": "Q50701"
+    },
+    {
+      "property": "P279",
+      "value": "Q124590"
+    },
+    {
+      "property": "P3417",
+      "value": "Variables"
+    },
+    {
+      "property": "P361",
+      "value": "Q124590"
+    },
+    {
+      "property": "P4330",
+      "value": "Q1196827"
+    },
+    {
+      "property": "P6366",
+      "value": "181321632"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05q4tvx"
+    },
+    {
+      "property": "P6611",
+      "value": "103802"
+    },
+    {
+      "property": "P910",
+      "value": "Q7036784"
+    },
+    {
+      "property": "P9621",
+      "value": "variabile-informatica"
+    }
+  ]
+}

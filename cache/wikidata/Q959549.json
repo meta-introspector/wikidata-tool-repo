@@ -1,0 +1,86 @@
+{
+  "id": "Q959549",
+  "label": "shell script",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C150631331"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/shell-script"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-sh"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-sh"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-shellscript"
+    },
+    {
+      "property": "P11947",
+      "value": "shell@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "sh"
+    },
+    {
+      "property": "P18",
+      "value": "Unix-ed-shellscript.png"
+    },
+    {
+      "property": "P279",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q1070421"
+    },
+    {
+      "property": "P31",
+      "value": "Q187432"
+    },
+    {
+      "property": "P31",
+      "value": "Q235557"
+    },
+    {
+      "property": "P3417",
+      "value": "Shell-Scripting"
+    },
+    {
+      "property": "P6366",
+      "value": "150631331"
+    },
+    {
+      "property": "P646",
+      "value": "/m/075bk"
+    },
+    {
+      "property": "P9100",
+      "value": "shell"
+    },
+    {
+      "property": "P9100",
+      "value": "shell-script"
+    },
+    {
+      "property": "P9100",
+      "value": "shell-scripts"
+    },
+    {
+      "property": "P9100",
+      "value": "shellscript"
+    }
+  ]
+}

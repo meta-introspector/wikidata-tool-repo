@@ -1,0 +1,702 @@
+{
+  "id": "Q251",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10037",
+      "value": "linguaggio-java"
+    },
+    {
+      "property": "P10283",
+      "value": "C2908586218"
+    },
+    {
+      "property": "P10283",
+      "value": "C548217200"
+    },
+    {
+      "property": "P1036",
+      "value": "005.133"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/java-language"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/java-programming-language"
+    },
+    {
+      "property": "P1051",
+      "value": "12478"
+    },
+    {
+      "property": "P10565",
+      "value": "546625"
+    },
+    {
+      "property": "P10757",
+      "value": "197235"
+    },
+    {
+      "property": "P10766",
+      "value": "oraclejdk"
+    },
+    {
+      "property": "P11046",
+      "value": "java"
+    },
+    {
+      "property": "P11129",
+      "value": "Java"
+    },
+    {
+      "property": "P11196",
+      "value": "java"
+    },
+    {
+      "property": "P11408",
+      "value": "Java"
+    },
+    {
+      "property": "P11410",
+      "value": "java"
+    },
+    {
+      "property": "P1151",
+      "value": "Q18046417"
+    },
+    {
+      "property": "P1163",
+      "value": "application/java-archive"
+    },
+    {
+      "property": "P11947",
+      "value": "java@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "java"
+    },
+    {
+      "property": "P1195",
+      "value": "class"
+    },
+    {
+      "property": "P1195",
+      "value": "jar"
+    },
+    {
+      "property": "P1195",
+      "value": "jad"
+    },
+    {
+      "property": "P1195",
+      "value": "jmod"
+    },
+    {
+      "property": "P12086",
+      "value": "Java_(programmeertaal)"
+    },
+    {
+      "property": "P12204",
+      "value": "10259"
+    },
+    {
+      "property": "P12695",
+      "value": "Java"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Java"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Java_(langage_de_programmation)"
+    },
+    {
+      "property": "P12873",
+      "value": "Java"
+    },
+    {
+      "property": "P12873",
+      "value": "Java_(Русский)"
+    },
+    {
+      "property": "P12873",
+      "value": "Java_(Português)"
+    },
+    {
+      "property": "P1296",
+      "value": "0247716"
+    },
+    {
+      "property": "P13397",
+      "value": "java"
+    },
+    {
+      "property": "P13397",
+      "value": "java-17"
+    },
+    {
+      "property": "P13397",
+      "value": "java+8"
+    },
+    {
+      "property": "P1343",
+      "value": "Q1684188"
+    },
+    {
+      "property": "P13520",
+      "value": "1209"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/5e93ea92-26de-42c8-8528-42446566516f"
+    },
+    {
+      "property": "P13616",
+      "value": "fr/Java"
+    },
+    {
+      "property": "P138",
+      "value": "Q2642722"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Java-computer-programming-language"
+    },
+    {
+      "property": "P144",
+      "value": "Q10318621"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/java"
+    },
+    {
+      "property": "P1482",
+      "value": "https://serverfault.com/tags/java"
+    },
+    {
+      "property": "P1482",
+      "value": "https://or.stackexchange.com/tags/java"
+    },
+    {
+      "property": "P1535",
+      "value": "Q193321"
+    },
+    {
+      "property": "P1535",
+      "value": "Q741303"
+    },
+    {
+      "property": "P154",
+      "value": "Duke (Java mascot) waving.svg"
+    },
+    {
+      "property": "P1552",
+      "value": "Q197970"
+    },
+    {
+      "property": "P1617",
+      "value": "61fd93eb-35cd-45a4-9c44-a1ecdab57ac3"
+    },
+    {
+      "property": "P178",
+      "value": "Q14647"
+    },
+    {
+      "property": "P178",
+      "value": "Q19900"
+    },
+    {
+      "property": "P178",
+      "value": "Q92622"
+    },
+    {
+      "property": "P18",
+      "value": "Metodo Astratto.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1713118"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2005"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2089134"
+    },
+    {
+      "property": "P1889",
+      "value": "Q3757"
+    },
+    {
+      "property": "P1972",
+      "value": "java"
+    },
+    {
+      "property": "P2002",
+      "value": "java"
+    },
+    {
+      "property": "P227",
+      "value": "4401313-9"
+    },
+    {
+      "property": "P2347",
+      "value": "16144"
+    },
+    {
+      "property": "P2397",
+      "value": "UCmRtPmgnQ04CMUpSUqPfhxQ"
+    },
+    {
+      "property": "P244",
+      "value": "sh95008574"
+    },
+    {
+      "property": "P268",
+      "value": "12533207m"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P287",
+      "value": "Q92622"
+    },
+    {
+      "property": "P287",
+      "value": "Q14647"
+    },
+    {
+      "property": "P31",
+      "value": "Q56062429"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P3222",
+      "value": "java-(programspråk)"
+    },
+    {
+      "property": "P3365",
+      "value": "java"
+    },
+    {
+      "property": "P3417",
+      "value": "Java-programming-language"
+    },
+    {
+      "property": "P3417",
+      "value": "Java-Programming-1"
+    },
+    {
+      "property": "P348",
+      "value": "Java Standard Edition 10"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 14.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 15"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 15.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 15.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 16.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 16.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 17"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 18"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 11"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 19"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 8"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 20"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 21"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 23"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 24"
+    },
+    {
+      "property": "P348",
+      "value": "Java SE 22"
+    },
+    {
+      "property": "P3553",
+      "value": "19561132"
+    },
+    {
+      "property": "P361",
+      "value": "Q1713118"
+    },
+    {
+      "property": "P373",
+      "value": "Java (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "java_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q5127844"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1056451"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q5159109"
+    },
+    {
+      "property": "P3966",
+      "value": "Q609588"
+    },
+    {
+      "property": "P3984",
+      "value": "java"
+    },
+    {
+      "property": "P3985",
+      "value": "Q504453"
+    },
+    {
+      "property": "P4342",
+      "value": "Java_-_IT"
+    },
+    {
+      "property": "P4342",
+      "value": "Java_-_programmeringsspråk"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-Java.wav"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q1860 (eng)-Vealhurl-Java.wav"
+    },
+    {
+      "property": "P4644",
+      "value": "19a8293b-8e95-4de3-983f-77484079c389"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"Java::6847c\"]"
+    },
+    {
+      "property": "P495",
+      "value": "Q30"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "java-informatik"
+    },
+    {
+      "property": "P5445",
+      "value": "3977"
+    },
+    {
+      "property": "P571",
+      "value": "+1995-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Java"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Java"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Java"
+    },
+    {
+      "property": "P6293",
+      "value": "Y109754"
+    },
+    {
+      "property": "P6337",
+      "value": "Engine:Java"
+    },
+    {
+      "property": "P6366",
+      "value": "548217200"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07sbkfb"
+    },
+    {
+      "property": "P6611",
+      "value": "1280"
+    },
+    {
+      "property": "P6706",
+      "value": "Java+(informatica)"
+    },
+    {
+      "property": "P6900",
+      "value": "java"
+    },
+    {
+      "property": "P691",
+      "value": "ph117027"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q736866"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q17123089"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q154755"
+    },
+    {
+      "property": "P737",
+      "value": "Q10371720"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P737",
+      "value": "Q188531"
+    },
+    {
+      "property": "P737",
+      "value": "Q633894"
+    },
+    {
+      "property": "P737",
+      "value": "Q1323362"
+    },
+    {
+      "property": "P737",
+      "value": "Q732089"
+    },
+    {
+      "property": "P737",
+      "value": "Q1928222"
+    },
+    {
+      "property": "P737",
+      "value": "Q1042397"
+    },
+    {
+      "property": "P737",
+      "value": "Q212569"
+    },
+    {
+      "property": "P737",
+      "value": "Q2370"
+    },
+    {
+      "property": "P737",
+      "value": "Q176984"
+    },
+    {
+      "property": "P7502",
+      "value": "Java_(programming_language)-4J3A"
+    },
+    {
+      "property": "P7502",
+      "value": "Java-4J3A"
+    },
+    {
+      "property": "P7726",
+      "value": "Java"
+    },
+    {
+      "property": "P8168",
+      "value": "Q1264583"
+    },
+    {
+      "property": "P8189",
+      "value": "987007561288105171"
+    },
+    {
+      "property": "P822",
+      "value": "Q18246183"
+    },
+    {
+      "property": "P8313",
+      "value": "Java_-_programmeringssprog"
+    },
+    {
+      "property": "P8349",
+      "value": "28880"
+    },
+    {
+      "property": "P8408",
+      "value": "JavaProgrammingLanguage"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.oracle.com/java/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.java.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+477525"
+    },
+    {
+      "property": "P8687",
+      "value": "+387064"
+    },
+    {
+      "property": "P8687",
+      "value": "+505769"
+    },
+    {
+      "property": "P8687",
+      "value": "+543052"
+    },
+    {
+      "property": "P8687",
+      "value": "+218000"
+    },
+    {
+      "property": "P8687",
+      "value": "+240000"
+    },
+    {
+      "property": "P8814",
+      "value": "06913829-n"
+    },
+    {
+      "property": "P8885",
+      "value": "Java"
+    },
+    {
+      "property": "P910",
+      "value": "Q5879648"
+    },
+    {
+      "property": "P9100",
+      "value": "java"
+    },
+    {
+      "property": "P920",
+      "value": "LEM201005018"
+    },
+    {
+      "property": "P950",
+      "value": "XX540033"
+    },
+    {
+      "property": "P9618",
+      "value": "java"
+    },
+    {
+      "property": "P9621",
+      "value": "java"
+    }
+  ]
+}

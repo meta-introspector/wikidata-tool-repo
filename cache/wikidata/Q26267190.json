@@ -1,0 +1,286 @@
+{
+  "id": "Q26267190",
+  "label": "Fuchsia",
+  "facts": [
+    {
+      "property": "P11197",
+      "value": "Q28975257"
+    },
+    {
+      "property": "P1324",
+      "value": "https://fuchsia.googlesource.com/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://fuchsia-review.googlesource.com"
+    },
+    {
+      "property": "P13572",
+      "value": "Fuchsia"
+    },
+    {
+      "property": "P154",
+      "value": "Google Fuchsia Logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Google Fuchsia logo.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/fuchsia"
+    },
+    {
+      "property": "P1705",
+      "value": "Google Fuchsia"
+    },
+    {
+      "property": "P178",
+      "value": "Q95"
+    },
+    {
+      "property": "P18",
+      "value": "Screenshot of Google Fuchsia (July 2017).png"
+    },
+    {
+      "property": "P2037",
+      "value": "fuchsia-mirror"
+    },
+    {
+      "property": "P2078",
+      "value": "https://fuchsia.googlesource.com/docs/+/master/the-book/"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1094291"
+    },
+    {
+      "property": "P2283",
+      "value": "Q115949087"
+    },
+    {
+      "property": "P2283",
+      "value": "Q116698306"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11c1lfhrzs"
+    },
+    {
+      "property": "P275",
+      "value": "Q18491847"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P275",
+      "value": "Q616526"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q406009"
+    },
+    {
+      "property": "P277",
+      "value": "Q37227"
+    },
+    {
+      "property": "P277",
+      "value": "Q28865"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P277",
+      "value": "Q959549"
+    },
+    {
+      "property": "P277",
+      "value": "Q978185"
+    },
+    {
+      "property": "P31",
+      "value": "Q9135"
+    },
+    {
+      "property": "P31",
+      "value": "Q213666"
+    },
+    {
+      "property": "P3417",
+      "value": "Fuchsia-OS"
+    },
+    {
+      "property": "P348",
+      "value": "F1.1"
+    },
+    {
+      "property": "P348",
+      "value": "F1.2"
+    },
+    {
+      "property": "P348",
+      "value": "F1.3"
+    },
+    {
+      "property": "P348",
+      "value": "F4"
+    },
+    {
+      "property": "P348",
+      "value": "F4.1"
+    },
+    {
+      "property": "P348",
+      "value": "F4.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "F4.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "F6"
+    },
+    {
+      "property": "P348",
+      "value": "F7"
+    },
+    {
+      "property": "P348",
+      "value": "F8.0"
+    },
+    {
+      "property": "P348",
+      "value": "F8.1"
+    },
+    {
+      "property": "P348",
+      "value": "F8.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "F9"
+    },
+    {
+      "property": "P348",
+      "value": "F10"
+    },
+    {
+      "property": "P348",
+      "value": "F11"
+    },
+    {
+      "property": "P348",
+      "value": "F12"
+    },
+    {
+      "property": "P348",
+      "value": "F13"
+    },
+    {
+      "property": "P348",
+      "value": "F14"
+    },
+    {
+      "property": "P348",
+      "value": "F15"
+    },
+    {
+      "property": "P348",
+      "value": "F16"
+    },
+    {
+      "property": "P348",
+      "value": "F17"
+    },
+    {
+      "property": "P348",
+      "value": "F18"
+    },
+    {
+      "property": "P348",
+      "value": "F20"
+    },
+    {
+      "property": "P348",
+      "value": "F21"
+    },
+    {
+      "property": "P348",
+      "value": "F22"
+    },
+    {
+      "property": "P348",
+      "value": "F23"
+    },
+    {
+      "property": "P348",
+      "value": "F25"
+    },
+    {
+      "property": "P348",
+      "value": "F26"
+    },
+    {
+      "property": "P348",
+      "value": "F24"
+    },
+    {
+      "property": "P348",
+      "value": "F27"
+    },
+    {
+      "property": "P373",
+      "value": "Google Fuchsia"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P527",
+      "value": "Q30907295"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZqTVd4bWFISjZjeElDYW1Fb0FBUAE"
+    },
+    {
+      "property": "P571",
+      "value": "+2016-08-15T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P856",
+      "value": "https://fuchsia.dev/"
+    },
+    {
+      "property": "P8885",
+      "value": "퓨시아"
+    },
+    {
+      "property": "P9078",
+      "value": "pjfYkmbq69"
+    }
+  ]
+}

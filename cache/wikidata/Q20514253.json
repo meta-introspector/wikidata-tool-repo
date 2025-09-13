@@ -1,0 +1,326 @@
+{
+  "id": "Q20514253",
+  "label": "blockchain",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2779687700"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/blockchain"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/blockchain"
+    },
+    {
+      "property": "P10376",
+      "value": "mathematics/blockchain"
+    },
+    {
+      "property": "P10565",
+      "value": "31477"
+    },
+    {
+      "property": "P10565",
+      "value": "547830"
+    },
+    {
+      "property": "P10715",
+      "value": "b/blockchain"
+    },
+    {
+      "property": "P11137",
+      "value": "blockchain"
+    },
+    {
+      "property": "P11196",
+      "value": "区块链"
+    },
+    {
+      "property": "P12086",
+      "value": "Blockchain"
+    },
+    {
+      "property": "P1269",
+      "value": "Q11016"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Blockchain"
+    },
+    {
+      "property": "P13397",
+      "value": "blockchain"
+    },
+    {
+      "property": "P13397",
+      "value": "Blockchains"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/05b5d07e-0b28-48dd-81cb-46e78062bf65"
+    },
+    {
+      "property": "P138",
+      "value": "Q104886715"
+    },
+    {
+      "property": "P138",
+      "value": "Q2397485"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/blockchain"
+    },
+    {
+      "property": "P1535",
+      "value": "Q13479982"
+    },
+    {
+      "property": "P1535",
+      "value": "Q55648452"
+    },
+    {
+      "property": "P1552",
+      "value": "Q2994424"
+    },
+    {
+      "property": "P1552",
+      "value": "Q477202"
+    },
+    {
+      "property": "P1617",
+      "value": "20d6ceac-d71e-49f3-af42-269cca801223"
+    },
+    {
+      "property": "P18",
+      "value": "Blockchain.svg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q15960875"
+    },
+    {
+      "property": "P1889",
+      "value": "Q134939339"
+    },
+    {
+      "property": "P1889",
+      "value": "Q134942305"
+    },
+    {
+      "property": "P2163",
+      "value": "1981761"
+    },
+    {
+      "property": "P2283",
+      "value": "Q85922388"
+    },
+    {
+      "property": "P2283",
+      "value": "Q85824984"
+    },
+    {
+      "property": "P2283",
+      "value": "Q339678"
+    },
+    {
+      "property": "P2347",
+      "value": "38227"
+    },
+    {
+      "property": "P244",
+      "value": "sh2016002790"
+    },
+    {
+      "property": "P2572",
+      "value": "Blockchain"
+    },
+    {
+      "property": "P2581",
+      "value": "17407540n"
+    },
+    {
+      "property": "P2612",
+      "value": "blockchain"
+    },
+    {
+      "property": "P268",
+      "value": "17100738x"
+    },
+    {
+      "property": "P279",
+      "value": "Q25110971"
+    },
+    {
+      "property": "P279",
+      "value": "Q8513"
+    },
+    {
+      "property": "P279",
+      "value": "Q339678"
+    },
+    {
+      "property": "P279",
+      "value": "Q15836568"
+    },
+    {
+      "property": "P279",
+      "value": "Q175263"
+    },
+    {
+      "property": "P279",
+      "value": "Q27948"
+    },
+    {
+      "property": "P2892",
+      "value": "C5197800"
+    },
+    {
+      "property": "P31",
+      "value": "Q151885"
+    },
+    {
+      "property": "P31",
+      "value": "Q11862829"
+    },
+    {
+      "property": "P31",
+      "value": "Q1047113"
+    },
+    {
+      "property": "P31",
+      "value": "Q2267705"
+    },
+    {
+      "property": "P3365",
+      "value": "blockchain"
+    },
+    {
+      "property": "P3417",
+      "value": "Blockchain-database"
+    },
+    {
+      "property": "P3417",
+      "value": "Blockchain"
+    },
+    {
+      "property": "P373",
+      "value": "Blockchain"
+    },
+    {
+      "property": "P3911",
+      "value": "30190-0"
+    },
+    {
+      "property": "P3984",
+      "value": "BlockChain"
+    },
+    {
+      "property": "P4215",
+      "value": "blockchain"
+    },
+    {
+      "property": "P4527",
+      "value": "444518"
+    },
+    {
+      "property": "P486",
+      "value": "D000081186"
+    },
+    {
+      "property": "P508",
+      "value": "62079"
+    },
+    {
+      "property": "P527",
+      "value": "Q104886715"
+    },
+    {
+      "property": "P5437",
+      "value": "c_ab84e157"
+    },
+    {
+      "property": "P61",
+      "value": "Q13382352"
+    },
+    {
+      "property": "P6363",
+      "value": "http://data.thenextweb.com/tnw/entity/blockchain"
+    },
+    {
+      "property": "P6366",
+      "value": "2779687700"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0138n0j1"
+    },
+    {
+      "property": "P672",
+      "value": "L01.224.134.250"
+    },
+    {
+      "property": "P672",
+      "value": "N04.452.910.200.250"
+    },
+    {
+      "property": "P6900",
+      "value": "ブロックチェーン"
+    },
+    {
+      "property": "P691",
+      "value": "ph1029410"
+    },
+    {
+      "property": "P7502",
+      "value": "Blockchain-VWP"
+    },
+    {
+      "property": "P7502",
+      "value": "Blockchain"
+    },
+    {
+      "property": "P7870",
+      "value": "99915"
+    },
+    {
+      "property": "P8189",
+      "value": "987007368209405171"
+    },
+    {
+      "property": "P910",
+      "value": "Q21402713"
+    },
+    {
+      "property": "P9100",
+      "value": "blockchain"
+    },
+    {
+      "property": "P9272",
+      "value": "59037"
+    },
+    {
+      "property": "P9346",
+      "value": "blockchain"
+    },
+    {
+      "property": "P973",
+      "value": "https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/Innovation/deloitte-uk-what-is-blockchain-2016.pdf"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.ibm.com/blockchain/what-is-blockchain"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.sap.com/poland/insights/what-is-blockchain.html"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.meetri.in/BlockChain.html"
+    }
+  ]
+}

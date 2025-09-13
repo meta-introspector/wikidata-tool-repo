@@ -1,0 +1,26 @@
+{
+  "id": "Q7595944",
+  "label": "stack-based memory allocation",
+  "facts": [
+    {
+      "property": "P1889",
+      "value": "Q177929"
+    },
+    {
+      "property": "P279",
+      "value": "Q2308807"
+    },
+    {
+      "property": "P279",
+      "value": "Q854757"
+    },
+    {
+      "property": "P6366",
+      "value": "20579541"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05_t5x"
+    }
+  ]
+}

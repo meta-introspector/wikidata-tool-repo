@@ -1,0 +1,94 @@
+{
+  "id": "Q7692136",
+  "label": "TechRepublic",
+  "facts": [
+    {
+      "property": "P127",
+      "value": "Q5009253"
+    },
+    {
+      "property": "P13337",
+      "value": "techrepublic.com"
+    },
+    {
+      "property": "P1661",
+      "value": "+3277"
+    },
+    {
+      "property": "P2002",
+      "value": "techrepublic"
+    },
+    {
+      "property": "P2002",
+      "value": "TechRepublic"
+    },
+    {
+      "property": "P2003",
+      "value": "techrepublic"
+    },
+    {
+      "property": "P2013",
+      "value": "TechRepublic"
+    },
+    {
+      "property": "P2397",
+      "value": "UCztLyc4b7vXy_ui-_BGdMRQ"
+    },
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P3417",
+      "value": "TechRepublic"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P4264",
+      "value": "techrepublic"
+    },
+    {
+      "property": "P571",
+      "value": "+1997-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02pvxgf"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.techrepublic.com"
+    },
+    {
+      "property": "P8687",
+      "value": "+11700"
+    },
+    {
+      "property": "P8687",
+      "value": "+231485"
+    },
+    {
+      "property": "P8687",
+      "value": "+231958"
+    },
+    {
+      "property": "P8687",
+      "value": "+13200"
+    },
+    {
+      "property": "P8687",
+      "value": "+14300"
+    },
+    {
+      "property": "P8687",
+      "value": "+15600"
+    },
+    {
+      "property": "P9922",
+      "value": "TechRepublic"
+    }
+  ]
+}

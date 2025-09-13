@@ -1,0 +1,74 @@
+{
+  "id": "Q1051282",
+  "label": "generic programming",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C7051814"
+    },
+    {
+      "property": "P12946",
+      "value": "generic+programming"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/6694d3c6-dde0-42f3-9cc9-31ffbbaf1b43"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/generics"
+    },
+    {
+      "property": "P227",
+      "value": "4431718-9"
+    },
+    {
+      "property": "P244",
+      "value": "sh00000132"
+    },
+    {
+      "property": "P268",
+      "value": "15025202q"
+    },
+    {
+      "property": "P279",
+      "value": "Q80006"
+    },
+    {
+      "property": "P31",
+      "value": "Q188267"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P3417",
+      "value": "Generic-Programming"
+    },
+    {
+      "property": "P3847",
+      "value": "generic_programming_(computer_science)"
+    },
+    {
+      "property": "P6366",
+      "value": "7051814"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0qjrr"
+    },
+    {
+      "property": "P6611",
+      "value": "59265"
+    },
+    {
+      "property": "P8189",
+      "value": "987007290696705171"
+    },
+    {
+      "property": "P910",
+      "value": "Q7216292"
+    }
+  ]
+}

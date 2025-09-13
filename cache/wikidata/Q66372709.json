@@ -1,0 +1,82 @@
+{
+  "id": "Q66372709",
+  "label": "Zilla Slab",
+  "facts": [
+    {
+      "property": "P10687",
+      "value": "Zilla+Slab"
+    },
+    {
+      "property": "P11599",
+      "value": "88465"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/zilla-slab"
+    },
+    {
+      "property": "P1535",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Zilla Slab spec.svg"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11fmhx9cl5"
+    },
+    {
+      "property": "P275",
+      "value": "Q1150837"
+    },
+    {
+      "property": "P279",
+      "value": "Q1892715"
+    },
+    {
+      "property": "P279",
+      "value": "Q21777259"
+    },
+    {
+      "property": "P282",
+      "value": "Q8229"
+    },
+    {
+      "property": "P287",
+      "value": "Q7172834"
+    },
+    {
+      "property": "P31",
+      "value": "Q58481926"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.002"
+    },
+    {
+      "property": "P373",
+      "value": "Zilla Slab"
+    },
+    {
+      "property": "P4586",
+      "value": "Q7861410"
+    },
+    {
+      "property": "P577",
+      "value": "+2017-00-00T00:00:00Z"
+    },
+    {
+      "property": "P856",
+      "value": "https://mozilla.design/mozilla/typography/"
+    },
+    {
+      "property": "P88",
+      "value": "Q55672"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "Q188436",
+  "label": "ALGOL",
+  "facts": [
+    {
+      "property": "P12385",
+      "value": "algol"
+    },
+    {
+      "property": "P1296",
+      "value": "0002571"
+    },
+    {
+      "property": "P1343",
+      "value": "Q123560817"
+    },
+    {
+      "property": "P13520",
+      "value": "3117"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/2ae51e9f-bd0b-4bed-9a4e-238602465520"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/ALGOL-computer-language"
+    },
+    {
+      "property": "P1448",
+      "value": "Algorithmic Language"
+    },
+    {
+      "property": "P154",
+      "value": "1965 ALGOL Logotype.jpg"
+    },
+    {
+      "property": "P1813",
+      "value": "ALGOL"
+    },
+    {
+      "property": "P2347",
+      "value": "38349"
+    },
+    {
+      "property": "P244",
+      "value": "sh85003475"
+    },
+    {
+      "property": "P287",
+      "value": "Q68604"
+    },
+    {
+      "property": "P287",
+      "value": "Q17352708"
+    },
+    {
+      "property": "P287",
+      "value": "Q92710"
+    },
+    {
+      "property": "P287",
+      "value": "Q92914"
+    },
+    {
+      "property": "P287",
+      "value": "Q92746"
+    },
+    {
+      "property": "P287",
+      "value": "Q16090521"
+    },
+    {
+      "property": "P287",
+      "value": "Q62861"
+    },
+    {
+      "property": "P287",
+      "value": "Q32318016"
+    },
+    {
+      "property": "P287",
+      "value": "Q92618"
+    },
+    {
+      "property": "P287",
+      "value": "Q2898705"
+    },
+    {
+      "property": "P287",
+      "value": "Q93015"
+    },
+    {
+      "property": "P287",
+      "value": "Q334952"
+    },
+    {
+      "property": "P287",
+      "value": "Q92739"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920117"
+    },
+    {
+      "property": "P3381",
+      "value": "ALGOL"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819227"
+    },
+    {
+      "property": "P373",
+      "value": "Algol (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P4342",
+      "value": "Algol_-_programmeringsspråk"
+    },
+    {
+      "property": "P571",
+      "value": "+1959-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0q1x"
+    },
+    {
+      "property": "P6706",
+      "value": "ALGOL"
+    },
+    {
+      "property": "P691",
+      "value": "ph499504"
+    },
+    {
+      "property": "P737",
+      "value": "Q83303"
+    },
+    {
+      "property": "P747",
+      "value": "Q1094499"
+    },
+    {
+      "property": "P747",
+      "value": "Q1209759"
+    },
+    {
+      "property": "P747",
+      "value": "Q2166735"
+    },
+    {
+      "property": "P7554",
+      "value": "Algorithmic_language"
+    },
+    {
+      "property": "P8189",
+      "value": "987007293928505171"
+    },
+    {
+      "property": "P8313",
+      "value": "Algol_-_programmeringssprog"
+    },
+    {
+      "property": "P910",
+      "value": "Q7467472"
+    },
+    {
+      "property": "P920",
+      "value": "LEM201000337"
+    },
+    {
+      "property": "P950",
+      "value": "XX541596"
+    },
+    {
+      "property": "P9621",
+      "value": "algol"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/487"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/YKv47J"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "Q183888",
+  "label": "software developer",
+  "facts": [
+    {
+      "property": "P1014",
+      "value": "300386684"
+    },
+    {
+      "property": "P1043",
+      "value": "10053"
+    },
+    {
+      "property": "P11137",
+      "value": "software_developer"
+    },
+    {
+      "property": "P12086",
+      "value": "Softwareontwikkelaar"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/01b84ecc-7663-479b-b3e3-5b816d235dca"
+    },
+    {
+      "property": "P1687",
+      "value": "P943"
+    },
+    {
+      "property": "P1687",
+      "value": "P178"
+    },
+    {
+      "property": "P1687",
+      "value": "P170"
+    },
+    {
+      "property": "P18",
+      "value": "Programmer writing code with Unit Tests.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q115641904"
+    },
+    {
+      "property": "P1889",
+      "value": "Q125251322"
+    },
+    {
+      "property": "P1963",
+      "value": "P452"
+    },
+    {
+      "property": "P1963",
+      "value": "P159"
+    },
+    {
+      "property": "P1963",
+      "value": "P856"
+    },
+    {
+      "property": "P1963",
+      "value": "P1056"
+    },
+    {
+      "property": "P227",
+      "value": "7701096-6"
+    },
+    {
+      "property": "P227",
+      "value": "7701097-8"
+    },
+    {
+      "property": "P2283",
+      "value": "Q13741"
+    },
+    {
+      "property": "P2283",
+      "value": "Q250"
+    },
+    {
+      "property": "P2283",
+      "value": "Q68"
+    },
+    {
+      "property": "P2347",
+      "value": "29407"
+    },
+    {
+      "property": "P2521",
+      "value": "développeuse"
+    },
+    {
+      "property": "P2521",
+      "value": "Softwareentwicklerin"
+    },
+    {
+      "property": "P2521",
+      "value": "vývojářka"
+    },
+    {
+      "property": "P2521",
+      "value": "softwareontwikkelaarster"
+    },
+    {
+      "property": "P2521",
+      "value": "desarrolladora de software"
+    },
+    {
+      "property": "P2521",
+      "value": "مطورة برمجيات"
+    },
+    {
+      "property": "P2521",
+      "value": "Softwareentwécklerin"
+    },
+    {
+      "property": "P2521",
+      "value": "desenvolvedora de software"
+    },
+    {
+      "property": "P2521",
+      "value": "desarrolladora de software"
+    },
+    {
+      "property": "P2521",
+      "value": "праграмістка"
+    },
+    {
+      "property": "P2521",
+      "value": "programevoluigistino"
+    },
+    {
+      "property": "P2521",
+      "value": "sviluppatrice"
+    },
+    {
+      "property": "P2521",
+      "value": "програмістка"
+    },
+    {
+      "property": "P2521",
+      "value": "розробниця програмного забезпечення"
+    },
+    {
+      "property": "P2521",
+      "value": "desenvolupadora de programari"
+    },
+    {
+      "property": "P2521",
+      "value": "razvijalka programske opreme"
+    },
+    {
+      "property": "P2521",
+      "value": "desenvolvedora de software"
+    },
+    {
+      "property": "P2521",
+      "value": "разработчица программного обеспечения"
+    },
+    {
+      "property": "P2521",
+      "value": "desenroaora de software"
+    },
+    {
+      "property": "P2521",
+      "value": "deweloperka oprogramowania"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/121pkf9q"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11h7j071fm"
+    },
+    {
+      "property": "P279",
+      "value": "Q1709010"
+    },
+    {
+      "property": "P279",
+      "value": "Q108289400"
+    },
+    {
+      "property": "P31",
+      "value": "Q28640"
+    },
+    {
+      "property": "P31",
+      "value": "Q4164871"
+    },
+    {
+      "property": "P31",
+      "value": "Q108300140"
+    },
+    {
+      "property": "P31",
+      "value": "Q12737077"
+    },
+    {
+      "property": "P3321",
+      "value": "Softwareentwéckler"
+    },
+    {
+      "property": "P3321",
+      "value": "desenvolvedor de software"
+    },
+    {
+      "property": "P3321",
+      "value": "праграмоўца"
+    },
+    {
+      "property": "P3321",
+      "value": "sviluppatore software"
+    },
+    {
+      "property": "P3321",
+      "value": "desenroaol de software"
+    },
+    {
+      "property": "P3321",
+      "value": "développeur informatique"
+    },
+    {
+      "property": "P3321",
+      "value": "مطور برمجيات"
+    },
+    {
+      "property": "P3417",
+      "value": "Software-Developers"
+    },
+    {
+      "property": "P3553",
+      "value": "19693942"
+    },
+    {
+      "property": "P425",
+      "value": "Q638608"
+    },
+    {
+      "property": "P425",
+      "value": "Q130296142"
+    },
+    {
+      "property": "P460",
+      "value": "Q5482740"
+    },
+    {
+      "property": "P4652",
+      "value": "f2b15a0e-e65a-438a-affb-29b9d50b77d1"
+    },
+    {
+      "property": "P4968",
+      "value": "Q125417815"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086158"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086175"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086181"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086211"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086229"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086243"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086256"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086263"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086279"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086303"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086324"
+    },
+    {
+      "property": "P4968",
+      "value": "Q126086336"
+    },
+    {
+      "property": "P7179",
+      "value": "analyste-programmeur-analyste-programmeuse"
+    },
+    {
+      "property": "P8168",
+      "value": "Q749900"
+    },
+    {
+      "property": "P8283",
+      "value": "2512"
+    },
+    {
+      "property": "P8629",
+      "value": "computer-and-information-technology/software-developers"
+    },
+    {
+      "property": "P867",
+      "value": "14153"
+    },
+    {
+      "property": "P919",
+      "value": "15-1132"
+    },
+    {
+      "property": "P919",
+      "value": "15-1133"
+    },
+    {
+      "property": "P919",
+      "value": "15-1130"
+    },
+    {
+      "property": "P952",
+      "value": "2131"
+    }
+  ]
+}

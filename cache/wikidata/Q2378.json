@@ -1,0 +1,210 @@
+{
+  "id": "Q2378",
+  "label": "Visual Basic",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q76142694"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105855309"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105855178"
+    },
+    {
+      "property": "P1073",
+      "value": "Q49989460"
+    },
+    {
+      "property": "P1073",
+      "value": "Q76142694"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105855309"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105855178"
+    },
+    {
+      "property": "P1073",
+      "value": "Q111511817"
+    },
+    {
+      "property": "P11196",
+      "value": "vb"
+    },
+    {
+      "property": "P12204",
+      "value": "10513"
+    },
+    {
+      "property": "P12946",
+      "value": "Visual+BASIC"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/2a34d95c-740e-4525-9121-51160d71a5b6"
+    },
+    {
+      "property": "P1366",
+      "value": "Q50077"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Visual-Basic"
+    },
+    {
+      "property": "P144",
+      "value": "Q1056057"
+    },
+    {
+      "property": "P1705",
+      "value": "Visual Basic"
+    },
+    {
+      "property": "P178",
+      "value": "Q2283"
+    },
+    {
+      "property": "P1889",
+      "value": "Q50077"
+    },
+    {
+      "property": "P2347",
+      "value": "15534"
+    },
+    {
+      "property": "P244",
+      "value": "sh2013001451"
+    },
+    {
+      "property": "P279",
+      "value": "Q42979"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920813"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q13741"
+    },
+    {
+      "property": "P3381",
+      "value": "Visual_Basic"
+    },
+    {
+      "property": "P3417",
+      "value": "Visual-Basic-programming-language"
+    },
+    {
+      "property": "P3553",
+      "value": "19569722"
+    },
+    {
+      "property": "P373",
+      "value": "Visual Basic"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1135914"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P400",
+      "value": "Q1406"
+    },
+    {
+      "property": "P4342",
+      "value": "Visual_Basic"
+    },
+    {
+      "property": "P4969",
+      "value": "Q50077"
+    },
+    {
+      "property": "P4969",
+      "value": "Q13743"
+    },
+    {
+      "property": "P4969",
+      "value": "Q667566"
+    },
+    {
+      "property": "P571",
+      "value": "+1991-01-01T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "94"
+    },
+    {
+      "property": "P6293",
+      "value": "Y106307"
+    },
+    {
+      "property": "P6366",
+      "value": "2777315864"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0fp_1y"
+    },
+    {
+      "property": "P6900",
+      "value": "visual basic"
+    },
+    {
+      "property": "P691",
+      "value": "ph135537"
+    },
+    {
+      "property": "P747",
+      "value": "Q19367195"
+    },
+    {
+      "property": "P8408",
+      "value": "VisualBasic"
+    },
+    {
+      "property": "P856",
+      "value": "https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation"
+    },
+    {
+      "property": "P910",
+      "value": "Q9315020"
+    },
+    {
+      "property": "P9100",
+      "value": "vb"
+    },
+    {
+      "property": "P9100",
+      "value": "visualbasic"
+    }
+  ]
+}

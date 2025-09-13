@@ -1,0 +1,434 @@
+{
+  "id": "Q15777",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10",
+      "value": "Clangset01.ogv"
+    },
+    {
+      "property": "P10",
+      "value": "Scope von Variablen in C Funktionsaufrufe und Parameteruebergabe.webm"
+    },
+    {
+      "property": "P10283",
+      "value": "C2986567400"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/c-programming"
+    },
+    {
+      "property": "P1051",
+      "value": "12476"
+    },
+    {
+      "property": "P10565",
+      "value": "546614"
+    },
+    {
+      "property": "P11129",
+      "value": "C"
+    },
+    {
+      "property": "P11196",
+      "value": "c语言"
+    },
+    {
+      "property": "P11196",
+      "value": "c"
+    },
+    {
+      "property": "P11292",
+      "value": "c.7"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-c"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-chdr"
+    },
+    {
+      "property": "P1195",
+      "value": "c"
+    },
+    {
+      "property": "P1195",
+      "value": "h"
+    },
+    {
+      "property": "P12086",
+      "value": "C_(programmeertaal)"
+    },
+    {
+      "property": "P12385",
+      "value": "c-1"
+    },
+    {
+      "property": "P12695",
+      "value": "C"
+    },
+    {
+      "property": "P12800",
+      "value": "it:C_(linguaggio)"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:C_(langage_de_programmation)"
+    },
+    {
+      "property": "P12873",
+      "value": "C"
+    },
+    {
+      "property": "P12873",
+      "value": "C_(Español)"
+    },
+    {
+      "property": "P12873",
+      "value": "C_(Русский)"
+    },
+    {
+      "property": "P1296",
+      "value": "0262305"
+    },
+    {
+      "property": "P13397",
+      "value": "C"
+    },
+    {
+      "property": "P1343",
+      "value": "Q85547147"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/7953a614-4dab-469b-8740-221571c086b7"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/C-computer-programming-language"
+    },
+    {
+      "property": "P1424",
+      "value": "Q8084962"
+    },
+    {
+      "property": "P144",
+      "value": "Q797302"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/c"
+    },
+    {
+      "property": "P154",
+      "value": "The C Programming Language logo.svg"
+    },
+    {
+      "property": "P155",
+      "value": "Q797302"
+    },
+    {
+      "property": "P1552",
+      "value": "Q197970"
+    },
+    {
+      "property": "P178",
+      "value": "Q217365"
+    },
+    {
+      "property": "P178",
+      "value": "Q45575"
+    },
+    {
+      "property": "P178",
+      "value": "Q180003"
+    },
+    {
+      "property": "P178",
+      "value": "Q15028"
+    },
+    {
+      "property": "P178",
+      "value": "Q1107006"
+    },
+    {
+      "property": "P18",
+      "value": "Gedit hello world.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q9820"
+    },
+    {
+      "property": "P2163",
+      "value": "843279"
+    },
+    {
+      "property": "P227",
+      "value": "4113195-2"
+    },
+    {
+      "property": "P2347",
+      "value": "18909"
+    },
+    {
+      "property": "P244",
+      "value": "sh85018532"
+    },
+    {
+      "property": "P2581",
+      "value": "00014377n"
+    },
+    {
+      "property": "P268",
+      "value": "119665180"
+    },
+    {
+      "property": "P269",
+      "value": "027672441"
+    },
+    {
+      "property": "P287",
+      "value": "Q45575"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920117"
+    },
+    {
+      "property": "P31",
+      "value": "Q651794"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P3222",
+      "value": "c"
+    },
+    {
+      "property": "P3417",
+      "value": "C-programming-language"
+    },
+    {
+      "property": "P373",
+      "value": "C (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "c_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3984",
+      "value": "C_Programming"
+    },
+    {
+      "property": "P3984",
+      "value": "cprogramming"
+    },
+    {
+      "property": "P4342",
+      "value": "C_-_programmeringsspråk"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"C::p5vhv\"]"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5555",
+      "value": "1999 ISO C Concepts.png"
+    },
+    {
+      "property": "P571",
+      "value": "+1972-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "24068/c-programming-language-c"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01t6b"
+    },
+    {
+      "property": "P6706",
+      "value": "c"
+    },
+    {
+      "property": "P6857",
+      "value": "X3010"
+    },
+    {
+      "property": "P6900",
+      "value": "c言語"
+    },
+    {
+      "property": "P691",
+      "value": "ph116955"
+    },
+    {
+      "property": "P7078",
+      "value": "Q17123089"
+    },
+    {
+      "property": "P7078",
+      "value": "Q7977969"
+    },
+    {
+      "property": "P737",
+      "value": "Q2166735"
+    },
+    {
+      "property": "P737",
+      "value": "Q797302"
+    },
+    {
+      "property": "P737",
+      "value": "Q165436"
+    },
+    {
+      "property": "P737",
+      "value": "Q83303"
+    },
+    {
+      "property": "P737",
+      "value": "Q223433"
+    },
+    {
+      "property": "P737",
+      "value": "Q2347334"
+    },
+    {
+      "property": "P737",
+      "value": "Q810009"
+    },
+    {
+      "property": "P737",
+      "value": "Q1209759"
+    },
+    {
+      "property": "P737",
+      "value": "Q188436"
+    },
+    {
+      "property": "P747",
+      "value": "Q66015010"
+    },
+    {
+      "property": "P747",
+      "value": "Q1931402"
+    },
+    {
+      "property": "P747",
+      "value": "Q1151257"
+    },
+    {
+      "property": "P747",
+      "value": "Q4035552"
+    },
+    {
+      "property": "P747",
+      "value": "Q56277125"
+    },
+    {
+      "property": "P747",
+      "value": "Q67693987"
+    },
+    {
+      "property": "P7502",
+      "value": "C_(programming_language)-58V8"
+    },
+    {
+      "property": "P7726",
+      "value": "C1"
+    },
+    {
+      "property": "P8168",
+      "value": "Q1351443"
+    },
+    {
+      "property": "P8189",
+      "value": "987007293665105171"
+    },
+    {
+      "property": "P8408",
+      "value": "C-ProgrammingLanguage"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.iso.org/standard/74528.html"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.open-std.org/jtc1/sc22/wg14/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.iso.org/standard/82075.html"
+    },
+    {
+      "property": "P8814",
+      "value": "06915472-n"
+    },
+    {
+      "property": "P8885",
+      "value": "C(프로그래밍 언어)"
+    },
+    {
+      "property": "P910",
+      "value": "Q6344889"
+    },
+    {
+      "property": "P9100",
+      "value": "c"
+    },
+    {
+      "property": "P9618",
+      "value": "c-programming-language-"
+    },
+    {
+      "property": "P9621",
+      "value": "c_res-5810a559-a990-11e7-adb0-00271042e8d9"
+    }
+  ]
+}

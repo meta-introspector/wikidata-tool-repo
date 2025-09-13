@@ -1,0 +1,154 @@
+{
+  "id": "Q633894",
+  "label": "Object Pascal",
+  "facts": [
+    {
+      "property": "P1195",
+      "value": "p"
+    },
+    {
+      "property": "P1195",
+      "value": "pp"
+    },
+    {
+      "property": "P1195",
+      "value": "pas"
+    },
+    {
+      "property": "P144",
+      "value": "Q81571"
+    },
+    {
+      "property": "P178",
+      "value": "Q1052709"
+    },
+    {
+      "property": "P178",
+      "value": "Q92604"
+    },
+    {
+      "property": "P18",
+      "value": "Delphi7Screenshot.jpg"
+    },
+    {
+      "property": "P1814",
+      "value": "オブジェクト パスカル"
+    },
+    {
+      "property": "P2347",
+      "value": "16500"
+    },
+    {
+      "property": "P2581",
+      "value": "03472690n"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920117"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P373",
+      "value": "Pascal Script"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1135914"
+    },
+    {
+      "property": "P571",
+      "value": "+1986-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6293",
+      "value": "Y109140"
+    },
+    {
+      "property": "P6366",
+      "value": "2780168620"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02yjg_"
+    },
+    {
+      "property": "P691",
+      "value": "ph117950"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q736866"
+    },
+    {
+      "property": "P737",
+      "value": "Q81571"
+    },
+    {
+      "property": "P737",
+      "value": "Q235086"
+    },
+    {
+      "property": "P910",
+      "value": "Q21523584"
+    },
+    {
+      "property": "P9100",
+      "value": "object-pascal"
+    },
+    {
+      "property": "P9618",
+      "value": "object-pascal"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "Q312466",
+  "label": "utility software",
+  "facts": [
+    {
+      "property": "P1051",
+      "value": "12557"
+    },
+    {
+      "property": "P11514",
+      "value": "utilita-c7aac6"
+    },
+    {
+      "property": "P12385",
+      "value": "utilitat"
+    },
+    {
+      "property": "P12946",
+      "value": "utility+software"
+    },
+    {
+      "property": "P1296",
+      "value": "0269732"
+    },
+    {
+      "property": "P13084",
+      "value": "87"
+    },
+    {
+      "property": "P13397",
+      "value": "utility"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/a2f17a6c-45cc-4fb5-91d2-296acb691b62"
+    },
+    {
+      "property": "P2163",
+      "value": "1163336"
+    },
+    {
+      "property": "P227",
+      "value": "4012188-4"
+    },
+    {
+      "property": "P244",
+      "value": "sh85141625"
+    },
+    {
+      "property": "P2581",
+      "value": "00070672n"
+    },
+    {
+      "property": "P268",
+      "value": "12064817k"
+    },
+    {
+      "property": "P269",
+      "value": "028909984"
+    },
+    {
+      "property": "P279",
+      "value": "Q676202"
+    },
+    {
+      "property": "P279",
+      "value": "Q40056"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3365",
+      "value": "utility"
+    },
+    {
+      "property": "P3417",
+      "value": "Utility-Software"
+    },
+    {
+      "property": "P373",
+      "value": "Utility software"
+    },
+    {
+      "property": "P3827",
+      "value": "utility-software"
+    },
+    {
+      "property": "P3847",
+      "value": "utilities_(computer_programs)"
+    },
+    {
+      "property": "P460",
+      "value": "Q131742246"
+    },
+    {
+      "property": "P5250",
+      "value": "1008"
+    },
+    {
+      "property": "P5844",
+      "value": "utility"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03nhvb"
+    },
+    {
+      "property": "P691",
+      "value": "ph170622"
+    },
+    {
+      "property": "P7749",
+      "value": "10414"
+    },
+    {
+      "property": "P8408",
+      "value": "UtilityProgram"
+    },
+    {
+      "property": "P910",
+      "value": "Q8244193"
+    },
+    {
+      "property": "P9100",
+      "value": "utility"
+    }
+  ]
+}

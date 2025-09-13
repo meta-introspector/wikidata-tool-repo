@@ -1,0 +1,74 @@
+{
+  "id": "Q1211457",
+  "label": "software release life cycle",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C135945739"
+    },
+    {
+      "property": "P1056",
+      "value": "Q7397"
+    },
+    {
+      "property": "P18",
+      "value": "Software dev2.svg"
+    },
+    {
+      "property": "P279",
+      "value": "Q3249551"
+    },
+    {
+      "property": "P279",
+      "value": "Q5412715"
+    },
+    {
+      "property": "P361",
+      "value": "Q1054011"
+    },
+    {
+      "property": "P361",
+      "value": "Q638608"
+    },
+    {
+      "property": "P527",
+      "value": "Q51953994"
+    },
+    {
+      "property": "P527",
+      "value": "Q51953936"
+    },
+    {
+      "property": "P527",
+      "value": "Q51954732"
+    },
+    {
+      "property": "P527",
+      "value": "Q51954664"
+    },
+    {
+      "property": "P527",
+      "value": "Q51938153"
+    },
+    {
+      "property": "P527",
+      "value": "Q51954692"
+    },
+    {
+      "property": "P527",
+      "value": "Q1550400"
+    },
+    {
+      "property": "P6366",
+      "value": "135945739"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01g84g"
+    },
+    {
+      "property": "P691",
+      "value": "ph127838"
+    }
+  ]
+}

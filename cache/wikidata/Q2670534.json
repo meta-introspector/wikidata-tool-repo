@@ -1,0 +1,58 @@
+{
+  "id": "Q2670534",
+  "label": "programming language theory",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C18701968"
+    },
+    {
+      "property": "P1382",
+      "value": "Q3984091"
+    },
+    {
+      "property": "P1382",
+      "value": "Q1056428"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/language-theory"
+    },
+    {
+      "property": "P2578",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q123370638"
+    },
+    {
+      "property": "P3417",
+      "value": "Programming-Language-Theory"
+    },
+    {
+      "property": "P373",
+      "value": "Programming language theory"
+    },
+    {
+      "property": "P6366",
+      "value": "18701968"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0b4wq2"
+    },
+    {
+      "property": "P7554",
+      "value": "Theoretical_programming"
+    },
+    {
+      "property": "P8885",
+      "value": "프로그래밍 언어론"
+    },
+    {
+      "property": "P910",
+      "value": "Q7036022"
+    }
+  ]
+}

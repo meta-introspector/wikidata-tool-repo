@@ -1,0 +1,238 @@
+{
+  "id": "Q47506",
+  "label": "compiler",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C9957790"
+    },
+    {
+      "property": "P10283",
+      "value": "C169590947"
+    },
+    {
+      "property": "P1051",
+      "value": "12469"
+    },
+    {
+      "property": "P1056",
+      "value": "Q157965"
+    },
+    {
+      "property": "P11129",
+      "value": "Compiler"
+    },
+    {
+      "property": "P11514",
+      "value": "kompiliator-6d89ee"
+    },
+    {
+      "property": "P11567",
+      "value": "compiler"
+    },
+    {
+      "property": "P12385",
+      "value": "compilar"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Compilateur"
+    },
+    {
+      "property": "P12946",
+      "value": "compiler"
+    },
+    {
+      "property": "P1296",
+      "value": "0170217"
+    },
+    {
+      "property": "P13397",
+      "value": "compiler"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/4e578123-351f-4950-a8e5-eb43e1daac4d"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/compiler"
+    },
+    {
+      "property": "P1552",
+      "value": "Q5156378"
+    },
+    {
+      "property": "P1617",
+      "value": "58209a25-babc-4477-bbd4-2cc7ad00afae"
+    },
+    {
+      "property": "P18",
+      "value": "Compiler.svg"
+    },
+    {
+      "property": "P227",
+      "value": "4148248-7"
+    },
+    {
+      "property": "P2283",
+      "value": "Q128751"
+    },
+    {
+      "property": "P244",
+      "value": "sh86007588"
+    },
+    {
+      "property": "P2579",
+      "value": "Q1121462"
+    },
+    {
+      "property": "P2581",
+      "value": "00021344n"
+    },
+    {
+      "property": "P268",
+      "value": "120631538"
+    },
+    {
+      "property": "P279",
+      "value": "Q114900488"
+    },
+    {
+      "property": "P279",
+      "value": "Q4117406"
+    },
+    {
+      "property": "P2924",
+      "value": "2087056"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3365",
+      "value": "compilatore"
+    },
+    {
+      "property": "P3417",
+      "value": "Compilers"
+    },
+    {
+      "property": "P349",
+      "value": "01191219"
+    },
+    {
+      "property": "P3553",
+      "value": "19608032"
+    },
+    {
+      "property": "P3553",
+      "value": "19851335"
+    },
+    {
+      "property": "P366",
+      "value": "Q12769326"
+    },
+    {
+      "property": "P373",
+      "value": "Compilers"
+    },
+    {
+      "property": "P3827",
+      "value": "compilers"
+    },
+    {
+      "property": "P3847",
+      "value": "compilers_(computer_programs)"
+    },
+    {
+      "property": "P3984",
+      "value": "Compilers"
+    },
+    {
+      "property": "P4342",
+      "value": "kompilator"
+    },
+    {
+      "property": "P461",
+      "value": "Q913697"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P508",
+      "value": "2330"
+    },
+    {
+      "property": "P6366",
+      "value": "9957790"
+    },
+    {
+      "property": "P6366",
+      "value": "169590947"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01r0b"
+    },
+    {
+      "property": "P6611",
+      "value": "13817"
+    },
+    {
+      "property": "P6706",
+      "value": "compilatóre"
+    },
+    {
+      "property": "P6900",
+      "value": "コンパイラ"
+    },
+    {
+      "property": "P691",
+      "value": "ph316225"
+    },
+    {
+      "property": "P8189",
+      "value": "987007531795805171"
+    },
+    {
+      "property": "P8313",
+      "value": "compiler"
+    },
+    {
+      "property": "P8408",
+      "value": "Compiler"
+    },
+    {
+      "property": "P8687",
+      "value": "+14055"
+    },
+    {
+      "property": "P8834",
+      "value": "compiler"
+    },
+    {
+      "property": "P8855",
+      "value": "171-05-27"
+    },
+    {
+      "property": "P8885",
+      "value": "컴파일러"
+    },
+    {
+      "property": "P910",
+      "value": "Q7216541"
+    },
+    {
+      "property": "P9100",
+      "value": "compiler"
+    },
+    {
+      "property": "P950",
+      "value": "XX532454"
+    }
+  ]
+}

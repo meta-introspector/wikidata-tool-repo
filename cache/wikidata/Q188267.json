@@ -1,0 +1,126 @@
+{
+  "id": "Q188267",
+  "label": "programming paradigm",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C34165917"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/programming-paradigm"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/programming-paradigm"
+    },
+    {
+      "property": "P11514",
+      "value": "paradigmy-programmirovaniia-9bf4b7"
+    },
+    {
+      "property": "P1245",
+      "value": "975466"
+    },
+    {
+      "property": "P1269",
+      "value": "Q21198"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Paradigma_de_programación"
+    },
+    {
+      "property": "P1424",
+      "value": "Q8084577"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/paradigms"
+    },
+    {
+      "property": "P1687",
+      "value": "P3966"
+    },
+    {
+      "property": "P227",
+      "value": "4308224-5"
+    },
+    {
+      "property": "P2581",
+      "value": "01164163n"
+    },
+    {
+      "property": "P2737",
+      "value": "Q23766486"
+    },
+    {
+      "property": "P2737",
+      "value": "Q23766486"
+    },
+    {
+      "property": "P279",
+      "value": "Q28643"
+    },
+    {
+      "property": "P279",
+      "value": "Q962139"
+    },
+    {
+      "property": "P2924",
+      "value": "2706683"
+    },
+    {
+      "property": "P3417",
+      "value": "Programming-Paradigms"
+    },
+    {
+      "property": "P3553",
+      "value": "19650750"
+    },
+    {
+      "property": "P373",
+      "value": "Programming language by paradigm"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5555",
+      "value": "Programming paradigms.svg"
+    },
+    {
+      "property": "P6366",
+      "value": "34165917"
+    },
+    {
+      "property": "P646",
+      "value": "/m/019zst"
+    },
+    {
+      "property": "P6564",
+      "value": "programming-paradigm"
+    },
+    {
+      "property": "P6706",
+      "value": "paradigma"
+    },
+    {
+      "property": "P6900",
+      "value": "プログラミングパラダイム"
+    },
+    {
+      "property": "P8885",
+      "value": "프로그래밍 패러다임"
+    },
+    {
+      "property": "P910",
+      "value": "Q9975116"
+    },
+    {
+      "property": "P9621",
+      "value": "paradigma"
+    }
+  ]
+}

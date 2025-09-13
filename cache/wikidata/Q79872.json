@@ -1,0 +1,210 @@
+{
+  "id": "Q79872",
+  "label": "object-oriented programming",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C73752529"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/object-oriented-programming"
+    },
+    {
+      "property": "P10376",
+      "value": "earth-and-planetary-sciences/object-oriented-programming"
+    },
+    {
+      "property": "P1051",
+      "value": "12473"
+    },
+    {
+      "property": "P11514",
+      "value": "ob-ektno-orientirovannoe-programmirovanie-ab1717"
+    },
+    {
+      "property": "P1245",
+      "value": "953319"
+    },
+    {
+      "property": "P13397",
+      "value": "Programaci%25C3%25B3n+Orientada+a+Objetos"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/2616bdd5-359f-401f-b1c0-fadd8364b06d"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/object-oriented-programming"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/oop"
+    },
+    {
+      "property": "P1482",
+      "value": "https://proofassistants.stackexchange.com/tags/oop"
+    },
+    {
+      "property": "P1552",
+      "value": "Q899523"
+    },
+    {
+      "property": "P2163",
+      "value": "1042804"
+    },
+    {
+      "property": "P227",
+      "value": "4233947-9"
+    },
+    {
+      "property": "P2347",
+      "value": "15122"
+    },
+    {
+      "property": "P244",
+      "value": "sh87007503"
+    },
+    {
+      "property": "P268",
+      "value": "12115131k"
+    },
+    {
+      "property": "P279",
+      "value": "Q223335"
+    },
+    {
+      "property": "P2924",
+      "value": "3958439"
+    },
+    {
+      "property": "P2924",
+      "value": "2286709"
+    },
+    {
+      "property": "P31",
+      "value": "Q188267"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P3417",
+      "value": "Object-Oriented-Programming"
+    },
+    {
+      "property": "P349",
+      "value": "00937980"
+    },
+    {
+      "property": "P373",
+      "value": "Object-oriented programming"
+    },
+    {
+      "property": "P3827",
+      "value": "object-oriented-programming"
+    },
+    {
+      "property": "P3847",
+      "value": "object-oriented_programming_(computer_science)"
+    },
+    {
+      "property": "P3911",
+      "value": "19803-2"
+    },
+    {
+      "property": "P4342",
+      "value": "objektorientert_programmering_-_IT"
+    },
+    {
+      "property": "P4342",
+      "value": "objektorientert_programmering"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q9610 (ben)-Tahmid-অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং.wav"
+    },
+    {
+      "property": "P4746",
+      "value": "066127"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P508",
+      "value": "57290"
+    },
+    {
+      "property": "P6293",
+      "value": "Y106512"
+    },
+    {
+      "property": "P6366",
+      "value": "73752529"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05prj"
+    },
+    {
+      "property": "P6564",
+      "value": "object-oriented-programming"
+    },
+    {
+      "property": "P6706",
+      "value": "programmazióne+a+oggètti"
+    },
+    {
+      "property": "P691",
+      "value": "ph115529"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/16508"
+    },
+    {
+      "property": "P8189",
+      "value": "987007539278305171"
+    },
+    {
+      "property": "P8309",
+      "value": "18-87194"
+    },
+    {
+      "property": "P8313",
+      "value": "objektorienteret_programmering"
+    },
+    {
+      "property": "P8814",
+      "value": "00931247-n"
+    },
+    {
+      "property": "P8885",
+      "value": "객체 지향 프로그래밍"
+    },
+    {
+      "property": "P910",
+      "value": "Q7467452"
+    },
+    {
+      "property": "P9100",
+      "value": "object-oriented-programming"
+    },
+    {
+      "property": "P9100",
+      "value": "oop"
+    },
+    {
+      "property": "P950",
+      "value": "XX537453"
+    },
+    {
+      "property": "P9621",
+      "value": "programmazione-a-oggetti"
+    }
+  ]
+}

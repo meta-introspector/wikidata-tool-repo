@@ -1,0 +1,762 @@
+{
+  "id": "Q355",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "9076306"
+    },
+    {
+      "property": "P1071",
+      "value": "Q13371"
+    },
+    {
+      "property": "P10757",
+      "value": "51797"
+    },
+    {
+      "property": "P10780",
+      "value": "facebook"
+    },
+    {
+      "property": "P11137",
+      "value": "facebook"
+    },
+    {
+      "property": "P112",
+      "value": "Q36215"
+    },
+    {
+      "property": "P112",
+      "value": "Q312663"
+    },
+    {
+      "property": "P112",
+      "value": "Q370217"
+    },
+    {
+      "property": "P112",
+      "value": "Q370321"
+    },
+    {
+      "property": "P11245",
+      "value": "facebookapp"
+    },
+    {
+      "property": "P11615",
+      "value": "for-profit/facebook"
+    },
+    {
+      "property": "P11686",
+      "value": "981060024166706706"
+    },
+    {
+      "property": "P11892",
+      "value": "facebook"
+    },
+    {
+      "property": "P11924",
+      "value": "facebook"
+    },
+    {
+      "property": "P12086",
+      "value": "Facebook"
+    },
+    {
+      "property": "P12102",
+      "value": "facebook"
+    },
+    {
+      "property": "P12307",
+      "value": "facebook"
+    },
+    {
+      "property": "P12307",
+      "value": "facebook_lead_ads"
+    },
+    {
+      "property": "P12307",
+      "value": "facebook_pages"
+    },
+    {
+      "property": "P12385",
+      "value": "facebook"
+    },
+    {
+      "property": "P1245",
+      "value": "963275"
+    },
+    {
+      "property": "P12561",
+      "value": "5285495"
+    },
+    {
+      "property": "P127",
+      "value": "Q380"
+    },
+    {
+      "property": "P12800",
+      "value": "en:Facebook"
+    },
+    {
+      "property": "P12800",
+      "value": "it:Facebook"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Facebook"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:contact:facebook"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:facebook"
+    },
+    {
+      "property": "P12946",
+      "value": "facebook.com"
+    },
+    {
+      "property": "P1296",
+      "value": "0517644"
+    },
+    {
+      "property": "P13087",
+      "value": "10157"
+    },
+    {
+      "property": "P13092",
+      "value": "K000228584"
+    },
+    {
+      "property": "P13113",
+      "value": "facebook"
+    },
+    {
+      "property": "P13135",
+      "value": "facebook"
+    },
+    {
+      "property": "P13300",
+      "value": "facebook"
+    },
+    {
+      "property": "P13317",
+      "value": "facebook"
+    },
+    {
+      "property": "P13337",
+      "value": "facebook.com"
+    },
+    {
+      "property": "P13337",
+      "value": "thefacebook.com"
+    },
+    {
+      "property": "P13337",
+      "value": "fb.com"
+    },
+    {
+      "property": "P13337",
+      "value": "facebook.net"
+    },
+    {
+      "property": "P13337",
+      "value": "fb.me"
+    },
+    {
+      "property": "P1343",
+      "value": "Q17290934"
+    },
+    {
+      "property": "P1343",
+      "value": "Q17290934"
+    },
+    {
+      "property": "P13520",
+      "value": "1720"
+    },
+    {
+      "property": "P1368",
+      "value": "000166889"
+    },
+    {
+      "property": "P137",
+      "value": "Q380"
+    },
+    {
+      "property": "P138",
+      "value": "Q3540279"
+    },
+    {
+      "property": "P1412",
+      "value": "Q1860"
+    },
+    {
+      "property": "P1412",
+      "value": "Q1321"
+    },
+    {
+      "property": "P1412",
+      "value": "Q188"
+    },
+    {
+      "property": "P1412",
+      "value": "Q150"
+    },
+    {
+      "property": "P1412",
+      "value": "Q727694"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Facebook"
+    },
+    {
+      "property": "P1424",
+      "value": "Q5624646"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/facebook"
+    },
+    {
+      "property": "P154",
+      "value": "2023 Facebook icon.svg"
+    },
+    {
+      "property": "P154",
+      "value": "2021 Facebook icon.svg"
+    },
+    {
+      "property": "P154",
+      "value": "F icon.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://about.facebook.com/news"
+    },
+    {
+      "property": "P1617",
+      "value": "3c3f3366-06ea-44fc-afa8-aa3bfac49a87"
+    },
+    {
+      "property": "P166",
+      "value": "Q2517928"
+    },
+    {
+      "property": "P1661",
+      "value": "+3"
+    },
+    {
+      "property": "P1661",
+      "value": "+3"
+    },
+    {
+      "property": "P1661",
+      "value": "+5"
+    },
+    {
+      "property": "P1661",
+      "value": "+3"
+    },
+    {
+      "property": "P1661",
+      "value": "+3"
+    },
+    {
+      "property": "P1687",
+      "value": "P2013"
+    },
+    {
+      "property": "P1687",
+      "value": "P13654"
+    },
+    {
+      "property": "P170",
+      "value": "Q36215"
+    },
+    {
+      "property": "P18",
+      "value": "Screen of Facebook (2).PNG"
+    },
+    {
+      "property": "P1813",
+      "value": "FB"
+    },
+    {
+      "property": "P1833",
+      "value": "+2940000000"
+    },
+    {
+      "property": "P1889",
+      "value": "Q380"
+    },
+    {
+      "property": "P1951",
+      "value": "Q1439864"
+    },
+    {
+      "property": "P2002",
+      "value": "FacebookApp"
+    },
+    {
+      "property": "P2003",
+      "value": "facebook"
+    },
+    {
+      "property": "P2013",
+      "value": "FacebookApp"
+    },
+    {
+      "property": "P2013",
+      "value": "facebook"
+    },
+    {
+      "property": "P2088",
+      "value": "facebook"
+    },
+    {
+      "property": "P214",
+      "value": "186061244"
+    },
+    {
+      "property": "P2184",
+      "value": "Q3679366"
+    },
+    {
+      "property": "P227",
+      "value": "7679337-0"
+    },
+    {
+      "property": "P2347",
+      "value": "21063"
+    },
+    {
+      "property": "P2397",
+      "value": "UCcr9tciZbuvJrEVAgIXCp8Q"
+    },
+    {
+      "property": "P244",
+      "value": "n2007076967"
+    },
+    {
+      "property": "P2561",
+      "value": "Facebook"
+    },
+    {
+      "property": "P2572",
+      "value": "Facebook"
+    },
+    {
+      "property": "P2572",
+      "value": "FacebookDown"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/1225dd9m"
+    },
+    {
+      "property": "P277",
+      "value": "Q59"
+    },
+    {
+      "property": "P2847",
+      "value": "103926722020369884651"
+    },
+    {
+      "property": "P31",
+      "value": "Q3220391"
+    },
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P31",
+      "value": "Q620615"
+    },
+    {
+      "property": "P31",
+      "value": "Q202833"
+    },
+    {
+      "property": "P31",
+      "value": "Q122759350"
+    },
+    {
+      "property": "P31",
+      "value": "Q6576792"
+    },
+    {
+      "property": "P31",
+      "value": "Q118140435"
+    },
+    {
+      "property": "P3106",
+      "value": "technology/facebook"
+    },
+    {
+      "property": "P3222",
+      "value": "facebook"
+    },
+    {
+      "property": "P3365",
+      "value": "facebook"
+    },
+    {
+      "property": "P3381",
+      "value": "Facebook"
+    },
+    {
+      "property": "P3417",
+      "value": "Facebook-product"
+    },
+    {
+      "property": "P3509",
+      "value": "facebook"
+    },
+    {
+      "property": "P3569",
+      "value": "media/facebook"
+    },
+    {
+      "property": "P373",
+      "value": "Facebook"
+    },
+    {
+      "property": "P3788",
+      "value": "000064870"
+    },
+    {
+      "property": "P3847",
+      "value": "facebook"
+    },
+    {
+      "property": "P3847",
+      "value": "facebook_(electronic_resource)"
+    },
+    {
+      "property": "P3984",
+      "value": "facebook"
+    },
+    {
+      "property": "P400",
+      "value": "Q48493"
+    },
+    {
+      "property": "P400",
+      "value": "Q94"
+    },
+    {
+      "property": "P4013",
+      "value": "facebook"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q18130932"
+    },
+    {
+      "property": "P407",
+      "value": "Q13414913"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P4290",
+      "value": "Q41689616"
+    },
+    {
+      "property": "P4354",
+      "value": "https://www.facebook.com/search/top/?q=$1"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-0x010C-Facebook.wav"
+    },
+    {
+      "property": "P4527",
+      "value": "397248"
+    },
+    {
+      "property": "P50",
+      "value": "Q36215"
+    },
+    {
+      "property": "P50",
+      "value": "Q312663"
+    },
+    {
+      "property": "P50",
+      "value": "Q370217"
+    },
+    {
+      "property": "P50",
+      "value": "Q370321"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "facebook"
+    },
+    {
+      "property": "P5084",
+      "value": "2115500145"
+    },
+    {
+      "property": "P5161",
+      "value": "facebook.com"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqJggKIiBDQkFTRWdvSkwyMHZNREo1TVhaNkVnVmxiaTFIUWlnQVAB"
+    },
+    {
+      "property": "P5558",
+      "value": "facebook"
+    },
+    {
+      "property": "P571",
+      "value": "+2004-02-04T00:00:00Z"
+    },
+    {
+      "property": "P6200",
+      "value": "cmj34zmwxjlt"
+    },
+    {
+      "property": "P6262",
+      "value": "apps:Facebook"
+    },
+    {
+      "property": "P6262",
+      "value": "logos:Facebook"
+    },
+    {
+      "property": "P6262",
+      "value": "logo:Facebook"
+    },
+    {
+      "property": "P6262",
+      "value": "youtube:Facebook App"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02y1vz"
+    },
+    {
+      "property": "P6573",
+      "value": "Facebook"
+    },
+    {
+      "property": "P6760",
+      "value": "2048"
+    },
+    {
+      "property": "P6849",
+      "value": "facebook"
+    },
+    {
+      "property": "P6870",
+      "value": "140633"
+    },
+    {
+      "property": "P6900",
+      "value": "facebook"
+    },
+    {
+      "property": "P691",
+      "value": "ph567279"
+    },
+    {
+      "property": "P6922",
+      "value": "facebook"
+    },
+    {
+      "property": "P7014",
+      "value": "https://www.facebook.com/terms.php"
+    },
+    {
+      "property": "P7101",
+      "value": "https://www.facebook.com/policy.php"
+    },
+    {
+      "property": "P7101",
+      "value": "https://www.facebook.com/privacy/policy/"
+    },
+    {
+      "property": "P7305",
+      "value": "5297605"
+    },
+    {
+      "property": "P7306",
+      "value": "facebook"
+    },
+    {
+      "property": "P7775",
+      "value": "Social_media_platforms#Facebook"
+    },
+    {
+      "property": "P7775",
+      "value": "Facebook"
+    },
+    {
+      "property": "P793",
+      "value": "Q108801995"
+    },
+    {
+      "property": "P793",
+      "value": "Q66439731"
+    },
+    {
+      "property": "P793",
+      "value": "Q66439731"
+    },
+    {
+      "property": "P793",
+      "value": "Q51050074"
+    },
+    {
+      "property": "P7982",
+      "value": "68087"
+    },
+    {
+      "property": "P8189",
+      "value": "987007290086705171"
+    },
+    {
+      "property": "P8313",
+      "value": "Facebook"
+    },
+    {
+      "property": "P8408",
+      "value": "Facebook"
+    },
+    {
+      "property": "P8525",
+      "value": "182"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.facebook.com"
+    },
+    {
+      "property": "P856",
+      "value": "https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion"
+    },
+    {
+      "property": "P856",
+      "value": "https://m.facebook.com"
+    },
+    {
+      "property": "P856",
+      "value": "https://ar-ar.facebook.com"
+    },
+    {
+      "property": "P8687",
+      "value": "+1150000"
+    },
+    {
+      "property": "P8687",
+      "value": "+167824"
+    },
+    {
+      "property": "P8687",
+      "value": "+367549"
+    },
+    {
+      "property": "P8687",
+      "value": "+1250000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1410000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1570000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1780000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1970000"
+    },
+    {
+      "property": "P8814",
+      "value": "00000015-n"
+    },
+    {
+      "property": "P8885",
+      "value": "페이스북"
+    },
+    {
+      "property": "P910",
+      "value": "Q7214527"
+    },
+    {
+      "property": "P9100",
+      "value": "facebook"
+    },
+    {
+      "property": "P9100",
+      "value": "facebook-data"
+    },
+    {
+      "property": "P9100",
+      "value": "fb"
+    },
+    {
+      "property": "P9138",
+      "value": "https://developers.facebook.com/status/"
+    },
+    {
+      "property": "P9318",
+      "value": "facebook"
+    },
+    {
+      "property": "P9346",
+      "value": "facebook"
+    },
+    {
+      "property": "P9618",
+      "value": "facebook"
+    },
+    {
+      "property": "P9629",
+      "value": "13278"
+    },
+    {
+      "property": "P973",
+      "value": "https://techcrunch.com/2019/04/03/facebook-records-exposed-server/"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.newstatesman.com/science-tech/big-tech/2021/10/how-do-you-solve-a-problem-like-facebook"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.facebook.com/facebookapp/info"
+    },
+    {
+      "property": "P9885",
+      "value": "4bc8f781-7083-d1a0-f781-9466e0eb62e7"
+    },
+    {
+      "property": "P9984",
+      "value": "981060024166706706"
+    }
+  ]
+}

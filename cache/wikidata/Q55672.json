@@ -1,0 +1,378 @@
+{
+  "id": "Q55672",
+  "label": "Mozilla Foundation",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "I1291431925"
+    },
+    {
+      "property": "P10301",
+      "value": "R006592"
+    },
+    {
+      "property": "P1037",
+      "value": "Q16885969"
+    },
+    {
+      "property": "P1056",
+      "value": "Q7397"
+    },
+    {
+      "property": "P11915",
+      "value": "1122274512"
+    },
+    {
+      "property": "P12361",
+      "value": "mozilla.org"
+    },
+    {
+      "property": "P12946",
+      "value": "Mozilla+Foundation"
+    },
+    {
+      "property": "P1297",
+      "value": "20-0097189"
+    },
+    {
+      "property": "P13591",
+      "value": "group/aea958f1-9820-4d5b-bb4a-8a1a587ce788"
+    },
+    {
+      "property": "P1454",
+      "value": "Q18325436"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Wordmark.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla logo (2017–2024).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Foundation logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Foundation logo (2025–).svg"
+    },
+    {
+      "property": "P155",
+      "value": "Q3490389"
+    },
+    {
+      "property": "P159",
+      "value": "Q486860"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1711",
+      "value": "161402"
+    },
+    {
+      "property": "P1830",
+      "value": "Q169925"
+    },
+    {
+      "property": "P1830",
+      "value": "Q604841"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1370678"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3079321"
+    },
+    {
+      "property": "P1889",
+      "value": "Q9661"
+    },
+    {
+      "property": "P1889",
+      "value": "Q169925"
+    },
+    {
+      "property": "P1889",
+      "value": "Q698"
+    },
+    {
+      "property": "P1889",
+      "value": "Q538588"
+    },
+    {
+      "property": "P1889",
+      "value": "Q550315"
+    },
+    {
+      "property": "P2002",
+      "value": "mozilla"
+    },
+    {
+      "property": "P2003",
+      "value": "mozilla"
+    },
+    {
+      "property": "P2013",
+      "value": "262134952380"
+    },
+    {
+      "property": "P2088",
+      "value": "mozilla-foundation"
+    },
+    {
+      "property": "P213",
+      "value": "0000000405237453"
+    },
+    {
+      "property": "P2139",
+      "value": "+21346401"
+    },
+    {
+      "property": "P2139",
+      "value": "+28388184"
+    },
+    {
+      "property": "P2139",
+      "value": "+27531742"
+    },
+    {
+      "property": "P2139",
+      "value": "+20586446"
+    },
+    {
+      "property": "P2139",
+      "value": "+49747841"
+    },
+    {
+      "property": "P2139",
+      "value": "+30686124"
+    },
+    {
+      "property": "P2139",
+      "value": "+64660933"
+    },
+    {
+      "property": "P214",
+      "value": "10159154058311991024"
+    },
+    {
+      "property": "P2179",
+      "value": "10011506"
+    },
+    {
+      "property": "P2403",
+      "value": "+95584687"
+    },
+    {
+      "property": "P2403",
+      "value": "+76964143"
+    },
+    {
+      "property": "P2403",
+      "value": "+124157331"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.436584.8"
+    },
+    {
+      "property": "P244",
+      "value": "no2020067949"
+    },
+    {
+      "property": "P2657",
+      "value": "133978448647-87"
+    },
+    {
+      "property": "P31",
+      "value": "Q163740"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P3320",
+      "value": "Q93016"
+    },
+    {
+      "property": "P3393",
+      "value": "150511"
+    },
+    {
+      "property": "P3417",
+      "value": "Mozilla-Foundation"
+    },
+    {
+      "property": "P3500",
+      "value": "267060"
+    },
+    {
+      "property": "P355",
+      "value": "Q1370678"
+    },
+    {
+      "property": "P355",
+      "value": "Q169925"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla"
+    },
+    {
+      "property": "P4264",
+      "value": "mozilla-corporation"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q9288 (heb)-Uziel302-קרן מוזילה.wav"
+    },
+    {
+      "property": "P444",
+      "value": "3.5"
+    },
+    {
+      "property": "P4527",
+      "value": "470316"
+    },
+    {
+      "property": "P463",
+      "value": "Q53729922"
+    },
+    {
+      "property": "P463",
+      "value": "Q37033"
+    },
+    {
+      "property": "P463",
+      "value": "Q105394699"
+    },
+    {
+      "property": "P463",
+      "value": "Q128695713"
+    },
+    {
+      "property": "P4861",
+      "value": "16300"
+    },
+    {
+      "property": "P488",
+      "value": "Q445250"
+    },
+    {
+      "property": "P571",
+      "value": "+2003-07-15T00:00:00Z"
+    },
+    {
+      "property": "P6262",
+      "value": "mozilla:Mozilla_Foundation"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Mozilla_Foundation"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Mozilla_Foundation"
+    },
+    {
+      "property": "P6366",
+      "value": "1291431925"
+    },
+    {
+      "property": "P646",
+      "value": "/m/021sfk"
+    },
+    {
+      "property": "P6782",
+      "value": "01y8r3379"
+    },
+    {
+      "property": "P7085",
+      "value": "mozilla"
+    },
+    {
+      "property": "P7502",
+      "value": "Mozilla-X5AXWY"
+    },
+    {
+      "property": "P8060",
+      "value": "990170"
+    },
+    {
+      "property": "P8093",
+      "value": "+11713240"
+    },
+    {
+      "property": "P8093",
+      "value": "+9075862"
+    },
+    {
+      "property": "P8093",
+      "value": "+9931949"
+    },
+    {
+      "property": "P8093",
+      "value": "+7821194"
+    },
+    {
+      "property": "P8313",
+      "value": "Mozilla_Foundation"
+    },
+    {
+      "property": "P8324",
+      "value": "Q786194"
+    },
+    {
+      "property": "P856",
+      "value": "https://foundation.mozilla.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozillafoundation.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+259435"
+    },
+    {
+      "property": "P8687",
+      "value": "+220409"
+    },
+    {
+      "property": "P8687",
+      "value": "+273808"
+    },
+    {
+      "property": "P8687",
+      "value": "+279926"
+    },
+    {
+      "property": "P8687",
+      "value": "+25282"
+    },
+    {
+      "property": "P8687",
+      "value": "+26229"
+    },
+    {
+      "property": "P8687",
+      "value": "+26845"
+    },
+    {
+      "property": "P9100",
+      "value": "mozilla-foundation"
+    },
+    {
+      "property": "P9885",
+      "value": "7db72564-415a-1efe-61f7-4033b2d6b50b"
+    }
+  ]
+}

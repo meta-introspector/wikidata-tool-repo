@@ -1,0 +1,34 @@
+{
+  "id": "Q49717",
+  "label": "crankset",
+  "facts": [
+    {
+      "property": "P18",
+      "value": "Crank Set.jpg"
+    },
+    {
+      "property": "P279",
+      "value": "Q30246160"
+    },
+    {
+      "property": "P279",
+      "value": "Q857558"
+    },
+    {
+      "property": "P3417",
+      "value": "Crankset"
+    },
+    {
+      "property": "P373",
+      "value": "Bicycle cranksets"
+    },
+    {
+      "property": "P641",
+      "value": "Q2215841"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01ms7j"
+    }
+  ]
+}

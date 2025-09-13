@@ -1,0 +1,146 @@
+{
+  "id": "Q14270642",
+  "label": "Bloomberg News",
+  "facts": [
+    {
+      "property": "P1037",
+      "value": "Q6789544"
+    },
+    {
+      "property": "P10565",
+      "value": "41313"
+    },
+    {
+      "property": "P11137",
+      "value": "bloomberg_news"
+    },
+    {
+      "property": "P11472",
+      "value": "bloom_st"
+    },
+    {
+      "property": "P12542",
+      "value": "0029Va2h58LDeONAZNBpcg09"
+    },
+    {
+      "property": "P127",
+      "value": "Q13977"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Bloomberg-News"
+    },
+    {
+      "property": "P1454",
+      "value": "Q658255"
+    },
+    {
+      "property": "P1476",
+      "value": "Bloomberg News"
+    },
+    {
+      "property": "P154",
+      "value": "Bloomberg News logo.png"
+    },
+    {
+      "property": "P154",
+      "value": "New Bloomberg Logo.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q60"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1889",
+      "value": "Q123398532"
+    },
+    {
+      "property": "P214",
+      "value": "150319827"
+    },
+    {
+      "property": "P2267",
+      "value": "bloomberg-bloombergcom"
+    },
+    {
+      "property": "P291",
+      "value": "Q60"
+    },
+    {
+      "property": "P31",
+      "value": "Q192283"
+    },
+    {
+      "property": "P3417",
+      "value": "Bloomberg-News"
+    },
+    {
+      "property": "P3553",
+      "value": "19729668"
+    },
+    {
+      "property": "P373",
+      "value": "Bloomberg News"
+    },
+    {
+      "property": "P3847",
+      "value": "bloomberg_news_(firm)"
+    },
+    {
+      "property": "P452",
+      "value": "Q192283"
+    },
+    {
+      "property": "P571",
+      "value": "+1990-01-01T00:00:00Z"
+    },
+    {
+      "property": "P5769",
+      "value": "Q6248692"
+    },
+    {
+      "property": "P6366",
+      "value": "184405874"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0vpsrmz"
+    },
+    {
+      "property": "P648",
+      "value": "OL8289622A"
+    },
+    {
+      "property": "P740",
+      "value": "Q60"
+    },
+    {
+      "property": "P749",
+      "value": "Q13977"
+    },
+    {
+      "property": "P8189",
+      "value": "987007441361205171"
+    },
+    {
+      "property": "P8309",
+      "value": "18-307376"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.bloomberg.com/"
+    },
+    {
+      "property": "P963",
+      "value": "https://www.youtube.com/watch?v=dp8PhLsUcFE"
+    },
+    {
+      "property": "P9922",
+      "value": "bloomberg"
+    }
+  ]
+}

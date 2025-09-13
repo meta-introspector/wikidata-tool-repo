@@ -1,0 +1,550 @@
+{
+  "id": "Q456157",
+  "label": "Amazon Web Services",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/amazon-web-services"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/amazon-web-services"
+    },
+    {
+      "property": "P11137",
+      "value": "amazon_web_services"
+    },
+    {
+      "property": "P11266",
+      "value": "https://aws.amazon.com/contact-us/"
+    },
+    {
+      "property": "P11337",
+      "value": "1471503983839567878"
+    },
+    {
+      "property": "P127",
+      "value": "Q3884"
+    },
+    {
+      "property": "P1320",
+      "value": "us_de/4152954"
+    },
+    {
+      "property": "P13337",
+      "value": "aws.amazon.com"
+    },
+    {
+      "property": "P13337",
+      "value": "amazonaws.com"
+    },
+    {
+      "property": "P13397",
+      "value": "aws"
+    },
+    {
+      "property": "P13591",
+      "value": "group/d981db43-63fe-42e8-8d17-debed9b9359b"
+    },
+    {
+      "property": "P13601",
+      "value": "60099"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Amazon-Web-Services"
+    },
+    {
+      "property": "P1424",
+      "value": "Q114350562"
+    },
+    {
+      "property": "P1454",
+      "value": "Q88537331"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/amazon-web-services"
+    },
+    {
+      "property": "P1535",
+      "value": "Q3700238"
+    },
+    {
+      "property": "P1535",
+      "value": "Q51709"
+    },
+    {
+      "property": "P1535",
+      "value": "Q907311"
+    },
+    {
+      "property": "P1535",
+      "value": "Q142539"
+    },
+    {
+      "property": "P1535",
+      "value": "Q28649055"
+    },
+    {
+      "property": "P1535",
+      "value": "Q17068357"
+    },
+    {
+      "property": "P154",
+      "value": "Amazon Web Services Logo.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q5083"
+    },
+    {
+      "property": "P169",
+      "value": "Q41812531"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P178",
+      "value": "Q3884"
+    },
+    {
+      "property": "P1813",
+      "value": "AWS"
+    },
+    {
+      "property": "P2002",
+      "value": "awscloud"
+    },
+    {
+      "property": "P2002",
+      "value": "AWSSupport"
+    },
+    {
+      "property": "P2013",
+      "value": "amazonwebservices"
+    },
+    {
+      "property": "P2088",
+      "value": "amazon-web-services"
+    },
+    {
+      "property": "P214",
+      "value": "105144782990090843216"
+    },
+    {
+      "property": "P2354",
+      "value": "Q15832296"
+    },
+    {
+      "property": "P2397",
+      "value": "UCd6MoB9NC6uYN2grvUNT-Zg"
+    },
+    {
+      "property": "P244",
+      "value": "no2015140713"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P31",
+      "value": "Q1210425"
+    },
+    {
+      "property": "P31",
+      "value": "Q1153767"
+    },
+    {
+      "property": "P31",
+      "value": "Q117350903"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P3417",
+      "value": "Amazon-Web-Services"
+    },
+    {
+      "property": "P3500",
+      "value": "453567"
+    },
+    {
+      "property": "P3553",
+      "value": "19558548"
+    },
+    {
+      "property": "P373",
+      "value": "Amazon Web Services"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.4.1.60099"
+    },
+    {
+      "property": "P3797",
+      "value": "16509"
+    },
+    {
+      "property": "P3984",
+      "value": "aws"
+    },
+    {
+      "property": "P4354",
+      "value": "https://aws.amazon.com/search/?searchQuery=$1"
+    },
+    {
+      "property": "P452",
+      "value": "Q483639"
+    },
+    {
+      "property": "P4527",
+      "value": "457544"
+    },
+    {
+      "property": "P463",
+      "value": "Q858851"
+    },
+    {
+      "property": "P463",
+      "value": "Q105394699"
+    },
+    {
+      "property": "P463",
+      "value": "Q115725620"
+    },
+    {
+      "property": "P463",
+      "value": "Q7095994"
+    },
+    {
+      "property": "P463",
+      "value": "Q5137944"
+    },
+    {
+      "property": "P463",
+      "value": "Q852297"
+    },
+    {
+      "property": "P463",
+      "value": "Q873660"
+    },
+    {
+      "property": "P527",
+      "value": "Q2593067"
+    },
+    {
+      "property": "P527",
+      "value": "Q4033880"
+    },
+    {
+      "property": "P527",
+      "value": "Q4033875"
+    },
+    {
+      "property": "P527",
+      "value": "Q2072356"
+    },
+    {
+      "property": "P527",
+      "value": "Q56358285"
+    },
+    {
+      "property": "P527",
+      "value": "Q733115"
+    },
+    {
+      "property": "P527",
+      "value": "Q18754151"
+    },
+    {
+      "property": "P527",
+      "value": "Q15731832"
+    },
+    {
+      "property": "P527",
+      "value": "Q48843359"
+    },
+    {
+      "property": "P527",
+      "value": "Q110643724"
+    },
+    {
+      "property": "P527",
+      "value": "Q1628791"
+    },
+    {
+      "property": "P527",
+      "value": "Q28035268"
+    },
+    {
+      "property": "P527",
+      "value": "Q65045028"
+    },
+    {
+      "property": "P527",
+      "value": "Q4740866"
+    },
+    {
+      "property": "P527",
+      "value": "Q21462856"
+    },
+    {
+      "property": "P527",
+      "value": "Q110644167"
+    },
+    {
+      "property": "P527",
+      "value": "Q621753"
+    },
+    {
+      "property": "P527",
+      "value": "Q17012109"
+    },
+    {
+      "property": "P527",
+      "value": "Q110658259"
+    },
+    {
+      "property": "P527",
+      "value": "Q110658289"
+    },
+    {
+      "property": "P527",
+      "value": "Q22908871"
+    },
+    {
+      "property": "P527",
+      "value": "Q110659313"
+    },
+    {
+      "property": "P527",
+      "value": "Q110705475"
+    },
+    {
+      "property": "P527",
+      "value": "Q110644154"
+    },
+    {
+      "property": "P527",
+      "value": "Q16992245"
+    },
+    {
+      "property": "P527",
+      "value": "Q65203360"
+    },
+    {
+      "property": "P527",
+      "value": "Q110705619"
+    },
+    {
+      "property": "P527",
+      "value": "Q110705675"
+    },
+    {
+      "property": "P527",
+      "value": "Q456090"
+    },
+    {
+      "property": "P527",
+      "value": "Q110705906"
+    },
+    {
+      "property": "P527",
+      "value": "Q110705945"
+    },
+    {
+      "property": "P527",
+      "value": "Q110720922"
+    },
+    {
+      "property": "P527",
+      "value": "Q110644161"
+    },
+    {
+      "property": "P527",
+      "value": "Q110720930"
+    },
+    {
+      "property": "P527",
+      "value": "Q110731414"
+    },
+    {
+      "property": "P527",
+      "value": "Q88461433"
+    },
+    {
+      "property": "P527",
+      "value": "Q30681184"
+    },
+    {
+      "property": "P527",
+      "value": "Q74235852"
+    },
+    {
+      "property": "P527",
+      "value": "Q104861519"
+    },
+    {
+      "property": "P527",
+      "value": "Q110772254"
+    },
+    {
+      "property": "P527",
+      "value": "Q110644152"
+    },
+    {
+      "property": "P527",
+      "value": "Q110658215"
+    },
+    {
+      "property": "P527",
+      "value": "Q110644150"
+    },
+    {
+      "property": "P527",
+      "value": "Q110943975"
+    },
+    {
+      "property": "P527",
+      "value": "Q114603215"
+    },
+    {
+      "property": "P527",
+      "value": "Q124052638"
+    },
+    {
+      "property": "P527",
+      "value": "Q133457878"
+    },
+    {
+      "property": "P571",
+      "value": "+2006-03-00T00:00:00Z"
+    },
+    {
+      "property": "P5797",
+      "value": "aws"
+    },
+    {
+      "property": "P6262",
+      "value": "logos:Amazon_Web_Services"
+    },
+    {
+      "property": "P6366",
+      "value": "1310696848"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05nrgx"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0rznzt1"
+    },
+    {
+      "property": "P691",
+      "value": "ntk20181008751"
+    },
+    {
+      "property": "P6931",
+      "value": "aws"
+    },
+    {
+      "property": "P7101",
+      "value": "https://aws.amazon.com/privacy/"
+    },
+    {
+      "property": "P7306",
+      "value": "aws-amazon-web-services"
+    },
+    {
+      "property": "P749",
+      "value": "Q3884"
+    },
+    {
+      "property": "P7502",
+      "value": "Amazon_Web_Services_(AWS)-MNM533"
+    },
+    {
+      "property": "P7936",
+      "value": "Q1346018"
+    },
+    {
+      "property": "P8253",
+      "value": "amazonwebservices-74685d"
+    },
+    {
+      "property": "P8253",
+      "value": "amazonwebservices-918717"
+    },
+    {
+      "property": "P8309",
+      "value": "18-248441"
+    },
+    {
+      "property": "P856",
+      "value": "https://aws.amazon.com/"
+    },
+    {
+      "property": "P8687",
+      "value": "+1877576"
+    },
+    {
+      "property": "P8687",
+      "value": "+1820184"
+    },
+    {
+      "property": "P8687",
+      "value": "+506000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1992454"
+    },
+    {
+      "property": "P8687",
+      "value": "+576000"
+    },
+    {
+      "property": "P8687",
+      "value": "+659000"
+    },
+    {
+      "property": "P8687",
+      "value": "+237178"
+    },
+    {
+      "property": "P8687",
+      "value": "+725000"
+    },
+    {
+      "property": "P8687",
+      "value": "+791000"
+    },
+    {
+      "property": "P910",
+      "value": "Q24068672"
+    },
+    {
+      "property": "P9100",
+      "value": "aws"
+    },
+    {
+      "property": "P9138",
+      "value": "https://status.aws.amazon.com"
+    },
+    {
+      "property": "P9214",
+      "value": "https://aws.amazon.com/faqs/"
+    },
+    {
+      "property": "P9618",
+      "value": "amazon-web-services"
+    }
+  ]
+}

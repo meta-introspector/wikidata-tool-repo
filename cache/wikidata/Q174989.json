@@ -1,0 +1,222 @@
+{
+  "id": "Q174989",
+  "label": "file system",
+  "facts": [
+    {
+      "property": "P10037",
+      "value": "file-system"
+    },
+    {
+      "property": "P10283",
+      "value": "C2780940931"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/filesystems"
+    },
+    {
+      "property": "P10565",
+      "value": "149135"
+    },
+    {
+      "property": "P12385",
+      "value": "sistema-de-fitxers"
+    },
+    {
+      "property": "P12695",
+      "value": "Filesystem"
+    },
+    {
+      "property": "P12861",
+      "value": "E145"
+    },
+    {
+      "property": "P12873",
+      "value": "File_systems"
+    },
+    {
+      "property": "P12873",
+      "value": "File_systems_(Español)"
+    },
+    {
+      "property": "P12873",
+      "value": "File_systems_(Italiano)"
+    },
+    {
+      "property": "P12873",
+      "value": "File_systems_(Português)"
+    },
+    {
+      "property": "P12873",
+      "value": "File_systems_(Русский)"
+    },
+    {
+      "property": "P12873",
+      "value": "File_systems_(Українська)"
+    },
+    {
+      "property": "P12946",
+      "value": "file+system"
+    },
+    {
+      "property": "P1296",
+      "value": "0251383"
+    },
+    {
+      "property": "P13572",
+      "value": "file+system"
+    },
+    {
+      "property": "P1424",
+      "value": "Q6405024"
+    },
+    {
+      "property": "P1424",
+      "value": "Q6987275"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/filesystems"
+    },
+    {
+      "property": "P1482",
+      "value": "https://unix.stackexchange.com/tags/filesystems"
+    },
+    {
+      "property": "P1687",
+      "value": "P3559"
+    },
+    {
+      "property": "P1709",
+      "value": "http://d3fend.mitre.org/ontologies/d3fend.owl#FileSystem"
+    },
+    {
+      "property": "P18",
+      "value": "FileFolders.svg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1125653"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1330734"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1629107"
+    },
+    {
+      "property": "P1889",
+      "value": "Q235557"
+    },
+    {
+      "property": "P1889",
+      "value": "Q116999199"
+    },
+    {
+      "property": "P2283",
+      "value": "Q317623"
+    },
+    {
+      "property": "P279",
+      "value": "Q88864296"
+    },
+    {
+      "property": "P279",
+      "value": "Q80428"
+    },
+    {
+      "property": "P279",
+      "value": "Q101408242"
+    },
+    {
+      "property": "P2924",
+      "value": "4705259"
+    },
+    {
+      "property": "P31",
+      "value": "Q30059018"
+    },
+    {
+      "property": "P3381",
+      "value": "Filesystem"
+    },
+    {
+      "property": "P3417",
+      "value": "File-Systems"
+    },
+    {
+      "property": "P3553",
+      "value": "19560370"
+    },
+    {
+      "property": "P3553",
+      "value": "19647537"
+    },
+    {
+      "property": "P361",
+      "value": "Q9135"
+    },
+    {
+      "property": "P361",
+      "value": "Q1125653"
+    },
+    {
+      "property": "P361",
+      "value": "Q317623"
+    },
+    {
+      "property": "P373",
+      "value": "File systems"
+    },
+    {
+      "property": "P3847",
+      "value": "file_system"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"FileSystem::2545q\"]"
+    },
+    {
+      "property": "P6009",
+      "value": "5510"
+    },
+    {
+      "property": "P6104",
+      "value": "Q6526225"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:File_system"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:File_system"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:File_system"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03yy97"
+    },
+    {
+      "property": "P8189",
+      "value": "987007531243305171"
+    },
+    {
+      "property": "P8408",
+      "value": "Filesystem"
+    },
+    {
+      "property": "P910",
+      "value": "Q6859779"
+    },
+    {
+      "property": "P9621",
+      "value": "file-system"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "id": "Q2005",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C544833334"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/javascript-code"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/java-script"
+    },
+    {
+      "property": "P1051",
+      "value": "13865"
+    },
+    {
+      "property": "P10565",
+      "value": "546635"
+    },
+    {
+      "property": "P10757",
+      "value": "379103"
+    },
+    {
+      "property": "P11046",
+      "value": "javascript"
+    },
+    {
+      "property": "P11196",
+      "value": "javascript"
+    },
+    {
+      "property": "P11337",
+      "value": "1456228270446288906"
+    },
+    {
+      "property": "P11408",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P11410",
+      "value": "javascript"
+    },
+    {
+      "property": "P1163",
+      "value": "text/javascript"
+    },
+    {
+      "property": "P1163",
+      "value": "application/javascript"
+    },
+    {
+      "property": "P1163",
+      "value": "application/ecmascript"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-ecmascript"
+    },
+    {
+      "property": "P1163",
+      "value": "application/x-javascript"
+    },
+    {
+      "property": "P1163",
+      "value": "text/ecmascript"
+    },
+    {
+      "property": "P1163",
+      "value": "text/javascript1.0"
+    },
+    {
+      "property": "P1163",
+      "value": "text/javascript1.1"
+    },
+    {
+      "property": "P1163",
+      "value": "text/javascript1.2"
+    },
+    {
+      "property": "P1163",
+      "value": "text/javascript1.4"
+    },
+    {
+      "property": "P1163",
+      "value": "text/javascript1.3"
+    },
+    {
+      "property": "P1163",
+      "value": "text/javascript1.5"
+    },
+    {
+      "property": "P1163",
+      "value": "text/livescript"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-ecmascript"
+    },
+    {
+      "property": "P1163",
+      "value": "text/x-javascript"
+    },
+    {
+      "property": "P11947",
+      "value": "javascript@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "js"
+    },
+    {
+      "property": "P1195",
+      "value": "mjs"
+    },
+    {
+      "property": "P12086",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P12204",
+      "value": "10258"
+    },
+    {
+      "property": "P12385",
+      "value": "javascript"
+    },
+    {
+      "property": "P1245",
+      "value": "975943"
+    },
+    {
+      "property": "P127",
+      "value": "Q14647"
+    },
+    {
+      "property": "P127",
+      "value": "Q19900"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:JavaScript"
+    },
+    {
+      "property": "P12946",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P1296",
+      "value": "0262788"
+    },
+    {
+      "property": "P13397",
+      "value": "javascript"
+    },
+    {
+      "property": "P13397",
+      "value": "js"
+    },
+    {
+      "property": "P13397",
+      "value": "language%253Ajavascript"
+    },
+    {
+      "property": "P13520",
+      "value": "1210"
+    },
+    {
+      "property": "P13572",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/364c16f5-7abc-42bb-aaa6-aefc12a5ffde"
+    },
+    {
+      "property": "P1365",
+      "value": "Q6309506"
+    },
+    {
+      "property": "P138",
+      "value": "Q251"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/JavaScript"
+    },
+    {
+      "property": "P1424",
+      "value": "Q13312202"
+    },
+    {
+      "property": "P144",
+      "value": "Q259138"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/javascript"
+    },
+    {
+      "property": "P154",
+      "value": "Unofficial JavaScript logo 2.svg"
+    },
+    {
+      "property": "P1705",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P18",
+      "value": "JavaScript screenshot.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q259138"
+    },
+    {
+      "property": "P1889",
+      "value": "Q5924007"
+    },
+    {
+      "property": "P1889",
+      "value": "Q251"
+    },
+    {
+      "property": "P1889",
+      "value": "Q16963446"
+    },
+    {
+      "property": "P1889",
+      "value": "Q879704"
+    },
+    {
+      "property": "P2163",
+      "value": "982071"
+    },
+    {
+      "property": "P227",
+      "value": "4420180-1"
+    },
+    {
+      "property": "P2347",
+      "value": "840"
+    },
+    {
+      "property": "P244",
+      "value": "sh96004880"
+    },
+    {
+      "property": "P2572",
+      "value": "Javascript"
+    },
+    {
+      "property": "P2581",
+      "value": "13405145n"
+    },
+    {
+      "property": "P268",
+      "value": "12549978q"
+    },
+    {
+      "property": "P269",
+      "value": "034781870"
+    },
+    {
+      "property": "P287",
+      "value": "Q92648"
+    },
+    {
+      "property": "P2910",
+      "value": "Crystal source.svg"
+    },
+    {
+      "property": "P2910",
+      "value": "Faenza-text-x-javascript.svg"
+    },
+    {
+      "property": "P31",
+      "value": "Q187432"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920810"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920813"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923017"
+    },
+    {
+      "property": "P31",
+      "value": "Q211496"
+    },
+    {
+      "property": "P3222",
+      "value": "javascript"
+    },
+    {
+      "property": "P3417",
+      "value": "JavaScript-programming-language"
+    },
+    {
+      "property": "P3417",
+      "value": "Javascript-Scripting-Language-1"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 7"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 6"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 5.1"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2017"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2018"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2019"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2020"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2021"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2022"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2023"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2024"
+    },
+    {
+      "property": "P348",
+      "value": "ECMAScript 2025"
+    },
+    {
+      "property": "P3553",
+      "value": "19552521"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q386275"
+    },
+    {
+      "property": "P3719",
+      "value": "Q837335"
+    },
+    {
+      "property": "P373",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P3847",
+      "value": "javascript_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3966",
+      "value": "Q30267"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1135914"
+    },
+    {
+      "property": "P3966",
+      "value": "Q180868"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3984",
+      "value": "javascript"
+    },
+    {
+      "property": "P4342",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-Javascript.wav"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Visiteur Journée 2 - 14 (Madehub)-Javascript.wav"
+    },
+    {
+      "property": "P460",
+      "value": "Q553514"
+    },
+    {
+      "property": "P4644",
+      "value": "3cd569a2-4f88-4c1e-9995-8dce8c5e51a7"
+    },
+    {
+      "property": "P4742",
+      "value": "javascript"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"JavaScript::g3427\"]"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "javascript-informatik"
+    },
+    {
+      "property": "P571",
+      "value": "+1996-05-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1995-09-00T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "3929"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:JavaScript"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:JavaScript"
+    },
+    {
+      "property": "P6293",
+      "value": "Y109755"
+    },
+    {
+      "property": "P6366",
+      "value": "544833334"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02p97"
+    },
+    {
+      "property": "P6611",
+      "value": "41784"
+    },
+    {
+      "property": "P6706",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P6900",
+      "value": "javascript"
+    },
+    {
+      "property": "P691",
+      "value": "ph117651"
+    },
+    {
+      "property": "P6949",
+      "value": "+1995-12-04T00:00:00Z"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q374282"
+    },
+    {
+      "property": "P7078",
+      "value": "Q180868"
+    },
+    {
+      "property": "P737",
+      "value": "Q187560"
+    },
+    {
+      "property": "P737",
+      "value": "Q1864529"
+    },
+    {
+      "property": "P737",
+      "value": "Q251"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q16963446"
+    },
+    {
+      "property": "P737",
+      "value": "Q207316"
+    },
+    {
+      "property": "P737",
+      "value": "Q42478"
+    },
+    {
+      "property": "P737",
+      "value": "Q213970"
+    },
+    {
+      "property": "P737",
+      "value": "Q58329"
+    },
+    {
+      "property": "P737",
+      "value": "Q28865"
+    },
+    {
+      "property": "P7502",
+      "value": "JavaScript-E8XR"
+    },
+    {
+      "property": "P7502",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P7726",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P8168",
+      "value": "Q1265673"
+    },
+    {
+      "property": "P8189",
+      "value": "987007551493605171"
+    },
+    {
+      "property": "P8205",
+      "value": "Web/JavaScript"
+    },
+    {
+      "property": "P8313",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P8408",
+      "value": "JavaScriptProgrammingLanguage"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
+    },
+    {
+      "property": "P8885",
+      "value": "JavaScript"
+    },
+    {
+      "property": "P910",
+      "value": "Q7028365"
+    },
+    {
+      "property": "P9100",
+      "value": "javascript"
+    },
+    {
+      "property": "P950",
+      "value": "XX542465"
+    },
+    {
+      "property": "P9602",
+      "value": "freshmeat_javascript"
+    },
+    {
+      "property": "P9618",
+      "value": "javascript"
+    },
+    {
+      "property": "P9621",
+      "value": "javascript"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/831"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/x9cgZf"
+    },
+    {
+      "property": "P9775",
+      "value": "javascript"
+    },
+    {
+      "property": "P989",
+      "value": "En-JavaScript.ogg"
+    }
+  ]
+}

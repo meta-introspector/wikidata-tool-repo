@@ -1,0 +1,126 @@
+{
+  "id": "Q187432",
+  "label": "scripting language",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C61423126"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/scripting-language"
+    },
+    {
+      "property": "P1051",
+      "value": "12490"
+    },
+    {
+      "property": "P12946",
+      "value": "scripting+language"
+    },
+    {
+      "property": "P13572",
+      "value": "scripting+language"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/84342062-5e76-412e-8486-5001f5eb2599"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/computer-scripting-language"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/scripting-language"
+    },
+    {
+      "property": "P1813",
+      "value": "сценарный"
+    },
+    {
+      "property": "P244",
+      "value": "sh2006007256"
+    },
+    {
+      "property": "P279",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q116481801"
+    },
+    {
+      "property": "P3417",
+      "value": "Scripting-programming"
+    },
+    {
+      "property": "P3553",
+      "value": "19577377"
+    },
+    {
+      "property": "P366",
+      "value": "Q24410992"
+    },
+    {
+      "property": "P366",
+      "value": "Q1781447"
+    },
+    {
+      "property": "P373",
+      "value": "Scripting languages"
+    },
+    {
+      "property": "P3827",
+      "value": "scripting-languages"
+    },
+    {
+      "property": "P3847",
+      "value": "scripting_languages_(computer_science)"
+    },
+    {
+      "property": "P461",
+      "value": "Q4117397"
+    },
+    {
+      "property": "P4746",
+      "value": "076988"
+    },
+    {
+      "property": "P6009",
+      "value": "3873"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Scripting_language"
+    },
+    {
+      "property": "P6366",
+      "value": "61423126"
+    },
+    {
+      "property": "P646",
+      "value": "/m/079mz"
+    },
+    {
+      "property": "P6611",
+      "value": "1276"
+    },
+    {
+      "property": "P691",
+      "value": "ph135534"
+    },
+    {
+      "property": "P8189",
+      "value": "987007534995705171"
+    },
+    {
+      "property": "P910",
+      "value": "Q8723435"
+    },
+    {
+      "property": "P9100",
+      "value": "script"
+    }
+  ]
+}

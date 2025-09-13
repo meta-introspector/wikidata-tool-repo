@@ -1,0 +1,294 @@
+{
+  "id": "Q131140",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C128595289"
+    },
+    {
+      "property": "P1051",
+      "value": "12487"
+    },
+    {
+      "property": "P11129",
+      "value": "COBOL"
+    },
+    {
+      "property": "P1195",
+      "value": "cbl"
+    },
+    {
+      "property": "P1195",
+      "value": "cob"
+    },
+    {
+      "property": "P1195",
+      "value": "cpy"
+    },
+    {
+      "property": "P12385",
+      "value": "cobol"
+    },
+    {
+      "property": "P1296",
+      "value": "0018386"
+    },
+    {
+      "property": "P1343",
+      "value": "Q124737632"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/bb696228-6222-4007-8ddf-e951818fb330"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/COBOL"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/cobol"
+    },
+    {
+      "property": "P1617",
+      "value": "d5bb62c1-bfa1-4e6a-8c30-d6447012f57c"
+    },
+    {
+      "property": "P170",
+      "value": "Q1023961"
+    },
+    {
+      "property": "P178",
+      "value": "Q15028"
+    },
+    {
+      "property": "P178",
+      "value": "Q1023961"
+    },
+    {
+      "property": "P178",
+      "value": "Q180003"
+    },
+    {
+      "property": "P18",
+      "value": "COBOL.png"
+    },
+    {
+      "property": "P1814",
+      "value": "コボル"
+    },
+    {
+      "property": "P227",
+      "value": "4010323-7"
+    },
+    {
+      "property": "P2347",
+      "value": "16252"
+    },
+    {
+      "property": "P244",
+      "value": "sh85027548"
+    },
+    {
+      "property": "P268",
+      "value": "11941315s"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P3219",
+      "value": "cobol"
+    },
+    {
+      "property": "P3417",
+      "value": "COBOL"
+    },
+    {
+      "property": "P348",
+      "value": "2019"
+    },
+    {
+      "property": "P348",
+      "value": "ISO/IEC 1989:2023"
+    },
+    {
+      "property": "P3553",
+      "value": "19622341"
+    },
+    {
+      "property": "P366",
+      "value": "Q80006"
+    },
+    {
+      "property": "P366",
+      "value": "Q123819227"
+    },
+    {
+      "property": "P373",
+      "value": "COBOL"
+    },
+    {
+      "property": "P3827",
+      "value": "cobol"
+    },
+    {
+      "property": "P3847",
+      "value": "cobol_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3984",
+      "value": "cobol"
+    },
+    {
+      "property": "P4342",
+      "value": "Cobol"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-Cobol.wav"
+    },
+    {
+      "property": "P4644",
+      "value": "def007fa-5fed-4a5f-91a2-b0d7e3db1be1"
+    },
+    {
+      "property": "P495",
+      "value": "Q30"
+    },
+    {
+      "property": "P4969",
+      "value": "Q7095747"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "cobol-informatik"
+    },
+    {
+      "property": "P503",
+      "value": "1989:2014"
+    },
+    {
+      "property": "P571",
+      "value": "+1959-05-28T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "128595289"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01zpg"
+    },
+    {
+      "property": "P6611",
+      "value": "209988"
+    },
+    {
+      "property": "P6706",
+      "value": "COBOL"
+    },
+    {
+      "property": "P6857",
+      "value": "C6205"
+    },
+    {
+      "property": "P6857",
+      "value": "X3002"
+    },
+    {
+      "property": "P691",
+      "value": "ph385196"
+    },
+    {
+      "property": "P7078",
+      "value": "Q7977969"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P737",
+      "value": "Q1389173"
+    },
+    {
+      "property": "P737",
+      "value": "Q5013384"
+    },
+    {
+      "property": "P737",
+      "value": "Q7474729"
+    },
+    {
+      "property": "P7554",
+      "value": "Cobol"
+    },
+    {
+      "property": "P8189",
+      "value": "987007284048005171"
+    },
+    {
+      "property": "P8313",
+      "value": "COBOL"
+    },
+    {
+      "property": "P8408",
+      "value": "Cobol"
+    },
+    {
+      "property": "P88",
+      "value": "Q11209"
+    },
+    {
+      "property": "P898",
+      "value": "ˈkoʊbɒl"
+    },
+    {
+      "property": "P910",
+      "value": "Q7281696"
+    },
+    {
+      "property": "P9621",
+      "value": "cobol"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/486"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/Gtm3BN"
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "id": "Q35525",
+  "label": "White House",
+  "facts": [
+    {
+      "property": "P1004",
+      "value": "5df4ac64-d016-4ecf-96b6-13c91aabaa00"
+    },
+    {
+      "property": "P10046",
+      "value": "4158007438164491913"
+    },
+    {
+      "property": "P1015",
+      "value": "90605615"
+    },
+    {
+      "property": "P1017",
+      "value": "ADV12100174"
+    },
+    {
+      "property": "P10225",
+      "value": "https://www.whitehousegiftshop.com"
+    },
+    {
+      "property": "P10227",
+      "value": "vtls000220712"
+    },
+    {
+      "property": "P1101",
+      "value": "+4"
+    },
+    {
+      "property": "P11079",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P11079",
+      "value": "lacasablanca"
+    },
+    {
+      "property": "P11266",
+      "value": "https://www.whitehouse.gov/contact/"
+    },
+    {
+      "property": "P1174",
+      "value": "+826300"
+    },
+    {
+      "property": "P1174",
+      "value": "+696600"
+    },
+    {
+      "property": "P1174",
+      "value": "+870100"
+    },
+    {
+      "property": "P1174",
+      "value": "+963500"
+    },
+    {
+      "property": "P1174",
+      "value": "+913300"
+    },
+    {
+      "property": "P1174",
+      "value": "+921600"
+    },
+    {
+      "property": "P1174",
+      "value": "+809600"
+    },
+    {
+      "property": "P1174",
+      "value": "+1322300"
+    },
+    {
+      "property": "P1174",
+      "value": "+1561700"
+    },
+    {
+      "property": "P1174",
+      "value": "+1520200"
+    },
+    {
+      "property": "P1174",
+      "value": "+1840100"
+    },
+    {
+      "property": "P1174",
+      "value": "+1673100"
+    },
+    {
+      "property": "P1174",
+      "value": "+1548300"
+    },
+    {
+      "property": "P1174",
+      "value": "+1733900"
+    },
+    {
+      "property": "P1174",
+      "value": "+1154900"
+    },
+    {
+      "property": "P1174",
+      "value": "+1521700"
+    },
+    {
+      "property": "P1174",
+      "value": "+1388600"
+    },
+    {
+      "property": "P1174",
+      "value": "+1391300"
+    },
+    {
+      "property": "P1174",
+      "value": "+1412753"
+    },
+    {
+      "property": "P1174",
+      "value": "+1219000"
+    },
+    {
+      "property": "P1174",
+      "value": "+1349600"
+    },
+    {
+      "property": "P1174",
+      "value": "+1492800"
+    },
+    {
+      "property": "P1174",
+      "value": "+1573500"
+    },
+    {
+      "property": "P1174",
+      "value": "+1304300"
+    },
+    {
+      "property": "P1174",
+      "value": "+1333170"
+    },
+    {
+      "property": "P1174",
+      "value": "+1313017"
+    },
+    {
+      "property": "P1174",
+      "value": "+1318583"
+    },
+    {
+      "property": "P1174",
+      "value": "+1132992"
+    },
+    {
+      "property": "P1174",
+      "value": "+1076713"
+    },
+    {
+      "property": "P1174",
+      "value": "+1169085"
+    },
+    {
+      "property": "P1174",
+      "value": "+1134625"
+    },
+    {
+      "property": "P1174",
+      "value": "+1259928"
+    },
+    {
+      "property": "P1174",
+      "value": "+1148290"
+    },
+    {
+      "property": "P1174",
+      "value": "+1077561"
+    },
+    {
+      "property": "P1174",
+      "value": "+1089967"
+    },
+    {
+      "property": "P1174",
+      "value": "+1060548"
+    },
+    {
+      "property": "P1174",
+      "value": "+1090446"
+    },
+    {
+      "property": "P1174",
+      "value": "+978617"
+    },
+    {
+      "property": "P1174",
+      "value": "+1144540"
+    },
+    {
+      "property": "P1174",
+      "value": "+1161674"
+    },
+    {
+      "property": "P1174",
+      "value": "+1228097"
+    },
+    {
+      "property": "P1174",
+      "value": "+1120926"
+    },
+    {
+      "property": "P1174",
+      "value": "+1179458"
+    },
+    {
+      "property": "P1174",
+      "value": "+1227392"
+    },
+    {
+      "property": "P1174",
+      "value": "+1027479"
+    },
+    {
+      "property": "P1174",
+      "value": "+1015395"
+    },
+    {
+      "property": "P1174",
+      "value": "+1175714"
+    },
+    {
+      "property": "P1174",
+      "value": "+856042"
+    },
+    {
+      "property": "P1174",
+      "value": "+178092"
+    },
+    {
+      "property": "P1174",
+      "value": "+182542"
+    },
+    {
+      "property": "P1174",
+      "value": "+357250"
+    },
+    {
+      "property": "P1174",
+      "value": "+455643"
+    },
+    {
+      "property": "P1174",
+      "value": "+481951"
+    },
+    {
+      "property": "P1174",
+      "value": "+491229"
+    },
+    {
+      "property": "P1174",
+      "value": "+519011"
+    },
+    {
+      "property": "P1174",
+      "value": "+616890"
+    },
+    {
+      "property": "P1174",
+      "value": "+922335"
+    },
+    {
+      "property": "P1174",
+      "value": "+570057"
+    },
+    {
+      "property": "P1174",
+      "value": "+656949"
+    },
+    {
+      "property": "P1174",
+      "value": "+231627"
+    },
+    {
+      "property": "P1174",
+      "value": "+569391"
+    },
+    {
+      "property": "P1174",
+      "value": "+526263"
+    },
+    {
+      "property": "P1174",
+      "value": "+611207"
+    },
+    {
+      "property": "P1174",
+      "value": "+439725"
+    },
+    {
+      "property": "P1174",
+      "value": "+485974"
+    },
+    {
+      "property": "P1174",
+      "value": "+454117"
+    },
+    {
+      "property": "P1174",
+      "value": "+114519"
+    },
+    {
+      "property": "P11892",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P11892",
+      "value": "lacasablanca"
+    },
+    {
+      "property": "P11962",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P1225",
+      "value": "10676368"
+    },
+    {
+      "property": "P12385",
+      "value": "casa-blanca"
+    },
+    {
+      "property": "P127",
+      "value": "Q48525"
+    },
+    {
+      "property": "P12749",
+      "value": "Q76224"
+    },
+    {
+      "property": "P1296",
+      "value": "0015499"
+    },
+    {
+      "property": "P131",
+      "value": "Q61"
+    },
+    {
+      "property": "P1315",
+      "value": "1494968"
+    },
+    {
+      "property": "P13236",
+      "value": "white_house"
+    },
+    {
+      "property": "P1329",
+      "value": "+1-202-456-1414"
+    },
+    {
+      "property": "P1329",
+      "value": "+1-202-456-1111"
+    },
+    {
+      "property": "P13300",
+      "value": "white-house"
+    },
+    {
+      "property": "P13337",
+      "value": "whitehouse.gov"
+    },
+    {
+      "property": "P13390",
+      "value": "white_house"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19180675"
+    },
+    {
+      "property": "P1343",
+      "value": "Q3181656"
+    },
+    {
+      "property": "P1343",
+      "value": "Q16082057"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19190511"
+    },
+    {
+      "property": "P13591",
+      "value": "place/23f4c46b-b58a-4b8c-8794-a686d3bc60ad"
+    },
+    {
+      "property": "P1368",
+      "value": "000219083"
+    },
+    {
+      "property": "P137",
+      "value": "Q308439"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/White-House-Washington-DC"
+    },
+    {
+      "property": "P1424",
+      "value": "Q14664901"
+    },
+    {
+      "property": "P1435",
+      "value": "Q624232"
+    },
+    {
+      "property": "P1435",
+      "value": "Q73198230"
+    },
+    {
+      "property": "P1465",
+      "value": "Q32756335"
+    },
+    {
+      "property": "P149",
+      "value": "Q54111"
+    },
+    {
+      "property": "P154",
+      "value": "US-WhiteHouse-Logo.svg"
+    },
+    {
+      "property": "P1552",
+      "value": "Q108223755"
+    },
+    {
+      "property": "P1566",
+      "value": "4140704"
+    },
+    {
+      "property": "P1566",
+      "value": "9675434"
+    },
+    {
+      "property": "P1581",
+      "value": "https://www.whitehouse.gov/blog"
+    },
+    {
+      "property": "P1581",
+      "value": "https://www.whitehouse.gov/articles/"
+    },
+    {
+      "property": "P1612",
+      "value": "White House"
+    },
+    {
+      "property": "P1617",
+      "value": "1c8e1cbd-21c4-4f89-b421-a323bf6b772b"
+    },
+    {
+      "property": "P1619",
+      "value": "+1800-11-01T00:00:00Z"
+    },
+    {
+      "property": "P1669",
+      "value": "700000083"
+    },
+    {
+      "property": "P1699",
+      "value": "21782"
+    },
+    {
+      "property": "P1699",
+      "value": "48323"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1705",
+      "value": "White House"
+    },
+    {
+      "property": "P1792",
+      "value": "Q32756338"
+    },
+    {
+      "property": "P18",
+      "value": "WhiteHouseSouthFacade.JPG"
+    },
+    {
+      "property": "P1889",
+      "value": "Q16903256"
+    },
+    {
+      "property": "P1889",
+      "value": "Q18002089"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2324971"
+    },
+    {
+      "property": "P1889",
+      "value": "Q130744637"
+    },
+    {
+      "property": "P2002",
+      "value": "WhiteHouse45"
+    },
+    {
+      "property": "P2002",
+      "value": "WhiteHouse"
+    },
+    {
+      "property": "P2002",
+      "value": "Transition46"
+    },
+    {
+      "property": "P2002",
+      "value": "LaCasaBlanca"
+    },
+    {
+      "property": "P2003",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P2003",
+      "value": "whitehouse45"
+    },
+    {
+      "property": "P2013",
+      "value": "WhiteHouse"
+    },
+    {
+      "property": "P2043",
+      "value": "+51.2"
+    },
+    {
+      "property": "P2048",
+      "value": "+21.33"
+    },
+    {
+      "property": "P2049",
+      "value": "+46.3"
+    },
+    {
+      "property": "P2130",
+      "value": "+232371.83"
+    },
+    {
+      "property": "P214",
+      "value": "155235437"
+    },
+    {
+      "property": "P2163",
+      "value": "631324"
+    },
+    {
+      "property": "P227",
+      "value": "4331244-5"
+    },
+    {
+      "property": "P2347",
+      "value": "39219"
+    },
+    {
+      "property": "P2397",
+      "value": "UCYxRlFDqcWM4y7FfpiAN3KQ"
+    },
+    {
+      "property": "P2397",
+      "value": "UCCITMedGC5PA-zMrLTH5-kg"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.510890.5"
+    },
+    {
+      "property": "P244",
+      "value": "sh85146483"
+    },
+    {
+      "property": "P245",
+      "value": "500312779"
+    },
+    {
+      "property": "P2572",
+      "value": "white_house"
+    },
+    {
+      "property": "P2581",
+      "value": "00081073n"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11fkyy90cm"
+    },
+    {
+      "property": "P268",
+      "value": "12074919r"
+    },
+    {
+      "property": "P276",
+      "value": "Q383689"
+    },
+    {
+      "property": "P281",
+      "value": "20500"
+    },
+    {
+      "property": "P2924",
+      "value": "1856672"
+    },
+    {
+      "property": "P2984",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P30",
+      "value": "Q49"
+    },
+    {
+      "property": "P31",
+      "value": "Q1802963"
+    },
+    {
+      "property": "P31",
+      "value": "Q52177058"
+    },
+    {
+      "property": "P31",
+      "value": "Q570116"
+    },
+    {
+      "property": "P31",
+      "value": "Q2114972"
+    },
+    {
+      "property": "P3134",
+      "value": "103227"
+    },
+    {
+      "property": "P3207",
+      "value": "944054069482373120"
+    },
+    {
+      "property": "P3267",
+      "value": "35591378@N03"
+    },
+    {
+      "property": "P3267",
+      "value": "148748355@N05"
+    },
+    {
+      "property": "P3267",
+      "value": "191819781@N02"
+    },
+    {
+      "property": "P3280",
+      "value": "0000104405"
+    },
+    {
+      "property": "P3365",
+      "value": "casa-bianca"
+    },
+    {
+      "property": "P3417",
+      "value": "The-White-House-5"
+    },
+    {
+      "property": "P3417",
+      "value": "1600-Pennsylvania-Avenue"
+    },
+    {
+      "property": "P3430",
+      "value": "w67j280k"
+    },
+    {
+      "property": "P3451",
+      "value": "The White House at night, 2011.jpg"
+    },
+    {
+      "property": "P3479",
+      "value": "c561e584-afcb-4f19-a11b-77a859e87ff8"
+    },
+    {
+      "property": "P3569",
+      "value": "internationale-politiek/witte-huis"
+    },
+    {
+      "property": "P3569",
+      "value": "gebouwd-erfgoed/verenigde-staten-witte-huis"
+    },
+    {
+      "property": "P361",
+      "value": "Q1649863"
+    },
+    {
+      "property": "P366",
+      "value": "Q481289"
+    },
+    {
+      "property": "P373",
+      "value": "White House"
+    },
+    {
+      "property": "P3749",
+      "value": "8167675777476425407"
+    },
+    {
+      "property": "P3847",
+      "value": "white_house"
+    },
+    {
+      "property": "P3847",
+      "value": "place:the_white_house"
+    },
+    {
+      "property": "P3847",
+      "value": "white_house_(washington_d.c.)"
+    },
+    {
+      "property": "P4015",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P402",
+      "value": "3461864"
+    },
+    {
+      "property": "P4083",
+      "value": "WHHO"
+    },
+    {
+      "property": "P409",
+      "value": "49682301"
+    },
+    {
+      "property": "P4161",
+      "value": "amerique-du-nord/etats-unis/district-columbia/washington-dc/maison-blanche"
+    },
+    {
+      "property": "P4265",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P4272",
+      "value": "White House (Washington, D.C.)"
+    },
+    {
+      "property": "P4342",
+      "value": "Det_hvite_hus"
+    },
+    {
+      "property": "P4527",
+      "value": "85451"
+    },
+    {
+      "property": "P454",
+      "value": "20013026"
+    },
+    {
+      "property": "P455",
+      "value": "341000"
+    },
+    {
+      "property": "P4619",
+      "value": "000877406"
+    },
+    {
+      "property": "P462",
+      "value": "Q23444"
+    },
+    {
+      "property": "P466",
+      "value": "Q11696"
+    },
+    {
+      "property": "P466",
+      "value": "Q862444"
+    },
+    {
+      "property": "P4702",
+      "value": "the-white-house"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Park\", \"WhiteHouse::m6rfn\"]"
+    },
+    {
+      "property": "P4896",
+      "value": "White House.stl"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5019",
+      "value": "weisses-haus"
+    },
+    {
+      "property": "P5063",
+      "value": "i61126"
+    },
+    {
+      "property": "P5252",
+      "value": "White House in winter snow.jpg"
+    },
+    {
+      "property": "P527",
+      "value": "Q774060"
+    },
+    {
+      "property": "P527",
+      "value": "Q2906588"
+    },
+    {
+      "property": "P527",
+      "value": "Q338067"
+    },
+    {
+      "property": "P527",
+      "value": "Q1186905"
+    },
+    {
+      "property": "P527",
+      "value": "Q5419918"
+    },
+    {
+      "property": "P527",
+      "value": "Q1932621"
+    },
+    {
+      "property": "P527",
+      "value": "Q2777428"
+    },
+    {
+      "property": "P527",
+      "value": "Q1024851"
+    },
+    {
+      "property": "P5383",
+      "value": "4501"
+    },
+    {
+      "property": "P5432",
+      "value": "2bd608ae"
+    },
+    {
+      "property": "P5587",
+      "value": "0xbfmksj5twx4lw"
+    },
+    {
+      "property": "P571",
+      "value": "+1800-00-00T00:00:00Z"
+    },
+    {
+      "property": "P5775",
+      "value": "White-house-floor1-red-room.jpg"
+    },
+    {
+      "property": "P5775",
+      "value": "White-house-floor1-green-room.jpg"
+    },
+    {
+      "property": "P5817",
+      "value": "Q55654238"
+    },
+    {
+      "property": "P590",
+      "value": "531723"
+    },
+    {
+      "property": "P590",
+      "value": "2733430"
+    },
+    {
+      "property": "P5905",
+      "value": "4020-56318"
+    },
+    {
+      "property": "P6157",
+      "value": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbmRvYVhSbGFHOTFjMlV1WjI5MktBQVAB"
+    },
+    {
+      "property": "P6200",
+      "value": "c0n6441nlz8t"
+    },
+    {
+      "property": "P6262",
+      "value": "youtube:The_White_House"
+    },
+    {
+      "property": "P6375",
+      "value": "1600 Pennsylvania Avenue NW, Washington, DC 20500"
+    },
+    {
+      "property": "P6385",
+      "value": "arkhitektura/belyi-dom"
+    },
+    {
+      "property": "P646",
+      "value": "/m/081sq"
+    },
+    {
+      "property": "P649",
+      "value": "19600001"
+    },
+    {
+      "property": "P6640",
+      "value": "3536"
+    },
+    {
+      "property": "P669",
+      "value": "Q1455053"
+    },
+    {
+      "property": "P6782",
+      "value": "04ars5103"
+    },
+    {
+      "property": "P691",
+      "value": "xx0026388"
+    },
+    {
+      "property": "P7085",
+      "value": "whitehouse"
+    },
+    {
+      "property": "P7129",
+      "value": "200"
+    },
+    {
+      "property": "P7305",
+      "value": "3877108"
+    },
+    {
+      "property": "P7471",
+      "value": "97458"
+    },
+    {
+      "property": "P7502",
+      "value": "The_White_House-5KBY5"
+    },
+    {
+      "property": "P7561",
+      "value": "Q86119227"
+    },
+    {
+      "property": "P7700",
+      "value": "vtls011207501"
+    },
+    {
+      "property": "P793",
+      "value": "Q897786"
+    },
+    {
+      "property": "P793",
+      "value": "Q1370468"
+    },
+    {
+      "property": "P7982",
+      "value": "7560"
+    },
+    {
+      "property": "P8034",
+      "value": "494/64635"
+    },
+    {
+      "property": "P8168",
+      "value": "Q405714"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf10951903"
+    },
+    {
+      "property": "P8189",
+      "value": "987007287164105171"
+    },
+    {
+      "property": "P8313",
+      "value": "Det_Hvide_Hus"
+    },
+    {
+      "property": "P8349",
+      "value": "56161"
+    },
+    {
+      "property": "P84",
+      "value": "Q470765"
+    },
+    {
+      "property": "P8400",
+      "value": "14808"
+    },
+    {
+      "property": "P8408",
+      "value": "TheWhiteHouse"
+    },
+    {
+      "property": "P8463",
+      "value": "DC-01-WH03"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.whitehouse.gov"
+    },
+    {
+      "property": "P8592",
+      "value": "2021 4BandImagery Maryland J1237856tR0 C0.tif"
+    },
+    {
+      "property": "P8649",
+      "value": "white-house"
+    },
+    {
+      "property": "P8655",
+      "value": "dc0402"
+    },
+    {
+      "property": "P8659",
+      "value": "+1-202-456-6213"
+    },
+    {
+      "property": "P8687",
+      "value": "+25038200"
+    },
+    {
+      "property": "P8687",
+      "value": "+26148260"
+    },
+    {
+      "property": "P8687",
+      "value": "+8458735"
+    },
+    {
+      "property": "P8733",
+      "value": "+132"
+    },
+    {
+      "property": "P8747",
+      "value": "63"
+    },
+    {
+      "property": "P8814",
+      "value": "04588063-n"
+    },
+    {
+      "property": "P8828",
+      "value": "517899"
+    },
+    {
+      "property": "P8933",
+      "value": "Q104234990"
+    },
+    {
+      "property": "P906",
+      "value": "352156"
+    },
+    {
+      "property": "P910",
+      "value": "Q8125985"
+    },
+    {
+      "property": "P912",
+      "value": "Q190771"
+    },
+    {
+      "property": "P912",
+      "value": "Q132911"
+    },
+    {
+      "property": "P935",
+      "value": "White House"
+    },
+    {
+      "property": "P9368",
+      "value": "white-house"
+    },
+    {
+      "property": "P941",
+      "value": "Q247595"
+    },
+    {
+      "property": "P941",
+      "value": "Q2417255"
+    },
+    {
+      "property": "P949",
+      "value": "000592905"
+    },
+    {
+      "property": "P9765",
+      "value": "Білий_дім_у_Вашингтоні"
+    },
+    {
+      "property": "P9807",
+      "value": "111771"
+    },
+    {
+      "property": "P9885",
+      "value": "541cd519-750b-9c92-8413-a537def6abbe"
+    }
+  ]
+}

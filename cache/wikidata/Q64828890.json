@@ -1,0 +1,38 @@
+{
+  "id": "Q64828890",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P154",
+      "value": "Firefox Monitor Logo.svg"
+    },
+    {
+      "property": "P1716",
+      "value": "Q112752529"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11fml25sbh"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q2424752"
+    },
+    {
+      "property": "P31",
+      "value": "Q745881"
+    },
+    {
+      "property": "P856",
+      "value": "https://monitor.firefox.com"
+    }
+  ]
+}

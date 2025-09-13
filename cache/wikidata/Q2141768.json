@@ -1,0 +1,126 @@
+{
+  "id": "Q2141768",
+  "label": "USENIX",
+  "facts": [
+    {
+      "property": "P12946",
+      "value": "USENIX"
+    },
+    {
+      "property": "P131",
+      "value": "Q484678"
+    },
+    {
+      "property": "P13591",
+      "value": "group/fd18559c-d720-40f0-9151-c509a214caea"
+    },
+    {
+      "property": "P154",
+      "value": "USENIX emblem.png"
+    },
+    {
+      "property": "P159",
+      "value": "Q484678"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P2002",
+      "value": "usenix"
+    },
+    {
+      "property": "P2013",
+      "value": "124487434386"
+    },
+    {
+      "property": "P2088",
+      "value": "usenix-association"
+    },
+    {
+      "property": "P213",
+      "value": "0000000109458649"
+    },
+    {
+      "property": "P214",
+      "value": "155393508"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.487811.3"
+    },
+    {
+      "property": "P244",
+      "value": "n86845001"
+    },
+    {
+      "property": "P269",
+      "value": "192915398"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P3417",
+      "value": "USENIX"
+    },
+    {
+      "property": "P373",
+      "value": "USENIX"
+    },
+    {
+      "property": "P4033",
+      "value": "usenixassociation@discuss.systems"
+    },
+    {
+      "property": "P4264",
+      "value": "usenix-association"
+    },
+    {
+      "property": "P527",
+      "value": "Q105696814"
+    },
+    {
+      "property": "P571",
+      "value": "+1975-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "2801457231"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01lm2m"
+    },
+    {
+      "property": "P648",
+      "value": "OL3060914A"
+    },
+    {
+      "property": "P6782",
+      "value": "02q1t6t25"
+    },
+    {
+      "property": "P8189",
+      "value": "987007596591105171"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.usenix.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+100"
+    },
+    {
+      "property": "P8687",
+      "value": "+105"
+    },
+    {
+      "property": "P8687",
+      "value": "+110"
+    }
+  ]
+}

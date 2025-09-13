@@ -1,0 +1,166 @@
+{
+  "id": "Q3913",
+  "label": "binary numeral system",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C48372109"
+    },
+    {
+      "property": "P10565",
+      "value": "31444"
+    },
+    {
+      "property": "P11408",
+      "value": "2進数"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Système_binaire"
+    },
+    {
+      "property": "P1343",
+      "value": "Q602358"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19180675"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19219752"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/binary-number-system"
+    },
+    {
+      "property": "P155",
+      "value": "Q724775"
+    },
+    {
+      "property": "P156",
+      "value": "Q1056486"
+    },
+    {
+      "property": "P18",
+      "value": "Binary number table.png"
+    },
+    {
+      "property": "P227",
+      "value": "4150805-1"
+    },
+    {
+      "property": "P2347",
+      "value": "24572"
+    },
+    {
+      "property": "P2581",
+      "value": "00010481n"
+    },
+    {
+      "property": "P279",
+      "value": "Q864135"
+    },
+    {
+      "property": "P2812",
+      "value": "Binary"
+    },
+    {
+      "property": "P31",
+      "value": "Q25457532"
+    },
+    {
+      "property": "P3264",
+      "value": "Q200"
+    },
+    {
+      "property": "P3417",
+      "value": "Binary-number-system"
+    },
+    {
+      "property": "P349",
+      "value": "00568548"
+    },
+    {
+      "property": "P3553",
+      "value": "19586916"
+    },
+    {
+      "property": "P366",
+      "value": "Q12525525"
+    },
+    {
+      "property": "P373",
+      "value": "Binary numeral system"
+    },
+    {
+      "property": "P4342",
+      "value": "to-tallsystemet"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5047",
+      "value": "Binary_digits"
+    },
+    {
+      "property": "P6009",
+      "value": "6144"
+    },
+    {
+      "property": "P6058",
+      "value": "divers/numération_binaire/27004"
+    },
+    {
+      "property": "P6104",
+      "value": "Q8487137"
+    },
+    {
+      "property": "P6366",
+      "value": "48372109"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01jm7h"
+    },
+    {
+      "property": "P6781",
+      "value": "Definition:Binary_Notation"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/2272"
+    },
+    {
+      "property": "P8309",
+      "value": "18-319882"
+    },
+    {
+      "property": "P8313",
+      "value": "binært_talsystem"
+    },
+    {
+      "property": "P8408",
+      "value": "BinaryArithmetic"
+    },
+    {
+      "property": "P8885",
+      "value": "2진법"
+    },
+    {
+      "property": "P910",
+      "value": "Q9442528"
+    },
+    {
+      "property": "P9621",
+      "value": "sistema-binario"
+    },
+    {
+      "property": "P989",
+      "value": "Nl-Binair-article.ogg"
+    }
+  ]
+}

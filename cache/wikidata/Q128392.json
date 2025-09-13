@@ -1,0 +1,86 @@
+{
+  "id": "Q128392",
+  "label": "concurrent computing",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C150495011"
+    },
+    {
+      "property": "P1382",
+      "value": "Q232661"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/concurrent-programming"
+    },
+    {
+      "property": "P1424",
+      "value": "Q20353483"
+    },
+    {
+      "property": "P2347",
+      "value": "26756"
+    },
+    {
+      "property": "P279",
+      "value": "Q80006"
+    },
+    {
+      "property": "P2924",
+      "value": "2706993"
+    },
+    {
+      "property": "P31",
+      "value": "Q188267"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P31",
+      "value": "Q25312607"
+    },
+    {
+      "property": "P373",
+      "value": "Concurrent programming"
+    },
+    {
+      "property": "P461",
+      "value": "Q107986267"
+    },
+    {
+      "property": "P5922",
+      "value": "080304"
+    },
+    {
+      "property": "P6366",
+      "value": "150495011"
+    },
+    {
+      "property": "P6366",
+      "value": "2777035820"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07phw8"
+    },
+    {
+      "property": "P6611",
+      "value": "34351"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/16597"
+    },
+    {
+      "property": "P8408",
+      "value": "ConcurrentComputing"
+    },
+    {
+      "property": "P910",
+      "value": "Q6452951"
+    }
+  ]
+}

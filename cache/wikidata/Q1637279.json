@@ -1,0 +1,70 @@
+{
+  "id": "Q1637279",
+  "label": "Mozilla Persona",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/persona"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Persona.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q9661"
+    },
+    {
+      "property": "P18",
+      "value": "Persona assertion generation and verify.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q7593080"
+    },
+    {
+      "property": "P2002",
+      "value": "MozillaPersona"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P3417",
+      "value": "Mozilla-Persona"
+    },
+    {
+      "property": "P366",
+      "value": "Q788590"
+    },
+    {
+      "property": "P571",
+      "value": "+2011-07-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0h_dp5k"
+    },
+    {
+      "property": "P856",
+      "value": "https://login.persona.org/"
+    },
+    {
+      "property": "P9618",
+      "value": "persona"
+    }
+  ]
+}

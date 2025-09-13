@@ -1,0 +1,34 @@
+{
+  "id": "Q1364041",
+  "label": "Intel P6",
+  "facts": [
+    {
+      "property": "P155",
+      "value": "Q12353724"
+    },
+    {
+      "property": "P156",
+      "value": "Q1062113"
+    },
+    {
+      "property": "P178",
+      "value": "Q248"
+    },
+    {
+      "property": "P1889",
+      "value": "Q291832"
+    },
+    {
+      "property": "P31",
+      "value": "Q259864"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07g2j9"
+    }
+  ]
+}

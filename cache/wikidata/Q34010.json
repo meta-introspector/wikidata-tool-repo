@@ -1,0 +1,390 @@
+{
+  "id": "Q34010",
+  "label": "Haskell",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2780624054"
+    },
+    {
+      "property": "P1051",
+      "value": "13866"
+    },
+    {
+      "property": "P10565",
+      "value": "546689"
+    },
+    {
+      "property": "P1072",
+      "value": "Q130240779"
+    },
+    {
+      "property": "P1073",
+      "value": "Q130240779"
+    },
+    {
+      "property": "P11201",
+      "value": "https://play.haskell.org/"
+    },
+    {
+      "property": "P11408",
+      "value": "Haskell"
+    },
+    {
+      "property": "P11947",
+      "value": "haskell@programming.dev"
+    },
+    {
+      "property": "P1195",
+      "value": "hs"
+    },
+    {
+      "property": "P1195",
+      "value": "lhs"
+    },
+    {
+      "property": "P12695",
+      "value": "Haskell"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Haskell"
+    },
+    {
+      "property": "P12873",
+      "value": "Haskell"
+    },
+    {
+      "property": "P13397",
+      "value": "haskell"
+    },
+    {
+      "property": "P13572",
+      "value": "Haskell"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/43d5a593-69d9-4a6c-b5cc-672e8abe4328"
+    },
+    {
+      "property": "P138",
+      "value": "Q92611"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/haskell"
+    },
+    {
+      "property": "P154",
+      "value": "Haskell-Logo.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/#haskell"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.libera.chat/haskell"
+    },
+    {
+      "property": "P1705",
+      "value": "Haskell"
+    },
+    {
+      "property": "P178",
+      "value": "Q15432950"
+    },
+    {
+      "property": "P178",
+      "value": "Q6522721"
+    },
+    {
+      "property": "P178",
+      "value": "Q5815940"
+    },
+    {
+      "property": "P178",
+      "value": "Q92949"
+    },
+    {
+      "property": "P178",
+      "value": "Q5388723"
+    },
+    {
+      "property": "P178",
+      "value": "Q3379094"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2049844"
+    },
+    {
+      "property": "P227",
+      "value": "4318275-6"
+    },
+    {
+      "property": "P244",
+      "value": "sh93003496"
+    },
+    {
+      "property": "P2572",
+      "value": "haskell"
+    },
+    {
+      "property": "P268",
+      "value": "12362303j"
+    },
+    {
+      "property": "P287",
+      "value": "Q6522721"
+    },
+    {
+      "property": "P287",
+      "value": "Q929492"
+    },
+    {
+      "property": "P287",
+      "value": "Q56567248"
+    },
+    {
+      "property": "P287",
+      "value": "Q15432950"
+    },
+    {
+      "property": "P287",
+      "value": "Q5815940"
+    },
+    {
+      "property": "P287",
+      "value": "Q27805395"
+    },
+    {
+      "property": "P287",
+      "value": "Q92949"
+    },
+    {
+      "property": "P287",
+      "value": "Q28484633"
+    },
+    {
+      "property": "P287",
+      "value": "Q5388723"
+    },
+    {
+      "property": "P287",
+      "value": "Q124301135"
+    },
+    {
+      "property": "P287",
+      "value": "Q3379094"
+    },
+    {
+      "property": "P2910",
+      "value": "Breezeicons-mimetypes-64-text-x-haskell.svg"
+    },
+    {
+      "property": "P2910",
+      "value": "Oxygen480-mimetypes-text-x-haskell.svg"
+    },
+    {
+      "property": "P2910",
+      "value": "Oxygen480-mimetypes-hidef-text-x-haskell.svg"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920201"
+    },
+    {
+      "property": "P31",
+      "value": "Q28923018"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922882"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P31",
+      "value": "Q50843083"
+    },
+    {
+      "property": "P31",
+      "value": "Q651794"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3381",
+      "value": "Haskell"
+    },
+    {
+      "property": "P3417",
+      "value": "Haskell-programming-language"
+    },
+    {
+      "property": "P348",
+      "value": "Haskell 2010"
+    },
+    {
+      "property": "P3553",
+      "value": "19593103"
+    },
+    {
+      "property": "P373",
+      "value": "Haskell"
+    },
+    {
+      "property": "P3847",
+      "value": "haskell_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q28453809"
+    },
+    {
+      "property": "P3966",
+      "value": "Q28923018"
+    },
+    {
+      "property": "P3984",
+      "value": "haskell"
+    },
+    {
+      "property": "P4215",
+      "value": "Haskell"
+    },
+    {
+      "property": "P463",
+      "value": "Q685777"
+    },
+    {
+      "property": "P4644",
+      "value": "000f1d3d-220f-4789-9c0a-cc742521fb02"
+    },
+    {
+      "property": "P571",
+      "value": "+1990-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6104",
+      "value": "Q15659621"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Haskell"
+    },
+    {
+      "property": "P6366",
+      "value": "2780624054"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03j_q"
+    },
+    {
+      "property": "P6611",
+      "value": "53991"
+    },
+    {
+      "property": "P6830",
+      "value": "03521"
+    },
+    {
+      "property": "P6900",
+      "value": "haskell"
+    },
+    {
+      "property": "P691",
+      "value": "ph903880"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q860654"
+    },
+    {
+      "property": "P737",
+      "value": "Q780803"
+    },
+    {
+      "property": "P737",
+      "value": "Q7105278"
+    },
+    {
+      "property": "P737",
+      "value": "Q6506135"
+    },
+    {
+      "property": "P737",
+      "value": "Q377986"
+    },
+    {
+      "property": "P7726",
+      "value": "Haskell"
+    },
+    {
+      "property": "P8189",
+      "value": "987007561153805171"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.haskell.org"
+    },
+    {
+      "property": "P8885",
+      "value": "Haskell"
+    },
+    {
+      "property": "P8972",
+      "value": "Antu text-x-haskell.svg"
+    },
+    {
+      "property": "P910",
+      "value": "Q8506049"
+    },
+    {
+      "property": "P9100",
+      "value": "haskell"
+    },
+    {
+      "property": "P950",
+      "value": "XX541061"
+    },
+    {
+      "property": "P9618",
+      "value": "haskell"
+    }
+  ]
+}

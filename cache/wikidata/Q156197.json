@@ -1,0 +1,1090 @@
+{
+  "id": "Q156197",
+  "label": "SeaMonkey",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q6912474"
+    },
+    {
+      "property": "P10766",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P112",
+      "value": "Q55672"
+    },
+    {
+      "property": "P11408",
+      "value": "SeaMonkey"
+    },
+    {
+      "property": "P11478",
+      "value": "#seamonkey:mozilla.org"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/comm-central/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://gitlab.com/seamonkey-project/seamonkey-2.53-mozilla"
+    },
+    {
+      "property": "P1324",
+      "value": "https://gitlab.com/seamonkey-project/seamonkey-2.53-comm"
+    },
+    {
+      "property": "P1401",
+      "value": "https://bugzilla.mozilla.org/"
+    },
+    {
+      "property": "P1414",
+      "value": "Q189464"
+    },
+    {
+      "property": "P144",
+      "value": "Q538588"
+    },
+    {
+      "property": "P154",
+      "value": "Seamonkey Suite Logo.png"
+    },
+    {
+      "property": "P154",
+      "value": "SeaMonkey.svg"
+    },
+    {
+      "property": "P155",
+      "value": "Q538588"
+    },
+    {
+      "property": "P170",
+      "value": "Q55672"
+    },
+    {
+      "property": "P178",
+      "value": "Q7719329"
+    },
+    {
+      "property": "P18",
+      "value": "SeaMonkey 2.53.10 screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q726218"
+    },
+    {
+      "property": "P277",
+      "value": "Q1691212"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q955452"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P31",
+      "value": "Q570871"
+    },
+    {
+      "property": "P31",
+      "value": "Q726761"
+    },
+    {
+      "property": "P31",
+      "value": "Q10417670"
+    },
+    {
+      "property": "P31",
+      "value": "Q1324042"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3417",
+      "value": "SeaMonkey"
+    },
+    {
+      "property": "P3454",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P3463",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.8"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.10"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.11"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.12"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.14"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.15"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.16"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.17"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.18"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.19"
+    },
+    {
+      "property": "P348",
+      "value": "2.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.10"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.11"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.12"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.13"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.14"
+    },
+    {
+      "property": "P348",
+      "value": "2.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.10"
+    },
+    {
+      "property": "P348",
+      "value": "2.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.11"
+    },
+    {
+      "property": "P348",
+      "value": "2.12"
+    },
+    {
+      "property": "P348",
+      "value": "2.12.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.13"
+    },
+    {
+      "property": "P348",
+      "value": "2.13.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.13.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.14"
+    },
+    {
+      "property": "P348",
+      "value": "2.14.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.15"
+    },
+    {
+      "property": "P348",
+      "value": "2.15.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.16"
+    },
+    {
+      "property": "P348",
+      "value": "2.16.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.16.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.17"
+    },
+    {
+      "property": "P348",
+      "value": "2.17.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.19"
+    },
+    {
+      "property": "P348",
+      "value": "2.20"
+    },
+    {
+      "property": "P348",
+      "value": "2.21"
+    },
+    {
+      "property": "P348",
+      "value": "2.22"
+    },
+    {
+      "property": "P348",
+      "value": "2.22.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.23"
+    },
+    {
+      "property": "P348",
+      "value": "2.24"
+    },
+    {
+      "property": "P348",
+      "value": "2.25"
+    },
+    {
+      "property": "P348",
+      "value": "2.26"
+    },
+    {
+      "property": "P348",
+      "value": "2.26.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.29"
+    },
+    {
+      "property": "P348",
+      "value": "2.29.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.30"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.31"
+    },
+    {
+      "property": "P348",
+      "value": "2.32"
+    },
+    {
+      "property": "P348",
+      "value": "2.32.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.33"
+    },
+    {
+      "property": "P348",
+      "value": "2.33.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.35"
+    },
+    {
+      "property": "P348",
+      "value": "2.39"
+    },
+    {
+      "property": "P348",
+      "value": "2.40"
+    },
+    {
+      "property": "P348",
+      "value": "2.46"
+    },
+    {
+      "property": "P348",
+      "value": "2.48"
+    },
+    {
+      "property": "P348",
+      "value": "2.49.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.49.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.49.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.49.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.49.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.3"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.4b1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.4"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.6"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.7"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.9"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.9b1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.10"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.10b1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.10.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.11b1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.11"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.11.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.12"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.13"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.14"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.14b1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.15b1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.15"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.16 Beta 1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.16"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.17 Beta 1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.17"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.17.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.18 Beta 1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.18"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.18.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.18.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.19"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.19 Beta 1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.20 Beta 1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.20"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.21 Beta 1"
+    },
+    {
+      "property": "P348",
+      "value": "2.53.21"
+    },
+    {
+      "property": "P3499",
+      "value": "www-client/seamonkey"
+    },
+    {
+      "property": "P3499",
+      "value": "www-client/seamonkey-bin"
+    },
+    {
+      "property": "P366",
+      "value": "Q955452"
+    },
+    {
+      "property": "P373",
+      "value": "SeaMonkey"
+    },
+    {
+      "property": "P407",
+      "value": "Q9027"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P407",
+      "value": "Q509780"
+    },
+    {
+      "property": "P407",
+      "value": "Q9058"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q5146"
+    },
+    {
+      "property": "P407",
+      "value": "Q809"
+    },
+    {
+      "property": "P407",
+      "value": "Q9083"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q9067"
+    },
+    {
+      "property": "P407",
+      "value": "Q188"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P407",
+      "value": "Q7979"
+    },
+    {
+      "property": "P407",
+      "value": "Q7976"
+    },
+    {
+      "property": "P407",
+      "value": "Q7411"
+    },
+    {
+      "property": "P407",
+      "value": "Q9056"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-sv-se"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-pl"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-lt"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-ja"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-nb-no"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-gtk2"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-en-gb"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-ca"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-de"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-nl"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-es-ar"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-sk"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-zh-cn"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-es-es"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-ru"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-it"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-tr"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-pt-pt"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-hu"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-fr"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-fi"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-cs"
+    },
+    {
+      "property": "P4162",
+      "value": "seamonkey-i18n-pt-br"
+    },
+    {
+      "property": "P4969",
+      "value": "Q2473755"
+    },
+    {
+      "property": "P527",
+      "value": "Q2703374"
+    },
+    {
+      "property": "P571",
+      "value": "+2006-01-30T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2006-00-00T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "15384"
+    },
+    {
+      "property": "P600",
+      "value": "349"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05dwb3"
+    },
+    {
+      "property": "P6665",
+      "value": "9571"
+    },
+    {
+      "property": "P6900",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P6931",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P7427",
+      "value": "www/seamonkey"
+    },
+    {
+      "property": "P7788",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P7966",
+      "value": "www/seamonkey"
+    },
+    {
+      "property": "P7966",
+      "value": "www/seamonkey-l10n"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/es-AR"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/en-US"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/es-ES"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/cs"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/sv-SE"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/ja"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/nl"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/pl"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/zh-CN"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/zh-TW"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/lt"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/it"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/en-GB"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/sk"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/ru"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/fr"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/hu"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/pt-PT"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/de"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/pt-BR"
+    },
+    {
+      "property": "P7967",
+      "value": "www/seamonkey-i18n/nb-NO"
+    },
+    {
+      "property": "P8205",
+      "value": "Mozilla/SeaMonkey"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.seamonkey-project.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://gitlab.com/seamonkey-project"
+    },
+    {
+      "property": "P910",
+      "value": "Q55267879"
+    },
+    {
+      "property": "P935",
+      "value": "SeaMonkey"
+    },
+    {
+      "property": "P9602",
+      "value": "freshmeat_mozilla"
+    },
+    {
+      "property": "P9618",
+      "value": "seamonkey"
+    },
+    {
+      "property": "P989",
+      "value": "SeaMonkey.ogg"
+    }
+  ]
+}

@@ -1,0 +1,4074 @@
+{
+  "id": "Q574992",
+  "label": "V8",
+  "facts": [
+    {
+      "property": "P12433",
+      "value": "v8"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/v8/v8"
+    },
+    {
+      "property": "P1324",
+      "value": "https://chromium.googlesource.com/v8/v8"
+    },
+    {
+      "property": "P13385",
+      "value": "V8"
+    },
+    {
+      "property": "P144",
+      "value": "Q2357042"
+    },
+    {
+      "property": "P154",
+      "value": "V8 JavaScript engine logo 2.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q6491418"
+    },
+    {
+      "property": "P178",
+      "value": "Q122253946"
+    },
+    {
+      "property": "P178",
+      "value": "Q122253992"
+    },
+    {
+      "property": "P178",
+      "value": "Q102289024"
+    },
+    {
+      "property": "P178",
+      "value": "Q122253259"
+    },
+    {
+      "property": "P178",
+      "value": "Q122255245"
+    },
+    {
+      "property": "P1889",
+      "value": "Q294984"
+    },
+    {
+      "property": "P1972",
+      "value": "v8-js"
+    },
+    {
+      "property": "P2002",
+      "value": "v8js"
+    },
+    {
+      "property": "P2037",
+      "value": "v8"
+    },
+    {
+      "property": "P2537",
+      "value": "V8"
+    },
+    {
+      "property": "P275",
+      "value": "Q18491847"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q34236"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q79531"
+    },
+    {
+      "property": "P306",
+      "value": "Q305873"
+    },
+    {
+      "property": "P306",
+      "value": "Q879989"
+    },
+    {
+      "property": "P31",
+      "value": "Q591919"
+    },
+    {
+      "property": "P31",
+      "value": "Q1130645"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q192726"
+    },
+    {
+      "property": "P3463",
+      "value": "v8"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.130"
+    },
+    {
+      "property": "P348",
+      "value": "5.9"
+    },
+    {
+      "property": "P348",
+      "value": "6.0"
+    },
+    {
+      "property": "P348",
+      "value": "6.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.6.335"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.189"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.190"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.191"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.192"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.193"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.194"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.195"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.196"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.197"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.198"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.199"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.200"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.201"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.202"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.203"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.204"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.205"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.206"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.207"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.208"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.209"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.210"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.211"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.212"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.213"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.214"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.215"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.216"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.217"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.218"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.219"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.220"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.221"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.222"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.223"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.224"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.225"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.226"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.227"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.228"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.229"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.230"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.231"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.232"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.233"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.234"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.235"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.236"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.237"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.238"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.239"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.240"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.241"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.242"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.243"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.244"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.245"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.246"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.247"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.248"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.249"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.250"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.251"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.252"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.253"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.254"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.255"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.256"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.257"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.258"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.259"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.260"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.261"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.262"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.263"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.264"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.265"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.266"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.267"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.268"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.269"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.270"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.271"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.272"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.273"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.274"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.275"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.276"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.277"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.278"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.279"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.280"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.281"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.282"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.283"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.284"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.285"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.286"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.287"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.289"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.290"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.291"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.292"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.293"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.294"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.295"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.296"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.297"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.298"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.299"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.300"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.301"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.6"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.7"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.8"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.9"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.10"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.11"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.12"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.13"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.14"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.15"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.16"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.17"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.18"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.19"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.20"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.21"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.22"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.23"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.24"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.25"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.26"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.27"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.28"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.29"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.30"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.31"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.32"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.33"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.34"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.35"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.36"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.6"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.7"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.8"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.37"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.38"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.39"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.40"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.41"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.42"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.43"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.44"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.45"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.46"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.47"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.48"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.49"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.50"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.51"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.52"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.53"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.54"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.55"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.56"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.57"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.58"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.59"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.60"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.61"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.62"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.63"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.64"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.65"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.66"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.67"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.68"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.69"
+    },
+    {
+      "property": "P348",
+      "value": "7.4.288.9"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.70"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.71"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.72"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.73"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.74"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.75"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.75.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.76"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.77"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.78"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.79"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.80"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.81"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.82"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.83"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.84"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.83.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.84.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.84.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.84.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.85"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.86"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.87"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.88"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.89"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.90"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.91"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.92"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.93"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.94"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.95"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.96"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.97"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.98"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.99"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.100"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.101"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.102"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.103"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.104"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.105"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.106"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.107"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.108"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.108.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.109"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.110"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.111"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.111.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.112"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.113"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.114"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.115"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.116"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.117"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.118"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.119"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.120"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.121"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.122"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.123"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.124"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.125"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.126"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.127"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.128"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.129"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.130"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.131"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.132"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.133"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.134"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.135"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.136"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.137"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.138"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.139"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.140"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.141"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.142"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.143"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.144"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.145"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.146"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.147"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.148"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.149"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.150"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.151"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.152"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.153"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.154"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.155"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.156"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.157"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.158"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.159"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.160"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.161"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.162"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.163"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.164"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.165"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.166"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.167"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.168"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.169"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.170"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.171"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.172"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.173"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.174"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.175"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.176"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.177"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.178"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.179"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.180"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.181"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.182"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.183"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.184"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.185"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.186"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.187"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.188"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.189"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.190"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.191"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.192"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.193"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.194"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.195"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.196"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.197"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.198"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.199"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.200"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.201"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.202"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.203"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.204"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.205"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.206"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.207"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.208"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.209"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.210"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.211"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.212"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.213"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.214"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.215"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.216"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.217"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.218"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.219"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.220"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.221"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.222"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.223"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.224"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.225"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.226"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.227"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.228"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.229"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.230"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.231"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.232"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.233"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.234"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.235"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.236"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.237"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.238"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.239"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.240"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.241"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.242"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.243"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.244"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.245"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.246"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.247"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.248"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.249"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.249.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.250"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.251"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.252"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.253"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.254"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.255"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.256"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.257"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.258"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.259"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.260"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.261"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.262"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.263"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.264"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.265"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.266"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.267"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.268"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.269"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.270"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.271"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.272"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.273"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.274"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.275"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.276"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.277"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.278"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.279"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.279.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.279.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.280"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.281"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.282"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.283"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.284"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.285"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.286"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.287"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.289"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.6"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.7"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.8"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.9"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.10"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.11"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.12"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.13"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.14"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.15"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.16"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.17"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.18"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.19"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.20"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.21"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.22"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.23"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.24"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.25"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.26"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.27"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.28"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.29"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.30"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.31"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.32"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.33"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.34"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.35"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.36"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.37"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.38"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.39"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.40"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.41"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.42"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.43"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.44"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.45"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.46"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.47"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.48"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.49"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.50"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.51"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.52"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.53"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.54"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.6"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.55"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.56"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.57"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.7"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.8"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.58"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.59"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.60"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.61"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.62"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.63"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.64"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.65"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.66"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.67"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.68"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.69"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.70"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.71"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.72"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.73"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.74"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.75"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.76"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.77"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.9"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.78"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.79"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.80"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.81"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.82"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.83"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.84"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.85"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.86"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.87"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.88"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.89"
+    },
+    {
+      "property": "P348",
+      "value": "7.5.288.10"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.90"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.91"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.92"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.93"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.94"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.95"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.96"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.97"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.98"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.99"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.100"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.101"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.102"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.103"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.104"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.105"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.106"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.107"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.108"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.109"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.110"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.111"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.112"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.113"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.114"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.115"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.116"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.116.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.117"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.118"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.119"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.120"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.121"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.122"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.123"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.124"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.125"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.126"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.127"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.128"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.129"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.130"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.131"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.132"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.129.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.133"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.134"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.135"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.136"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.137"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.138"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.139"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.140"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.141"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.142"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.143"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.144"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.145"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.146"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.147"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.148"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.149"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.150"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.151"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.152"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.153"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.154"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.155"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.156"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.157"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.158"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.159"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.160"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.161"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.162"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.163"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.164"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.165"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.166"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.167"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.168"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.169"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.170"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.171"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.172"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.173"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.174"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.175"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.176"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.177"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.178"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.179"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.180"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.181"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.182"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.183"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.184"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.185"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.186"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.187"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.188"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.189"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.190"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.191"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.192"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.193"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.194"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.192.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.195"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.196"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.197"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.198"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.199"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.200"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.201"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.202"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.203"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.204"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.205"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.206"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.207"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.208"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.209"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.210"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.206.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.211"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.212"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.213"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.214"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.215"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.216"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.217"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.218"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.219"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.220"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.221"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.222"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.223"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.224"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.225"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.226"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.227"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.228"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.229"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.230"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.231"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.232"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.233"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.234"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.235"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.236"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.237"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.238"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.239"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.240"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.241"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.242"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.243"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.244"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.245"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.246"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.247"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.248"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.249"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.250"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.251"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.252"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.253"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.254"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.255"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.256"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.257"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.258"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.259"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.260"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.261"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.262"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.263"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.264"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.265"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.266"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.267"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.268"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.269"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.270"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.271"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.272"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.273"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.274"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.275"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.276"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.277"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.278"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.279"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.280"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.281"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.282"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.283"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.284"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.285"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.286"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.287"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.288"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.289"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.290"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.291"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.292"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.293"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.294"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.295"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.296"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.297"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.298"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.299"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.300"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.301"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.302"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.303"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.296.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.303.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.304"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.305"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.306"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.307"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.308"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.309"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.310"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.311"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.303.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.303.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.6"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.7"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.8"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.9"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.10"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.11"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.12"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.13"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.14"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.15"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.16"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.17"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.18"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.19"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.20"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.21"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.22"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.23"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.24"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.25"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.26"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.27"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.28"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.29"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.30"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.31"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.32"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.33"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.34"
+    },
+    {
+      "property": "P348",
+      "value": "7.6.303.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.28.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.35"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.36"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.37"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.38"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.39"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.40"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.41"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.42"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.42.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.43"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.44"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.45"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.46"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.47"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.48"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.49"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.50"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.51"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.52"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.53"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.54"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.55"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.56"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.57"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.58"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.59"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.60"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.61"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.62"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.63"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.64"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.65"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.66"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.67"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.68"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.69"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.70"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.71"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.72"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.73"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.74"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.75"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.76"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.77"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.78"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.79"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.80"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.81"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.82"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.83"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.84"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.85"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.86"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.87"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.88"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.89"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.90"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.91"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.92"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.93"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.94"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.95"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.96"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.97"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.98"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.99"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.100"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.101"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.102"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.103"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.104"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.105"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.106"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.107"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.108"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.109"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.110"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.111"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.112"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.113"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.114"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.115"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.116"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.117"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.118"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.119"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.120"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.121"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.122"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.123"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.124"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.125"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.126"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.127"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.128"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.129"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.130"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.131"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.132"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.133"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.134"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.135"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.136"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.137"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.138"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.139"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.140"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.141"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.142"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.143"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.144"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.145"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.146"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.147"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.148"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.149"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.150"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.151"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.152"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.153"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.154"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.155"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.156"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.157"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.158"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.159"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.160"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.161"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.162"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.163"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.164"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.165"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.166"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.167"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.168"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.169"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.170"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.171"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.172"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.173"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.174"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.175"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.176"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.177"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.178"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.179"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.180"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.181"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.182"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.183"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.184"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.185"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.186"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.187"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.188"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.189"
+    },
+    {
+      "property": "P348",
+      "value": "7.7.190"
+    },
+    {
+      "property": "P348",
+      "value": "8.7"
+    },
+    {
+      "property": "P348",
+      "value": "8.9"
+    },
+    {
+      "property": "P348",
+      "value": "9.0"
+    },
+    {
+      "property": "P348",
+      "value": "9.3"
+    },
+    {
+      "property": "P348",
+      "value": "9.7"
+    },
+    {
+      "property": "P348",
+      "value": "9.9"
+    },
+    {
+      "property": "P348",
+      "value": "11.4"
+    },
+    {
+      "property": "P348",
+      "value": "13.3.415.17"
+    },
+    {
+      "property": "P373",
+      "value": "V8 (JavaScript engine)"
+    },
+    {
+      "property": "P400",
+      "value": "Q262238"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P400",
+      "value": "Q18384745"
+    },
+    {
+      "property": "P400",
+      "value": "Q527464"
+    },
+    {
+      "property": "P400",
+      "value": "Q1361373"
+    },
+    {
+      "property": "P400",
+      "value": "Q209860"
+    },
+    {
+      "property": "P4162",
+      "value": "v8"
+    },
+    {
+      "property": "P4162",
+      "value": "v8-static-gyp-5.4"
+    },
+    {
+      "property": "P4162",
+      "value": "v8-3.14"
+    },
+    {
+      "property": "P4162",
+      "value": "v8-6.8"
+    },
+    {
+      "property": "P4162",
+      "value": "v8-static-gyp"
+    },
+    {
+      "property": "P4162",
+      "value": "v8-3.14-bin"
+    },
+    {
+      "property": "P4969",
+      "value": "Q41242"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04jb28d"
+    },
+    {
+      "property": "P6931",
+      "value": "v8"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/v8"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/libv8"
+    },
+    {
+      "property": "P8443",
+      "value": "v8"
+    },
+    {
+      "property": "P8443",
+      "value": "v8@3.15"
+    },
+    {
+      "property": "P856",
+      "value": "https://v8.dev/"
+    },
+    {
+      "property": "P8687",
+      "value": "+51033"
+    },
+    {
+      "property": "P8687",
+      "value": "+17062"
+    },
+    {
+      "property": "P8687",
+      "value": "+64515"
+    },
+    {
+      "property": "P8687",
+      "value": "+70247"
+    },
+    {
+      "property": "P9100",
+      "value": "v8"
+    },
+    {
+      "property": "P9618",
+      "value": "v8"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "Q32635",
+  "label": "domain name",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2988987868"
+    },
+    {
+      "property": "P1149",
+      "value": "TK5105.8835"
+    },
+    {
+      "property": "P12521",
+      "value": "Domain_Name"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Nom_de_domaine"
+    },
+    {
+      "property": "P13397",
+      "value": "domain-names"
+    },
+    {
+      "property": "P13411",
+      "value": "Q628"
+    },
+    {
+      "property": "P13572",
+      "value": "Internet+domain+names"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/27964488-f682-478d-a48e-2633829a63f6"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/domain-name"
+    },
+    {
+      "property": "P1617",
+      "value": "5ab0ad8a-e5d6-4b58-ae23-39376806aea7"
+    },
+    {
+      "property": "P1687",
+      "value": "P13337"
+    },
+    {
+      "property": "P18",
+      "value": "DNS schema.svg"
+    },
+    {
+      "property": "P227",
+      "value": "4637477-2"
+    },
+    {
+      "property": "P2347",
+      "value": "10186"
+    },
+    {
+      "property": "P244",
+      "value": "sh97008807"
+    },
+    {
+      "property": "P2581",
+      "value": "00028143n"
+    },
+    {
+      "property": "P268",
+      "value": "13575570n"
+    },
+    {
+      "property": "P279",
+      "value": "Q6545185"
+    },
+    {
+      "property": "P2924",
+      "value": "4426366"
+    },
+    {
+      "property": "P2924",
+      "value": "1964735"
+    },
+    {
+      "property": "P31",
+      "value": "Q317623"
+    },
+    {
+      "property": "P3222",
+      "value": "domännamn"
+    },
+    {
+      "property": "P3381",
+      "value": "Domain_name"
+    },
+    {
+      "property": "P3417",
+      "value": "Domain_name"
+    },
+    {
+      "property": "P3417",
+      "value": "Domain-Names"
+    },
+    {
+      "property": "P349",
+      "value": "01140671"
+    },
+    {
+      "property": "P3553",
+      "value": "19552590"
+    },
+    {
+      "property": "P361",
+      "value": "Q75"
+    },
+    {
+      "property": "P361",
+      "value": "Q8767"
+    },
+    {
+      "property": "P361",
+      "value": "Q466"
+    },
+    {
+      "property": "P366",
+      "value": "Q1649725"
+    },
+    {
+      "property": "P373",
+      "value": "Domain name system"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.3.53.2.30"
+    },
+    {
+      "property": "P5063",
+      "value": "i72494"
+    },
+    {
+      "property": "P527",
+      "value": "Q115926675"
+    },
+    {
+      "property": "P5398",
+      "value": "000000601"
+    },
+    {
+      "property": "P5692",
+      "value": "example.com"
+    },
+    {
+      "property": "P5692",
+      "value": "example.net"
+    },
+    {
+      "property": "P5692",
+      "value": "example.org"
+    },
+    {
+      "property": "P6293",
+      "value": "Y127199"
+    },
+    {
+      "property": "P646",
+      "value": "/m/09y1k"
+    },
+    {
+      "property": "P7497",
+      "value": "InternetDomain"
+    },
+    {
+      "property": "P7783",
+      "value": "200906024956201945"
+    },
+    {
+      "property": "P7870",
+      "value": "55691"
+    },
+    {
+      "property": "P8189",
+      "value": "987007551602705171"
+    },
+    {
+      "property": "P8408",
+      "value": "DomainName"
+    },
+    {
+      "property": "P910",
+      "value": "Q8386929"
+    }
+  ]
+}

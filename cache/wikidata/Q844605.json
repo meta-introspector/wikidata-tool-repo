@@ -1,0 +1,38 @@
+{
+  "id": "Q844605",
+  "label": "backward compatibility",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C20574231"
+    },
+    {
+      "property": "P1245",
+      "value": "855325"
+    },
+    {
+      "property": "P279",
+      "value": "Q2175596"
+    },
+    {
+      "property": "P373",
+      "value": "Backward compatibility"
+    },
+    {
+      "property": "P461",
+      "value": "Q1192648"
+    },
+    {
+      "property": "P6366",
+      "value": "20574231"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01fd_"
+    },
+    {
+      "property": "P910",
+      "value": "Q8285553"
+    }
+  ]
+}

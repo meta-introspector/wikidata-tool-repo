@@ -1,0 +1,134 @@
+{
+  "id": "Q205020",
+  "label": "desktop environment",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/graphical-desktop"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/desktop-environment"
+    },
+    {
+      "property": "P12695",
+      "value": "Desktop_environment"
+    },
+    {
+      "property": "P12873",
+      "value": "Desktop_environment"
+    },
+    {
+      "property": "P12873",
+      "value": "Desktop_environment_(Українська)"
+    },
+    {
+      "property": "P12873",
+      "value": "Desktop_environment_(Русский)"
+    },
+    {
+      "property": "P12873",
+      "value": "Desktop_environment_(Español)"
+    },
+    {
+      "property": "P12873",
+      "value": "Desktop_environment_(Italiano)"
+    },
+    {
+      "property": "P12873",
+      "value": "Desktop_environment_(Português)"
+    },
+    {
+      "property": "P12873",
+      "value": "Desktop_environment_(Suomi)"
+    },
+    {
+      "property": "P12946",
+      "value": "desktop"
+    },
+    {
+      "property": "P13397",
+      "value": "desktop-environment"
+    },
+    {
+      "property": "P1687",
+      "value": "P1414"
+    },
+    {
+      "property": "P18",
+      "value": "Kubuntu 23.10 with menu - English.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q390539"
+    },
+    {
+      "property": "P2283",
+      "value": "Q782543"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1048818"
+    },
+    {
+      "property": "P279",
+      "value": "Q18109"
+    },
+    {
+      "property": "P279",
+      "value": "Q30059018"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P31",
+      "value": "Q47146"
+    },
+    {
+      "property": "P361",
+      "value": "Q9135"
+    },
+    {
+      "property": "P373",
+      "value": "Desktop environments"
+    },
+    {
+      "property": "P5084",
+      "value": "396545670"
+    },
+    {
+      "property": "P527",
+      "value": "Q216653"
+    },
+    {
+      "property": "P6009",
+      "value": "5424"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Desktop"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:Desktop"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Desktop"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0hwf2"
+    },
+    {
+      "property": "P8885",
+      "value": "데스크톱 환경"
+    },
+    {
+      "property": "P910",
+      "value": "Q7156696"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "Q272629",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P1068",
+      "value": "Q272629"
+    },
+    {
+      "property": "P11408",
+      "value": "x64"
+    },
+    {
+      "property": "P13520",
+      "value": "2298"
+    },
+    {
+      "property": "P138",
+      "value": "Q182933"
+    },
+    {
+      "property": "P138",
+      "value": "Q252132"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/x86-64"
+    },
+    {
+      "property": "P1557",
+      "value": "Q252132"
+    },
+    {
+      "property": "P18",
+      "value": "AMD Opteron 146 Venus, 2005.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q182933"
+    },
+    {
+      "property": "P1889",
+      "value": "Q1758006"
+    },
+    {
+      "property": "P1889",
+      "value": "Q16525012"
+    },
+    {
+      "property": "P279",
+      "value": "Q182933"
+    },
+    {
+      "property": "P279",
+      "value": "Q1815901"
+    },
+    {
+      "property": "P31",
+      "value": "Q272683"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P3553",
+      "value": "19566042"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01kdmy"
+    },
+    {
+      "property": "P9100",
+      "value": "x64"
+    },
+    {
+      "property": "P9100",
+      "value": "x86-64"
+    }
+  ]
+}

@@ -1,0 +1,1210 @@
+{
+  "id": "Q178940",
+  "label": "GNU Compiler Collection",
+  "facts": [
+    {
+      "property": "P12077",
+      "value": "development/gcc5"
+    },
+    {
+      "property": "P12115",
+      "value": "gcc"
+    },
+    {
+      "property": "P12203",
+      "value": "https://gcc.gnu.org/wiki"
+    },
+    {
+      "property": "P12433",
+      "value": "libgcc"
+    },
+    {
+      "property": "P126",
+      "value": "Q112144615"
+    },
+    {
+      "property": "P126",
+      "value": "Q116695637"
+    },
+    {
+      "property": "P12695",
+      "value": "GCC"
+    },
+    {
+      "property": "P12873",
+      "value": "GNU_Compiler_Collection"
+    },
+    {
+      "property": "P12873",
+      "value": "GNU_Compiler_Collection_(Русский)"
+    },
+    {
+      "property": "P12873",
+      "value": "GNU_Compiler_Collection_(Português)"
+    },
+    {
+      "property": "P12873",
+      "value": "GNU_Compiler_Collection_(Español)"
+    },
+    {
+      "property": "P1324",
+      "value": "https://gcc.gnu.org/git/gcc.git"
+    },
+    {
+      "property": "P1324",
+      "value": "git://gcc.gnu.org/git/gcc.git"
+    },
+    {
+      "property": "P135",
+      "value": "Q1076638"
+    },
+    {
+      "property": "P1401",
+      "value": "http://gcc.gnu.org/bugs/"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/gcc"
+    },
+    {
+      "property": "P154",
+      "value": "GNU Compiler Collection logo.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.freenode.net/#gcc"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.libera.chat/gcc"
+    },
+    {
+      "property": "P178",
+      "value": "Q7598"
+    },
+    {
+      "property": "P18",
+      "value": "GCC 11.1.0 compiling Chicken screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "gcc"
+    },
+    {
+      "property": "P227",
+      "value": "4294848-4"
+    },
+    {
+      "property": "P2537",
+      "value": "Gcc"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513445"
+    },
+    {
+      "property": "P275",
+      "value": "Q18534390"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P306",
+      "value": "Q770573"
+    },
+    {
+      "property": "P31",
+      "value": "Q1325106"
+    },
+    {
+      "property": "P31",
+      "value": "Q20825628"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3417",
+      "value": "GCC-compiler"
+    },
+    {
+      "property": "P3417",
+      "value": "Gnu-Compiler"
+    },
+    {
+      "property": "P3442",
+      "value": "gcc"
+    },
+    {
+      "property": "P3442",
+      "value": "gcc-aarch64-linux-gnu"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc"
+    },
+    {
+      "property": "P3454",
+      "value": "lib32-gcc-libs"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc8-libs"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc-libs"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc-ada"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc8"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc-objc"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc8-fortran"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc-fortran"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc-go"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc-d"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc9"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc9-libs"
+    },
+    {
+      "property": "P3454",
+      "value": "gcc9-fortran"
+    },
+    {
+      "property": "P3463",
+      "value": "gcc"
+    },
+    {
+      "property": "P3473",
+      "value": "gcc"
+    },
+    {
+      "property": "P3473",
+      "value": "gcc-aarch64-linux-gnu"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.9.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.8.5"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.9.4"
+    },
+    {
+      "property": "P348",
+      "value": "6.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "6.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.3"
+    },
+    {
+      "property": "P348",
+      "value": "8.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.2"
+    },
+    {
+      "property": "P348",
+      "value": "8.3"
+    },
+    {
+      "property": "P348",
+      "value": "9.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.2"
+    },
+    {
+      "property": "P348",
+      "value": "0.9"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.5"
+    },
+    {
+      "property": "P348",
+      "value": "9.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.4"
+    },
+    {
+      "property": "P348",
+      "value": "10.2"
+    },
+    {
+      "property": "P348",
+      "value": "10.3"
+    },
+    {
+      "property": "P348",
+      "value": "11.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.2"
+    },
+    {
+      "property": "P348",
+      "value": "11.3"
+    },
+    {
+      "property": "P348",
+      "value": "12.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.4"
+    },
+    {
+      "property": "P348",
+      "value": "9.5"
+    },
+    {
+      "property": "P348",
+      "value": "10.4"
+    },
+    {
+      "property": "P348",
+      "value": "12.2"
+    },
+    {
+      "property": "P348",
+      "value": "13.1"
+    },
+    {
+      "property": "P348",
+      "value": "12.3"
+    },
+    {
+      "property": "P348",
+      "value": "11.4"
+    },
+    {
+      "property": "P348",
+      "value": "13.2"
+    },
+    {
+      "property": "P348",
+      "value": "10.5"
+    },
+    {
+      "property": "P348",
+      "value": "14.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.3"
+    },
+    {
+      "property": "P348",
+      "value": "12.4"
+    },
+    {
+      "property": "P348",
+      "value": "11.5"
+    },
+    {
+      "property": "P348",
+      "value": "14.2"
+    },
+    {
+      "property": "P348",
+      "value": "15.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.3"
+    },
+    {
+      "property": "P348",
+      "value": "13.4"
+    },
+    {
+      "property": "P348",
+      "value": "12.5"
+    },
+    {
+      "property": "P348",
+      "value": "15.2"
+    },
+    {
+      "property": "P3499",
+      "value": "sys-devel/gcc"
+    },
+    {
+      "property": "P3553",
+      "value": "19602791"
+    },
+    {
+      "property": "P361",
+      "value": "Q1144323"
+    },
+    {
+      "property": "P373",
+      "value": "GNU Compiler Collection"
+    },
+    {
+      "property": "P3802",
+      "value": "ubuntu/+source/gcc-defaults"
+    },
+    {
+      "property": "P3985",
+      "value": "Q15777"
+    },
+    {
+      "property": "P3985",
+      "value": "Q2407"
+    },
+    {
+      "property": "P3985",
+      "value": "Q188531"
+    },
+    {
+      "property": "P3985",
+      "value": "Q83303"
+    },
+    {
+      "property": "P3985",
+      "value": "Q154755"
+    },
+    {
+      "property": "P3985",
+      "value": "Q37227"
+    },
+    {
+      "property": "P3985",
+      "value": "Q319268"
+    },
+    {
+      "property": "P400",
+      "value": "Q174666"
+    },
+    {
+      "property": "P4107",
+      "value": "gnu-compiler-collection"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc6-gcj"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc6-multilib"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc46"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc47"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc44"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc47-multilib"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc49-multilib"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc46-multilib"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc-ada-git"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc48"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc-go-git"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc-objc-git"
+    },
+    {
+      "property": "P4162",
+      "value": "lib32-gcc-libs-gitb"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc45"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc5"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc6-fortran"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc43-multilib"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc7-fortran"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc45-multilib"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc-fortran-git"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc-libs-git"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc6-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc43"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc49"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc44-multilib"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc6"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc-git"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc7"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc7-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc-d-git"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc8-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc8"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc9-libs"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc9"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc9-fortran"
+    },
+    {
+      "property": "P4162",
+      "value": "gcc8-fortran"
+    },
+    {
+      "property": "P4428",
+      "value": "Q15777"
+    },
+    {
+      "property": "P4428",
+      "value": "Q2407"
+    },
+    {
+      "property": "P4428",
+      "value": "Q188531"
+    },
+    {
+      "property": "P4428",
+      "value": "Q83303"
+    },
+    {
+      "property": "P4428",
+      "value": "Q154755"
+    },
+    {
+      "property": "P4428",
+      "value": "Q37227"
+    },
+    {
+      "property": "P4428",
+      "value": "Q319268"
+    },
+    {
+      "property": "P4810",
+      "value": "Q47517764"
+    },
+    {
+      "property": "P4810",
+      "value": "Q47517768"
+    },
+    {
+      "property": "P4810",
+      "value": "Q47517769"
+    },
+    {
+      "property": "P4810",
+      "value": "Q47517765"
+    },
+    {
+      "property": "P4810",
+      "value": "Q7670754"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52286745"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52286870"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52287198"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52287290"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52289173"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52289314"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52289544"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52289733"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52289901"
+    },
+    {
+      "property": "P4810",
+      "value": "Q52290028"
+    },
+    {
+      "property": "P4837",
+      "value": "--help"
+    },
+    {
+      "property": "P4837",
+      "value": "--target-help"
+    },
+    {
+      "property": "P4837",
+      "value": "--version"
+    },
+    {
+      "property": "P4837",
+      "value": "-dumpspecs"
+    },
+    {
+      "property": "P4837",
+      "value": "-dumpmachine"
+    },
+    {
+      "property": "P4837",
+      "value": "-dumpversion"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-search-dirs"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-libccc-file-name"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-file-name"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-prog-name"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-multiarch"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-multi-directory"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-multi-lib"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-multi-os-directory"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-sysroot"
+    },
+    {
+      "property": "P4837",
+      "value": "-print-sysroot-headers-suffix"
+    },
+    {
+      "property": "P4837",
+      "value": "-Wa"
+    },
+    {
+      "property": "P4837",
+      "value": "-Wp"
+    },
+    {
+      "property": "P4837",
+      "value": "-Wl"
+    },
+    {
+      "property": "P4837",
+      "value": "-Xassembler"
+    },
+    {
+      "property": "P4837",
+      "value": "-Xpreprocessor"
+    },
+    {
+      "property": "P4837",
+      "value": "-Xlinker"
+    },
+    {
+      "property": "P4837",
+      "value": "-save-temps"
+    },
+    {
+      "property": "P4837",
+      "value": "-no-canonical-prefixes"
+    },
+    {
+      "property": "P4837",
+      "value": "-pipe"
+    },
+    {
+      "property": "P4837",
+      "value": "-time"
+    },
+    {
+      "property": "P4837",
+      "value": "-specs"
+    },
+    {
+      "property": "P4837",
+      "value": "-std"
+    },
+    {
+      "property": "P4837",
+      "value": "--sysroot"
+    },
+    {
+      "property": "P4837",
+      "value": "-B"
+    },
+    {
+      "property": "P4837",
+      "value": "-v"
+    },
+    {
+      "property": "P4837",
+      "value": "-E"
+    },
+    {
+      "property": "P4837",
+      "value": "-S"
+    },
+    {
+      "property": "P4837",
+      "value": "-c"
+    },
+    {
+      "property": "P4837",
+      "value": "-o"
+    },
+    {
+      "property": "P4837",
+      "value": "-pie"
+    },
+    {
+      "property": "P4837",
+      "value": "-shared"
+    },
+    {
+      "property": "P4837",
+      "value": "-x"
+    },
+    {
+      "property": "P4969",
+      "value": "Q780172"
+    },
+    {
+      "property": "P527",
+      "value": "Q7095747"
+    },
+    {
+      "property": "P527",
+      "value": "Q180760"
+    },
+    {
+      "property": "P527",
+      "value": "Q1050459"
+    },
+    {
+      "property": "P527",
+      "value": "Q1942864"
+    },
+    {
+      "property": "P527",
+      "value": "Q105514255"
+    },
+    {
+      "property": "P571",
+      "value": "+1987-05-23T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1987-05-23T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q88088423"
+    },
+    {
+      "property": "P646",
+      "value": "/m/037gj"
+    },
+    {
+      "property": "P6665",
+      "value": "3619"
+    },
+    {
+      "property": "P6765",
+      "value": "gcc"
+    },
+    {
+      "property": "P6900",
+      "value": "gnu compiler collection"
+    },
+    {
+      "property": "P6931",
+      "value": "gcc"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc48"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc6"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc7-devel"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc5"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc8"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc9-devel"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc9"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc8-devel"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc10-devel"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc7"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc11-devel"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/gcc10"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/linux-c7-libgfortran"
+    },
+    {
+      "property": "P7788",
+      "value": "gcc"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc49-libs"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc5-libs"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc3"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc8"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc48-libs"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc49"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc5"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc7"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc3-c++"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc3-f77"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc44"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc2"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc6"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc3-c"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc9"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc48"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc34"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc3-objc"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/gcc10"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/gcc/8"
+    },
+    {
+      "property": "P7967",
+      "value": "lang/gcc/11"
+    },
+    {
+      "property": "P8313",
+      "value": "GCC"
+    },
+    {
+      "property": "P8443",
+      "value": "gcc@8"
+    },
+    {
+      "property": "P8443",
+      "value": "gcc@4.9"
+    },
+    {
+      "property": "P8443",
+      "value": "gcc"
+    },
+    {
+      "property": "P8443",
+      "value": "gcc@6"
+    },
+    {
+      "property": "P8443",
+      "value": "gcc@7"
+    },
+    {
+      "property": "P8443",
+      "value": "gcc@9"
+    },
+    {
+      "property": "P8443",
+      "value": "gcc@5"
+    },
+    {
+      "property": "P856",
+      "value": "https://gcc.gnu.org"
+    },
+    {
+      "property": "P8778",
+      "value": "library/gcc"
+    },
+    {
+      "property": "P8885",
+      "value": "GCC"
+    },
+    {
+      "property": "P8934",
+      "value": "https://gcc.gnu.org/pipermail/gcc-help/"
+    },
+    {
+      "property": "P8934",
+      "value": "https://gcc.gnu.org/pipermail/gcc/"
+    },
+    {
+      "property": "P910",
+      "value": "Q55272968"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-defaults"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-14"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-13"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-12"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-11"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-10"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-9"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-8"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-7"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-6"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-5"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-4.9"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-4.0"
+    },
+    {
+      "property": "P9128",
+      "value": "gcc-3.0"
+    },
+    {
+      "property": "P935",
+      "value": "GCC"
+    }
+  ]
+}

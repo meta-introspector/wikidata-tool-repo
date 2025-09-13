@@ -1,0 +1,86 @@
+{
+  "id": "Q947284",
+  "label": "XULRunner",
+  "facts": [
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P1972",
+      "value": "xulrunner"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3417",
+      "value": "XULRunner"
+    },
+    {
+      "property": "P348",
+      "value": "34.0"
+    },
+    {
+      "property": "P348",
+      "value": "41.0.2"
+    },
+    {
+      "property": "P366",
+      "value": "Q1004415"
+    },
+    {
+      "property": "P4162",
+      "value": "xulrunner192"
+    },
+    {
+      "property": "P4162",
+      "value": "xulrunner"
+    },
+    {
+      "property": "P571",
+      "value": "+2006-02-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/078cwr"
+    },
+    {
+      "property": "P6931",
+      "value": "xulrunner"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/en/XULRunner"
+    }
+  ]
+}

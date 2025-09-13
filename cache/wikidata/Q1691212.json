@@ -1,0 +1,34 @@
+{
+  "id": "Q1691212",
+  "label": "XML Binding Language",
+  "facts": [
+    {
+      "property": "P2581",
+      "value": "03671651n"
+    },
+    {
+      "property": "P279",
+      "value": "Q37045"
+    },
+    {
+      "property": "P279",
+      "value": "Q1193246"
+    },
+    {
+      "property": "P31",
+      "value": "Q37045"
+    },
+    {
+      "property": "P31",
+      "value": "Q20155966"
+    },
+    {
+      "property": "P361",
+      "value": "Q726218"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03cjm6"
+    }
+  ]
+}

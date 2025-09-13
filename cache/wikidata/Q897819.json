@@ -1,0 +1,30 @@
+{
+  "id": "Q897819",
+  "label": "Universal Character Set characters",
+  "facts": [
+    {
+      "property": "P1754",
+      "value": "Q7145340"
+    },
+    {
+      "property": "P31",
+      "value": "Q13406463"
+    },
+    {
+      "property": "P360",
+      "value": "Q32483"
+    },
+    {
+      "property": "P373",
+      "value": "Unicode"
+    },
+    {
+      "property": "P921",
+      "value": "Q8819"
+    },
+    {
+      "property": "P921",
+      "value": "Q777955"
+    }
+  ]
+}

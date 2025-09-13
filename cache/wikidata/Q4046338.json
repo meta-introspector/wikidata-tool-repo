@@ -1,0 +1,778 @@
+{
+  "id": "Q4046338",
+  "label": "Pale Moon",
+  "facts": [
+    {
+      "property": "P10027",
+      "value": "https://forum.palemoon.org"
+    },
+    {
+      "property": "P10766",
+      "value": "palemoon"
+    },
+    {
+      "property": "P12077",
+      "value": "network/palemoon-bin"
+    },
+    {
+      "property": "P12077",
+      "value": "network/palemoon"
+    },
+    {
+      "property": "P1324",
+      "value": "https://repo.palemoon.org/MoonchildProductions/Pale-Moon"
+    },
+    {
+      "property": "P1324",
+      "value": "https://repo.palemoon.org/MoonchildProductions/UXP"
+    },
+    {
+      "property": "P18",
+      "value": "W10-PaleMoon26-Wikipedia.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Pale Moon 29.4.6 on Windows 7.png"
+    },
+    {
+      "property": "P1814",
+      "value": "ペイル・ムーン"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2019707"
+    },
+    {
+      "property": "P1972",
+      "value": "Pale-Moon"
+    },
+    {
+      "property": "P2002",
+      "value": "palemoonbrowser"
+    },
+    {
+      "property": "P2283",
+      "value": "Q20869918"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q725920"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q46441"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q726218"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q34236"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q218616"
+    },
+    {
+      "property": "P3417",
+      "value": "Pale-Moon-web-browser"
+    },
+    {
+      "property": "P348",
+      "value": "26.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "26.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "26.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "27.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "27.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "27.9.3"
+    },
+    {
+      "property": "P348",
+      "value": "27.9.2"
+    },
+    {
+      "property": "P348",
+      "value": "27.9.4"
+    },
+    {
+      "property": "P348",
+      "value": "28.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.6.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.8.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.8.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.8.3"
+    },
+    {
+      "property": "P348",
+      "value": "28.8.4"
+    },
+    {
+      "property": "P348",
+      "value": "28.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.9.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.9.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.9.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.9.3"
+    },
+    {
+      "property": "P348",
+      "value": "28.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.14.1"
+    },
+    {
+      "property": "P348",
+      "value": "28.14.2"
+    },
+    {
+      "property": "P348",
+      "value": "28.16.0"
+    },
+    {
+      "property": "P348",
+      "value": "28.17.0"
+    },
+    {
+      "property": "P348",
+      "value": "29.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "29.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "29.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.3"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.5"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "30.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "30.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "29.4.6"
+    },
+    {
+      "property": "P348",
+      "value": "31.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "31.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.2.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "31.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "31.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "31.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "31.4.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "31.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "32.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "32.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "32.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "32.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "32.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.4.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "32.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "32.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "32.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "32.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "33.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "33.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.4.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.6.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "33.7.2"
+    },
+    {
+      "property": "P348",
+      "value": "33.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "33.8.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "33.8.2"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P373",
+      "value": "Pale Moon (web browser)"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P4033",
+      "value": "palemoon@outerheaven.club"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q20923490"
+    },
+    {
+      "property": "P4107",
+      "value": "pale-moon"
+    },
+    {
+      "property": "P4162",
+      "value": "palemoon-unstable-bin"
+    },
+    {
+      "property": "P4162",
+      "value": "palemoon"
+    },
+    {
+      "property": "P4162",
+      "value": "palemoon-26"
+    },
+    {
+      "property": "P4162",
+      "value": "palemoon-bin"
+    },
+    {
+      "property": "P4162",
+      "value": "palemoon-git"
+    },
+    {
+      "property": "P4945",
+      "value": "https://www.palemoon.org/download.shtml"
+    },
+    {
+      "property": "P4969",
+      "value": "Q45130783"
+    },
+    {
+      "property": "P571",
+      "value": "+2009-10-04T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0h1bkxg"
+    },
+    {
+      "property": "P6665",
+      "value": "20369"
+    },
+    {
+      "property": "P6931",
+      "value": "palemoon"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.palemoon.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+4008"
+    },
+    {
+      "property": "P8687",
+      "value": "+4087"
+    },
+    {
+      "property": "P9618",
+      "value": "palemoon"
+    }
+  ]
+}

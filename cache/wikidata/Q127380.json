@@ -1,0 +1,62 @@
+{
+  "id": "Q127380",
+  "label": "abstract syntax tree",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C58646249"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/abstract-syntax-tree"
+    },
+    {
+      "property": "P12946",
+      "value": "abstract+syntax+tree"
+    },
+    {
+      "property": "P1482",
+      "value": "https://proofassistants.stackexchange.com/tags/abstract-syntax-tree"
+    },
+    {
+      "property": "P1557",
+      "value": "Q333373"
+    },
+    {
+      "property": "P18",
+      "value": "Abstract syntax tree for Euclidean algorithm.svg"
+    },
+    {
+      "property": "P227",
+      "value": "4702177-9"
+    },
+    {
+      "property": "P279",
+      "value": "Q627921"
+    },
+    {
+      "property": "P31",
+      "value": "Q223655"
+    },
+    {
+      "property": "P3417",
+      "value": "Abstract-Syntax-Tree"
+    },
+    {
+      "property": "P373",
+      "value": "Abstract syntax trees"
+    },
+    {
+      "property": "P461",
+      "value": "Q115325641"
+    },
+    {
+      "property": "P6366",
+      "value": "58646249"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0k0yg"
+    }
+  ]
+}

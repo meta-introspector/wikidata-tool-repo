@@ -1,0 +1,154 @@
+{
+  "id": "Q193076",
+  "label": "functional programming",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C42383842"
+    },
+    {
+      "property": "P1051",
+      "value": "6639"
+    },
+    {
+      "property": "P11810",
+      "value": "https://functional.cafe"
+    },
+    {
+      "property": "P11947",
+      "value": "functional_programming@programming.dev"
+    },
+    {
+      "property": "P1245",
+      "value": "975428"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/dcc4c60f-b1ad-455b-99e7-5405327263bc"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/functional-language"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/functional-programming"
+    },
+    {
+      "property": "P1482",
+      "value": "https://cstheory.stackexchange.com/tags/functional-programming"
+    },
+    {
+      "property": "P1617",
+      "value": "a079820c-5a59-4f97-a9bf-f757447c2c90"
+    },
+    {
+      "property": "P227",
+      "value": "4198740-8"
+    },
+    {
+      "property": "P244",
+      "value": "sh87007844"
+    },
+    {
+      "property": "P268",
+      "value": "121910539"
+    },
+    {
+      "property": "P279",
+      "value": "Q531152"
+    },
+    {
+      "property": "P31",
+      "value": "Q188267"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P3417",
+      "value": "Functional-Programming"
+    },
+    {
+      "property": "P3553",
+      "value": "19585411"
+    },
+    {
+      "property": "P373",
+      "value": "Functional programming"
+    },
+    {
+      "property": "P3984",
+      "value": "functionalprogramming"
+    },
+    {
+      "property": "P4215",
+      "value": "functional programming"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Visiteur Journée 2 - 14 (Madehub)-programmation fonctionnelle.wav"
+    },
+    {
+      "property": "P4746",
+      "value": "136421"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P508",
+      "value": "64923"
+    },
+    {
+      "property": "P6366",
+      "value": "42383842"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02ykw"
+    },
+    {
+      "property": "P6564",
+      "value": "functional-programming"
+    },
+    {
+      "property": "P6611",
+      "value": "53988"
+    },
+    {
+      "property": "P6900",
+      "value": "関数型プログラミング"
+    },
+    {
+      "property": "P691",
+      "value": "ph572639"
+    },
+    {
+      "property": "P8189",
+      "value": "987007541542105171"
+    },
+    {
+      "property": "P8885",
+      "value": "함수형 프로그래밍"
+    },
+    {
+      "property": "P910",
+      "value": "Q7467456"
+    },
+    {
+      "property": "P9100",
+      "value": "functional-programming"
+    },
+    {
+      "property": "P950",
+      "value": "XX547935"
+    },
+    {
+      "property": "P989",
+      "value": "En-Functional programming.ogg"
+    }
+  ]
+}

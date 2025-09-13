@@ -1,0 +1,234 @@
+{
+  "id": "Q1092491",
+  "label": "Firefox 3",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/mozilla-central/"
+    },
+    {
+      "property": "P154",
+      "value": "Mozilla Firefox wordmark.svg"
+    },
+    {
+      "property": "P155",
+      "value": "Q1179644"
+    },
+    {
+      "property": "P156",
+      "value": "Q1638134"
+    },
+    {
+      "property": "P1638",
+      "value": "Gran Paradiso"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P18",
+      "value": "Firefox 3.png"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P279",
+      "value": "Q698"
+    },
+    {
+      "property": "P31",
+      "value": "Q6368"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q20631656"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a3"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a4"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a5"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a6"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a7"
+    },
+    {
+      "property": "P348",
+      "value": "3.0a8"
+    },
+    {
+      "property": "P348",
+      "value": "3.0b1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0b2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "3.0b4"
+    },
+    {
+      "property": "P348",
+      "value": "3.0b5"
+    },
+    {
+      "property": "P348",
+      "value": "3.0 RC1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0 RC2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0 RC3"
+    },
+    {
+      "property": "P348",
+      "value": "3.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.8"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.9"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.10"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.11"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.12"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.13"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.14"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.15"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.16"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.17"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.18"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.19"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P373",
+      "value": "Screenshots of Mozilla Firefox 3.x"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04f75rh"
+    },
+    {
+      "property": "P6900",
+      "value": "firefox 3"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozilla.com/firefox/"
+    }
+  ]
+}

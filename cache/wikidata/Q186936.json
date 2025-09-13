@@ -1,0 +1,30 @@
+{
+  "id": "Q186936",
+  "label": "timeline of programming languages",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q18340550"
+    },
+    {
+      "property": "P3219",
+      "value": "langages-de-programmation-reperes-chronologiques"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q150 (fra)-Benoît Prieur-chronologie des langages de programmation.wav"
+    },
+    {
+      "property": "P6366",
+      "value": "2776536271"
+    },
+    {
+      "property": "P910",
+      "value": "Q7447084"
+    }
+  ]
+}

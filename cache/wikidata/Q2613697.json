@@ -1,0 +1,374 @@
+{
+  "id": "Q2613697",
+  "label": "Julia",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q935809"
+    },
+    {
+      "property": "P1072",
+      "value": "Q1069215"
+    },
+    {
+      "property": "P1072",
+      "value": "Q279979"
+    },
+    {
+      "property": "P1072",
+      "value": "Q1361922"
+    },
+    {
+      "property": "P1072",
+      "value": "Q127405566"
+    },
+    {
+      "property": "P1073",
+      "value": "Q127405566"
+    },
+    {
+      "property": "P11337",
+      "value": "1441046367514755082"
+    },
+    {
+      "property": "P1163",
+      "value": "text/julia"
+    },
+    {
+      "property": "P1195",
+      "value": "jl"
+    },
+    {
+      "property": "P12873",
+      "value": "Julia"
+    },
+    {
+      "property": "P12873",
+      "value": "Julia_(Español)"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/15598042-daa6-4c91-a775-3bbaf144c518"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/JuliaLang/julia/issues"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/julia-lang"
+    },
+    {
+      "property": "P1482",
+      "value": "https://or.stackexchange.com/tags/julia"
+    },
+    {
+      "property": "P154",
+      "value": "Julia prog language.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Julia Programming Language Logo.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://julialang.org/blog/"
+    },
+    {
+      "property": "P178",
+      "value": "Q20630572"
+    },
+    {
+      "property": "P178",
+      "value": "Q24851955"
+    },
+    {
+      "property": "P178",
+      "value": "Q14491910"
+    },
+    {
+      "property": "P178",
+      "value": "Q29589104"
+    },
+    {
+      "property": "P18",
+      "value": "Juliacap.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q28974961"
+    },
+    {
+      "property": "P2002",
+      "value": "JuliaLanguage"
+    },
+    {
+      "property": "P2037",
+      "value": "JuliaLang"
+    },
+    {
+      "property": "P2078",
+      "value": "https://docs.julialang.org/"
+    },
+    {
+      "property": "P2163",
+      "value": "1938397"
+    },
+    {
+      "property": "P244",
+      "value": "sh2016000127"
+    },
+    {
+      "property": "P2572",
+      "value": "JuliaLang"
+    },
+    {
+      "property": "P268",
+      "value": "18069381b"
+    },
+    {
+      "property": "P287",
+      "value": "Q20630572"
+    },
+    {
+      "property": "P287",
+      "value": "Q14491910"
+    },
+    {
+      "property": "P287",
+      "value": "Q24851955"
+    },
+    {
+      "property": "P287",
+      "value": "Q29589104"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P31",
+      "value": "Q899523"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P31",
+      "value": "Q28920142"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q1993334"
+    },
+    {
+      "property": "P3381",
+      "value": "Julia"
+    },
+    {
+      "property": "P3417",
+      "value": "Julia-programming-language"
+    },
+    {
+      "property": "P348",
+      "value": "1.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.10.0"
+    },
+    {
+      "property": "P3553",
+      "value": "19678370"
+    },
+    {
+      "property": "P366",
+      "value": "Q11216"
+    },
+    {
+      "property": "P366",
+      "value": "Q117801"
+    },
+    {
+      "property": "P373",
+      "value": "Julia (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4306983"
+    },
+    {
+      "property": "P3966",
+      "value": "Q4307787"
+    },
+    {
+      "property": "P3966",
+      "value": "Q661075"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q232661"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1756543"
+    },
+    {
+      "property": "P3984",
+      "value": "Julia"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"ProgrammingLanguage\", \"Julia::p5sm4\"]"
+    },
+    {
+      "property": "P571",
+      "value": "+2009-08-23T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2012-02-14T00:00:00Z"
+    },
+    {
+      "property": "P6104",
+      "value": "Q15659621"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0j3djl7"
+    },
+    {
+      "property": "P6830",
+      "value": "13986"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P7078",
+      "value": "Q3509459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q7135231"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q169478"
+    },
+    {
+      "property": "P737",
+      "value": "Q28865"
+    },
+    {
+      "property": "P737",
+      "value": "Q132874"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q83303"
+    },
+    {
+      "property": "P737",
+      "value": "Q197520"
+    },
+    {
+      "property": "P737",
+      "value": "Q207316"
+    },
+    {
+      "property": "P737",
+      "value": "Q206904"
+    },
+    {
+      "property": "P737",
+      "value": "Q187560"
+    },
+    {
+      "property": "P737",
+      "value": "Q42478"
+    },
+    {
+      "property": "P737",
+      "value": "Q161053"
+    },
+    {
+      "property": "P7788",
+      "value": "julia"
+    },
+    {
+      "property": "P8189",
+      "value": "987007417317505171"
+    },
+    {
+      "property": "P856",
+      "value": "https://julialang.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+16145"
+    },
+    {
+      "property": "P8687",
+      "value": "+24341"
+    },
+    {
+      "property": "P8687",
+      "value": "+28325"
+    },
+    {
+      "property": "P8885",
+      "value": "Julia"
+    },
+    {
+      "property": "P9100",
+      "value": "julia"
+    },
+    {
+      "property": "P9618",
+      "value": "julia"
+    }
+  ]
+}

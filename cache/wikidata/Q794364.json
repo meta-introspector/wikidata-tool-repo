@@ -1,0 +1,26 @@
+{
+  "id": "Q794364",
+  "label": "Non-English-based programming languages",
+  "facts": [
+    {
+      "property": "P1754",
+      "value": "Q7134765"
+    },
+    {
+      "property": "P31",
+      "value": "Q13406463"
+    },
+    {
+      "property": "P31",
+      "value": "Q116481801"
+    },
+    {
+      "property": "P360",
+      "value": "Q51212146"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01_y77"
+    }
+  ]
+}

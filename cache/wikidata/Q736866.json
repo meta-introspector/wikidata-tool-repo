@@ -1,0 +1,50 @@
+{
+  "id": "Q736866",
+  "label": "safe typing",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C44779574"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/type-safety"
+    },
+    {
+      "property": "P1482",
+      "value": "https://softwareengineering.stackexchange.com/tags/type-safety"
+    },
+    {
+      "property": "P1813",
+      "value": "safety"
+    },
+    {
+      "property": "P1813",
+      "value": "Typsicherheit"
+    },
+    {
+      "property": "P1813",
+      "value": "forsiktighet"
+    },
+    {
+      "property": "P279",
+      "value": "Q865760"
+    },
+    {
+      "property": "P279",
+      "value": "Q10566551"
+    },
+    {
+      "property": "P3417",
+      "value": "Type-Safety"
+    },
+    {
+      "property": "P6366",
+      "value": "44779574"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02vhkt"
+    }
+  ]
+}

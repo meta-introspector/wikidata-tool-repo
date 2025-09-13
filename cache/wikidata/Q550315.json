@@ -1,0 +1,1434 @@
+{
+  "id": "Q550315",
+  "label": "Firefox for Android",
+  "facts": [
+    {
+      "property": "P11137",
+      "value": "firefox_for_android"
+    },
+    {
+      "property": "P11254",
+      "value": "https://pontoon.mozilla.org/projects/firefox-for-android/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/mozilla-central/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/gecko-dev"
+    },
+    {
+      "property": "P1324",
+      "value": "https://searchfox.org/mozilla-central/source"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-mobile/fenix"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla-mobile/firefox-android"
+    },
+    {
+      "property": "P138",
+      "value": "Q698"
+    },
+    {
+      "property": "P1401",
+      "value": "https://bugzilla.mozilla.org/buglist.cgi?product=Firefox%20for%20Android"
+    },
+    {
+      "property": "P1401",
+      "value": "https://github.com/mozilla-mobile/fenix/issues"
+    },
+    {
+      "property": "P1401",
+      "value": "https://bugzilla.mozilla.org/buglist.cgi?&product=Fenix"
+    },
+    {
+      "property": "P144",
+      "value": "Q487834"
+    },
+    {
+      "property": "P154",
+      "value": "Firefox logo, 2019.svg"
+    },
+    {
+      "property": "P1547",
+      "value": "Q96972998"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P178",
+      "value": "Q9661"
+    },
+    {
+      "property": "P18",
+      "value": "Firefox Android 89 screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Firefox Android 101 screenshot.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Firefox for Android 130 screenshot.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q31020870"
+    },
+    {
+      "property": "P1889",
+      "value": "Q55672"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q251"
+    },
+    {
+      "property": "P277",
+      "value": "Q726218"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P277",
+      "value": "Q3816639"
+    },
+    {
+      "property": "P279",
+      "value": "Q698"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P31",
+      "value": "Q845620"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q620615"
+    },
+    {
+      "property": "P3418",
+      "value": "org.mozilla.firefox"
+    },
+    {
+      "property": "P3418",
+      "value": "org.mozilla.firefox_beta"
+    },
+    {
+      "property": "P3418",
+      "value": "org.mozilla.fenix"
+    },
+    {
+      "property": "P348",
+      "value": "42.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "52.0"
+    },
+    {
+      "property": "P348",
+      "value": "53.0 beta"
+    },
+    {
+      "property": "P348",
+      "value": "52.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "52.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "64.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "68.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "68.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "82.0"
+    },
+    {
+      "property": "P348",
+      "value": "83.0.0-beta.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "79.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "79.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "79.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "79.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "80.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "80.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "81.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "81.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "81.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "81.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "81.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "81.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "82.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "82.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "82.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "82.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "83.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "84.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "84.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "84.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "84.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "84.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "85.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "85.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "85.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "85.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "86.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "86.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "88.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "88.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "88.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "88.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "88.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "89.0"
+    },
+    {
+      "property": "P348",
+      "value": "89.0.0-beta.10"
+    },
+    {
+      "property": "P348",
+      "value": "89.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "89.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "94.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "98.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "99.0.0-beta.1"
+    },
+    {
+      "property": "P348",
+      "value": "100.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "90.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "90.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "90.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "90.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "91.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "91.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "91.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "92.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "92.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "93.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "93.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "94.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "94.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "95.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "95.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "96.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "96.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "96.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "96.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "96.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "97.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "97.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "97.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "98.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "99.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "99.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "99.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "100.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "100.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "100.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "100.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "100.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "101.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "101.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "101.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "102.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "102.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "103.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "103.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "104.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "104.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "105.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "105.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "106.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "107.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "108.0b6"
+    },
+    {
+      "property": "P348",
+      "value": "107.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "108.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "108.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "108.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "109.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "109.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "110.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "110.1"
+    },
+    {
+      "property": "P348",
+      "value": "116.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "116.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "117.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "118.0"
+    },
+    {
+      "property": "P348",
+      "value": "118.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "119.0b8"
+    },
+    {
+      "property": "P348",
+      "value": "119.0"
+    },
+    {
+      "property": "P348",
+      "value": "120.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "127.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "128.0"
+    },
+    {
+      "property": "P348",
+      "value": "128.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "128.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "129.0"
+    },
+    {
+      "property": "P348",
+      "value": "129.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "130.0"
+    },
+    {
+      "property": "P348",
+      "value": "130.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "131.0"
+    },
+    {
+      "property": "P348",
+      "value": "131.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "131.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "132.0"
+    },
+    {
+      "property": "P348",
+      "value": "132.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "132.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "133.0"
+    },
+    {
+      "property": "P348",
+      "value": "133.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "134.0"
+    },
+    {
+      "property": "P348",
+      "value": "134.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "134.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "135.0"
+    },
+    {
+      "property": "P348",
+      "value": "135.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "136.0"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "136.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "137.0"
+    },
+    {
+      "property": "P348",
+      "value": "137.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "138.0"
+    },
+    {
+      "property": "P348",
+      "value": "138.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "139.0"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "139.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "140.0"
+    },
+    {
+      "property": "P348",
+      "value": "140.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "140.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "141.0"
+    },
+    {
+      "property": "P348",
+      "value": "141.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "141.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "141.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "142.0"
+    },
+    {
+      "property": "P348",
+      "value": "142.0.1"
+    },
+    {
+      "property": "P3597",
+      "value": "org.mozilla.firefox"
+    },
+    {
+      "property": "P3597",
+      "value": "org.mozilla.fennec_fdroid"
+    },
+    {
+      "property": "P366",
+      "value": "Q845620"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla Fennec"
+    },
+    {
+      "property": "P400",
+      "value": "Q94"
+    },
+    {
+      "property": "P407",
+      "value": "Q20923490"
+    },
+    {
+      "property": "P407",
+      "value": "Q5111"
+    },
+    {
+      "property": "P407",
+      "value": "Q14196"
+    },
+    {
+      "property": "P407",
+      "value": "Q8748"
+    },
+    {
+      "property": "P407",
+      "value": "Q28244"
+    },
+    {
+      "property": "P407",
+      "value": "Q28378"
+    },
+    {
+      "property": "P407",
+      "value": "Q13955"
+    },
+    {
+      "property": "P407",
+      "value": "Q8765"
+    },
+    {
+      "property": "P407",
+      "value": "Q8785"
+    },
+    {
+      "property": "P407",
+      "value": "Q29507"
+    },
+    {
+      "property": "P407",
+      "value": "Q4627"
+    },
+    {
+      "property": "P407",
+      "value": "Q9292"
+    },
+    {
+      "property": "P407",
+      "value": "Q33070"
+    },
+    {
+      "property": "P407",
+      "value": "Q8752"
+    },
+    {
+      "property": "P407",
+      "value": "Q9091"
+    },
+    {
+      "property": "P407",
+      "value": "Q9610"
+    },
+    {
+      "property": "P407",
+      "value": "Q9303"
+    },
+    {
+      "property": "P407",
+      "value": "Q12107"
+    },
+    {
+      "property": "P407",
+      "value": "Q7918"
+    },
+    {
+      "property": "P407",
+      "value": "Q7026"
+    },
+    {
+      "property": "P407",
+      "value": "Q9228"
+    },
+    {
+      "property": "P407",
+      "value": "Q33239"
+    },
+    {
+      "property": "P407",
+      "value": "Q49741"
+    },
+    {
+      "property": "P407",
+      "value": "Q36811"
+    },
+    {
+      "property": "P407",
+      "value": "Q7850"
+    },
+    {
+      "property": "P407",
+      "value": "Q25289"
+    },
+    {
+      "property": "P407",
+      "value": "Q33111"
+    },
+    {
+      "property": "P407",
+      "value": "Q6654"
+    },
+    {
+      "property": "P407",
+      "value": "Q9056"
+    },
+    {
+      "property": "P407",
+      "value": "Q44676"
+    },
+    {
+      "property": "P407",
+      "value": "Q7979"
+    },
+    {
+      "property": "P407",
+      "value": "Q143"
+    },
+    {
+      "property": "P407",
+      "value": "Q9072"
+    },
+    {
+      "property": "P407",
+      "value": "Q1412"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P407",
+      "value": "Q25325"
+    },
+    {
+      "property": "P407",
+      "value": "Q33441"
+    },
+    {
+      "property": "P407",
+      "value": "Q33454"
+    },
+    {
+      "property": "P407",
+      "value": "Q9314"
+    },
+    {
+      "property": "P407",
+      "value": "Q9307"
+    },
+    {
+      "property": "P407",
+      "value": "Q8108"
+    },
+    {
+      "property": "P407",
+      "value": "Q188"
+    },
+    {
+      "property": "P407",
+      "value": "Q9129"
+    },
+    {
+      "property": "P407",
+      "value": "Q35876"
+    },
+    {
+      "property": "P407",
+      "value": "Q5137"
+    },
+    {
+      "property": "P407",
+      "value": "Q9288"
+    },
+    {
+      "property": "P407",
+      "value": "Q35978"
+    },
+    {
+      "property": "P407",
+      "value": "Q1568"
+    },
+    {
+      "property": "P407",
+      "value": "Q35573"
+    },
+    {
+      "property": "P407",
+      "value": "Q9067"
+    },
+    {
+      "property": "P407",
+      "value": "Q294"
+    },
+    {
+      "property": "P407",
+      "value": "Q9240"
+    },
+    {
+      "property": "P407",
+      "value": "Q35938"
+    },
+    {
+      "property": "P407",
+      "value": "Q9142"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P407",
+      "value": "Q33549"
+    },
+    {
+      "property": "P407",
+      "value": "Q35853"
+    },
+    {
+      "property": "P407",
+      "value": "Q33673"
+    },
+    {
+      "property": "P407",
+      "value": "Q35115"
+    },
+    {
+      "property": "P407",
+      "value": "Q33541"
+    },
+    {
+      "property": "P407",
+      "value": "Q9252"
+    },
+    {
+      "property": "P407",
+      "value": "Q36494"
+    },
+    {
+      "property": "P407",
+      "value": "Q9176"
+    },
+    {
+      "property": "P407",
+      "value": "Q36163"
+    },
+    {
+      "property": "P407",
+      "value": "Q9211"
+    },
+    {
+      "property": "P407",
+      "value": "Q36106"
+    },
+    {
+      "property": "P407",
+      "value": "Q9083"
+    },
+    {
+      "property": "P407",
+      "value": "Q9237"
+    },
+    {
+      "property": "P407",
+      "value": "Q36236"
+    },
+    {
+      "property": "P407",
+      "value": "Q1571"
+    },
+    {
+      "property": "P407",
+      "value": "Q13541830"
+    },
+    {
+      "property": "P407",
+      "value": "Q7070686"
+    },
+    {
+      "property": "P407",
+      "value": "Q6884125"
+    },
+    {
+      "property": "P407",
+      "value": "Q1186896"
+    },
+    {
+      "property": "P407",
+      "value": "Q13310"
+    },
+    {
+      "property": "P407",
+      "value": "Q33823"
+    },
+    {
+      "property": "P407",
+      "value": "Q25167"
+    },
+    {
+      "property": "P407",
+      "value": "Q25164"
+    },
+    {
+      "property": "P407",
+      "value": "Q36614"
+    },
+    {
+      "property": "P407",
+      "value": "Q14185"
+    },
+    {
+      "property": "P407",
+      "value": "Q33810"
+    },
+    {
+      "property": "P407",
+      "value": "Q56726"
+    },
+    {
+      "property": "P407",
+      "value": "Q9168"
+    },
+    {
+      "property": "P407",
+      "value": "Q809"
+    },
+    {
+      "property": "P407",
+      "value": "Q750553"
+    },
+    {
+      "property": "P407",
+      "value": "Q5146"
+    },
+    {
+      "property": "P407",
+      "value": "Q58635"
+    },
+    {
+      "property": "P407",
+      "value": "Q35145"
+    },
+    {
+      "property": "P407",
+      "value": "Q7913"
+    },
+    {
+      "property": "P407",
+      "value": "Q13199"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q33965"
+    },
+    {
+      "property": "P407",
+      "value": "Q33902"
+    },
+    {
+      "property": "P407",
+      "value": "Q33976"
+    },
+    {
+      "property": "P407",
+      "value": "Q9299"
+    },
+    {
+      "property": "P407",
+      "value": "Q34004"
+    },
+    {
+      "property": "P407",
+      "value": "Q30319"
+    },
+    {
+      "property": "P407",
+      "value": "Q13267"
+    },
+    {
+      "property": "P407",
+      "value": "Q9058"
+    },
+    {
+      "property": "P407",
+      "value": "Q9063"
+    },
+    {
+      "property": "P407",
+      "value": "Q25442"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P407",
+      "value": "Q34002"
+    },
+    {
+      "property": "P407",
+      "value": "Q9027"
+    },
+    {
+      "property": "P407",
+      "value": "Q34057"
+    },
+    {
+      "property": "P407",
+      "value": "Q9260"
+    },
+    {
+      "property": "P407",
+      "value": "Q5885"
+    },
+    {
+      "property": "P407",
+      "value": "Q25285"
+    },
+    {
+      "property": "P407",
+      "value": "Q8097"
+    },
+    {
+      "property": "P407",
+      "value": "Q9217"
+    },
+    {
+      "property": "P407",
+      "value": "Q34271"
+    },
+    {
+      "property": "P407",
+      "value": "Q36846"
+    },
+    {
+      "property": "P407",
+      "value": "Q780200"
+    },
+    {
+      "property": "P407",
+      "value": "Q256"
+    },
+    {
+      "property": "P407",
+      "value": "Q8798"
+    },
+    {
+      "property": "P407",
+      "value": "Q1617"
+    },
+    {
+      "property": "P407",
+      "value": "Q13263"
+    },
+    {
+      "property": "P407",
+      "value": "Q9264"
+    },
+    {
+      "property": "P407",
+      "value": "Q32724"
+    },
+    {
+      "property": "P407",
+      "value": "Q9199"
+    },
+    {
+      "property": "P407",
+      "value": "Q9309"
+    },
+    {
+      "property": "P407",
+      "value": "Q34257"
+    },
+    {
+      "property": "P407",
+      "value": "Q34311"
+    },
+    {
+      "property": "P407",
+      "value": "Q13354"
+    },
+    {
+      "property": "P437",
+      "value": "Q54820071"
+    },
+    {
+      "property": "P479",
+      "value": "Q165970"
+    },
+    {
+      "property": "P571",
+      "value": "+2010-01-28T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2011-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Mozilla_Fennec"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04jk76b"
+    },
+    {
+      "property": "P750",
+      "value": "Q79576"
+    },
+    {
+      "property": "P750",
+      "value": "Q1386210"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/firefox/android/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/en-US/firefox/mobile/"
+    }
+  ]
+}

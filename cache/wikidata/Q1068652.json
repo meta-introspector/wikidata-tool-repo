@@ -1,0 +1,14 @@
+{
+  "id": "Q1068652",
+  "label": "history of programming languages",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q17524420"
+    }
+  ]
+}

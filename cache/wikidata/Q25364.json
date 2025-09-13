@@ -1,0 +1,466 @@
+{
+  "id": "Q25364",
+  "label": "Crustacea",
+  "facts": [
+    {
+      "property": "P1014",
+      "value": "300310469"
+    },
+    {
+      "property": "P10283",
+      "value": "C84766238"
+    },
+    {
+      "property": "P10376",
+      "value": "agricultural-and-biological-sciences/crustacea"
+    },
+    {
+      "property": "P10376",
+      "value": "pharmacology-toxicology-and-pharmaceutical-science/crustacea"
+    },
+    {
+      "property": "P10376",
+      "value": "immunology-and-microbiology/crustacea"
+    },
+    {
+      "property": "P10376",
+      "value": "biochemistry-genetics-and-molecular-biology/crustacea"
+    },
+    {
+      "property": "P105",
+      "value": "Q1153785"
+    },
+    {
+      "property": "P1051",
+      "value": "908"
+    },
+    {
+      "property": "P10565",
+      "value": "213409"
+    },
+    {
+      "property": "P10565",
+      "value": "243547"
+    },
+    {
+      "property": "P11095",
+      "value": "220"
+    },
+    {
+      "property": "P11137",
+      "value": "crustacean"
+    },
+    {
+      "property": "P1151",
+      "value": "Q20630742"
+    },
+    {
+      "property": "P11514",
+      "value": "rakoobraznye-9e410e"
+    },
+    {
+      "property": "P12086",
+      "value": "Kreeftachtigen"
+    },
+    {
+      "property": "P12218",
+      "value": "t0000181"
+    },
+    {
+      "property": "P12385",
+      "value": "crustaci-0"
+    },
+    {
+      "property": "P1245",
+      "value": "799"
+    },
+    {
+      "property": "P1256",
+      "value": "25F716"
+    },
+    {
+      "property": "P12596",
+      "value": "24103"
+    },
+    {
+      "property": "P12596",
+      "value": "58939"
+    },
+    {
+      "property": "P12596",
+      "value": "5253"
+    },
+    {
+      "property": "P12774",
+      "value": "1086"
+    },
+    {
+      "property": "P1296",
+      "value": "0095240"
+    },
+    {
+      "property": "P1343",
+      "value": "Q2657718"
+    },
+    {
+      "property": "P1343",
+      "value": "Q602358"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19180675"
+    },
+    {
+      "property": "P1343",
+      "value": "Q602358"
+    },
+    {
+      "property": "P1343",
+      "value": "Q2041543"
+    },
+    {
+      "property": "P1343",
+      "value": "Q867541"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19085957"
+    },
+    {
+      "property": "P1343",
+      "value": "Q1029706"
+    },
+    {
+      "property": "P13591",
+      "value": "place/07462721-47bf-494e-bde3-798dd7841a89"
+    },
+    {
+      "property": "P1417",
+      "value": "animal/crustacean"
+    },
+    {
+      "property": "P1617",
+      "value": "e71fb5d8-7cd7-4fad-92e3-d9fb41a9da19"
+    },
+    {
+      "property": "P1672",
+      "value": "Q6501235"
+    },
+    {
+      "property": "P1687",
+      "value": "P10322"
+    },
+    {
+      "property": "P171",
+      "value": "Q1360"
+    },
+    {
+      "property": "P171",
+      "value": "Q671280"
+    },
+    {
+      "property": "P18",
+      "value": "Crustacea diversity.jpg"
+    },
+    {
+      "property": "P1821",
+      "value": "crustaceans"
+    },
+    {
+      "property": "P1843",
+      "value": "Kreeftachtigen"
+    },
+    {
+      "property": "P1843",
+      "value": "skorupiaki"
+    },
+    {
+      "property": "P1843",
+      "value": "krepsdyr"
+    },
+    {
+      "property": "P1843",
+      "value": "Krebstiere"
+    },
+    {
+      "property": "P1843",
+      "value": "ракообразные"
+    },
+    {
+      "property": "P1843",
+      "value": "raki"
+    },
+    {
+      "property": "P1895",
+      "value": "13251"
+    },
+    {
+      "property": "P1939",
+      "value": "4000076"
+    },
+    {
+      "property": "P2004",
+      "value": "75"
+    },
+    {
+      "property": "P225",
+      "value": "Crustacea"
+    },
+    {
+      "property": "P227",
+      "value": "4073783-4"
+    },
+    {
+      "property": "P2347",
+      "value": "5659"
+    },
+    {
+      "property": "P244",
+      "value": "sh85034396"
+    },
+    {
+      "property": "P2464",
+      "value": "350294"
+    },
+    {
+      "property": "P2579",
+      "value": "Q2183296"
+    },
+    {
+      "property": "P268",
+      "value": "11977326h"
+    },
+    {
+      "property": "P2716",
+      "value": "Crustacea collage.png"
+    },
+    {
+      "property": "P2752",
+      "value": "2226aa46-23a5-436e-9d2e-94fc0f3998d1"
+    },
+    {
+      "property": "P2924",
+      "value": "3492858"
+    },
+    {
+      "property": "P3031",
+      "value": "1CRUSQ"
+    },
+    {
+      "property": "P31",
+      "value": "Q16521"
+    },
+    {
+      "property": "P3151",
+      "value": "85493"
+    },
+    {
+      "property": "P3219",
+      "value": "crustaces"
+    },
+    {
+      "property": "P3222",
+      "value": "crustacea"
+    },
+    {
+      "property": "P3405",
+      "value": "178906"
+    },
+    {
+      "property": "P3417",
+      "value": "Crustaceans"
+    },
+    {
+      "property": "P349",
+      "value": "00566248"
+    },
+    {
+      "property": "P3569",
+      "value": "levenswetenschappen-en-geneeskunde/schaaldieren"
+    },
+    {
+      "property": "P373",
+      "value": "Crustacea"
+    },
+    {
+      "property": "P3827",
+      "value": "crustaceans"
+    },
+    {
+      "property": "P3911",
+      "value": "19019-5"
+    },
+    {
+      "property": "P4024",
+      "value": "Crustacea"
+    },
+    {
+      "property": "P4212",
+      "value": "pcrtqdEo1gq2xN"
+    },
+    {
+      "property": "P4342",
+      "value": "krepsdyr"
+    },
+    {
+      "property": "P4342",
+      "value": "Crustacea"
+    },
+    {
+      "property": "P4807",
+      "value": "52e00e2b-6400-4b33-bc7f-815a468420bd"
+    },
+    {
+      "property": "P486",
+      "value": "D003445"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5055",
+      "value": "11905093"
+    },
+    {
+      "property": "P508",
+      "value": "500"
+    },
+    {
+      "property": "P5395",
+      "value": "crustacean"
+    },
+    {
+      "property": "P5437",
+      "value": "313"
+    },
+    {
+      "property": "P580",
+      "value": "-511000000-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6039",
+      "value": "Crustacea"
+    },
+    {
+      "property": "P6366",
+      "value": "84766238"
+    },
+    {
+      "property": "P6385",
+      "value": "biologiya/rakoobraznye"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0c2sy"
+    },
+    {
+      "property": "P6573",
+      "value": "Krebstiere"
+    },
+    {
+      "property": "P672",
+      "value": "B01.050.500.131.365"
+    },
+    {
+      "property": "P685",
+      "value": "6657"
+    },
+    {
+      "property": "P691",
+      "value": "ph121885"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/1353"
+    },
+    {
+      "property": "P7305",
+      "value": "3976054"
+    },
+    {
+      "property": "P7346",
+      "value": "52"
+    },
+    {
+      "property": "P7472",
+      "value": "199164"
+    },
+    {
+      "property": "P815",
+      "value": "83677"
+    },
+    {
+      "property": "P8189",
+      "value": "987012440942305171"
+    },
+    {
+      "property": "P830",
+      "value": "55714582"
+    },
+    {
+      "property": "P8313",
+      "value": "krebsdyr"
+    },
+    {
+      "property": "P838",
+      "value": "14972"
+    },
+    {
+      "property": "P8408",
+      "value": "Crustacean"
+    },
+    {
+      "property": "P842",
+      "value": "82629"
+    },
+    {
+      "property": "P850",
+      "value": "1066"
+    },
+    {
+      "property": "P8707",
+      "value": "128960"
+    },
+    {
+      "property": "P8814",
+      "value": "01977414-n"
+    },
+    {
+      "property": "P8957",
+      "value": "10005450"
+    },
+    {
+      "property": "P910",
+      "value": "Q7216357"
+    },
+    {
+      "property": "P910",
+      "value": "Q8922920"
+    },
+    {
+      "property": "P9157",
+      "value": "632176"
+    },
+    {
+      "property": "P9495",
+      "value": "taxon/46496D59-1A64-4A43-BA27-59CD9E3C92ED"
+    },
+    {
+      "property": "P950",
+      "value": "XX526749"
+    },
+    {
+      "property": "P9521",
+      "value": "crustacean"
+    },
+    {
+      "property": "P9769",
+      "value": "crustaces"
+    },
+    {
+      "property": "P9799",
+      "value": "36718"
+    }
+  ]
+}

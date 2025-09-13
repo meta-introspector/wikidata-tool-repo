@@ -1,0 +1,590 @@
+{
+  "id": "Q20716",
+  "label": "Samsung Group",
+  "facts": [
+    {
+      "property": "P10225",
+      "value": "https://shop.samsung.com/au/"
+    },
+    {
+      "property": "P10225",
+      "value": "https://www.samsung.com/tw"
+    },
+    {
+      "property": "P10283",
+      "value": "I2250650973"
+    },
+    {
+      "property": "P1056",
+      "value": "Q11650"
+    },
+    {
+      "property": "P1056",
+      "value": "Q212920"
+    },
+    {
+      "property": "P1056",
+      "value": "Q474200"
+    },
+    {
+      "property": "P1056",
+      "value": "Q43015"
+    },
+    {
+      "property": "P1056",
+      "value": "Q2329"
+    },
+    {
+      "property": "P1056",
+      "value": "Q173799"
+    },
+    {
+      "property": "P1056",
+      "value": "Q17517"
+    },
+    {
+      "property": "P1056",
+      "value": "Q11460"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1420"
+    },
+    {
+      "property": "P1056",
+      "value": "Q2425052"
+    },
+    {
+      "property": "P1056",
+      "value": "Q11653"
+    },
+    {
+      "property": "P1056",
+      "value": "Q6657015"
+    },
+    {
+      "property": "P1056",
+      "value": "Q189396"
+    },
+    {
+      "property": "P1056",
+      "value": "Q174077"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1546066"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1434048"
+    },
+    {
+      "property": "P11196",
+      "value": "三星"
+    },
+    {
+      "property": "P112",
+      "value": "Q445643"
+    },
+    {
+      "property": "P11245",
+      "value": "Samsung"
+    },
+    {
+      "property": "P1128",
+      "value": "+590000"
+    },
+    {
+      "property": "P1151",
+      "value": "Q42353169"
+    },
+    {
+      "property": "P11693",
+      "value": "4804125429"
+    },
+    {
+      "property": "P11947",
+      "value": "samsung@lemdro.id"
+    },
+    {
+      "property": "P12385",
+      "value": "samsung"
+    },
+    {
+      "property": "P1296",
+      "value": "0248749"
+    },
+    {
+      "property": "P13092",
+      "value": "K000163227"
+    },
+    {
+      "property": "P1343",
+      "value": "Q17290934"
+    },
+    {
+      "property": "P1424",
+      "value": "Q11249413"
+    },
+    {
+      "property": "P1454",
+      "value": "Q1589009"
+    },
+    {
+      "property": "P1454",
+      "value": "Q891723"
+    },
+    {
+      "property": "P154",
+      "value": "Samsung-old.gif"
+    },
+    {
+      "property": "P154",
+      "value": "Past samsung.PNG"
+    },
+    {
+      "property": "P154",
+      "value": "Samsung wordmark.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Past(1969-79) samsung logo.PNG"
+    },
+    {
+      "property": "P154",
+      "value": "Samsung Logo.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q489221"
+    },
+    {
+      "property": "P159",
+      "value": "Q8684"
+    },
+    {
+      "property": "P1661",
+      "value": "+339"
+    },
+    {
+      "property": "P17",
+      "value": "Q884"
+    },
+    {
+      "property": "P18",
+      "value": "Samsung headquarters.jpg"
+    },
+    {
+      "property": "P1830",
+      "value": "Q124989916"
+    },
+    {
+      "property": "P1889",
+      "value": "Q20718"
+    },
+    {
+      "property": "P1889",
+      "value": "Q124989916"
+    },
+    {
+      "property": "P1942",
+      "value": "Samsŏng"
+    },
+    {
+      "property": "P2001",
+      "value": "Samseong"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungUS"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungIndia"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungSverige"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungSupport"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungGulf"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungSA"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungBrasil"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungMaroc"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungMexico"
+    },
+    {
+      "property": "P2002",
+      "value": "samsungID"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungCamera"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungTurkiye"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungNewsroom"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungDE"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungNL"
+    },
+    {
+      "property": "P2002",
+      "value": "samsungtomorrow"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungMobile"
+    },
+    {
+      "property": "P2002",
+      "value": "Samsung"
+    },
+    {
+      "property": "P2002",
+      "value": "SamsungTV"
+    },
+    {
+      "property": "P2013",
+      "value": "Samsung"
+    },
+    {
+      "property": "P2088",
+      "value": "cambridge-samsung-resources-worldwide"
+    },
+    {
+      "property": "P213",
+      "value": "0000000406423426"
+    },
+    {
+      "property": "P2139",
+      "value": "+208500000000"
+    },
+    {
+      "property": "P214",
+      "value": "4155103912676200114"
+    },
+    {
+      "property": "P214",
+      "value": "147321645"
+    },
+    {
+      "property": "P214",
+      "value": "51145857791523020002"
+    },
+    {
+      "property": "P214",
+      "value": "251798583"
+    },
+    {
+      "property": "P227",
+      "value": "6139244-3"
+    },
+    {
+      "property": "P2295",
+      "value": "+37100000000"
+    },
+    {
+      "property": "P2397",
+      "value": "UCWwgaK7x0_FR1goeSRazfsQ"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.419666.a"
+    },
+    {
+      "property": "P2561",
+      "value": "三星 그룹"
+    },
+    {
+      "property": "P2561",
+      "value": "삼성 그룹"
+    },
+    {
+      "property": "P2561",
+      "value": "Samsung Group"
+    },
+    {
+      "property": "P268",
+      "value": "123544420"
+    },
+    {
+      "property": "P269",
+      "value": "03253213X"
+    },
+    {
+      "property": "P2959",
+      "value": "Q97268690"
+    },
+    {
+      "property": "P31",
+      "value": "Q482517"
+    },
+    {
+      "property": "P3153",
+      "value": "100004358"
+    },
+    {
+      "property": "P3222",
+      "value": "samsung"
+    },
+    {
+      "property": "P3362",
+      "value": "+6700000000"
+    },
+    {
+      "property": "P3417",
+      "value": "Samsung-conglomerate"
+    },
+    {
+      "property": "P3417",
+      "value": "Samsung-3"
+    },
+    {
+      "property": "P3479",
+      "value": "257eb1134abe1624a122d78345b93c578f602548"
+    },
+    {
+      "property": "P349",
+      "value": "00635341"
+    },
+    {
+      "property": "P3500",
+      "value": "105932"
+    },
+    {
+      "property": "P3553",
+      "value": "19878224"
+    },
+    {
+      "property": "P373",
+      "value": "Samsung"
+    },
+    {
+      "property": "P4013",
+      "value": "samsungbaltics"
+    },
+    {
+      "property": "P414",
+      "value": "Q495372"
+    },
+    {
+      "property": "P4204",
+      "value": "Samsung"
+    },
+    {
+      "property": "P434",
+      "value": "1ce639a8-4d95-4e49-9c10-6da1fbcccf9c"
+    },
+    {
+      "property": "P4342",
+      "value": "Samsung_Group"
+    },
+    {
+      "property": "P452",
+      "value": "Q778575"
+    },
+    {
+      "property": "P4527",
+      "value": "67484"
+    },
+    {
+      "property": "P5034",
+      "value": "KAB201805433"
+    },
+    {
+      "property": "P527",
+      "value": "Q20718"
+    },
+    {
+      "property": "P527",
+      "value": "Q2998661"
+    },
+    {
+      "property": "P527",
+      "value": "Q489243"
+    },
+    {
+      "property": "P527",
+      "value": "Q499194"
+    },
+    {
+      "property": "P527",
+      "value": "Q7410538"
+    },
+    {
+      "property": "P527",
+      "value": "Q624080"
+    },
+    {
+      "property": "P527",
+      "value": "Q492706"
+    },
+    {
+      "property": "P527",
+      "value": "Q5089641"
+    },
+    {
+      "property": "P527",
+      "value": "Q21120876"
+    },
+    {
+      "property": "P527",
+      "value": "Q39412547"
+    },
+    {
+      "property": "P527",
+      "value": "Q16767532"
+    },
+    {
+      "property": "P527",
+      "value": "Q627018"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGRuZGpjeUVnSnlkU2dBUAE"
+    },
+    {
+      "property": "P5555",
+      "value": "Samsung structure hu.png"
+    },
+    {
+      "property": "P5555",
+      "value": "Структура Samsung.JPG"
+    },
+    {
+      "property": "P5558",
+      "value": "samsung"
+    },
+    {
+      "property": "P571",
+      "value": "+1938-01-01T00:00:00Z"
+    },
+    {
+      "property": "P6262",
+      "value": "logos:Samsung"
+    },
+    {
+      "property": "P6366",
+      "value": "2250650973"
+    },
+    {
+      "property": "P6422",
+      "value": "samsung"
+    },
+    {
+      "property": "P646",
+      "value": "/m/07gv72"
+    },
+    {
+      "property": "P6573",
+      "value": "Samsung"
+    },
+    {
+      "property": "P6782",
+      "value": "04w3jy968"
+    },
+    {
+      "property": "P7085",
+      "value": "samsung"
+    },
+    {
+      "property": "P7157",
+      "value": "1982"
+    },
+    {
+      "property": "P740",
+      "value": "Q20714"
+    },
+    {
+      "property": "P7502",
+      "value": "Samsung-6EMMBD"
+    },
+    {
+      "property": "P7666",
+      "value": "samsung-group"
+    },
+    {
+      "property": "P7982",
+      "value": "54351"
+    },
+    {
+      "property": "P8313",
+      "value": "Samsung"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.samsung.com/"
+    },
+    {
+      "property": "P856",
+      "value": "https://galaxystore.ru/"
+    },
+    {
+      "property": "P8687",
+      "value": "+5640000"
+    },
+    {
+      "property": "P8687",
+      "value": "+6360000"
+    },
+    {
+      "property": "P8687",
+      "value": "+6790000"
+    },
+    {
+      "property": "P8687",
+      "value": "+7310000"
+    },
+    {
+      "property": "P8885",
+      "value": "삼성"
+    },
+    {
+      "property": "P910",
+      "value": "Q7032428"
+    },
+    {
+      "property": "P9346",
+      "value": "samsung"
+    },
+    {
+      "property": "P9475",
+      "value": "E0026652"
+    },
+    {
+      "property": "P950",
+      "value": "XX223079"
+    },
+    {
+      "property": "P9629",
+      "value": "7887"
+    }
+  ]
+}

@@ -1,0 +1,6562 @@
+{
+  "id": "Q30",
+  "label": "United States",
+  "facts": [
+    {
+      "property": "P10046",
+      "value": "1446152553721944981"
+    },
+    {
+      "property": "P1005",
+      "value": "102017"
+    },
+    {
+      "property": "P10077",
+      "value": "geografico/1114850"
+    },
+    {
+      "property": "P10091",
+      "value": "+8.697"
+    },
+    {
+      "property": "P10091",
+      "value": "+10.27"
+    },
+    {
+      "property": "P10091",
+      "value": "+10.4"
+    },
+    {
+      "property": "P10091",
+      "value": "+9.8"
+    },
+    {
+      "property": "P1015",
+      "value": "90178739"
+    },
+    {
+      "property": "P1017",
+      "value": "ADV12370362"
+    },
+    {
+      "property": "P10227",
+      "value": "vtls000087027"
+    },
+    {
+      "property": "P10234",
+      "value": "usa"
+    },
+    {
+      "property": "P10234",
+      "value": "united_states_en"
+    },
+    {
+      "property": "P10280",
+      "value": "Q8942423"
+    },
+    {
+      "property": "P10280",
+      "value": "Q7981471"
+    },
+    {
+      "property": "P10291",
+      "value": "16224"
+    },
+    {
+      "property": "P10297",
+      "value": "m09c7w0"
+    },
+    {
+      "property": "P10326",
+      "value": "14876"
+    },
+    {
+      "property": "P10326",
+      "value": "31015"
+    },
+    {
+      "property": "P1036",
+      "value": "2--73"
+    },
+    {
+      "property": "P10376",
+      "value": "earth-and-planetary-sciences/united-states-of-america"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/united-states-of-america"
+    },
+    {
+      "property": "P10397",
+      "value": "MUSL003483"
+    },
+    {
+      "property": "P10456",
+      "value": "8"
+    },
+    {
+      "property": "P10510",
+      "value": "1203926"
+    },
+    {
+      "property": "P10541",
+      "value": "С/ssha"
+    },
+    {
+      "property": "P10565",
+      "value": "560595"
+    },
+    {
+      "property": "P10622",
+      "value": "+35384"
+    },
+    {
+      "property": "P10730",
+      "value": "country/USA"
+    },
+    {
+      "property": "P10757",
+      "value": "50641"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.872"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.873"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.878"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.880"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.884"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.885"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.887"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.890"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.893"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.889"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.891"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.892"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.893"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.895"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.898"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.900"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.904"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.906"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.906"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.908"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.911"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.913"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.916"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.917"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.919"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.920"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.922"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.924"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.927"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.930"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.920"
+    },
+    {
+      "property": "P1081",
+      "value": "+0.921"
+    },
+    {
+      "property": "P1082",
+      "value": "+3929214"
+    },
+    {
+      "property": "P1082",
+      "value": "+5308483"
+    },
+    {
+      "property": "P1082",
+      "value": "+7239881"
+    },
+    {
+      "property": "P1082",
+      "value": "+9633822"
+    },
+    {
+      "property": "P1082",
+      "value": "+9638453"
+    },
+    {
+      "property": "P1082",
+      "value": "+12866020"
+    },
+    {
+      "property": "P1082",
+      "value": "+17069458"
+    },
+    {
+      "property": "P1082",
+      "value": "+17069453"
+    },
+    {
+      "property": "P1082",
+      "value": "+23191876"
+    },
+    {
+      "property": "P1082",
+      "value": "+31443321"
+    },
+    {
+      "property": "P1082",
+      "value": "+38558371"
+    },
+    {
+      "property": "P1082",
+      "value": "+39818449"
+    },
+    {
+      "property": "P1082",
+      "value": "+50155783"
+    },
+    {
+      "property": "P1082",
+      "value": "+50189209"
+    },
+    {
+      "property": "P1082",
+      "value": "+62979766"
+    },
+    {
+      "property": "P1082",
+      "value": "+76303387"
+    },
+    {
+      "property": "P1082",
+      "value": "+76094000"
+    },
+    {
+      "property": "P1082",
+      "value": "+76212168"
+    },
+    {
+      "property": "P1082",
+      "value": "+77584000"
+    },
+    {
+      "property": "P1082",
+      "value": "+79163000"
+    },
+    {
+      "property": "P1082",
+      "value": "+80632000"
+    },
+    {
+      "property": "P1082",
+      "value": "+82166000"
+    },
+    {
+      "property": "P1082",
+      "value": "+83822000"
+    },
+    {
+      "property": "P1082",
+      "value": "+85450000"
+    },
+    {
+      "property": "P1082",
+      "value": "+87008000"
+    },
+    {
+      "property": "P1082",
+      "value": "+88710000"
+    },
+    {
+      "property": "P1082",
+      "value": "+90490000"
+    },
+    {
+      "property": "P1082",
+      "value": "+91972266"
+    },
+    {
+      "property": "P1082",
+      "value": "+92407000"
+    },
+    {
+      "property": "P1082",
+      "value": "+93863000"
+    },
+    {
+      "property": "P1082",
+      "value": "+95335000"
+    },
+    {
+      "property": "P1082",
+      "value": "+97225000"
+    },
+    {
+      "property": "P1082",
+      "value": "+99111000"
+    },
+    {
+      "property": "P1082",
+      "value": "+100546000"
+    },
+    {
+      "property": "P1082",
+      "value": "+101961000"
+    },
+    {
+      "property": "P1082",
+      "value": "+103268000"
+    },
+    {
+      "property": "P1082",
+      "value": "+103208000"
+    },
+    {
+      "property": "P1082",
+      "value": "+104514000"
+    },
+    {
+      "property": "P1082",
+      "value": "+105710620"
+    },
+    {
+      "property": "P1082",
+      "value": "+122775046"
+    },
+    {
+      "property": "P1082",
+      "value": "+132164569"
+    },
+    {
+      "property": "P1082",
+      "value": "+150697361"
+    },
+    {
+      "property": "P1082",
+      "value": "+179323175"
+    },
+    {
+      "property": "P1082",
+      "value": "+203302031"
+    },
+    {
+      "property": "P1082",
+      "value": "+226545805"
+    },
+    {
+      "property": "P1082",
+      "value": "+248709873"
+    },
+    {
+      "property": "P1082",
+      "value": "+281421906"
+    },
+    {
+      "property": "P1082",
+      "value": "+308745538"
+    },
+    {
+      "property": "P1082",
+      "value": "+311582600"
+    },
+    {
+      "property": "P1082",
+      "value": "+316128839"
+    },
+    {
+      "property": "P1082",
+      "value": "+323952889"
+    },
+    {
+      "property": "P1082",
+      "value": "+325145963"
+    },
+    {
+      "property": "P1082",
+      "value": "+328239523"
+    },
+    {
+      "property": "P1082",
+      "value": "+331449281"
+    },
+    {
+      "property": "P1082",
+      "value": "+332278200"
+    },
+    {
+      "property": "P1082",
+      "value": "+340110988"
+    },
+    {
+      "property": "P10832",
+      "value": "E39PBJtxgQXMWqmjMjjwXRHgrq"
+    },
+    {
+      "property": "P10888",
+      "value": "Q16645"
+    },
+    {
+      "property": "P10916",
+      "value": "USA"
+    },
+    {
+      "property": "P11012",
+      "value": "Q373"
+    },
+    {
+      "property": "P11137",
+      "value": "united_states_of_america"
+    },
+    {
+      "property": "P11194",
+      "value": "birthplace/unitedstates"
+    },
+    {
+      "property": "P11196",
+      "value": "美国"
+    },
+    {
+      "property": "P11245",
+      "value": "USAgov1"
+    },
+    {
+      "property": "P1125",
+      "value": "+47.7"
+    },
+    {
+      "property": "P1125",
+      "value": "+34.6"
+    },
+    {
+      "property": "P11408",
+      "value": "アメリカ合衆国"
+    },
+    {
+      "property": "P11493",
+      "value": "Q27013"
+    },
+    {
+      "property": "P11496",
+      "value": "1140282266744049280"
+    },
+    {
+      "property": "P1151",
+      "value": "Q5365167"
+    },
+    {
+      "property": "P11514",
+      "value": "soedinionnye-shtaty-ameriki-640c9b"
+    },
+    {
+      "property": "P11547",
+      "value": "+37.4"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.805"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.806"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.808"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.810"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.805"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.808"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.810"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.810"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.815"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.817"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.818"
+    },
+    {
+      "property": "P11593",
+      "value": "+0.819"
+    },
+    {
+      "property": "P11632",
+      "value": "4398"
+    },
+    {
+      "property": "P11662",
+      "value": "791462"
+    },
+    {
+      "property": "P11686",
+      "value": "981058514371006706"
+    },
+    {
+      "property": "P11693",
+      "value": "424317935"
+    },
+    {
+      "property": "P11762",
+      "value": "345812"
+    },
+    {
+      "property": "P11764",
+      "value": "277512"
+    },
+    {
+      "property": "P11765",
+      "value": "111233"
+    },
+    {
+      "property": "P11832",
+      "value": "USA-satellite.jpg"
+    },
+    {
+      "property": "P11835",
+      "value": "4720"
+    },
+    {
+      "property": "P1188",
+      "value": "PL000000056125"
+    },
+    {
+      "property": "P11924",
+      "value": "united-states-of-america"
+    },
+    {
+      "property": "P1198",
+      "value": "+6.7"
+    },
+    {
+      "property": "P12036",
+      "value": "0002362"
+    },
+    {
+      "property": "P12061",
+      "value": "4"
+    },
+    {
+      "property": "P12086",
+      "value": "Verenigde_Staten"
+    },
+    {
+      "property": "P12187",
+      "value": "M4BPIWR72JDLPKZN5QWVSTOUQ4"
+    },
+    {
+      "property": "P122",
+      "value": "Q49892"
+    },
+    {
+      "property": "P122",
+      "value": "Q512187"
+    },
+    {
+      "property": "P122",
+      "value": "Q7270"
+    },
+    {
+      "property": "P1225",
+      "value": "10045728"
+    },
+    {
+      "property": "P12385",
+      "value": "estats-units-damerica"
+    },
+    {
+      "property": "P12431",
+      "value": "96683cc9126741d1"
+    },
+    {
+      "property": "P12443",
+      "value": "Q639738"
+    },
+    {
+      "property": "P1245",
+      "value": "6578"
+    },
+    {
+      "property": "P1248",
+      "value": "acc64e80-fc14-4253-a96c-75e91a291b55"
+    },
+    {
+      "property": "P12515",
+      "value": "4330442"
+    },
+    {
+      "property": "P12637",
+      "value": "0380"
+    },
+    {
+      "property": "P12721",
+      "value": "USA"
+    },
+    {
+      "property": "P1273",
+      "value": "a11444253"
+    },
+    {
+      "property": "P12749",
+      "value": "Q1283"
+    },
+    {
+      "property": "P12800",
+      "value": "en:United_States"
+    },
+    {
+      "property": "P12800",
+      "value": "it:Stati_Uniti_d'America"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Estados_Unidos"
+    },
+    {
+      "property": "P12800",
+      "value": "eu:Ameriketako_Estatu_Batuak"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:États-Unis"
+    },
+    {
+      "property": "P12800",
+      "value": "ru:Соединённые_Штаты_Америки"
+    },
+    {
+      "property": "P1281",
+      "value": "23424977"
+    },
+    {
+      "property": "P1296",
+      "value": "0025184"
+    },
+    {
+      "property": "P12966",
+      "value": "United_States_of_America"
+    },
+    {
+      "property": "P13030",
+      "value": "country/83"
+    },
+    {
+      "property": "P1304",
+      "value": "Q53536"
+    },
+    {
+      "property": "P1304",
+      "value": "Q2263849"
+    },
+    {
+      "property": "P1304",
+      "value": "Q934187"
+    },
+    {
+      "property": "P13059",
+      "value": "36"
+    },
+    {
+      "property": "P13059",
+      "value": "49"
+    },
+    {
+      "property": "P13061",
+      "value": "12346794"
+    },
+    {
+      "property": "P13113",
+      "value": "etats-unis"
+    },
+    {
+      "property": "P1313",
+      "value": "Q11696"
+    },
+    {
+      "property": "P13135",
+      "value": "usa"
+    },
+    {
+      "property": "P13135",
+      "value": "united-states"
+    },
+    {
+      "property": "P13141",
+      "value": "usa"
+    },
+    {
+      "property": "P1315",
+      "value": "896984"
+    },
+    {
+      "property": "P1315",
+      "value": "996710"
+    },
+    {
+      "property": "P1315",
+      "value": "1000031"
+    },
+    {
+      "property": "P1315",
+      "value": "1000028"
+    },
+    {
+      "property": "P13160",
+      "value": "أمريكا"
+    },
+    {
+      "property": "P13161",
+      "value": "usa"
+    },
+    {
+      "property": "P13202",
+      "value": "united-states"
+    },
+    {
+      "property": "P13204",
+      "value": "qxs9ppqa"
+    },
+    {
+      "property": "P13204",
+      "value": "xf5vvmkw"
+    },
+    {
+      "property": "P13236",
+      "value": "united_states"
+    },
+    {
+      "property": "P1325",
+      "value": "https://www.data.gov/"
+    },
+    {
+      "property": "P13255",
+      "value": "etats-unis"
+    },
+    {
+      "property": "P13257",
+      "value": "ssha"
+    },
+    {
+      "property": "P13291",
+      "value": "23"
+    },
+    {
+      "property": "P13297",
+      "value": "usa"
+    },
+    {
+      "property": "P13300",
+      "value": "usa"
+    },
+    {
+      "property": "P13300",
+      "value": "united-states"
+    },
+    {
+      "property": "P13317",
+      "value": "usa"
+    },
+    {
+      "property": "P13317",
+      "value": "united-states"
+    },
+    {
+      "property": "P13326",
+      "value": "L220703"
+    },
+    {
+      "property": "P13389",
+      "value": "united-states"
+    },
+    {
+      "property": "P13390",
+      "value": "united_states"
+    },
+    {
+      "property": "P13397",
+      "value": "united_states"
+    },
+    {
+      "property": "P13426",
+      "value": "753f915c-70d4-49e1-9bd5-83e75f461e30"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19180675"
+    },
+    {
+      "property": "P1343",
+      "value": "Q602358"
+    },
+    {
+      "property": "P1343",
+      "value": "Q4532138"
+    },
+    {
+      "property": "P1343",
+      "value": "Q867541"
+    },
+    {
+      "property": "P1343",
+      "value": "Q4173137"
+    },
+    {
+      "property": "P1343",
+      "value": "Q15987490"
+    },
+    {
+      "property": "P1343",
+      "value": "Q20096917"
+    },
+    {
+      "property": "P1343",
+      "value": "Q3181656"
+    },
+    {
+      "property": "P1343",
+      "value": "Q1374339"
+    },
+    {
+      "property": "P1343",
+      "value": "Q116780519"
+    },
+    {
+      "property": "P1343",
+      "value": "Q2041543"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19077875"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19047539"
+    },
+    {
+      "property": "P1343",
+      "value": "Q16082057"
+    },
+    {
+      "property": "P1343",
+      "value": "Q2657718"
+    },
+    {
+      "property": "P1343",
+      "value": "Q29418320"
+    },
+    {
+      "property": "P1343",
+      "value": "Q29418320"
+    },
+    {
+      "property": "P1344",
+      "value": "Q488"
+    },
+    {
+      "property": "P1344",
+      "value": "Q280468"
+    },
+    {
+      "property": "P1344",
+      "value": "Q1088364"
+    },
+    {
+      "property": "P1344",
+      "value": "Q40949"
+    },
+    {
+      "property": "P1344",
+      "value": "Q184425"
+    },
+    {
+      "property": "P1344",
+      "value": "Q178810"
+    },
+    {
+      "property": "P1344",
+      "value": "Q155723"
+    },
+    {
+      "property": "P1344",
+      "value": "Q8740"
+    },
+    {
+      "property": "P1344",
+      "value": "Q8663"
+    },
+    {
+      "property": "P1344",
+      "value": "Q169401"
+    },
+    {
+      "property": "P1344",
+      "value": "Q327052"
+    },
+    {
+      "property": "P1344",
+      "value": "Q1789376"
+    },
+    {
+      "property": "P1344",
+      "value": "Q65132216"
+    },
+    {
+      "property": "P1344",
+      "value": "Q1935947"
+    },
+    {
+      "property": "P1344",
+      "value": "Q418151"
+    },
+    {
+      "property": "P1344",
+      "value": "Q301487"
+    },
+    {
+      "property": "P1344",
+      "value": "Q862751"
+    },
+    {
+      "property": "P1344",
+      "value": "Q334029"
+    },
+    {
+      "property": "P1344",
+      "value": "Q1754313"
+    },
+    {
+      "property": "P1344",
+      "value": "Q4064180"
+    },
+    {
+      "property": "P1344",
+      "value": "Q622454"
+    },
+    {
+      "property": "P1344",
+      "value": "Q134900605"
+    },
+    {
+      "property": "P13440",
+      "value": "1"
+    },
+    {
+      "property": "P13574",
+      "value": "Q60"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/0efbd4b2-03b2-4fd0-a84e-09b0057cd037"
+    },
+    {
+      "property": "P13634",
+      "value": "where/united-states"
+    },
+    {
+      "property": "P1365",
+      "value": "Q7887623"
+    },
+    {
+      "property": "P1365",
+      "value": "Q81931"
+    },
+    {
+      "property": "P13705",
+      "value": "usa"
+    },
+    {
+      "property": "P138",
+      "value": "Q828"
+    },
+    {
+      "property": "P1417",
+      "value": "place/United-States"
+    },
+    {
+      "property": "P1424",
+      "value": "Q8171085"
+    },
+    {
+      "property": "P1424",
+      "value": "Q63992256"
+    },
+    {
+      "property": "P1438",
+      "value": "13881"
+    },
+    {
+      "property": "P1441",
+      "value": "Q622282"
+    },
+    {
+      "property": "P1448",
+      "value": "the United States of America"
+    },
+    {
+      "property": "P1448",
+      "value": "United States"
+    },
+    {
+      "property": "P1448",
+      "value": "Estados Unidos de América"
+    },
+    {
+      "property": "P1448",
+      "value": "États-Unis d’Amérique"
+    },
+    {
+      "property": "P1448",
+      "value": "Stati Uniti d'America"
+    },
+    {
+      "property": "P1448",
+      "value": "Vereinigte Staaten von Amerika"
+    },
+    {
+      "property": "P1448",
+      "value": "Verenigde Staten van Amerika"
+    },
+    {
+      "property": "P1448",
+      "value": "Amerika Birleşik Devletleri"
+    },
+    {
+      "property": "P1448",
+      "value": "Statele Unite ale Americii"
+    },
+    {
+      "property": "P1448",
+      "value": "Unuiĝintaj Ŝtatoj de Ameriko"
+    },
+    {
+      "property": "P1448",
+      "value": "Сполучені Штати Америки"
+    },
+    {
+      "property": "P1448",
+      "value": "Сједињене Америчке Државе"
+    },
+    {
+      "property": "P1448",
+      "value": "美利堅合眾國"
+    },
+    {
+      "property": "P1448",
+      "value": "ארצות הברית"
+    },
+    {
+      "property": "P1448",
+      "value": "ამერიკაშ აკოართაფილი შტატეფი"
+    },
+    {
+      "property": "P1448",
+      "value": "Hợp chủng quốc Hoa Kỳ"
+    },
+    {
+      "property": "P1448",
+      "value": "Hợp chúng quốc Hoa Kỳ"
+    },
+    {
+      "property": "P1451",
+      "value": "In God We Trust"
+    },
+    {
+      "property": "P1451",
+      "value": "E Pluribus Unum"
+    },
+    {
+      "property": "P1451",
+      "value": "All within your reach"
+    },
+    {
+      "property": "P1464",
+      "value": "Q7463286"
+    },
+    {
+      "property": "P1465",
+      "value": "Q6334989"
+    },
+    {
+      "property": "P1482",
+      "value": "https://travel.stackexchange.com/tags/usa"
+    },
+    {
+      "property": "P1482",
+      "value": "https://matheducators.stackexchange.com/tags/usa"
+    },
+    {
+      "property": "P150",
+      "value": "Q173"
+    },
+    {
+      "property": "P150",
+      "value": "Q797"
+    },
+    {
+      "property": "P150",
+      "value": "Q816"
+    },
+    {
+      "property": "P150",
+      "value": "Q1612"
+    },
+    {
+      "property": "P150",
+      "value": "Q99"
+    },
+    {
+      "property": "P150",
+      "value": "Q1261"
+    },
+    {
+      "property": "P150",
+      "value": "Q779"
+    },
+    {
+      "property": "P150",
+      "value": "Q1393"
+    },
+    {
+      "property": "P150",
+      "value": "Q812"
+    },
+    {
+      "property": "P150",
+      "value": "Q1428"
+    },
+    {
+      "property": "P150",
+      "value": "Q782"
+    },
+    {
+      "property": "P150",
+      "value": "Q1221"
+    },
+    {
+      "property": "P150",
+      "value": "Q1204"
+    },
+    {
+      "property": "P150",
+      "value": "Q1415"
+    },
+    {
+      "property": "P150",
+      "value": "Q1546"
+    },
+    {
+      "property": "P150",
+      "value": "Q1558"
+    },
+    {
+      "property": "P150",
+      "value": "Q1603"
+    },
+    {
+      "property": "P150",
+      "value": "Q1588"
+    },
+    {
+      "property": "P150",
+      "value": "Q724"
+    },
+    {
+      "property": "P150",
+      "value": "Q1391"
+    },
+    {
+      "property": "P150",
+      "value": "Q771"
+    },
+    {
+      "property": "P150",
+      "value": "Q1166"
+    },
+    {
+      "property": "P150",
+      "value": "Q1527"
+    },
+    {
+      "property": "P150",
+      "value": "Q1494"
+    },
+    {
+      "property": "P150",
+      "value": "Q1581"
+    },
+    {
+      "property": "P150",
+      "value": "Q1212"
+    },
+    {
+      "property": "P150",
+      "value": "Q1553"
+    },
+    {
+      "property": "P150",
+      "value": "Q1227"
+    },
+    {
+      "property": "P150",
+      "value": "Q759"
+    },
+    {
+      "property": "P150",
+      "value": "Q1408"
+    },
+    {
+      "property": "P150",
+      "value": "Q1522"
+    },
+    {
+      "property": "P150",
+      "value": "Q1384"
+    },
+    {
+      "property": "P150",
+      "value": "Q1207"
+    },
+    {
+      "property": "P150",
+      "value": "Q1454"
+    },
+    {
+      "property": "P150",
+      "value": "Q1397"
+    },
+    {
+      "property": "P150",
+      "value": "Q1649"
+    },
+    {
+      "property": "P150",
+      "value": "Q824"
+    },
+    {
+      "property": "P150",
+      "value": "Q1400"
+    },
+    {
+      "property": "P150",
+      "value": "Q1387"
+    },
+    {
+      "property": "P150",
+      "value": "Q1211"
+    },
+    {
+      "property": "P150",
+      "value": "Q1456"
+    },
+    {
+      "property": "P150",
+      "value": "Q1509"
+    },
+    {
+      "property": "P150",
+      "value": "Q1439"
+    },
+    {
+      "property": "P150",
+      "value": "Q829"
+    },
+    {
+      "property": "P150",
+      "value": "Q16551"
+    },
+    {
+      "property": "P150",
+      "value": "Q1370"
+    },
+    {
+      "property": "P150",
+      "value": "Q1223"
+    },
+    {
+      "property": "P150",
+      "value": "Q1371"
+    },
+    {
+      "property": "P150",
+      "value": "Q1537"
+    },
+    {
+      "property": "P150",
+      "value": "Q1214"
+    },
+    {
+      "property": "P150",
+      "value": "Q3551781"
+    },
+    {
+      "property": "P150",
+      "value": "Q16641"
+    },
+    {
+      "property": "P150",
+      "value": "Q11703"
+    },
+    {
+      "property": "P150",
+      "value": "Q16635"
+    },
+    {
+      "property": "P150",
+      "value": "Q16644"
+    },
+    {
+      "property": "P150",
+      "value": "Q1183"
+    },
+    {
+      "property": "P150",
+      "value": "Q1811372"
+    },
+    {
+      "property": "P150",
+      "value": "Q547795"
+    },
+    {
+      "property": "P150",
+      "value": "Q777763"
+    },
+    {
+      "property": "P150",
+      "value": "Q1500063"
+    },
+    {
+      "property": "P150",
+      "value": "Q1360064"
+    },
+    {
+      "property": "P150",
+      "value": "Q660384"
+    },
+    {
+      "property": "P150",
+      "value": "Q669315"
+    },
+    {
+      "property": "P150",
+      "value": "Q1518439"
+    },
+    {
+      "property": "P150",
+      "value": "Q1548588"
+    },
+    {
+      "property": "P150",
+      "value": "Q6042084"
+    },
+    {
+      "property": "P150",
+      "value": "Q146328"
+    },
+    {
+      "property": "P1538",
+      "value": "+122354219"
+    },
+    {
+      "property": "P1539",
+      "value": "+165599805"
+    },
+    {
+      "property": "P1539",
+      "value": "+167210787"
+    },
+    {
+      "property": "P1539",
+      "value": "+167558793"
+    },
+    {
+      "property": "P1539",
+      "value": "+168258067"
+    },
+    {
+      "property": "P1540",
+      "value": "+162730147"
+    },
+    {
+      "property": "P1540",
+      "value": "+164316147"
+    },
+    {
+      "property": "P1540",
+      "value": "+164490184"
+    },
+    {
+      "property": "P1540",
+      "value": "+165013345"
+    },
+    {
+      "property": "P1546",
+      "value": "Q270871"
+    },
+    {
+      "property": "P1546",
+      "value": "Q191587"
+    },
+    {
+      "property": "P1549",
+      "value": "American"
+    },
+    {
+      "property": "P1549",
+      "value": "Américain"
+    },
+    {
+      "property": "P1549",
+      "value": "Américaine"
+    },
+    {
+      "property": "P1549",
+      "value": "アメリカ人"
+    },
+    {
+      "property": "P1549",
+      "value": "米国人"
+    },
+    {
+      "property": "P1549",
+      "value": "Amerikaner"
+    },
+    {
+      "property": "P1549",
+      "value": "Amerikanerin"
+    },
+    {
+      "property": "P1549",
+      "value": "american"
+    },
+    {
+      "property": "P1549",
+      "value": "americancă"
+    },
+    {
+      "property": "P1549",
+      "value": "estadounidense"
+    },
+    {
+      "property": "P1549",
+      "value": "Американци"
+    },
+    {
+      "property": "P1549",
+      "value": "amerikan"
+    },
+    {
+      "property": "P1549",
+      "value": "amerikai"
+    },
+    {
+      "property": "P1549",
+      "value": "Αμερικανός"
+    },
+    {
+      "property": "P1549",
+      "value": "Αμερικανή"
+    },
+    {
+      "property": "P1549",
+      "value": "Αμερικανοί"
+    },
+    {
+      "property": "P1549",
+      "value": "estatunidenc"
+    },
+    {
+      "property": "P1549",
+      "value": "estadounidenses"
+    },
+    {
+      "property": "P1549",
+      "value": "американски"
+    },
+    {
+      "property": "P1549",
+      "value": "ამერიკელი"
+    },
+    {
+      "property": "P1549",
+      "value": "Usano"
+    },
+    {
+      "property": "P1549",
+      "value": "usonano"
+    },
+    {
+      "property": "P1549",
+      "value": "Lamerikänan"
+    },
+    {
+      "property": "P1549",
+      "value": "estatunidenca"
+    },
+    {
+      "property": "P1549",
+      "value": "nord-americà"
+    },
+    {
+      "property": "P1549",
+      "value": "nord-americana"
+    },
+    {
+      "property": "P1549",
+      "value": "estatubatuar"
+    },
+    {
+      "property": "P1549",
+      "value": "أمريكي"
+    },
+    {
+      "property": "P1549",
+      "value": "أمريكية"
+    },
+    {
+      "property": "P1549",
+      "value": "أمريكيون"
+    },
+    {
+      "property": "P1549",
+      "value": "американець"
+    },
+    {
+      "property": "P1549",
+      "value": "американка"
+    },
+    {
+      "property": "P1549",
+      "value": "американці"
+    },
+    {
+      "property": "P1549",
+      "value": "американец"
+    },
+    {
+      "property": "P1549",
+      "value": "американка"
+    },
+    {
+      "property": "P1549",
+      "value": "американцы"
+    },
+    {
+      "property": "P1549",
+      "value": "אמריקאי"
+    },
+    {
+      "property": "P1549",
+      "value": "אמריקאית"
+    },
+    {
+      "property": "P1549",
+      "value": "אמריקאים"
+    },
+    {
+      "property": "P1549",
+      "value": "americani"
+    },
+    {
+      "property": "P1549",
+      "value": "মার্কিন"
+    },
+    {
+      "property": "P1549",
+      "value": "estadunidense"
+    },
+    {
+      "property": "P1549",
+      "value": "americano"
+    },
+    {
+      "property": "P1549",
+      "value": "americana"
+    },
+    {
+      "property": "P1549",
+      "value": "ماريكان"
+    },
+    {
+      "property": "P1549",
+      "value": "statunitense"
+    },
+    {
+      "property": "P1549",
+      "value": "statunitensi"
+    },
+    {
+      "property": "P1549",
+      "value": "Američan"
+    },
+    {
+      "property": "P1549",
+      "value": "american"
+    },
+    {
+      "property": "P1549",
+      "value": "Американец"
+    },
+    {
+      "property": "P1549",
+      "value": "Американка"
+    },
+    {
+      "property": "P1549",
+      "value": "Американци"
+    },
+    {
+      "property": "P1549",
+      "value": "d'Estaos Xuníos"
+    },
+    {
+      "property": "P1549",
+      "value": "Americanaidd"
+    },
+    {
+      "property": "P1549",
+      "value": "Американац"
+    },
+    {
+      "property": "P1549",
+      "value": "Американка"
+    },
+    {
+      "property": "P1549",
+      "value": "آمریکایی"
+    },
+    {
+      "property": "P1549",
+      "value": "Amerikalı"
+    },
+    {
+      "property": "P1549",
+      "value": "États-Unien"
+    },
+    {
+      "property": "P1549",
+      "value": "美国人"
+    },
+    {
+      "property": "P1549",
+      "value": "Americans"
+    },
+    {
+      "property": "P1549",
+      "value": "amerikanskt"
+    },
+    {
+      "property": "P1549",
+      "value": "statunitense"
+    },
+    {
+      "property": "P1549",
+      "value": "statunitenso"
+    },
+    {
+      "property": "P1549",
+      "value": "statunitensi"
+    },
+    {
+      "property": "P1549",
+      "value": "statunitensa"
+    },
+    {
+      "property": "P1549",
+      "value": "ميريكاني"
+    },
+    {
+      "property": "P1549",
+      "value": "ميريكانية"
+    },
+    {
+      "property": "P1549",
+      "value": "ميريكانيين"
+    },
+    {
+      "property": "P1549",
+      "value": "ميريكانيات"
+    },
+    {
+      "property": "P1549",
+      "value": "Amerikaner"
+    },
+    {
+      "property": "P1549",
+      "value": "Američan"
+    },
+    {
+      "property": "P1549",
+      "value": "Američanka"
+    },
+    {
+      "property": "P1549",
+      "value": "Meiriceánach"
+    },
+    {
+      "property": "P1552",
+      "value": "Q3174312"
+    },
+    {
+      "property": "P1566",
+      "value": "6252001"
+    },
+    {
+      "property": "P158",
+      "value": "Great Seal of the United States (obverse).svg"
+    },
+    {
+      "property": "P158",
+      "value": "Great Seal of the United States (reverse).svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.usa.gov/"
+    },
+    {
+      "property": "P1589",
+      "value": "Q799720"
+    },
+    {
+      "property": "P1617",
+      "value": "82857f8e-8134-462a-bb32-b7b14f4eab75"
+    },
+    {
+      "property": "P1622",
+      "value": "Q14565199"
+    },
+    {
+      "property": "P163",
+      "value": "Q42537"
+    },
+    {
+      "property": "P1667",
+      "value": "7012149"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1705",
+      "value": "United States of America"
+    },
+    {
+      "property": "P1705",
+      "value": "Estados Unidos de América"
+    },
+    {
+      "property": "P1705",
+      "value": "Wááshindoon Bikéyah Ałhidadiidzooígíí"
+    },
+    {
+      "property": "P1705",
+      "value": "Iunaite Sitete o Amerika"
+    },
+    {
+      "property": "P1705",
+      "value": "Estados Unidus"
+    },
+    {
+      "property": "P1705",
+      "value": "ᏌᏊᎢᏳᎾᎵᏍᏔᏅᏍᎦᏚᎩ ᎾᎿ ᎠᎺᏰᏟ"
+    },
+    {
+      "property": "P172",
+      "value": "Q49078"
+    },
+    {
+      "property": "P172",
+      "value": "Q49085"
+    },
+    {
+      "property": "P172",
+      "value": "Q727928"
+    },
+    {
+      "property": "P172",
+      "value": "Q49297"
+    },
+    {
+      "property": "P1740",
+      "value": "Q6839466"
+    },
+    {
+      "property": "P1748",
+      "value": "C17234"
+    },
+    {
+      "property": "P1791",
+      "value": "Q7977902"
+    },
+    {
+      "property": "P1792",
+      "value": "Q3919762"
+    },
+    {
+      "property": "P18",
+      "value": "United States - Location Map (2013) - USA - UNOCHA.svg"
+    },
+    {
+      "property": "P1813",
+      "value": "USA"
+    },
+    {
+      "property": "P1813",
+      "value": "America"
+    },
+    {
+      "property": "P1813",
+      "value": "United States of America (the)"
+    },
+    {
+      "property": "P1813",
+      "value": "UNITED STATES OF AMERICA"
+    },
+    {
+      "property": "P1813",
+      "value": "EE.UU."
+    },
+    {
+      "property": "P1813",
+      "value": "EUA"
+    },
+    {
+      "property": "P1813",
+      "value": "Vereinigte Staaten"
+    },
+    {
+      "property": "P1813",
+      "value": "USA"
+    },
+    {
+      "property": "P1813",
+      "value": "É.-U."
+    },
+    {
+      "property": "P1813",
+      "value": "USA"
+    },
+    {
+      "property": "P1813",
+      "value": "VS"
+    },
+    {
+      "property": "P1813",
+      "value": "BNA"
+    },
+    {
+      "property": "P1813",
+      "value": "UDA"
+    },
+    {
+      "property": "P1813",
+      "value": "EUA"
+    },
+    {
+      "property": "P1813",
+      "value": "EUA"
+    },
+    {
+      "property": "P1813",
+      "value": "Amerika"
+    },
+    {
+      "property": "P1813",
+      "value": "Vereinigte Staaten"
+    },
+    {
+      "property": "P1813",
+      "value": "USA"
+    },
+    {
+      "property": "P1813",
+      "value": "Vereinigte Staaten"
+    },
+    {
+      "property": "P1813",
+      "value": "Amerika"
+    },
+    {
+      "property": "P1813",
+      "value": "USA"
+    },
+    {
+      "property": "P1813",
+      "value": "USA"
+    },
+    {
+      "property": "P1813",
+      "value": "AEÁ"
+    },
+    {
+      "property": "P1813",
+      "value": "SUA"
+    },
+    {
+      "property": "P1813",
+      "value": "ABD"
+    },
+    {
+      "property": "P1813",
+      "value": "ABŞ"
+    },
+    {
+      "property": "P1813",
+      "value": "AS"
+    },
+    {
+      "property": "P1813",
+      "value": "A.S."
+    },
+    {
+      "property": "P1813",
+      "value": "AİD"
+    },
+    {
+      "property": "P1813",
+      "value": "США"
+    },
+    {
+      "property": "P1813",
+      "value": "США"
+    },
+    {
+      "property": "P1813",
+      "value": "ЗША"
+    },
+    {
+      "property": "P1813",
+      "value": "ЗША"
+    },
+    {
+      "property": "P1813",
+      "value": "САД"
+    },
+    {
+      "property": "P1813",
+      "value": "АОШ"
+    },
+    {
+      "property": "P1813",
+      "value": "АИД"
+    },
+    {
+      "property": "P1813",
+      "value": "აშშ"
+    },
+    {
+      "property": "P1813",
+      "value": "ԱՄՆ"
+    },
+    {
+      "property": "P1813",
+      "value": "ארה\"ב"
+    },
+    {
+      "property": "P1813",
+      "value": "米国"
+    },
+    {
+      "property": "P1813",
+      "value": "米"
+    },
+    {
+      "property": "P1813",
+      "value": "美国"
+    },
+    {
+      "property": "P1813",
+      "value": "美國"
+    },
+    {
+      "property": "P1813",
+      "value": "ZDA"
+    },
+    {
+      "property": "P1813",
+      "value": "ააშ"
+    },
+    {
+      "property": "P1813",
+      "value": "USA"
+    },
+    {
+      "property": "P1813",
+      "value": "U.S."
+    },
+    {
+      "property": "P1813",
+      "value": "HK"
+    },
+    {
+      "property": "P1813",
+      "value": "Mỹ"
+    },
+    {
+      "property": "P1813",
+      "value": "Mĩ"
+    },
+    {
+      "property": "P1813",
+      "value": "United States"
+    },
+    {
+      "property": "P1813",
+      "value": "アメリカ"
+    },
+    {
+      "property": "P1813",
+      "value": "合衆国"
+    },
+    {
+      "property": "P1830",
+      "value": "Q468574"
+    },
+    {
+      "property": "P1830",
+      "value": "Q731639"
+    },
+    {
+      "property": "P1830",
+      "value": "Q881182"
+    },
+    {
+      "property": "P1830",
+      "value": "Q884798"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1783821"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2225315"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2336640"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2525979"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5203364"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5471573"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5570493"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6242206"
+    },
+    {
+      "property": "P1830",
+      "value": "Q7318882"
+    },
+    {
+      "property": "P1830",
+      "value": "Q7846680"
+    },
+    {
+      "property": "P1830",
+      "value": "Q8035812"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15094405"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15888178"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20709326"
+    },
+    {
+      "property": "P1830",
+      "value": "Q35525"
+    },
+    {
+      "property": "P1842",
+      "value": "United States of America"
+    },
+    {
+      "property": "P1889",
+      "value": "Q828"
+    },
+    {
+      "property": "P1889",
+      "value": "Q89022170"
+    },
+    {
+      "property": "P1889",
+      "value": "Q214102"
+    },
+    {
+      "property": "P1906",
+      "value": "Q11696"
+    },
+    {
+      "property": "P1938",
+      "value": "1"
+    },
+    {
+      "property": "P194",
+      "value": "Q11268"
+    },
+    {
+      "property": "P194",
+      "value": "Q1195929"
+    },
+    {
+      "property": "P1943",
+      "value": "Usa edcp location map.svg"
+    },
+    {
+      "property": "P1943",
+      "value": "Location map of USA (+HI +AK +Unincorporated territories + DC).svg"
+    },
+    {
+      "property": "P1943",
+      "value": "Map of USA with state names.svg"
+    },
+    {
+      "property": "P1944",
+      "value": "Usa edcp relief location map.png"
+    },
+    {
+      "property": "P1944",
+      "value": "Usa edcp (+HI +AK) relief location map.svg"
+    },
+    {
+      "property": "P1968",
+      "value": "4e51480cfa7626401ec3632b"
+    },
+    {
+      "property": "P2002",
+      "value": "usagov"
+    },
+    {
+      "property": "P2002",
+      "value": "usagovespanol"
+    },
+    {
+      "property": "P2003",
+      "value": "usagov"
+    },
+    {
+      "property": "P2004",
+      "value": "7522"
+    },
+    {
+      "property": "P2013",
+      "value": "USAGov"
+    },
+    {
+      "property": "P2046",
+      "value": "+9826675"
+    },
+    {
+      "property": "P206",
+      "value": "Q788"
+    },
+    {
+      "property": "P206",
+      "value": "Q98"
+    },
+    {
+      "property": "P206",
+      "value": "Q97"
+    },
+    {
+      "property": "P208",
+      "value": "Q48525"
+    },
+    {
+      "property": "P2082",
+      "value": "840"
+    },
+    {
+      "property": "P209",
+      "value": "Q11201"
+    },
+    {
+      "property": "P213",
+      "value": "0000000123315230"
+    },
+    {
+      "property": "P2131",
+      "value": "+23315080560000"
+    },
+    {
+      "property": "P2131",
+      "value": "+25462700000000"
+    },
+    {
+      "property": "P2131",
+      "value": "+27720709000000"
+    },
+    {
+      "property": "P214",
+      "value": "130168302"
+    },
+    {
+      "property": "P2163",
+      "value": "1204155"
+    },
+    {
+      "property": "P2184",
+      "value": "Q131110"
+    },
+    {
+      "property": "P2238",
+      "value": "Q127216"
+    },
+    {
+      "property": "P2250",
+      "value": "+78.69024"
+    },
+    {
+      "property": "P2250",
+      "value": "+78.84146"
+    },
+    {
+      "property": "P2250",
+      "value": "+78.74146"
+    },
+    {
+      "property": "P2250",
+      "value": "+78.64146"
+    },
+    {
+      "property": "P2250",
+      "value": "+78.54146"
+    },
+    {
+      "property": "P2250",
+      "value": "+78.39024"
+    },
+    {
+      "property": "P2250",
+      "value": "+78.03902"
+    },
+    {
+      "property": "P2250",
+      "value": "+77.9878"
+    },
+    {
+      "property": "P2250",
+      "value": "+77.6878"
+    },
+    {
+      "property": "P2250",
+      "value": "+77.4878"
+    },
+    {
+      "property": "P2250",
+      "value": "+77.03659"
+    },
+    {
+      "property": "P2250",
+      "value": "+76.93659"
+    },
+    {
+      "property": "P2250",
+      "value": "+76.83659"
+    },
+    {
+      "property": "P2250",
+      "value": "+76.63659"
+    },
+    {
+      "property": "P2250",
+      "value": "+76.58293"
+    },
+    {
+      "property": "P2250",
+      "value": "+79"
+    },
+    {
+      "property": "P2250",
+      "value": "+77"
+    },
+    {
+      "property": "P2250",
+      "value": "+76"
+    },
+    {
+      "property": "P2250",
+      "value": "+77"
+    },
+    {
+      "property": "P2258",
+      "value": "310"
+    },
+    {
+      "property": "P2258",
+      "value": "311"
+    },
+    {
+      "property": "P2258",
+      "value": "312"
+    },
+    {
+      "property": "P2258",
+      "value": "313"
+    },
+    {
+      "property": "P2258",
+      "value": "316"
+    },
+    {
+      "property": "P227",
+      "value": "4078704-7"
+    },
+    {
+      "property": "P2347",
+      "value": "105078"
+    },
+    {
+      "property": "P237",
+      "value": "Q171663"
+    },
+    {
+      "property": "P2397",
+      "value": "UCcS5Ar_-1AWByLfBmJOG8Xg"
+    },
+    {
+      "property": "P242",
+      "value": "USA orthographic.svg"
+    },
+    {
+      "property": "P242",
+      "value": "USATopographicalMap.jpg"
+    },
+    {
+      "property": "P242",
+      "value": "LocationUSA.svg"
+    },
+    {
+      "property": "P242",
+      "value": "United States - Location Map (2013) - USA - UNOCHA.svg"
+    },
+    {
+      "property": "P244",
+      "value": "n78095330"
+    },
+    {
+      "property": "P2503",
+      "value": "object_276534"
+    },
+    {
+      "property": "P2572",
+      "value": "usa"
+    },
+    {
+      "property": "P2572",
+      "value": "America"
+    },
+    {
+      "property": "P2572",
+      "value": "USA"
+    },
+    {
+      "property": "P2572",
+      "value": "EstadosUnidos"
+    },
+    {
+      "property": "P2572",
+      "value": "america"
+    },
+    {
+      "property": "P2572",
+      "value": "etats-unis"
+    },
+    {
+      "property": "P2572",
+      "value": "united_states"
+    },
+    {
+      "property": "P2572",
+      "value": "us"
+    },
+    {
+      "property": "P2573",
+      "value": "+2528999"
+    },
+    {
+      "property": "P2573",
+      "value": "+2841517"
+    },
+    {
+      "property": "P2573",
+      "value": "+2915576"
+    },
+    {
+      "property": "P2573",
+      "value": "+2773946"
+    },
+    {
+      "property": "P2573",
+      "value": "+2712262"
+    },
+    {
+      "property": "P2573",
+      "value": "+1942265"
+    },
+    {
+      "property": "P2573",
+      "value": "+1687620"
+    },
+    {
+      "property": "P2573",
+      "value": "+1730101"
+    },
+    {
+      "property": "P2573",
+      "value": "+2051969"
+    },
+    {
+      "property": "P2573",
+      "value": "+2375953"
+    },
+    {
+      "property": "P2573",
+      "value": "+3016494"
+    },
+    {
+      "property": "P2573",
+      "value": "+2749615"
+    },
+    {
+      "property": "P2573",
+      "value": "+3322719"
+    },
+    {
+      "property": "P2573",
+      "value": "+2450390"
+    },
+    {
+      "property": "P2573",
+      "value": "+2635349"
+    },
+    {
+      "property": "P2573",
+      "value": "+3748326"
+    },
+    {
+      "property": "P2579",
+      "value": "Q470125"
+    },
+    {
+      "property": "P2581",
+      "value": "00003341n"
+    },
+    {
+      "property": "P2596",
+      "value": "Q1044835"
+    },
+    {
+      "property": "P2612",
+      "value": "United+States"
+    },
+    {
+      "property": "P2633",
+      "value": "Q272160"
+    },
+    {
+      "property": "P2670",
+      "value": "Q35657"
+    },
+    {
+      "property": "P2670",
+      "value": "Q1352230"
+    },
+    {
+      "property": "P268",
+      "value": "118636082"
+    },
+    {
+      "property": "P269",
+      "value": "026376598"
+    },
+    {
+      "property": "P271",
+      "value": "DA00701402"
+    },
+    {
+      "property": "P2852",
+      "value": "Q533806"
+    },
+    {
+      "property": "P2853",
+      "value": "Q24288454"
+    },
+    {
+      "property": "P2853",
+      "value": "Q24288456"
+    },
+    {
+      "property": "P2884",
+      "value": "+120"
+    },
+    {
+      "property": "P2892",
+      "value": "C0041703"
+    },
+    {
+      "property": "P2924",
+      "value": "3590227"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1860"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1860"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33385"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3515185"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20054484"
+    },
+    {
+      "property": "P2936",
+      "value": "Q25559652"
+    },
+    {
+      "property": "P2936",
+      "value": "Q25559662"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1294243"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1294227"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1294251"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1815020"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1207611"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1288440"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1288385"
+    },
+    {
+      "property": "P2936",
+      "value": "Q143130"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1185119"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1185127"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1185133"
+    },
+    {
+      "property": "P2936",
+      "value": "Q133678"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2315424"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2270532"
+    },
+    {
+      "property": "P2936",
+      "value": "Q523014"
+    },
+    {
+      "property": "P2936",
+      "value": "Q530384"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1957120"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1957108"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1568938"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3412974"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2380124"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2109432"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2454881"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3414522"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3414490"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2393095"
+    },
+    {
+      "property": "P2936",
+      "value": "Q5051602"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3479942"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2600085"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3492334"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2669248"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2669206"
+    },
+    {
+      "property": "P2936",
+      "value": "Q5096458"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2665761"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3504233"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2917968"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2962074"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2984602"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2944443"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2963878"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3565286"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2967638"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2967636"
+    },
+    {
+      "property": "P2936",
+      "value": "Q2981109"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3001877"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3573199"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3549180"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3912876"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3111838"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3111983"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3135234"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3126783"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3183144"
+    },
+    {
+      "property": "P2936",
+      "value": "Q7570552"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3915517"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3193689"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3192120"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3192772"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3216471"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3198700"
+    },
+    {
+      "property": "P2936",
+      "value": "Q7684320"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3027471"
+    },
+    {
+      "property": "P2936",
+      "value": "Q12645081"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3278074"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3280640"
+    },
+    {
+      "property": "P2936",
+      "value": "Q7857412"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3319130"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3319444"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3370188"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3324744"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3396018"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3391031"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3396020"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3396025"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3396021"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3396023"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3396032"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3344791"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3336118"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3343396"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3344226"
+    },
+    {
+      "property": "P2936",
+      "value": "Q6693377"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3339226"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3343229"
+    },
+    {
+      "property": "P2936",
+      "value": "Q6693380"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3360656"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56396"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56391"
+    },
+    {
+      "property": "P2936",
+      "value": "Q35173"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56417"
+    },
+    {
+      "property": "P2936",
+      "value": "Q35162"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56438"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56421"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1321"
+    },
+    {
+      "property": "P2936",
+      "value": "Q12953952"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56510"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56492"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56547"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56530"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56523"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56539"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56704"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56712"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56718"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56661"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56627"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56628"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56631"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56619"
+    },
+    {
+      "property": "P2936",
+      "value": "Q35602"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56749"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56513"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56519"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56737"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56754"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56751"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56756"
+    },
+    {
+      "property": "P2936",
+      "value": "Q36444"
+    },
+    {
+      "property": "P2936",
+      "value": "Q36937"
+    },
+    {
+      "property": "P2936",
+      "value": "Q36944"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56236"
+    },
+    {
+      "property": "P2936",
+      "value": "Q36993"
+    },
+    {
+      "property": "P2936",
+      "value": "Q10188"
+    },
+    {
+      "property": "P2936",
+      "value": "Q13315"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56338"
+    },
+    {
+      "property": "P2936",
+      "value": "Q13310"
+    },
+    {
+      "property": "P2936",
+      "value": "Q13316"
+    },
+    {
+      "property": "P2936",
+      "value": "Q13260"
+    },
+    {
+      "property": "P2936",
+      "value": "Q22711"
+    },
+    {
+      "property": "P2936",
+      "value": "Q21117"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20832"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20627"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20831"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20711"
+    },
+    {
+      "property": "P2936",
+      "value": "Q14759"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28508"
+    },
+    {
+      "property": "P2936",
+      "value": "Q21058"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20824"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20827"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28565"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28058"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28062"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27785"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27993"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27782"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27992"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28060"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27792"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27861"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28269"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27210"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33044"
+    },
+    {
+      "property": "P2936",
+      "value": "Q56386"
+    },
+    {
+      "property": "P2936",
+      "value": "Q13339"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27480"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28281"
+    },
+    {
+      "property": "P2936",
+      "value": "Q27183"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28277"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28268"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28272"
+    },
+    {
+      "property": "P2936",
+      "value": "Q13363"
+    },
+    {
+      "property": "P2936",
+      "value": "Q28304"
+    },
+    {
+      "property": "P2936",
+      "value": "Q13368"
+    },
+    {
+      "property": "P2936",
+      "value": "Q32979"
+    },
+    {
+      "property": "P2936",
+      "value": "Q32967"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33265"
+    },
+    {
+      "property": "P2936",
+      "value": "Q32915"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33060"
+    },
+    {
+      "property": "P2936",
+      "value": "Q32972"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33192"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33388"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33358"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33404"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33395"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33537"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33591"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33569"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33658"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33665"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33434"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33811"
+    },
+    {
+      "property": "P2936",
+      "value": "Q33926"
+    },
+    {
+      "property": "P2936",
+      "value": "Q34057"
+    },
+    {
+      "property": "P2936",
+      "value": "Q34198"
+    },
+    {
+      "property": "P2936",
+      "value": "Q34204"
+    },
+    {
+      "property": "P2936",
+      "value": "Q34249"
+    },
+    {
+      "property": "P2936",
+      "value": "Q34685"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3083213"
+    },
+    {
+      "property": "P2936",
+      "value": "Q3493704"
+    },
+    {
+      "property": "P2936",
+      "value": "Q7997684"
+    },
+    {
+      "property": "P2936",
+      "value": "Q12635887"
+    },
+    {
+      "property": "P2936",
+      "value": "Q7544418"
+    },
+    {
+      "property": "P2936",
+      "value": "Q1440172"
+    },
+    {
+      "property": "P2936",
+      "value": "Q12645568"
+    },
+    {
+      "property": "P2936",
+      "value": "Q12953452"
+    },
+    {
+      "property": "P2936",
+      "value": "Q12953960"
+    },
+    {
+      "property": "P2936",
+      "value": "Q15649021"
+    },
+    {
+      "property": "P2936",
+      "value": "Q15699255"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20085721"
+    },
+    {
+      "property": "P2936",
+      "value": "Q20162127"
+    },
+    {
+      "property": "P2936",
+      "value": "Q25559714"
+    },
+    {
+      "property": "P2936",
+      "value": "Q25559666"
+    },
+    {
+      "property": "P2936",
+      "value": "Q25559664"
+    },
+    {
+      "property": "P2936",
+      "value": "Q35976053"
+    },
+    {
+      "property": "P2936",
+      "value": "Q35443"
+    },
+    {
+      "property": "P2959",
+      "value": "Q20571325"
+    },
+    {
+      "property": "P2959",
+      "value": "Q29045456"
+    },
+    {
+      "property": "P2966",
+      "value": "united-states"
+    },
+    {
+      "property": "P2966",
+      "value": "united-states-20"
+    },
+    {
+      "property": "P2966",
+      "value": "united-states-of-america-19"
+    },
+    {
+      "property": "P2966",
+      "value": "usa-4"
+    },
+    {
+      "property": "P297",
+      "value": "US"
+    },
+    {
+      "property": "P2979",
+      "value": "338"
+    },
+    {
+      "property": "P2979",
+      "value": "366"
+    },
+    {
+      "property": "P2979",
+      "value": "367"
+    },
+    {
+      "property": "P2979",
+      "value": "368"
+    },
+    {
+      "property": "P2979",
+      "value": "369"
+    },
+    {
+      "property": "P298",
+      "value": "USA"
+    },
+    {
+      "property": "P2983",
+      "value": "USA"
+    },
+    {
+      "property": "P2986",
+      "value": "N"
+    },
+    {
+      "property": "P299",
+      "value": "840"
+    },
+    {
+      "property": "P30",
+      "value": "Q49"
+    },
+    {
+      "property": "P30",
+      "value": "Q538"
+    },
+    {
+      "property": "P30",
+      "value": "Q48"
+    },
+    {
+      "property": "P3001",
+      "value": "+66"
+    },
+    {
+      "property": "P3006",
+      "value": "2204"
+    },
+    {
+      "property": "P3024",
+      "value": "USA"
+    },
+    {
+      "property": "P3065",
+      "value": "A000167018"
+    },
+    {
+      "property": "P3067",
+      "value": "000-139"
+    },
+    {
+      "property": "P3068",
+      "value": "US"
+    },
+    {
+      "property": "P31",
+      "value": "Q3624078"
+    },
+    {
+      "property": "P31",
+      "value": "Q1520223"
+    },
+    {
+      "property": "P31",
+      "value": "Q5255892"
+    },
+    {
+      "property": "P31",
+      "value": "Q512187"
+    },
+    {
+      "property": "P31",
+      "value": "Q1489259"
+    },
+    {
+      "property": "P31",
+      "value": "Q6256"
+    },
+    {
+      "property": "P31",
+      "value": "Q99541706"
+    },
+    {
+      "property": "P3106",
+      "value": "us-news"
+    },
+    {
+      "property": "P3134",
+      "value": "191"
+    },
+    {
+      "property": "P3175",
+      "value": "uus"
+    },
+    {
+      "property": "P3183",
+      "value": "subject/U/united-states/5590"
+    },
+    {
+      "property": "P3219",
+      "value": "etats-unis-d-amerique-vue-d-ensemble"
+    },
+    {
+      "property": "P3221",
+      "value": "destination/united-states"
+    },
+    {
+      "property": "P3222",
+      "value": "united-states"
+    },
+    {
+      "property": "P3222",
+      "value": "usa"
+    },
+    {
+      "property": "P3241",
+      "value": "15156a"
+    },
+    {
+      "property": "P3348",
+      "value": "5715"
+    },
+    {
+      "property": "P3365",
+      "value": "stati-uniti-d-america"
+    },
+    {
+      "property": "P3417",
+      "value": "The-United-States-of-America"
+    },
+    {
+      "property": "P3417",
+      "value": "Amurika"
+    },
+    {
+      "property": "P3422",
+      "value": "99404"
+    },
+    {
+      "property": "P3451",
+      "value": "Las Vegas (Nevada, USA), The Strip -- 2012 -- 6232.jpg"
+    },
+    {
+      "property": "P3451",
+      "value": "Los Angeles (California, USA), South Olive Street -- 2012 -- 4847.jpg"
+    },
+    {
+      "property": "P3451",
+      "value": "City Lights of the United States 2012.jpg"
+    },
+    {
+      "property": "P3479",
+      "value": "9050eaf972828656c88d8704360f0b8e65bee3f0"
+    },
+    {
+      "property": "P349",
+      "value": "00871907"
+    },
+    {
+      "property": "P35",
+      "value": "Q22686"
+    },
+    {
+      "property": "P3509",
+      "value": "usa"
+    },
+    {
+      "property": "P3529",
+      "value": "+43585"
+    },
+    {
+      "property": "P3553",
+      "value": "19551627"
+    },
+    {
+      "property": "P36",
+      "value": "Q61"
+    },
+    {
+      "property": "P36",
+      "value": "Q1345"
+    },
+    {
+      "property": "P36",
+      "value": "Q60"
+    },
+    {
+      "property": "P361",
+      "value": "Q49"
+    },
+    {
+      "property": "P3612",
+      "value": "pays/etatsunis"
+    },
+    {
+      "property": "P3633",
+      "value": "x17715"
+    },
+    {
+      "property": "P37",
+      "value": "Q1860"
+    },
+    {
+      "property": "P37",
+      "value": "Q33569"
+    },
+    {
+      "property": "P37",
+      "value": "Q1321"
+    },
+    {
+      "property": "P373",
+      "value": "United States"
+    },
+    {
+      "property": "P3743",
+      "value": "2.16.840"
+    },
+    {
+      "property": "P3749",
+      "value": "2034423694542944066"
+    },
+    {
+      "property": "P3762",
+      "value": "36199"
+    },
+    {
+      "property": "P3788",
+      "value": "000046282"
+    },
+    {
+      "property": "P38",
+      "value": "Q4917"
+    },
+    {
+      "property": "P3836",
+      "value": "USAGovArchived"
+    },
+    {
+      "property": "P3847",
+      "value": "place:united_states"
+    },
+    {
+      "property": "P3847",
+      "value": "place:états-unis"
+    },
+    {
+      "property": "P3864",
+      "value": "+12.1"
+    },
+    {
+      "property": "P3864",
+      "value": "+14.5"
+    },
+    {
+      "property": "P3896",
+      "value": "Data:United States.map"
+    },
+    {
+      "property": "P3911",
+      "value": "17829-1"
+    },
+    {
+      "property": "P3916",
+      "value": "concept806"
+    },
+    {
+      "property": "P395",
+      "value": "USA"
+    },
+    {
+      "property": "P396",
+      "value": "BVEV001855"
+    },
+    {
+      "property": "P3964",
+      "value": "2265"
+    },
+    {
+      "property": "P3984",
+      "value": "usa"
+    },
+    {
+      "property": "P3984",
+      "value": "USA_de"
+    },
+    {
+      "property": "P402",
+      "value": "148838"
+    },
+    {
+      "property": "P4073",
+      "value": "united-states-of-america"
+    },
+    {
+      "property": "P4081",
+      "value": "13991"
+    },
+    {
+      "property": "P409",
+      "value": "35562417"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1776–1777).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1777–1795).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1795-1818).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1818–1819).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1819–1820).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1820–1822).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1822–1836).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1836–1837).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1837–1845).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1845–1846).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1846–1847).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1847–1848).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1848–1851).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1851–1858).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1858–1859).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1859–1861).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1861–1863).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1865–1867).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1867-1877).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1877–1890).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1890–1891).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1891–1896).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1896–1908).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1908–1912).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1912-1959).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1959–1960).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (Web Colors).svg"
+    },
+    {
+      "property": "P41",
+      "value": "Flag of the United States (1863–1865).svg"
+    },
+    {
+      "property": "P4167",
+      "value": "USA"
+    },
+    {
+      "property": "P418",
+      "value": "Q171663"
+    },
+    {
+      "property": "P421",
+      "value": "Q2146"
+    },
+    {
+      "property": "P421",
+      "value": "Q2154"
+    },
+    {
+      "property": "P421",
+      "value": "Q2183"
+    },
+    {
+      "property": "P421",
+      "value": "Q2204"
+    },
+    {
+      "property": "P421",
+      "value": "Q2212"
+    },
+    {
+      "property": "P421",
+      "value": "Q5385"
+    },
+    {
+      "property": "P421",
+      "value": "Q5390"
+    },
+    {
+      "property": "P421",
+      "value": "Q5762"
+    },
+    {
+      "property": "P421",
+      "value": "Q7056"
+    },
+    {
+      "property": "P421",
+      "value": "Q7105"
+    },
+    {
+      "property": "P421",
+      "value": "Q4816926"
+    },
+    {
+      "property": "P421",
+      "value": "Q2085376"
+    },
+    {
+      "property": "P421",
+      "value": "Q2086913"
+    },
+    {
+      "property": "P421",
+      "value": "Q3238805"
+    },
+    {
+      "property": "P421",
+      "value": "Q3134980"
+    },
+    {
+      "property": "P421",
+      "value": "Q3446496"
+    },
+    {
+      "property": "P4212",
+      "value": "pcrt2u8Qljdpk4"
+    },
+    {
+      "property": "P4272",
+      "value": "United States"
+    },
+    {
+      "property": "P4342",
+      "value": "USA"
+    },
+    {
+      "property": "P4427",
+      "value": "322"
+    },
+    {
+      "property": "P443",
+      "value": "Lb-Amerika.ogg"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q7913 (ron)-KlaudiuMihaila-Statele Unite ale Americii.wav"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q33810 (ori)-Psubhashish-ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା.wav"
+    },
+    {
+      "property": "P443",
+      "value": "Hu-Amerikai Egyesült Államok.ogg"
+    },
+    {
+      "property": "P4440",
+      "value": "000010766"
+    },
+    {
+      "property": "P4442",
+      "value": "+38.2"
+    },
+    {
+      "property": "P4527",
+      "value": "13557"
+    },
+    {
+      "property": "P457",
+      "value": "Q127912"
+    },
+    {
+      "property": "P460",
+      "value": "Q214102"
+    },
+    {
+      "property": "P4619",
+      "value": "000056903"
+    },
+    {
+      "property": "P4629",
+      "value": "United States"
+    },
+    {
+      "property": "P463",
+      "value": "Q37470"
+    },
+    {
+      "property": "P463",
+      "value": "Q1065"
+    },
+    {
+      "property": "P463",
+      "value": "Q7184"
+    },
+    {
+      "property": "P463",
+      "value": "Q1764511"
+    },
+    {
+      "property": "P463",
+      "value": "Q37143"
+    },
+    {
+      "property": "P463",
+      "value": "Q41550"
+    },
+    {
+      "property": "P463",
+      "value": "Q7825"
+    },
+    {
+      "property": "P463",
+      "value": "Q674182"
+    },
+    {
+      "property": "P463",
+      "value": "Q842490"
+    },
+    {
+      "property": "P463",
+      "value": "Q19771"
+    },
+    {
+      "property": "P463",
+      "value": "Q170481"
+    },
+    {
+      "property": "P463",
+      "value": "Q181574"
+    },
+    {
+      "property": "P463",
+      "value": "Q81299"
+    },
+    {
+      "property": "P463",
+      "value": "Q191384"
+    },
+    {
+      "property": "P463",
+      "value": "Q827525"
+    },
+    {
+      "property": "P463",
+      "value": "Q656801"
+    },
+    {
+      "property": "P463",
+      "value": "Q1043527"
+    },
+    {
+      "property": "P463",
+      "value": "Q899770"
+    },
+    {
+      "property": "P463",
+      "value": "Q340195"
+    },
+    {
+      "property": "P463",
+      "value": "Q7886981"
+    },
+    {
+      "property": "P463",
+      "value": "Q188822"
+    },
+    {
+      "property": "P463",
+      "value": "Q782942"
+    },
+    {
+      "property": "P463",
+      "value": "Q295875"
+    },
+    {
+      "property": "P463",
+      "value": "Q7164"
+    },
+    {
+      "property": "P463",
+      "value": "Q7804"
+    },
+    {
+      "property": "P463",
+      "value": "Q1928989"
+    },
+    {
+      "property": "P463",
+      "value": "Q1072120"
+    },
+    {
+      "property": "P463",
+      "value": "Q277252"
+    },
+    {
+      "property": "P463",
+      "value": "Q8475"
+    },
+    {
+      "property": "P463",
+      "value": "Q1480793"
+    },
+    {
+      "property": "P463",
+      "value": "Q4033111"
+    },
+    {
+      "property": "P463",
+      "value": "Q2863003"
+    },
+    {
+      "property": "P463",
+      "value": "Q7768229"
+    },
+    {
+      "property": "P463",
+      "value": "Q5150848"
+    },
+    {
+      "property": "P463",
+      "value": "Q4426267"
+    },
+    {
+      "property": "P463",
+      "value": "Q3866537"
+    },
+    {
+      "property": "P463",
+      "value": "Q1579424"
+    },
+    {
+      "property": "P463",
+      "value": "Q233611"
+    },
+    {
+      "property": "P463",
+      "value": "Q826700"
+    },
+    {
+      "property": "P463",
+      "value": "Q7809"
+    },
+    {
+      "property": "P463",
+      "value": "Q7809"
+    },
+    {
+      "property": "P463",
+      "value": "Q5611262"
+    },
+    {
+      "property": "P463",
+      "value": "Q17495"
+    },
+    {
+      "property": "P463",
+      "value": "Q376150"
+    },
+    {
+      "property": "P463",
+      "value": "Q123759"
+    },
+    {
+      "property": "P463",
+      "value": "Q170424"
+    },
+    {
+      "property": "P463",
+      "value": "Q7817"
+    },
+    {
+      "property": "P463",
+      "value": "Q15978258"
+    },
+    {
+      "property": "P463",
+      "value": "Q189062"
+    },
+    {
+      "property": "P463",
+      "value": "Q108556886"
+    },
+    {
+      "property": "P463",
+      "value": "Q605326"
+    },
+    {
+      "property": "P463",
+      "value": "Q823428"
+    },
+    {
+      "property": "P463",
+      "value": "Q1411881"
+    },
+    {
+      "property": "P463",
+      "value": "Q7809"
+    },
+    {
+      "property": "P463",
+      "value": "Q205650"
+    },
+    {
+      "property": "P463",
+      "value": "Q186444"
+    },
+    {
+      "property": "P4640",
+      "value": "Moulton falls train tunnel east – Panorama (Philip Modin via Poly Haven).jpg"
+    },
+    {
+      "property": "P47",
+      "value": "Q96"
+    },
+    {
+      "property": "P47",
+      "value": "Q16"
+    },
+    {
+      "property": "P47",
+      "value": "Q159"
+    },
+    {
+      "property": "P47",
+      "value": "Q241"
+    },
+    {
+      "property": "P47",
+      "value": "Q804"
+    },
+    {
+      "property": "P47",
+      "value": "Q778"
+    },
+    {
+      "property": "P47",
+      "value": "Q717"
+    },
+    {
+      "property": "P47",
+      "value": "Q248452"
+    },
+    {
+      "property": "P47",
+      "value": "Q786"
+    },
+    {
+      "property": "P47",
+      "value": "Q702"
+    },
+    {
+      "property": "P47",
+      "value": "Q17"
+    },
+    {
+      "property": "P47",
+      "value": "Q710"
+    },
+    {
+      "property": "P47",
+      "value": "Q790"
+    },
+    {
+      "property": "P47",
+      "value": "Q683"
+    },
+    {
+      "property": "P47",
+      "value": "Q678"
+    },
+    {
+      "property": "P47",
+      "value": "Q15180"
+    },
+    {
+      "property": "P47",
+      "value": "Q34266"
+    },
+    {
+      "property": "P4725",
+      "value": "1240"
+    },
+    {
+      "property": "P474",
+      "value": "+1"
+    },
+    {
+      "property": "P4801",
+      "value": "geographicAreas/n-us"
+    },
+    {
+      "property": "P4801",
+      "value": "countries/xxu"
+    },
+    {
+      "property": "P4802",
+      "value": "25188"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Country\", \"UnitedStates\"]"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"HistoricalCountry\", \"UnitedStates\"]"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.0075"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.056"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.0305"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.0205"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.0475"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.0515"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.057"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.108"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.12"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.072"
+    },
+    {
+      "property": "P4841",
+      "value": "+2.002"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.931"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.8945"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.8805"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.8575"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.8615"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.706"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.6415"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.664"
+    },
+    {
+      "property": "P4841",
+      "value": "+1.665"
+    },
+    {
+      "property": "P486",
+      "value": "D014481"
+    },
+    {
+      "property": "P487",
+      "value": "🇺🇸"
+    },
+    {
+      "property": "P5008",
+      "value": "Q5460604"
+    },
+    {
+      "property": "P5008",
+      "value": "Q54439832"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5008",
+      "value": "Q128903909"
+    },
+    {
+      "property": "P5008",
+      "value": "Q123694075"
+    },
+    {
+      "property": "P5019",
+      "value": "vereinigte-staaten-von-amerika"
+    },
+    {
+      "property": "P5034",
+      "value": "KAB202010677"
+    },
+    {
+      "property": "P5063",
+      "value": "i84182"
+    },
+    {
+      "property": "P5125",
+      "value": "Q7112786"
+    },
+    {
+      "property": "P5141",
+      "value": "+95471"
+    },
+    {
+      "property": "P5167",
+      "value": "+778"
+    },
+    {
+      "property": "P5180",
+      "value": "united-states-america"
+    },
+    {
+      "property": "P5198",
+      "value": "294942807"
+    },
+    {
+      "property": "P5247",
+      "value": "3035-396"
+    },
+    {
+      "property": "P5250",
+      "value": "1455"
+    },
+    {
+      "property": "P530",
+      "value": "Q889"
+    },
+    {
+      "property": "P530",
+      "value": "Q222"
+    },
+    {
+      "property": "P530",
+      "value": "Q148"
+    },
+    {
+      "property": "P530",
+      "value": "Q183"
+    },
+    {
+      "property": "P530",
+      "value": "Q159"
+    },
+    {
+      "property": "P530",
+      "value": "Q408"
+    },
+    {
+      "property": "P530",
+      "value": "Q801"
+    },
+    {
+      "property": "P530",
+      "value": "Q155"
+    },
+    {
+      "property": "P530",
+      "value": "Q796"
+    },
+    {
+      "property": "P530",
+      "value": "Q403"
+    },
+    {
+      "property": "P530",
+      "value": "Q16"
+    },
+    {
+      "property": "P530",
+      "value": "Q17"
+    },
+    {
+      "property": "P530",
+      "value": "Q38"
+    },
+    {
+      "property": "P530",
+      "value": "Q347"
+    },
+    {
+      "property": "P530",
+      "value": "Q414"
+    },
+    {
+      "property": "P530",
+      "value": "Q953"
+    },
+    {
+      "property": "P530",
+      "value": "Q668"
+    },
+    {
+      "property": "P530",
+      "value": "Q37"
+    },
+    {
+      "property": "P530",
+      "value": "Q1011"
+    },
+    {
+      "property": "P530",
+      "value": "Q805"
+    },
+    {
+      "property": "P530",
+      "value": "Q1050"
+    },
+    {
+      "property": "P530",
+      "value": "Q334"
+    },
+    {
+      "property": "P530",
+      "value": "Q20"
+    },
+    {
+      "property": "P530",
+      "value": "Q142"
+    },
+    {
+      "property": "P530",
+      "value": "Q212"
+    },
+    {
+      "property": "P530",
+      "value": "Q822"
+    },
+    {
+      "property": "P530",
+      "value": "Q858"
+    },
+    {
+      "property": "P530",
+      "value": "Q884"
+    },
+    {
+      "property": "P530",
+      "value": "Q902"
+    },
+    {
+      "property": "P530",
+      "value": "Q928"
+    },
+    {
+      "property": "P530",
+      "value": "Q115"
+    },
+    {
+      "property": "P530",
+      "value": "Q184"
+    },
+    {
+      "property": "P530",
+      "value": "Q215"
+    },
+    {
+      "property": "P530",
+      "value": "Q213"
+    },
+    {
+      "property": "P530",
+      "value": "Q159583"
+    },
+    {
+      "property": "P530",
+      "value": "Q43"
+    },
+    {
+      "property": "P530",
+      "value": "Q227"
+    },
+    {
+      "property": "P530",
+      "value": "Q96"
+    },
+    {
+      "property": "P530",
+      "value": "Q236"
+    },
+    {
+      "property": "P530",
+      "value": "Q1025"
+    },
+    {
+      "property": "P530",
+      "value": "Q712"
+    },
+    {
+      "property": "P530",
+      "value": "Q851"
+    },
+    {
+      "property": "P530",
+      "value": "Q41"
+    },
+    {
+      "property": "P530",
+      "value": "Q145"
+    },
+    {
+      "property": "P530",
+      "value": "Q419"
+    },
+    {
+      "property": "P530",
+      "value": "Q811"
+    },
+    {
+      "property": "P530",
+      "value": "Q865"
+    },
+    {
+      "property": "P530",
+      "value": "Q1005"
+    },
+    {
+      "property": "P530",
+      "value": "Q34266"
+    },
+    {
+      "property": "P530",
+      "value": "Q34"
+    },
+    {
+      "property": "P530",
+      "value": "Q863"
+    },
+    {
+      "property": "P530",
+      "value": "Q25227"
+    },
+    {
+      "property": "P530",
+      "value": "Q458"
+    },
+    {
+      "property": "P530",
+      "value": "Q881"
+    },
+    {
+      "property": "P530",
+      "value": "Q717"
+    },
+    {
+      "property": "P530",
+      "value": "Q686"
+    },
+    {
+      "property": "P530",
+      "value": "Q265"
+    },
+    {
+      "property": "P530",
+      "value": "Q77"
+    },
+    {
+      "property": "P530",
+      "value": "Q55"
+    },
+    {
+      "property": "P530",
+      "value": "Q986"
+    },
+    {
+      "property": "P530",
+      "value": "Q1008"
+    },
+    {
+      "property": "P530",
+      "value": "Q31"
+    },
+    {
+      "property": "P530",
+      "value": "Q948"
+    },
+    {
+      "property": "P530",
+      "value": "Q1045"
+    },
+    {
+      "property": "P530",
+      "value": "Q874"
+    },
+    {
+      "property": "P530",
+      "value": "Q230"
+    },
+    {
+      "property": "P530",
+      "value": "Q15180"
+    },
+    {
+      "property": "P530",
+      "value": "Q39"
+    },
+    {
+      "property": "P530",
+      "value": "Q916"
+    },
+    {
+      "property": "P530",
+      "value": "Q398"
+    },
+    {
+      "property": "P530",
+      "value": "Q21203"
+    },
+    {
+      "property": "P530",
+      "value": "Q262"
+    },
+    {
+      "property": "P530",
+      "value": "Q399"
+    },
+    {
+      "property": "P530",
+      "value": "Q23635"
+    },
+    {
+      "property": "P530",
+      "value": "Q967"
+    },
+    {
+      "property": "P530",
+      "value": "Q5785"
+    },
+    {
+      "property": "P530",
+      "value": "Q657"
+    },
+    {
+      "property": "P530",
+      "value": "Q963"
+    },
+    {
+      "property": "P530",
+      "value": "Q225"
+    },
+    {
+      "property": "P530",
+      "value": "Q298"
+    },
+    {
+      "property": "P530",
+      "value": "Q836"
+    },
+    {
+      "property": "P530",
+      "value": "Q424"
+    },
+    {
+      "property": "P530",
+      "value": "Q244"
+    },
+    {
+      "property": "P530",
+      "value": "Q242"
+    },
+    {
+      "property": "P530",
+      "value": "Q750"
+    },
+    {
+      "property": "P530",
+      "value": "Q921"
+    },
+    {
+      "property": "P530",
+      "value": "Q965"
+    },
+    {
+      "property": "P530",
+      "value": "Q224"
+    },
+    {
+      "property": "P530",
+      "value": "Q786"
+    },
+    {
+      "property": "P530",
+      "value": "Q784"
+    },
+    {
+      "property": "P530",
+      "value": "Q35"
+    },
+    {
+      "property": "P530",
+      "value": "Q33"
+    },
+    {
+      "property": "P530",
+      "value": "Q800"
+    },
+    {
+      "property": "P530",
+      "value": "Q736"
+    },
+    {
+      "property": "P530",
+      "value": "Q970"
+    },
+    {
+      "property": "P530",
+      "value": "Q229"
+    },
+    {
+      "property": "P530",
+      "value": "Q977"
+    },
+    {
+      "property": "P530",
+      "value": "Q792"
+    },
+    {
+      "property": "P530",
+      "value": "Q974"
+    },
+    {
+      "property": "P530",
+      "value": "Q574"
+    },
+    {
+      "property": "P530",
+      "value": "Q983"
+    },
+    {
+      "property": "P530",
+      "value": "Q191"
+    },
+    {
+      "property": "P530",
+      "value": "Q702"
+    },
+    {
+      "property": "P530",
+      "value": "Q790"
+    },
+    {
+      "property": "P530",
+      "value": "Q774"
+    },
+    {
+      "property": "P530",
+      "value": "Q117"
+    },
+    {
+      "property": "P530",
+      "value": "Q1006"
+    },
+    {
+      "property": "P530",
+      "value": "Q1000"
+    },
+    {
+      "property": "P530",
+      "value": "Q769"
+    },
+    {
+      "property": "P530",
+      "value": "Q1007"
+    },
+    {
+      "property": "P530",
+      "value": "Q734"
+    },
+    {
+      "property": "P530",
+      "value": "Q783"
+    },
+    {
+      "property": "P530",
+      "value": "Q28"
+    },
+    {
+      "property": "P530",
+      "value": "Q766"
+    },
+    {
+      "property": "P530",
+      "value": "Q189"
+    },
+    {
+      "property": "P530",
+      "value": "Q252"
+    },
+    {
+      "property": "P530",
+      "value": "Q8646"
+    },
+    {
+      "property": "P530",
+      "value": "Q1013"
+    },
+    {
+      "property": "P530",
+      "value": "Q32"
+    },
+    {
+      "property": "P530",
+      "value": "Q833"
+    },
+    {
+      "property": "P530",
+      "value": "Q843"
+    },
+    {
+      "property": "P530",
+      "value": "Q733"
+    },
+    {
+      "property": "P530",
+      "value": "Q710"
+    },
+    {
+      "property": "P530",
+      "value": "Q813"
+    },
+    {
+      "property": "P530",
+      "value": "Q1016"
+    },
+    {
+      "property": "P530",
+      "value": "Q1027"
+    },
+    {
+      "property": "P530",
+      "value": "Q730"
+    },
+    {
+      "property": "P530",
+      "value": "Q819"
+    },
+    {
+      "property": "P530",
+      "value": "Q1014"
+    },
+    {
+      "property": "P530",
+      "value": "Q1019"
+    },
+    {
+      "property": "P530",
+      "value": "Q1020"
+    },
+    {
+      "property": "P530",
+      "value": "Q912"
+    },
+    {
+      "property": "P530",
+      "value": "Q232"
+    },
+    {
+      "property": "P530",
+      "value": "Q1246"
+    },
+    {
+      "property": "P530",
+      "value": "Q709"
+    },
+    {
+      "property": "P530",
+      "value": "Q235"
+    },
+    {
+      "property": "P530",
+      "value": "Q1028"
+    },
+    {
+      "property": "P530",
+      "value": "Q156418"
+    },
+    {
+      "property": "P530",
+      "value": "Q14773"
+    },
+    {
+      "property": "P530",
+      "value": "Q233"
+    },
+    {
+      "property": "P530",
+      "value": "Q217"
+    },
+    {
+      "property": "P530",
+      "value": "Q711"
+    },
+    {
+      "property": "P530",
+      "value": "Q221"
+    },
+    {
+      "property": "P530",
+      "value": "Q837"
+    },
+    {
+      "property": "P530",
+      "value": "Q695"
+    },
+    {
+      "property": "P530",
+      "value": "Q760"
+    },
+    {
+      "property": "P530",
+      "value": "Q683"
+    },
+    {
+      "property": "P530",
+      "value": "Q691"
+    },
+    {
+      "property": "P530",
+      "value": "Q1041"
+    },
+    {
+      "property": "P530",
+      "value": "Q664"
+    },
+    {
+      "property": "P530",
+      "value": "Q1033"
+    },
+    {
+      "property": "P530",
+      "value": "Q45"
+    },
+    {
+      "property": "P530",
+      "value": "Q1037"
+    },
+    {
+      "property": "P530",
+      "value": "Q757"
+    },
+    {
+      "property": "P530",
+      "value": "Q1030"
+    },
+    {
+      "property": "P530",
+      "value": "Q1032"
+    },
+    {
+      "property": "P530",
+      "value": "Q804"
+    },
+    {
+      "property": "P530",
+      "value": "Q36"
+    },
+    {
+      "property": "P530",
+      "value": "Q170588"
+    },
+    {
+      "property": "P530",
+      "value": "Q218"
+    },
+    {
+      "property": "P530",
+      "value": "Q1042"
+    },
+    {
+      "property": "P530",
+      "value": "Q1044"
+    },
+    {
+      "property": "P530",
+      "value": "Q214"
+    },
+    {
+      "property": "P530",
+      "value": "Q1049"
+    },
+    {
+      "property": "P530",
+      "value": "Q945"
+    },
+    {
+      "property": "P530",
+      "value": "Q754"
+    },
+    {
+      "property": "P530",
+      "value": "Q826"
+    },
+    {
+      "property": "P530",
+      "value": "Q958"
+    },
+    {
+      "property": "P530",
+      "value": "Q1039"
+    },
+    {
+      "property": "P530",
+      "value": "Q924"
+    },
+    {
+      "property": "P530",
+      "value": "Q672"
+    },
+    {
+      "property": "P530",
+      "value": "Q854"
+    },
+    {
+      "property": "P530",
+      "value": "Q1036"
+    },
+    {
+      "property": "P530",
+      "value": "Q211"
+    },
+    {
+      "property": "P530",
+      "value": "Q962"
+    },
+    {
+      "property": "P530",
+      "value": "Q817"
+    },
+    {
+      "property": "P530",
+      "value": "Q971"
+    },
+    {
+      "property": "P530",
+      "value": "Q1029"
+    },
+    {
+      "property": "P530",
+      "value": "Q219060"
+    },
+    {
+      "property": "P530",
+      "value": "Q228"
+    },
+    {
+      "property": "P530",
+      "value": "Q27"
+    },
+    {
+      "property": "P530",
+      "value": "Q23681"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "property": "P5400",
+      "value": "wkcbUd"
+    },
+    {
+      "property": "P5437",
+      "value": "888"
+    },
+    {
+      "property": "P5456",
+      "value": "USA"
+    },
+    {
+      "property": "P5573",
+      "value": "3058"
+    },
+    {
+      "property": "P5587",
+      "value": "xv8b9vvg52nbbxp"
+    },
+    {
+      "property": "P5658",
+      "value": "Q14565199"
+    },
+    {
+      "property": "P571",
+      "value": "+1776-07-04T00:00:00Z"
+    },
+    {
+      "property": "P571",
+      "value": "+1784-05-12T00:00:00Z"
+    },
+    {
+      "property": "P5748",
+      "value": "15.87"
+    },
+    {
+      "property": "P5806",
+      "value": "223688001"
+    },
+    {
+      "property": "P6",
+      "value": "Q23"
+    },
+    {
+      "property": "P6",
+      "value": "Q11806"
+    },
+    {
+      "property": "P6",
+      "value": "Q11812"
+    },
+    {
+      "property": "P6",
+      "value": "Q11813"
+    },
+    {
+      "property": "P6",
+      "value": "Q11815"
+    },
+    {
+      "property": "P6",
+      "value": "Q11816"
+    },
+    {
+      "property": "P6",
+      "value": "Q11817"
+    },
+    {
+      "property": "P6",
+      "value": "Q11820"
+    },
+    {
+      "property": "P6",
+      "value": "Q11869"
+    },
+    {
+      "property": "P6",
+      "value": "Q11881"
+    },
+    {
+      "property": "P6",
+      "value": "Q11891"
+    },
+    {
+      "property": "P6",
+      "value": "Q11896"
+    },
+    {
+      "property": "P6",
+      "value": "Q12306"
+    },
+    {
+      "property": "P6",
+      "value": "Q12312"
+    },
+    {
+      "property": "P6",
+      "value": "Q12325"
+    },
+    {
+      "property": "P6",
+      "value": "Q91"
+    },
+    {
+      "property": "P6",
+      "value": "Q8612"
+    },
+    {
+      "property": "P6",
+      "value": "Q34836"
+    },
+    {
+      "property": "P6",
+      "value": "Q35686"
+    },
+    {
+      "property": "P6",
+      "value": "Q34597"
+    },
+    {
+      "property": "P6",
+      "value": "Q35498"
+    },
+    {
+      "property": "P6",
+      "value": "Q35171"
+    },
+    {
+      "property": "P6",
+      "value": "Q35678"
+    },
+    {
+      "property": "P6",
+      "value": "Q35171"
+    },
+    {
+      "property": "P6",
+      "value": "Q35041"
+    },
+    {
+      "property": "P6",
+      "value": "Q33866"
+    },
+    {
+      "property": "P6",
+      "value": "Q35648"
+    },
+    {
+      "property": "P6",
+      "value": "Q34296"
+    },
+    {
+      "property": "P6",
+      "value": "Q35286"
+    },
+    {
+      "property": "P6",
+      "value": "Q36023"
+    },
+    {
+      "property": "P6",
+      "value": "Q35236"
+    },
+    {
+      "property": "P6",
+      "value": "Q8007"
+    },
+    {
+      "property": "P6",
+      "value": "Q11613"
+    },
+    {
+      "property": "P6",
+      "value": "Q9916"
+    },
+    {
+      "property": "P6",
+      "value": "Q9696"
+    },
+    {
+      "property": "P6",
+      "value": "Q9640"
+    },
+    {
+      "property": "P6",
+      "value": "Q9588"
+    },
+    {
+      "property": "P6",
+      "value": "Q9582"
+    },
+    {
+      "property": "P6",
+      "value": "Q23685"
+    },
+    {
+      "property": "P6",
+      "value": "Q9960"
+    },
+    {
+      "property": "P6",
+      "value": "Q23505"
+    },
+    {
+      "property": "P6",
+      "value": "Q1124"
+    },
+    {
+      "property": "P6",
+      "value": "Q207"
+    },
+    {
+      "property": "P6",
+      "value": "Q76"
+    },
+    {
+      "property": "P6",
+      "value": "Q22686"
+    },
+    {
+      "property": "P6",
+      "value": "Q6279"
+    },
+    {
+      "property": "P6",
+      "value": "Q22686"
+    },
+    {
+      "property": "P6058",
+      "value": "pays/États-Unis/118570"
+    },
+    {
+      "property": "P610",
+      "value": "Q130018"
+    },
+    {
+      "property": "P610",
+      "value": "Q235539"
+    },
+    {
+      "property": "P6104",
+      "value": "Q10816993"
+    },
+    {
+      "property": "P6200",
+      "value": "cx1m7zg01xyt"
+    },
+    {
+      "property": "P6213",
+      "value": "ntRMqGx6"
+    },
+    {
+      "property": "P6262",
+      "value": "north-america:United_States"
+    },
+    {
+      "property": "P6262",
+      "value": "countries:United_States"
+    },
+    {
+      "property": "P6262",
+      "value": "regions:United_States"
+    },
+    {
+      "property": "P6262",
+      "value": "united-states-of-america:United_States_of_America"
+    },
+    {
+      "property": "P6262",
+      "value": "nato:United_States_of_America"
+    },
+    {
+      "property": "P6262",
+      "value": "maxpayne:United_States_of_America"
+    },
+    {
+      "property": "P6262",
+      "value": "cs.historika:Spojené_státy_americké"
+    },
+    {
+      "property": "P6262",
+      "value": "naturerules1:United_States"
+    },
+    {
+      "property": "P6262",
+      "value": "you:United_States_of_America"
+    },
+    {
+      "property": "P6265",
+      "value": "3366"
+    },
+    {
+      "property": "P6293",
+      "value": "Y105078"
+    },
+    {
+      "property": "P6328",
+      "value": "385"
+    },
+    {
+      "property": "P6343",
+      "value": "+270737596"
+    },
+    {
+      "property": "P6343",
+      "value": "+274053424"
+    },
+    {
+      "property": "P6343",
+      "value": "+275178949"
+    },
+    {
+      "property": "P6343",
+      "value": "+276895219"
+    },
+    {
+      "property": "P6344",
+      "value": "+57592357"
+    },
+    {
+      "property": "P6344",
+      "value": "+57473509"
+    },
+    {
+      "property": "P6344",
+      "value": "+56870028"
+    },
+    {
+      "property": "P6344",
+      "value": "+56376192"
+    },
+    {
+      "property": "P6363",
+      "value": "http://data.thenextweb.com/tnw/entity/united_states_of_america"
+    },
+    {
+      "property": "P6385",
+      "value": "strany_mira/SOEDINENNIE_SHTATI_AMERIKI.html"
+    },
+    {
+      "property": "P6404",
+      "value": "stati-uniti-d-america"
+    },
+    {
+      "property": "P646",
+      "value": "/m/09c7w0"
+    },
+    {
+      "property": "P648",
+      "value": "OL18485A"
+    },
+    {
+      "property": "P6573",
+      "value": "Vereinigte_Staaten_von_Amerika"
+    },
+    {
+      "property": "P6591",
+      "value": "+56.7"
+    },
+    {
+      "property": "P6680",
+      "value": "T042366"
+    },
+    {
+      "property": "P6694",
+      "value": "M0022272"
+    },
+    {
+      "property": "P6696",
+      "value": "252"
+    },
+    {
+      "property": "P6706",
+      "value": "Stati+Uniti+d'America"
+    },
+    {
+      "property": "P672",
+      "value": "Z01.107.567.875"
+    },
+    {
+      "property": "P6760",
+      "value": "24570"
+    },
+    {
+      "property": "P6766",
+      "value": "85633793"
+    },
+    {
+      "property": "P6778",
+      "value": "00002459"
+    },
+    {
+      "property": "P6781",
+      "value": "Mathematician:Mathematicians/Sorted_By_Nation/United_States"
+    },
+    {
+      "property": "P6839",
+      "value": "UsefulNotes/UnitedStates"
+    },
+    {
+      "property": "P6849",
+      "value": "usa"
+    },
+    {
+      "property": "P6897",
+      "value": "+99.4"
+    },
+    {
+      "property": "P6900",
+      "value": "アメリカ合衆国"
+    },
+    {
+      "property": "P691",
+      "value": "ge128584"
+    },
+    {
+      "property": "P7012",
+      "value": "united-states-of-america"
+    },
+    {
+      "property": "P7039",
+      "value": "000048423"
+    },
+    {
+      "property": "P7101",
+      "value": "https://www.usa.gov/privacy-security"
+    },
+    {
+      "property": "P7127",
+      "value": "us"
+    },
+    {
+      "property": "P7157",
+      "value": "9"
+    },
+    {
+      "property": "P7284",
+      "value": "us"
+    },
+    {
+      "property": "P7284",
+      "value": "usa"
+    },
+    {
+      "property": "P7293",
+      "value": "9810557150505606"
+    },
+    {
+      "property": "P7295",
+      "value": "+1582-10-15T00:00:00Z"
+    },
+    {
+      "property": "P7295",
+      "value": "+1582-12-20T00:00:00Z"
+    },
+    {
+      "property": "P7295",
+      "value": "+1752-09-14T00:00:00Z"
+    },
+    {
+      "property": "P7295",
+      "value": "+1867-10-18T00:00:00Z"
+    },
+    {
+      "property": "P7301",
+      "value": "where/united-states"
+    },
+    {
+      "property": "P7305",
+      "value": "4169149"
+    },
+    {
+      "property": "P7314",
+      "value": "amerika-birlesik-devletleri"
+    },
+    {
+      "property": "P7471",
+      "value": "1"
+    },
+    {
+      "property": "P7502",
+      "value": "United_States-NARPDV"
+    },
+    {
+      "property": "P7699",
+      "value": "LNB:Ytd;=CB"
+    },
+    {
+      "property": "P7700",
+      "value": "vtls001186871"
+    },
+    {
+      "property": "P7775",
+      "value": "United_States"
+    },
+    {
+      "property": "P7783",
+      "value": "200906017620512652"
+    },
+    {
+      "property": "P78",
+      "value": "Q37861"
+    },
+    {
+      "property": "P78",
+      "value": "Q31635"
+    },
+    {
+      "property": "P78",
+      "value": "Q31643"
+    },
+    {
+      "property": "P7850",
+      "value": "T84-190"
+    },
+    {
+      "property": "P7865",
+      "value": "95a5yja38danynam9xb5yc1g68ukjc8"
+    },
+    {
+      "property": "P7867",
+      "value": "Q8607619"
+    },
+    {
+      "property": "P7870",
+      "value": "37862"
+    },
+    {
+      "property": "P793",
+      "value": "Q7512984"
+    },
+    {
+      "property": "P793",
+      "value": "Q8676"
+    },
+    {
+      "property": "P793",
+      "value": "Q193155"
+    },
+    {
+      "property": "P793",
+      "value": "Q26013"
+    },
+    {
+      "property": "P793",
+      "value": "Q727854"
+    },
+    {
+      "property": "P793",
+      "value": "Q6683"
+    },
+    {
+      "property": "P793",
+      "value": "Q379356"
+    },
+    {
+      "property": "P793",
+      "value": "Q2572004"
+    },
+    {
+      "property": "P793",
+      "value": "Q4302809"
+    },
+    {
+      "property": "P793",
+      "value": "Q631489"
+    },
+    {
+      "property": "P793",
+      "value": "Q331377"
+    },
+    {
+      "property": "P793",
+      "value": "Q1501025"
+    },
+    {
+      "property": "P793",
+      "value": "Q309029"
+    },
+    {
+      "property": "P793",
+      "value": "Q12583"
+    },
+    {
+      "property": "P793",
+      "value": "Q361"
+    },
+    {
+      "property": "P793",
+      "value": "Q696482"
+    },
+    {
+      "property": "P793",
+      "value": "Q52418"
+    },
+    {
+      "property": "P793",
+      "value": "Q362"
+    },
+    {
+      "property": "P793",
+      "value": "Q488"
+    },
+    {
+      "property": "P793",
+      "value": "Q8663"
+    },
+    {
+      "property": "P793",
+      "value": "Q128160"
+    },
+    {
+      "property": "P793",
+      "value": "Q1025404"
+    },
+    {
+      "property": "P793",
+      "value": "Q193484"
+    },
+    {
+      "property": "P793",
+      "value": "Q8740"
+    },
+    {
+      "property": "P793",
+      "value": "Q43653"
+    },
+    {
+      "property": "P793",
+      "value": "Q42761"
+    },
+    {
+      "property": "P793",
+      "value": "Q868261"
+    },
+    {
+      "property": "P793",
+      "value": "Q37643"
+    },
+    {
+      "property": "P793",
+      "value": "Q696187"
+    },
+    {
+      "property": "P793",
+      "value": "Q1778229"
+    },
+    {
+      "property": "P793",
+      "value": "Q155723"
+    },
+    {
+      "property": "P793",
+      "value": "Q10806"
+    },
+    {
+      "property": "P793",
+      "value": "Q182865"
+    },
+    {
+      "property": "P793",
+      "value": "Q545449"
+    },
+    {
+      "property": "P793",
+      "value": "Q16422"
+    },
+    {
+      "property": "P793",
+      "value": "Q844541"
+    },
+    {
+      "property": "P793",
+      "value": "Q896666"
+    },
+    {
+      "property": "P793",
+      "value": "Q154510"
+    },
+    {
+      "property": "P793",
+      "value": "Q210714"
+    },
+    {
+      "property": "P793",
+      "value": "Q18121212"
+    },
+    {
+      "property": "P793",
+      "value": "Q83873577"
+    },
+    {
+      "property": "P7982",
+      "value": "56303"
+    },
+    {
+      "property": "P8034",
+      "value": "494/17090"
+    },
+    {
+      "property": "P8061",
+      "value": "c_8114"
+    },
+    {
+      "property": "P8072",
+      "value": "284767"
+    },
+    {
+      "property": "P8168",
+      "value": "Q165089"
+    },
+    {
+      "property": "P8189",
+      "value": "987007552545705171"
+    },
+    {
+      "property": "P8189",
+      "value": "987007269139705171"
+    },
+    {
+      "property": "P8217",
+      "value": "2086335"
+    },
+    {
+      "property": "P8246",
+      "value": "2758535"
+    },
+    {
+      "property": "P8248",
+      "value": "SG--73"
+    },
+    {
+      "property": "P8253",
+      "value": "unitedstatesofamerica-167f6a"
+    },
+    {
+      "property": "P8309",
+      "value": "18-193507"
+    },
+    {
+      "property": "P8313",
+      "value": "USA"
+    },
+    {
+      "property": "P832",
+      "value": "Q86591"
+    },
+    {
+      "property": "P832",
+      "value": "Q196627"
+    },
+    {
+      "property": "P832",
+      "value": "Q751738"
+    },
+    {
+      "property": "P832",
+      "value": "Q744159"
+    },
+    {
+      "property": "P832",
+      "value": "Q371781"
+    },
+    {
+      "property": "P832",
+      "value": "Q848352"
+    },
+    {
+      "property": "P832",
+      "value": "Q367523"
+    },
+    {
+      "property": "P832",
+      "value": "Q755999"
+    },
+    {
+      "property": "P832",
+      "value": "Q2913791"
+    },
+    {
+      "property": "P8328",
+      "value": "+7.92"
+    },
+    {
+      "property": "P8328",
+      "value": "+7.96"
+    },
+    {
+      "property": "P8328",
+      "value": "+7.96"
+    },
+    {
+      "property": "P8328",
+      "value": "+7.98"
+    },
+    {
+      "property": "P8328",
+      "value": "+7.98"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.05"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.11"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.11"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.11"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.11"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.18"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.22"
+    },
+    {
+      "property": "P8328",
+      "value": "+8.22"
+    },
+    {
+      "property": "P8365",
+      "value": "10041244"
+    },
+    {
+      "property": "P8370",
+      "value": "1006789"
+    },
+    {
+      "property": "P8400",
+      "value": "9093"
+    },
+    {
+      "property": "P8402",
+      "value": "Q5227102"
+    },
+    {
+      "property": "P8406",
+      "value": "T087095"
+    },
+    {
+      "property": "P8408",
+      "value": "UnitedStatesOfAmerica"
+    },
+    {
+      "property": "P8483",
+      "value": "E15"
+    },
+    {
+      "property": "P85",
+      "value": "Q44696"
+    },
+    {
+      "property": "P8519",
+      "value": "1634"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.usa.gov/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.usa.gov/espanol/"
+    },
+    {
+      "property": "P8569",
+      "value": "America"
+    },
+    {
+      "property": "P8636",
+      "value": "U/united-states-of-america"
+    },
+    {
+      "property": "P8651",
+      "value": "ocd-division/country:us"
+    },
+    {
+      "property": "P8687",
+      "value": "+349767"
+    },
+    {
+      "property": "P8687",
+      "value": "+350082"
+    },
+    {
+      "property": "P8687",
+      "value": "+46276"
+    },
+    {
+      "property": "P8687",
+      "value": "+17500"
+    },
+    {
+      "property": "P8687",
+      "value": "+19900"
+    },
+    {
+      "property": "P8714",
+      "value": "USA"
+    },
+    {
+      "property": "P8717",
+      "value": "84323"
+    },
+    {
+      "property": "P8744",
+      "value": "Q188540"
+    },
+    {
+      "property": "P8763",
+      "value": "+11.4"
+    },
+    {
+      "property": "P8763",
+      "value": "+10.9"
+    },
+    {
+      "property": "P8763",
+      "value": "+11"
+    },
+    {
+      "property": "P8763",
+      "value": "+11"
+    },
+    {
+      "property": "P8785",
+      "value": "1368"
+    },
+    {
+      "property": "P8814",
+      "value": "09067337-n"
+    },
+    {
+      "property": "P8826",
+      "value": "H0009136"
+    },
+    {
+      "property": "P8885",
+      "value": "미국"
+    },
+    {
+      "property": "P8895",
+      "value": "The_United_States"
+    },
+    {
+      "property": "P8895",
+      "value": "Useful_Notes/The_United_States"
+    },
+    {
+      "property": "P8935",
+      "value": "Spolucheni_S"
+    },
+    {
+      "property": "P8974",
+      "value": "p/24fee191-fccc-40ac-b5b9-5ce73b29907f"
+    },
+    {
+      "property": "P898",
+      "value": "ʉːɛˈsɑː"
+    },
+    {
+      "property": "P898",
+      "value": "ˈmeɪɹ.ɹɪkə"
+    },
+    {
+      "property": "P8988",
+      "value": "osm&id=840"
+    },
+    {
+      "property": "P901",
+      "value": "US"
+    },
+    {
+      "property": "P902",
+      "value": "003380"
+    },
+    {
+      "property": "P9037",
+      "value": "c14926bc-96b3-4a7c-a343-9e1640b0f9a9"
+    },
+    {
+      "property": "P9037",
+      "value": "8c6682e8-a4f8-4139-849d-ef80dc6c6f83"
+    },
+    {
+      "property": "P9037",
+      "value": "92a0dd46-b7c9-467f-8a68-30c4af7d529a"
+    },
+    {
+      "property": "P906",
+      "value": "146174"
+    },
+    {
+      "property": "P9084",
+      "value": "united-states"
+    },
+    {
+      "property": "P910",
+      "value": "Q1410960"
+    },
+    {
+      "property": "P92",
+      "value": "Q11698"
+    },
+    {
+      "property": "P92",
+      "value": "Q493620"
+    },
+    {
+      "property": "P9223",
+      "value": "fb886b35-3a27-482d-af25-ee5d2653dff0"
+    },
+    {
+      "property": "P9241",
+      "value": "Q1965974"
+    },
+    {
+      "property": "P9272",
+      "value": "14880"
+    },
+    {
+      "property": "P9293",
+      "value": "49"
+    },
+    {
+      "property": "P9318",
+      "value": "usa"
+    },
+    {
+      "property": "P9346",
+      "value": "états-unis"
+    },
+    {
+      "property": "P9346",
+      "value": "etats-unis"
+    },
+    {
+      "property": "P9347",
+      "value": "usa"
+    },
+    {
+      "property": "P9348",
+      "value": "estados-unidos"
+    },
+    {
+      "property": "P9349",
+      "value": "الولايات-المتحدة"
+    },
+    {
+      "property": "P935",
+      "value": "United States"
+    },
+    {
+      "property": "P9368",
+      "value": "united-states"
+    },
+    {
+      "property": "P94",
+      "value": "Greater coat of arms of the United States.svg"
+    },
+    {
+      "property": "P94",
+      "value": "Coat of arms of the United States.svg"
+    },
+    {
+      "property": "P9437",
+      "value": "18396"
+    },
+    {
+      "property": "P9466",
+      "value": "Amerika"
+    },
+    {
+      "property": "P9475",
+      "value": "E0019890"
+    },
+    {
+      "property": "P948",
+      "value": "Statue of Liberty light banner.jpg"
+    },
+    {
+      "property": "P949",
+      "value": "000134032"
+    },
+    {
+      "property": "P9495",
+      "value": "geo/3EED62B5-48F8-4428-A852-9055CEAB288E"
+    },
+    {
+      "property": "P950",
+      "value": "XX4575366"
+    },
+    {
+      "property": "P9545",
+      "value": "220652"
+    },
+    {
+      "property": "P9571",
+      "value": "usa"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.newworldencyclopedia.org/entry/United_States"
+    },
+    {
+      "property": "P9757",
+      "value": "3992"
+    },
+    {
+      "property": "P9807",
+      "value": "87649"
+    },
+    {
+      "property": "P982",
+      "value": "489ce91b-6658-3307-9877-795b68554c98"
+    },
+    {
+      "property": "P984",
+      "value": "USA"
+    },
+    {
+      "property": "P9885",
+      "value": "5232ed96-85b1-2edb-12c6-63e6c597a1de"
+    },
+    {
+      "property": "P9886",
+      "value": "169500769"
+    },
+    {
+      "property": "P989",
+      "value": "Nl-Verenigde Staten van Amerika-article.oga"
+    },
+    {
+      "property": "P9937",
+      "value": "2669"
+    },
+    {
+      "property": "P9948",
+      "value": "united-states"
+    },
+    {
+      "property": "P9957",
+      "value": "2312"
+    },
+    {
+      "property": "P998",
+      "value": "Regional/North_America/United_States/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Español/Regional/América/Estados_Unidos/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Bosanski/Regionalno/Sjeverna_Amerika/Sjedinjene_Američke_Države/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Català/Regional/Amèrica/Estats_Units/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Česky/Státy_a_regiony/Severní_Amerika/Spojené_státy_americké/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Cymraeg/Rhanbarthol/Unol_Daleithiau_America/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Dansk/Regional/Nordamerika/USA/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Deutsch/Regional/Amerika/Vereinigte_Staaten/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Eesti/Regioonid/Põhja_Ameerika/Ameerika_Ühendriigid/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Esperanto/Regionoj/Ameriko/Usono/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Français/Régional/Amérique/Etats-Unis/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Gaeilge/Réigiúnach/Stáit_Aontaithe_Mheirceá/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Italiano/Regionale/America_del_Nord/Stati_Uniti/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Latviski/Valstis_un_reģioni/Ziemeļamerika/Amerikas_Savienotās_Valstis/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Lietuvių/Regionai/Šiaurės_Amerika/Jungtinės_Amerikos_Valstijos/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Nederlands/Regionaal/Noord-Amerika/Verenigde_Staten/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Polski/Regionalne/Ameryka_Północna/Stany_Zjednoczone/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Português/Regional/América_do_Norte/Estados_Unidos/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Română/Regional/America_de_Nord/Statele_Unite_ale_Americii/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Slovensky/Regionálne/Severná_Amerika/Spojené_štáty_americké/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Svenska/Regionalt/Nordamerika/USA/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Tiếng_Việt/Địa_phương/Bắc_Mỹ/Hoa_Kỳ/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Türkçe/Bölgesel/Amerika/Amerika_Birleşik_Devletleri/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Greek/Κατά_Περιοχή/Βόρεια_Αμερική/Ηνωμένες_Πολιτείες_Αμερικής/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Bulgarian/Региони/Северна_Америка/Съединени_Американски_Щати/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Russian/Страны_и_регионы/Северная_Америка/Соединенные_Штаты_Америки/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Ukrainian/Країни_та_реґіони/Північна_Америка/Сполучені_Штати_Америки/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Kazakh/Региондық/Солтүстік_Америка/Америка_Құрама_Штаттары/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Hebrew/אזורי/צפון_אמריקה/ארצות_הברית/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Arabic/إقليمـي/أمريكا/الولايات_المتحدة/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Hindi/क्षेत्रीय/उत्तर_अम्रीका/संयुक्त_राज्य/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Japanese/地域/北アメリカ/アメリカ合衆国/"
+    },
+    {
+      "property": "P998",
+      "value": "World/Korean/지역,국가/북아메리카/미국/"
+    },
+    {
+      "property": "P9982",
+      "value": "73945"
+    },
+    {
+      "property": "P9984",
+      "value": "981058514371006706"
+    }
+  ]
+}

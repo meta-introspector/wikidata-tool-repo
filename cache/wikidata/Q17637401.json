@@ -1,0 +1,206 @@
+{
+  "id": "Q17637401",
+  "label": "RISC-V",
+  "facts": [
+    {
+      "property": "P1019",
+      "value": "https://riscv.org/feed/"
+    },
+    {
+      "property": "P10565",
+      "value": "31382"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/riscv"
+    },
+    {
+      "property": "P1448",
+      "value": "RISC-V"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/riscv"
+    },
+    {
+      "property": "P1482",
+      "value": "https://electronics.stackexchange.com/tags/risc-v"
+    },
+    {
+      "property": "P1482",
+      "value": "https://cs.stackexchange.com/tags/risc-v"
+    },
+    {
+      "property": "P154",
+      "value": "RISC-V-logo.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q168756"
+    },
+    {
+      "property": "P178",
+      "value": "Q104152580"
+    },
+    {
+      "property": "P18",
+      "value": "Yunsup Lee holding RISC V prototype chip.jpg"
+    },
+    {
+      "property": "P2002",
+      "value": "risc_v"
+    },
+    {
+      "property": "P2397",
+      "value": "UC5gLmcFuvdGbajs4VL-WU3g"
+    },
+    {
+      "property": "P2581",
+      "value": "15380564n"
+    },
+    {
+      "property": "P275",
+      "value": "Q191307"
+    },
+    {
+      "property": "P279",
+      "value": "Q5297"
+    },
+    {
+      "property": "P279",
+      "value": "Q165678"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q7715973"
+    },
+    {
+      "property": "P31",
+      "value": "Q30167277"
+    },
+    {
+      "property": "P31",
+      "value": "Q170584"
+    },
+    {
+      "property": "P31",
+      "value": "Q272683"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P3374",
+      "value": "Q12745768"
+    },
+    {
+      "property": "P3417",
+      "value": "RISC-V"
+    },
+    {
+      "property": "P373",
+      "value": "RISC-V"
+    },
+    {
+      "property": "P3984",
+      "value": "RISCV"
+    },
+    {
+      "property": "P5555",
+      "value": "RV32IMAC Instruction Set.svg"
+    },
+    {
+      "property": "P571",
+      "value": "+2010-05-18T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:RISC-V"
+    },
+    {
+      "property": "P6366",
+      "value": "2777230600"
+    },
+    {
+      "property": "P646",
+      "value": "/m/011qbgb5"
+    },
+    {
+      "property": "P856",
+      "value": "https://riscv.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://riscv.org/japan/"
+    },
+    {
+      "property": "P856",
+      "value": "https://riscv.org/china/"
+    },
+    {
+      "property": "P8687",
+      "value": "+15515"
+    },
+    {
+      "property": "P8687",
+      "value": "+4691"
+    },
+    {
+      "property": "P8687",
+      "value": "+13200"
+    },
+    {
+      "property": "P8687",
+      "value": "+20041"
+    },
+    {
+      "property": "P8687",
+      "value": "+14800"
+    },
+    {
+      "property": "P8687",
+      "value": "+23030"
+    },
+    {
+      "property": "P8687",
+      "value": "+16700"
+    },
+    {
+      "property": "P8687",
+      "value": "+19400"
+    },
+    {
+      "property": "P8687",
+      "value": "+22100"
+    },
+    {
+      "property": "P8885",
+      "value": "RISC-V"
+    },
+    {
+      "property": "P910",
+      "value": "Q98962192"
+    },
+    {
+      "property": "P9100",
+      "value": "riscv"
+    },
+    {
+      "property": "P9100",
+      "value": "risc-v"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:info@riscv.org"
+    }
+  ]
+}

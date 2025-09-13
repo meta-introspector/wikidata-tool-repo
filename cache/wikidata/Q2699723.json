@@ -1,0 +1,30 @@
+{
+  "id": "Q2699723",
+  "label": "mozdev.org",
+  "facts": [
+    {
+      "property": "P138",
+      "value": "Q9661"
+    },
+    {
+      "property": "P1661",
+      "value": "+71003"
+    },
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P571",
+      "value": "+2000-01-01T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01k_30"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozdev.org"
+    }
+  ]
+}

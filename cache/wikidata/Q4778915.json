@@ -1,0 +1,694 @@
+{
+  "id": "Q4778915",
+  "label": "Cloudflare",
+  "facts": [
+    {
+      "property": "P10206",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P10285",
+      "value": "Cloudflare-6"
+    },
+    {
+      "property": "P1056",
+      "value": "Q1192309"
+    },
+    {
+      "property": "P1056",
+      "value": "Q5337692"
+    },
+    {
+      "property": "P1056",
+      "value": "Q220499"
+    },
+    {
+      "property": "P1056",
+      "value": "Q977772"
+    },
+    {
+      "property": "P1056",
+      "value": "Q170963"
+    },
+    {
+      "property": "P10871",
+      "value": "4710875"
+    },
+    {
+      "property": "P112",
+      "value": "Q51665553"
+    },
+    {
+      "property": "P112",
+      "value": "Q51666063"
+    },
+    {
+      "property": "P112",
+      "value": "Q51665968"
+    },
+    {
+      "property": "P1128",
+      "value": "+1069"
+    },
+    {
+      "property": "P1128",
+      "value": "+1270"
+    },
+    {
+      "property": "P1128",
+      "value": "+2440"
+    },
+    {
+      "property": "P1128",
+      "value": "+1778"
+    },
+    {
+      "property": "P1128",
+      "value": "+3217"
+    },
+    {
+      "property": "P11471",
+      "value": "5675231"
+    },
+    {
+      "property": "P11810",
+      "value": "https://cloudflare.social/"
+    },
+    {
+      "property": "P121",
+      "value": "Q72588"
+    },
+    {
+      "property": "P121",
+      "value": "Q25348457"
+    },
+    {
+      "property": "P121",
+      "value": "Q28404302"
+    },
+    {
+      "property": "P1278",
+      "value": "5493007DY18BGNLDWU14"
+    },
+    {
+      "property": "P1297",
+      "value": "27-0805829"
+    },
+    {
+      "property": "P1320",
+      "value": "us_de/4710875"
+    },
+    {
+      "property": "P13601",
+      "value": "44363"
+    },
+    {
+      "property": "P1448",
+      "value": "Cloudflare, Inc"
+    },
+    {
+      "property": "P1454",
+      "value": "Q88537331"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/cloudflare"
+    },
+    {
+      "property": "P154",
+      "value": "Cloudflare textlogo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Cloudflare Logo.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.cloudflare.com/"
+    },
+    {
+      "property": "P159",
+      "value": "Q62"
+    },
+    {
+      "property": "P169",
+      "value": "Q51665553"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1789",
+      "value": "Q51665968"
+    },
+    {
+      "property": "P18",
+      "value": "Cloudflare SSL example on Firefox 89 screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Cloudflare office entrance area.jpg"
+    },
+    {
+      "property": "P2002",
+      "value": "Cloudflare"
+    },
+    {
+      "property": "P2002",
+      "value": "CloudflareHelp"
+    },
+    {
+      "property": "P2002",
+      "value": "CloudflareDev"
+    },
+    {
+      "property": "P2003",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P2013",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P2037",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P2037",
+      "value": "cloudflarearchive"
+    },
+    {
+      "property": "P2088",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P2137",
+      "value": "+811359000"
+    },
+    {
+      "property": "P2139",
+      "value": "+656426000"
+    },
+    {
+      "property": "P2295",
+      "value": "-260309000"
+    },
+    {
+      "property": "P2397",
+      "value": "UCgv3xMy6kECn0boYP9d2o-g"
+    },
+    {
+      "property": "P2403",
+      "value": "+2372071000"
+    },
+    {
+      "property": "P2657",
+      "value": "580322225469-90"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11csq18n1n"
+    },
+    {
+      "property": "P276",
+      "value": "Q111959429"
+    },
+    {
+      "property": "P276",
+      "value": "Q111957895"
+    },
+    {
+      "property": "P31",
+      "value": "Q18388277"
+    },
+    {
+      "property": "P31",
+      "value": "Q19967801"
+    },
+    {
+      "property": "P31",
+      "value": "Q891723"
+    },
+    {
+      "property": "P3320",
+      "value": "Q51665553"
+    },
+    {
+      "property": "P3320",
+      "value": "Q51665968"
+    },
+    {
+      "property": "P3320",
+      "value": "Q111958592"
+    },
+    {
+      "property": "P3320",
+      "value": "Q111958616"
+    },
+    {
+      "property": "P3320",
+      "value": "Q22277675"
+    },
+    {
+      "property": "P3320",
+      "value": "Q102277008"
+    },
+    {
+      "property": "P3320",
+      "value": "Q111958675"
+    },
+    {
+      "property": "P3320",
+      "value": "Q16937543"
+    },
+    {
+      "property": "P3320",
+      "value": "Q115646777"
+    },
+    {
+      "property": "P3362",
+      "value": "-127684000"
+    },
+    {
+      "property": "P3393",
+      "value": "164553"
+    },
+    {
+      "property": "P3417",
+      "value": "Cloudflare-product"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446390"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446620"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446633"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446721"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446737"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446744"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446819"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446827"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446832"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446840"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446850"
+    },
+    {
+      "property": "P355",
+      "value": "Q113446870"
+    },
+    {
+      "property": "P355",
+      "value": "Q54958728"
+    },
+    {
+      "property": "P3553",
+      "value": "19579622"
+    },
+    {
+      "property": "P3579",
+      "value": "cloudflarechina"
+    },
+    {
+      "property": "P373",
+      "value": "Cloudflare"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.4.1.44363"
+    },
+    {
+      "property": "P3761",
+      "value": "103.21.244.0/22"
+    },
+    {
+      "property": "P3761",
+      "value": "103.22.200.0/22"
+    },
+    {
+      "property": "P3761",
+      "value": "103.31.4.0/22"
+    },
+    {
+      "property": "P3761",
+      "value": "104.16.0.0/13"
+    },
+    {
+      "property": "P3761",
+      "value": "104.24.0.0/14"
+    },
+    {
+      "property": "P3761",
+      "value": "131.0.72.0/22"
+    },
+    {
+      "property": "P3761",
+      "value": "162.158.0.0/15"
+    },
+    {
+      "property": "P3761",
+      "value": "173.245.48.0/20"
+    },
+    {
+      "property": "P3761",
+      "value": "188.114.96.0/20"
+    },
+    {
+      "property": "P3761",
+      "value": "190.93.240.0/20"
+    },
+    {
+      "property": "P3761",
+      "value": "197.234.240.0/22"
+    },
+    {
+      "property": "P3761",
+      "value": "198.41.128.0/17"
+    },
+    {
+      "property": "P3761",
+      "value": "108.162.192.0/18"
+    },
+    {
+      "property": "P3761",
+      "value": "141.101.64.0/18"
+    },
+    {
+      "property": "P3761",
+      "value": "172.64.0.0/13"
+    },
+    {
+      "property": "P3793",
+      "value": "2400:cb00::/32"
+    },
+    {
+      "property": "P3793",
+      "value": "2606:4700::/32"
+    },
+    {
+      "property": "P3793",
+      "value": "2803:f800::/32"
+    },
+    {
+      "property": "P3793",
+      "value": "2405:b500::/32"
+    },
+    {
+      "property": "P3793",
+      "value": "2405:8100::/32"
+    },
+    {
+      "property": "P3793",
+      "value": "2a06:98c0::/29"
+    },
+    {
+      "property": "P3793",
+      "value": "2c0f:f248::/32"
+    },
+    {
+      "property": "P3797",
+      "value": "14789"
+    },
+    {
+      "property": "P3797",
+      "value": "394536"
+    },
+    {
+      "property": "P3797",
+      "value": "395747"
+    },
+    {
+      "property": "P3797",
+      "value": "13335"
+    },
+    {
+      "property": "P3984",
+      "value": "CloudFlare"
+    },
+    {
+      "property": "P4033",
+      "value": "cloudflare@cloudflare.social"
+    },
+    {
+      "property": "P414",
+      "value": "Q13677"
+    },
+    {
+      "property": "P4264",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P452",
+      "value": "Q5268834"
+    },
+    {
+      "property": "P452",
+      "value": "Q123131138"
+    },
+    {
+      "property": "P462",
+      "value": "Q111960788"
+    },
+    {
+      "property": "P463",
+      "value": "Q67904121"
+    },
+    {
+      "property": "P463",
+      "value": "Q852297"
+    },
+    {
+      "property": "P463",
+      "value": "Q3685364"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Company\", \"Cloudflare::7n8jk\"]"
+    },
+    {
+      "property": "P5256",
+      "value": "Cloudflare"
+    },
+    {
+      "property": "P528",
+      "value": "4710875"
+    },
+    {
+      "property": "P5531",
+      "value": "0001477333"
+    },
+    {
+      "property": "P571",
+      "value": "+2009-11-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0h3tb9y"
+    },
+    {
+      "property": "P7085",
+      "value": "Cloudflare"
+    },
+    {
+      "property": "P7153",
+      "value": "Q111957895"
+    },
+    {
+      "property": "P7153",
+      "value": "Q111959429"
+    },
+    {
+      "property": "P7157",
+      "value": "940"
+    },
+    {
+      "property": "P729",
+      "value": "+2010-09-27T00:00:00Z"
+    },
+    {
+      "property": "P7306",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P740",
+      "value": "Q62"
+    },
+    {
+      "property": "P7502",
+      "value": "Cloudflare"
+    },
+    {
+      "property": "P793",
+      "value": "Q179366"
+    },
+    {
+      "property": "P8060",
+      "value": "430862"
+    },
+    {
+      "property": "P8253",
+      "value": "cloudflare-918717"
+    },
+    {
+      "property": "P8340",
+      "value": "+3200000000"
+    },
+    {
+      "property": "P8340",
+      "value": "+18589000000"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/en-gb/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/en-ca/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/en-au/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/en-in/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/de-de/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/es-es/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/fr-fr/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/it-it/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/ja-jp/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/ko-kr/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/pt-br/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/zh-tw/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.cloudflare.com/zh-cn/"
+    },
+    {
+      "property": "P856",
+      "value": "http://cloudflare.com"
+    },
+    {
+      "property": "P8687",
+      "value": "+17500"
+    },
+    {
+      "property": "P8687",
+      "value": "+23400"
+    },
+    {
+      "property": "P8687",
+      "value": "+27400"
+    },
+    {
+      "property": "P8687",
+      "value": "+37700"
+    },
+    {
+      "property": "P8687",
+      "value": "+42900"
+    },
+    {
+      "property": "P8687",
+      "value": "+47800"
+    },
+    {
+      "property": "P8687",
+      "value": "+52800"
+    },
+    {
+      "property": "P8687",
+      "value": "+62900"
+    },
+    {
+      "property": "P8687",
+      "value": "+70600"
+    },
+    {
+      "property": "P8687",
+      "value": "+84100"
+    },
+    {
+      "property": "P910",
+      "value": "Q110234832"
+    },
+    {
+      "property": "P9100",
+      "value": "cloudflare"
+    },
+    {
+      "property": "P9138",
+      "value": "https://www.cloudflarestatus.com/"
+    },
+    {
+      "property": "P9138",
+      "value": "https://downdetector.ph/status/cloudflare/"
+    },
+    {
+      "property": "P946",
+      "value": "US18915M1071"
+    },
+    {
+      "property": "P9618",
+      "value": "cloudflare"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "Q1502873",
+  "label": "Tamarin",
+  "facts": [
+    {
+      "property": "P1324",
+      "value": "https://github.com/adobe/avmplus"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/tamarin-redux"
+    },
+    {
+      "property": "P178",
+      "value": "Q11463"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P306",
+      "value": "Q174666"
+    },
+    {
+      "property": "P31",
+      "value": "Q591919"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q192726"
+    },
+    {
+      "property": "P366",
+      "value": "Q192726"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/026f890"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/en/Tamarin"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/en-US/docs/Archive/Mozilla/Tamarin"
+    },
+    {
+      "property": "P973",
+      "value": "https://wiki.mozilla.org/Tamarin"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "Q854029",
+  "label": "Lightning",
+  "facts": [
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "ThunderbirdwithLightning.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q5514033"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P31",
+      "value": "Q2933820"
+    },
+    {
+      "property": "P31",
+      "value": "Q7593080"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3442",
+      "value": "lightning"
+    },
+    {
+      "property": "P348",
+      "value": "4.5b1"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.7.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.2b1"
+    },
+    {
+      "property": "P348",
+      "value": "6.2.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.6b3"
+    },
+    {
+      "property": "P366",
+      "value": "Q1568118"
+    },
+    {
+      "property": "P373",
+      "value": "Lightning (software)"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/04wv4h"
+    },
+    {
+      "property": "P6665",
+      "value": "19080"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.thunderbird.net/en-US/calendar/"
+    },
+    {
+      "property": "P9618",
+      "value": "lightning"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Q4392311",
+  "label": "foreign function interface",
+  "facts": [
+    {
+      "property": "P1889",
+      "value": "Q510878"
+    },
+    {
+      "property": "P279",
+      "value": "Q165194"
+    },
+    {
+      "property": "P366",
+      "value": "Q9143"
+    },
+    {
+      "property": "P366",
+      "value": "Q749647"
+    },
+    {
+      "property": "P366",
+      "value": "Q6486746"
+    },
+    {
+      "property": "P5047",
+      "value": "Foreign_function_interface"
+    },
+    {
+      "property": "P6366",
+      "value": "2781196103"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0b4xnf"
+    }
+  ]
+}

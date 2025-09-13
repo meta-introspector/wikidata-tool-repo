@@ -1,0 +1,122 @@
+{
+  "id": "Q82828",
+  "label": "hexadecimal",
+  "facts": [
+    {
+      "property": "P10017",
+      "value": "esadecimale"
+    },
+    {
+      "property": "P11129",
+      "value": "Hexadezimal"
+    },
+    {
+      "property": "P11408",
+      "value": "16進数"
+    },
+    {
+      "property": "P12385",
+      "value": "hexadecimal"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Système_hexadécimal"
+    },
+    {
+      "property": "P1296",
+      "value": "0187460"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/hex"
+    },
+    {
+      "property": "P155",
+      "value": "Q7164948"
+    },
+    {
+      "property": "P156",
+      "value": "Q58374859"
+    },
+    {
+      "property": "P18",
+      "value": "Bruce Martin hexadecimal notation proposal.png"
+    },
+    {
+      "property": "P2812",
+      "value": "Hexadecimal"
+    },
+    {
+      "property": "P31",
+      "value": "Q25457532"
+    },
+    {
+      "property": "P3264",
+      "value": "Q40254"
+    },
+    {
+      "property": "P3365",
+      "value": "esadecimale"
+    },
+    {
+      "property": "P3381",
+      "value": "Hex_encoding"
+    },
+    {
+      "property": "P3417",
+      "value": "Hexadecimals-number-system"
+    },
+    {
+      "property": "P3553",
+      "value": "19823026"
+    },
+    {
+      "property": "P366",
+      "value": "Q12525525"
+    },
+    {
+      "property": "P373",
+      "value": "Hexadecimal"
+    },
+    {
+      "property": "P4342",
+      "value": "heksadesimalt_tallsystem"
+    },
+    {
+      "property": "P5844",
+      "value": "esadecimale"
+    },
+    {
+      "property": "P6104",
+      "value": "Q8487137"
+    },
+    {
+      "property": "P6366",
+      "value": "169439944"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03gdz"
+    },
+    {
+      "property": "P6706",
+      "value": "esadecimale"
+    },
+    {
+      "property": "P6781",
+      "value": "Definition:Hexadecimal_Notation"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/6841"
+    },
+    {
+      "property": "P8885",
+      "value": "16진법"
+    },
+    {
+      "property": "P9621",
+      "value": "esadecimale"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Q1895587",
+  "label": "Alef",
+  "facts": [
+    {
+      "property": "P306",
+      "value": "Q725779"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P3966",
+      "value": "Q223335"
+    },
+    {
+      "property": "P571",
+      "value": "+2010-00-00T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2010-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6366",
+      "value": "2776164336"
+    },
+    {
+      "property": "P646",
+      "value": "/m/067916"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q262003"
+    }
+  ]
+}

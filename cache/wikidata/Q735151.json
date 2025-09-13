@@ -1,0 +1,58 @@
+{
+  "id": "Q735151",
+  "label": "destructor",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2777102281"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/destructors"
+    },
+    {
+      "property": "P1269",
+      "value": "Q17157128"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/destructor"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2010793"
+    },
+    {
+      "property": "P1889",
+      "value": "Q110745268"
+    },
+    {
+      "property": "P279",
+      "value": "Q815844"
+    },
+    {
+      "property": "P31",
+      "value": "Q7574835"
+    },
+    {
+      "property": "P366",
+      "value": "Q1714630"
+    },
+    {
+      "property": "P461",
+      "value": "Q1049476"
+    },
+    {
+      "property": "P6366",
+      "value": "2777102281"
+    },
+    {
+      "property": "P646",
+      "value": "/m/06zfg1"
+    },
+    {
+      "property": "P913",
+      "value": "Q11167"
+    }
+  ]
+}

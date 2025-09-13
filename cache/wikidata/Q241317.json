@@ -1,0 +1,70 @@
+{
+  "id": "Q241317",
+  "label": "computing platform",
+  "facts": [
+    {
+      "property": "P11129",
+      "value": "Plattform"
+    },
+    {
+      "property": "P1424",
+      "value": "Q20376315"
+    },
+    {
+      "property": "P1687",
+      "value": "P400"
+    },
+    {
+      "property": "P2579",
+      "value": "Q21198"
+    },
+    {
+      "property": "P279",
+      "value": "Q2424752"
+    },
+    {
+      "property": "P279",
+      "value": "Q994895"
+    },
+    {
+      "property": "P373",
+      "value": "Computing platforms"
+    },
+    {
+      "property": "P3827",
+      "value": "computing-platforms"
+    },
+    {
+      "property": "P508",
+      "value": "36720"
+    },
+    {
+      "property": "P5844",
+      "value": "piattaforma"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0ky_d"
+    },
+    {
+      "property": "P6706",
+      "value": "piattafórma"
+    },
+    {
+      "property": "P8313",
+      "value": "platform"
+    },
+    {
+      "property": "P8408",
+      "value": "ComputingPlatform"
+    },
+    {
+      "property": "P9084",
+      "value": "platform"
+    },
+    {
+      "property": "P910",
+      "value": "Q7887409"
+    }
+  ]
+}

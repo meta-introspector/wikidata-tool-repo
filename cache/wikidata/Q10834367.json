@@ -1,0 +1,606 @@
+{
+  "id": "Q10834367",
+  "label": "Waterfox",
+  "facts": [
+    {
+      "property": "P10766",
+      "value": "waterfox"
+    },
+    {
+      "property": "P11947",
+      "value": "waterfox@programming.dev"
+    },
+    {
+      "property": "P12361",
+      "value": "waterfox.net"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/BrowserWorks/Waterfox"
+    },
+    {
+      "property": "P144",
+      "value": "Q698"
+    },
+    {
+      "property": "P154",
+      "value": "Waterfox Logo (redesigned 2015).png"
+    },
+    {
+      "property": "P154",
+      "value": "WaterFox.png"
+    },
+    {
+      "property": "P154",
+      "value": "Waterfox logo 2019.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Waterfox logo in 2023.png"
+    },
+    {
+      "property": "P1581",
+      "value": "https://www.waterfox.net/blog/"
+    },
+    {
+      "property": "P18",
+      "value": "Waterfox 55.2.2 screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Waterfox G4.0.3.1.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Waterfox in Wikipedia.png"
+    },
+    {
+      "property": "P1972",
+      "value": "Waterfox"
+    },
+    {
+      "property": "P2002",
+      "value": "Waterfoxproject"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1848400"
+    },
+    {
+      "property": "P2561",
+      "value": "Waterfox"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q46441"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P277",
+      "value": "Q726218"
+    },
+    {
+      "property": "P2910",
+      "value": "Waterfox logo 2019.svg"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q3251801"
+    },
+    {
+      "property": "P306",
+      "value": "Q94"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P31",
+      "value": "Q15477174"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3418",
+      "value": "net.waterfox.android.release"
+    },
+    {
+      "property": "P348",
+      "value": "46.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "49.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "50"
+    },
+    {
+      "property": "P348",
+      "value": "50.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "50.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "51.0"
+    },
+    {
+      "property": "P348",
+      "value": "51.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "52.0"
+    },
+    {
+      "property": "P348",
+      "value": "52.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "52.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "53.0"
+    },
+    {
+      "property": "P348",
+      "value": "53.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "53.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "54.0"
+    },
+    {
+      "property": "P348",
+      "value": "54.0.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "54.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "55.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "55.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "55.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "56.0"
+    },
+    {
+      "property": "P348",
+      "value": "56.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "56.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "56.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "56.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "56.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.4"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.7"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.8"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.9"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.10"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.11"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.12"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.13"
+    },
+    {
+      "property": "P348",
+      "value": "56.2.14"
+    },
+    {
+      "property": "P348",
+      "value": "2019.10"
+    },
+    {
+      "property": "P348",
+      "value": "2020.04"
+    },
+    {
+      "property": "P348",
+      "value": "G3.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "G3.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "G3.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "G4.0.0"
+    },
+    {
+      "property": "P348",
+      "value": "G4.0.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "G4.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "G4.0.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "G4.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "G4.0.7"
+    },
+    {
+      "property": "P348",
+      "value": "G4.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "G5.0"
+    },
+    {
+      "property": "P348",
+      "value": "G5.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "G5.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.7"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.8"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.9"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.10"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.11"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.12"
+    },
+    {
+      "property": "P348",
+      "value": "G5.1.13"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.9"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.10"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.11"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.12"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.13"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.14"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.15"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.16"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.17"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.18"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.19"
+    },
+    {
+      "property": "P348",
+      "value": "G6.0.20"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.3"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.4"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.5"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.6"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.7"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.8"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.9"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.10"
+    },
+    {
+      "property": "P348",
+      "value": "6.5.11"
+    },
+    {
+      "property": "P366",
+      "value": "Q6368"
+    },
+    {
+      "property": "P373",
+      "value": "Waterfox"
+    },
+    {
+      "property": "P3984",
+      "value": "waterfox"
+    },
+    {
+      "property": "P4033",
+      "value": "Waterfox@mastodon.social"
+    },
+    {
+      "property": "P4162",
+      "value": "waterfox-bin"
+    },
+    {
+      "property": "P4162",
+      "value": "waterfox-git"
+    },
+    {
+      "property": "P4162",
+      "value": "waterfox-kde"
+    },
+    {
+      "property": "P4162",
+      "value": "waterfox"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0_gyrbc"
+    },
+    {
+      "property": "P6665",
+      "value": "20897"
+    },
+    {
+      "property": "P6931",
+      "value": "waterfox"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.waterfox.net"
+    },
+    {
+      "property": "P8687",
+      "value": "+2751"
+    },
+    {
+      "property": "P8687",
+      "value": "+13029"
+    },
+    {
+      "property": "P9100",
+      "value": "waterfox"
+    },
+    {
+      "property": "P9214",
+      "value": "https://www.waterfox.net/docs/faq/"
+    },
+    {
+      "property": "P9618",
+      "value": "waterfox"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6954329",
+  "label": "NIL",
+  "facts": [
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P8131",
+      "value": "Q132874"
+    }
+  ]
+}

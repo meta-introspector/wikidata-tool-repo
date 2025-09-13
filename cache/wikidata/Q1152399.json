@@ -1,0 +1,78 @@
+{
+  "id": "Q1152399",
+  "label": "syntax",
+  "facts": [
+    {
+      "property": "P10037",
+      "value": "sintassi"
+    },
+    {
+      "property": "P10913",
+      "value": "f3/mt330/2876/2576/4126"
+    },
+    {
+      "property": "P1552",
+      "value": "Q845118"
+    },
+    {
+      "property": "P1889",
+      "value": "Q2395230"
+    },
+    {
+      "property": "P2354",
+      "value": "Q5155966"
+    },
+    {
+      "property": "P2579",
+      "value": "Q37437"
+    },
+    {
+      "property": "P279",
+      "value": "Q373045"
+    },
+    {
+      "property": "P3417",
+      "value": "Programming-Syntax"
+    },
+    {
+      "property": "P361",
+      "value": "Q9143"
+    },
+    {
+      "property": "P4342",
+      "value": "syntaks_-_IT"
+    },
+    {
+      "property": "P527",
+      "value": "Q6486712"
+    },
+    {
+      "property": "P527",
+      "value": "Q6537698"
+    },
+    {
+      "property": "P5844",
+      "value": "sintassi"
+    },
+    {
+      "property": "P6366",
+      "value": "29808475"
+    },
+    {
+      "property": "P646",
+      "value": "/m/025smzg"
+    },
+    {
+      "property": "P8313",
+      "value": "syntaks_(datalogi)"
+    },
+    {
+      "property": "P8855",
+      "value": "171-02-46"
+    },
+    {
+      "property": "P910",
+      "value": "Q30687244"
+    }
+  ]
+}

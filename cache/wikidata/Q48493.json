@@ -1,0 +1,1654 @@
+{
+  "id": "Q48493",
+  "label": "iOS",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "12064213"
+    },
+    {
+      "property": "P10227",
+      "value": "vtls002105869"
+    },
+    {
+      "property": "P11196",
+      "value": "ios"
+    },
+    {
+      "property": "P11408",
+      "value": "iOS"
+    },
+    {
+      "property": "P12204",
+      "value": "10583"
+    },
+    {
+      "property": "P12216",
+      "value": "81"
+    },
+    {
+      "property": "P12385",
+      "value": "ios-0"
+    },
+    {
+      "property": "P1245",
+      "value": "1623487"
+    },
+    {
+      "property": "P12508",
+      "value": "176/03"
+    },
+    {
+      "property": "P1296",
+      "value": "0522856"
+    },
+    {
+      "property": "P13397",
+      "value": "ios"
+    },
+    {
+      "property": "P13513",
+      "value": "ios"
+    },
+    {
+      "property": "P13535",
+      "value": "platform-ios"
+    },
+    {
+      "property": "P13599",
+      "value": "112"
+    },
+    {
+      "property": "P1414",
+      "value": "Q2628895"
+    },
+    {
+      "property": "P1424",
+      "value": "Q4169461"
+    },
+    {
+      "property": "P144",
+      "value": "Q14116"
+    },
+    {
+      "property": "P144",
+      "value": "Q14581"
+    },
+    {
+      "property": "P1448",
+      "value": "iPhone OS"
+    },
+    {
+      "property": "P1448",
+      "value": "iOS"
+    },
+    {
+      "property": "P1448",
+      "value": "iPadOS"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/ios"
+    },
+    {
+      "property": "P1482",
+      "value": "https://apple.stackexchange.com/tags/ios"
+    },
+    {
+      "property": "P154",
+      "value": "IOS wordmark (2017).svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q312"
+    },
+    {
+      "property": "P18",
+      "value": "IOS 18.4.1 screenshot (2025).png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q3257946"
+    },
+    {
+      "property": "P1889",
+      "value": "Q216993"
+    },
+    {
+      "property": "P214",
+      "value": "184460395"
+    },
+    {
+      "property": "P2184",
+      "value": "Q27148"
+    },
+    {
+      "property": "P2257",
+      "value": "+1"
+    },
+    {
+      "property": "P227",
+      "value": "7845187-5"
+    },
+    {
+      "property": "P2347",
+      "value": "26886"
+    },
+    {
+      "property": "P2361",
+      "value": "Q283469"
+    },
+    {
+      "property": "P244",
+      "value": "n2010039603"
+    },
+    {
+      "property": "P2572",
+      "value": "ios"
+    },
+    {
+      "property": "P2581",
+      "value": "00854721n"
+    },
+    {
+      "property": "P268",
+      "value": "166445811"
+    },
+    {
+      "property": "P269",
+      "value": "166106402"
+    },
+    {
+      "property": "P275",
+      "value": "Q3238057"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q188531"
+    },
+    {
+      "property": "P277",
+      "value": "Q17118377"
+    },
+    {
+      "property": "P277",
+      "value": "Q251"
+    },
+    {
+      "property": "P279",
+      "value": "Q14656"
+    },
+    {
+      "property": "P279",
+      "value": "Q920890"
+    },
+    {
+      "property": "P2888",
+      "value": "https://schema.org/IOSPlatform"
+    },
+    {
+      "property": "P3033",
+      "value": "Q368215"
+    },
+    {
+      "property": "P31",
+      "value": "Q920890"
+    },
+    {
+      "property": "P31",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P3106",
+      "value": "technology/ios"
+    },
+    {
+      "property": "P3280",
+      "value": "0001001018"
+    },
+    {
+      "property": "P3381",
+      "value": "IOS"
+    },
+    {
+      "property": "P3417",
+      "value": "iOS"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "1.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "2.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "3.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.10"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.9"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.8"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.7"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "4.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "4.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.5"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "4.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "6.0"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.6"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.5"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "6.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.4"
+    },
+    {
+      "property": "P348",
+      "value": "8.3"
+    },
+    {
+      "property": "P348",
+      "value": "8.2"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "8.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.5"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "7.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "9.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.0"
+    },
+    {
+      "property": "P348",
+      "value": "9.3.5"
+    },
+    {
+      "property": "P348",
+      "value": "9.3.4"
+    },
+    {
+      "property": "P348",
+      "value": "9.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "9.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "9.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.3#"
+    },
+    {
+      "property": "P348",
+      "value": "9.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.2"
+    },
+    {
+      "property": "P348",
+      "value": "9.1"
+    },
+    {
+      "property": "P348",
+      "value": "10.0"
+    },
+    {
+      "property": "P348",
+      "value": "10.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "10.3.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "10.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "10.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "10.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "10.1"
+    },
+    {
+      "property": "P348",
+      "value": "10.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "11.0"
+    },
+    {
+      "property": "P348",
+      "value": "11.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "11.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "11.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "11.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.2.6"
+    },
+    {
+      "property": "P348",
+      "value": "11.2.5"
+    },
+    {
+      "property": "P348",
+      "value": "11.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.2"
+    },
+    {
+      "property": "P348",
+      "value": "11.3"
+    },
+    {
+      "property": "P348",
+      "value": "11.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.4"
+    },
+    {
+      "property": "P348",
+      "value": "12.0"
+    },
+    {
+      "property": "P348",
+      "value": "12.1"
+    },
+    {
+      "property": "P348",
+      "value": "12.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "12.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "12.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "12.1.4"
+    },
+    {
+      "property": "P348",
+      "value": "12.2"
+    },
+    {
+      "property": "P348",
+      "value": "12.3"
+    },
+    {
+      "property": "P348",
+      "value": "12.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "12.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "2.0"
+    },
+    {
+      "property": "P348",
+      "value": "12.4"
+    },
+    {
+      "property": "P348",
+      "value": "12.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.0"
+    },
+    {
+      "property": "P348",
+      "value": "13.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "13.1.3"
+    },
+    {
+      "property": "P348",
+      "value": "13.2"
+    },
+    {
+      "property": "P348",
+      "value": "13.2.2"
+    },
+    {
+      "property": "P348",
+      "value": "13.2.3"
+    },
+    {
+      "property": "P348",
+      "value": "13.3"
+    },
+    {
+      "property": "P348",
+      "value": "13.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.4"
+    },
+    {
+      "property": "P348",
+      "value": "13.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.5"
+    },
+    {
+      "property": "P348",
+      "value": "13.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.6"
+    },
+    {
+      "property": "P348",
+      "value": "13.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.7"
+    },
+    {
+      "property": "P348",
+      "value": "14.0"
+    },
+    {
+      "property": "P348",
+      "value": "14.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.2"
+    },
+    {
+      "property": "P348",
+      "value": "14.3"
+    },
+    {
+      "property": "P348",
+      "value": "14.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.4"
+    },
+    {
+      "property": "P348",
+      "value": "14.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "14.5"
+    },
+    {
+      "property": "P348",
+      "value": "14.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.6"
+    },
+    {
+      "property": "P348",
+      "value": "14.7"
+    },
+    {
+      "property": "P348",
+      "value": "14.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "14.8"
+    },
+    {
+      "property": "P348",
+      "value": "15.0"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "15.1"
+    },
+    {
+      "property": "P348",
+      "value": "15.2"
+    },
+    {
+      "property": "P348",
+      "value": "15.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "15.3"
+    },
+    {
+      "property": "P348",
+      "value": "15.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "15.4"
+    },
+    {
+      "property": "P348",
+      "value": "15.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "15.5"
+    },
+    {
+      "property": "P348",
+      "value": "15.6"
+    },
+    {
+      "property": "P348",
+      "value": "15.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "16.0"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "16.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "16.1"
+    },
+    {
+      "property": "P348",
+      "value": "16.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "16.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "16.2"
+    },
+    {
+      "property": "P348",
+      "value": "16.3"
+    },
+    {
+      "property": "P348",
+      "value": "16.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "16.4"
+    },
+    {
+      "property": "P348",
+      "value": "16.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "16.5"
+    },
+    {
+      "property": "P348",
+      "value": "16.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "16.6"
+    },
+    {
+      "property": "P348",
+      "value": "16.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.0"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "17.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "17.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "17.2"
+    },
+    {
+      "property": "P348",
+      "value": "17.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.3"
+    },
+    {
+      "property": "P348",
+      "value": "17.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.4"
+    },
+    {
+      "property": "P348",
+      "value": "17.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.5"
+    },
+    {
+      "property": "P348",
+      "value": "17.5.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.6"
+    },
+    {
+      "property": "P348",
+      "value": "17.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "17.7"
+    },
+    {
+      "property": "P348",
+      "value": "18.0"
+    },
+    {
+      "property": "P348",
+      "value": "18.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.2"
+    },
+    {
+      "property": "P348",
+      "value": "18.2.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.3"
+    },
+    {
+      "property": "P348",
+      "value": "18.3.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.3.2"
+    },
+    {
+      "property": "P348",
+      "value": "18.4"
+    },
+    {
+      "property": "P348",
+      "value": "18.4.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.5"
+    },
+    {
+      "property": "P348",
+      "value": "18.6"
+    },
+    {
+      "property": "P348",
+      "value": "18.6.1"
+    },
+    {
+      "property": "P348",
+      "value": "18.6.2"
+    },
+    {
+      "property": "P348",
+      "value": "26.0.0"
+    },
+    {
+      "property": "P3553",
+      "value": "19550461"
+    },
+    {
+      "property": "P373",
+      "value": "IOS (Apple Inc.)"
+    },
+    {
+      "property": "P3847",
+      "value": "ios_(electronic_resource)"
+    },
+    {
+      "property": "P3847",
+      "value": "iphone_os"
+    },
+    {
+      "property": "P3931",
+      "value": "Q312"
+    },
+    {
+      "property": "P3984",
+      "value": "ios"
+    },
+    {
+      "property": "P400",
+      "value": "Q14094"
+    },
+    {
+      "property": "P400",
+      "value": "Q270285"
+    },
+    {
+      "property": "P400",
+      "value": "Q30137500"
+    },
+    {
+      "property": "P400",
+      "value": "Q18010946"
+    },
+    {
+      "property": "P407",
+      "value": "Q150"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q7850"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P407",
+      "value": "Q9176"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q5146"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q188"
+    },
+    {
+      "property": "P407",
+      "value": "Q9035"
+    },
+    {
+      "property": "P407",
+      "value": "Q9027"
+    },
+    {
+      "property": "P407",
+      "value": "Q13955"
+    },
+    {
+      "property": "P407",
+      "value": "Q9217"
+    },
+    {
+      "property": "P407",
+      "value": "Q1412"
+    },
+    {
+      "property": "P407",
+      "value": "Q809"
+    },
+    {
+      "property": "P407",
+      "value": "Q9199"
+    },
+    {
+      "property": "P407",
+      "value": "Q9043"
+    },
+    {
+      "property": "P407",
+      "value": "Q9240"
+    },
+    {
+      "property": "P407",
+      "value": "Q9129"
+    },
+    {
+      "property": "P407",
+      "value": "Q9288"
+    },
+    {
+      "property": "P407",
+      "value": "Q7913"
+    },
+    {
+      "property": "P407",
+      "value": "Q9067"
+    },
+    {
+      "property": "P407",
+      "value": "Q7026"
+    },
+    {
+      "property": "P407",
+      "value": "Q9056"
+    },
+    {
+      "property": "P407",
+      "value": "Q1568"
+    },
+    {
+      "property": "P407",
+      "value": "Q9237"
+    },
+    {
+      "property": "P407",
+      "value": "Q8798"
+    },
+    {
+      "property": "P407",
+      "value": "Q6654"
+    },
+    {
+      "property": "P407",
+      "value": "Q9058"
+    },
+    {
+      "property": "P4204",
+      "value": "iOS"
+    },
+    {
+      "property": "P4342",
+      "value": "iOS"
+    },
+    {
+      "property": "P4387",
+      "value": "Q3606532"
+    },
+    {
+      "property": "P4387",
+      "value": "Q9589"
+    },
+    {
+      "property": "P4387",
+      "value": "Q2088106"
+    },
+    {
+      "property": "P4644",
+      "value": "ce26e71f-2d47-474e-89b6-7920931ac4fc"
+    },
+    {
+      "property": "P5125",
+      "value": "Q7112663"
+    },
+    {
+      "property": "P527",
+      "value": "Q17058718"
+    },
+    {
+      "property": "P527",
+      "value": "Q16927834"
+    },
+    {
+      "property": "P527",
+      "value": "Q16969690"
+    },
+    {
+      "property": "P527",
+      "value": "Q13471026"
+    },
+    {
+      "property": "P527",
+      "value": "Q3919641"
+    },
+    {
+      "property": "P527",
+      "value": "Q307677"
+    },
+    {
+      "property": "P527",
+      "value": "Q13426339"
+    },
+    {
+      "property": "P527",
+      "value": "Q16973176"
+    },
+    {
+      "property": "P527",
+      "value": "Q20033286"
+    },
+    {
+      "property": "P527",
+      "value": "Q24575997"
+    },
+    {
+      "property": "P527",
+      "value": "Q30136207"
+    },
+    {
+      "property": "P527",
+      "value": "Q54809618"
+    },
+    {
+      "property": "P527",
+      "value": "Q61497975"
+    },
+    {
+      "property": "P527",
+      "value": "Q96231126"
+    },
+    {
+      "property": "P527",
+      "value": "Q107139673"
+    },
+    {
+      "property": "P527",
+      "value": "Q112252770"
+    },
+    {
+      "property": "P527",
+      "value": "Q118174932"
+    },
+    {
+      "property": "P527",
+      "value": "Q126392721"
+    },
+    {
+      "property": "P527",
+      "value": "Q134778552"
+    },
+    {
+      "property": "P577",
+      "value": "+2007-06-29T00:00:00Z"
+    },
+    {
+      "property": "P5795",
+      "value": "ios"
+    },
+    {
+      "property": "P6078",
+      "value": "iphone"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:IOS"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:IOS"
+    },
+    {
+      "property": "P6262",
+      "value": "gta:Apple_iOS"
+    },
+    {
+      "property": "P6262",
+      "value": "es.gta:IOS"
+    },
+    {
+      "property": "P6262",
+      "value": "ru.gta:Apple_iOS"
+    },
+    {
+      "property": "P6262",
+      "value": "fr.gta:IOS"
+    },
+    {
+      "property": "P6363",
+      "value": "http://data.thenextweb.com/tnw/entity/ios_2"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03wbl14"
+    },
+    {
+      "property": "P6573",
+      "value": "IOS"
+    },
+    {
+      "property": "P6802",
+      "value": "Making a noise measurement using the NIOSH SLM app.jpg"
+    },
+    {
+      "property": "P6802",
+      "value": "Steve Jobs at WWDC 2008.jpg"
+    },
+    {
+      "property": "P6802",
+      "value": "Steve Jobs with the Apple iPad no logo (cropped).jpg"
+    },
+    {
+      "property": "P6839",
+      "value": "UsefulNotes/IOSGames"
+    },
+    {
+      "property": "P6900",
+      "value": "ios"
+    },
+    {
+      "property": "P691",
+      "value": "ph730192"
+    },
+    {
+      "property": "P7556",
+      "value": "174"
+    },
+    {
+      "property": "P7623",
+      "value": "4915"
+    },
+    {
+      "property": "P7699",
+      "value": "LNB:C0iX;=Ba"
+    },
+    {
+      "property": "P7809",
+      "value": "16"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf12076535"
+    },
+    {
+      "property": "P8189",
+      "value": "987007365079805171"
+    },
+    {
+      "property": "P8313",
+      "value": "Ios"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/uk/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/tr/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/de/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/fr/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/ca/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/ca/fr/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/befr/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/benl/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/cn/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/hk/en/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/hk/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/tw/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/jp/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/kr/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/ru/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/es/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/la/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/lae/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/pt/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/br/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/mx/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/cl/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/co/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/nl/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/lu/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/chfr/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/chde/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/ie/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/it/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/at/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/gr/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/au/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/nz/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/za/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/in/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/eg/ios/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.apple.com/eg-ar/ios/"
+    },
+    {
+      "property": "P8885",
+      "value": "iOS"
+    },
+    {
+      "property": "P910",
+      "value": "Q7215721"
+    },
+    {
+      "property": "P9100",
+      "value": "ios"
+    },
+    {
+      "property": "P9346",
+      "value": "ios"
+    },
+    {
+      "property": "P9618",
+      "value": "ios"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.videogameschronicle.com/?post_type=platforms&p=271"
+    }
+  ]
+}

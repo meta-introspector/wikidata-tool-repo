@@ -1,0 +1,54 @@
+{
+  "id": "Q1964707",
+  "label": "undefined behavior",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q1437428"
+    },
+    {
+      "property": "P1269",
+      "value": "Q7248507"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/undefined-behavior"
+    },
+    {
+      "property": "P1542",
+      "value": "Q631425"
+    },
+    {
+      "property": "P1889",
+      "value": "Q4318017"
+    },
+    {
+      "property": "P279",
+      "value": "Q29485"
+    },
+    {
+      "property": "P279",
+      "value": "Q4318017"
+    },
+    {
+      "property": "P279",
+      "value": "Q123015585"
+    },
+    {
+      "property": "P366",
+      "value": "Q28057154"
+    },
+    {
+      "property": "P6366",
+      "value": "64156549"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02kjpr"
+    },
+    {
+      "property": "P828",
+      "value": "Q179550"
+    }
+  ]
+}

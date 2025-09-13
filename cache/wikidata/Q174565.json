@@ -1,0 +1,162 @@
+{
+  "id": "Q174565",
+  "label": "brackets",
+  "facts": [
+    {
+      "property": "P10017",
+      "value": "parentesi"
+    },
+    {
+      "property": "P10283",
+      "value": "C133769200"
+    },
+    {
+      "property": "P11567",
+      "value": "bracket"
+    },
+    {
+      "property": "P11586",
+      "value": "parentesi"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19219752"
+    },
+    {
+      "property": "P1343",
+      "value": "Q867541"
+    },
+    {
+      "property": "P1343",
+      "value": "Q1547546"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/bracket-punctuation"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/brackets"
+    },
+    {
+      "property": "P18",
+      "value": "Brackets.svg"
+    },
+    {
+      "property": "P2738",
+      "value": "Q23766486"
+    },
+    {
+      "property": "P279",
+      "value": "Q3241972"
+    },
+    {
+      "property": "P279",
+      "value": "Q10617810"
+    },
+    {
+      "property": "P2812",
+      "value": "Bracket"
+    },
+    {
+      "property": "P2924",
+      "value": "3623755"
+    },
+    {
+      "property": "P31",
+      "value": "Q21484471"
+    },
+    {
+      "property": "P3365",
+      "value": "parentesi"
+    },
+    {
+      "property": "P3417",
+      "value": "Brackets"
+    },
+    {
+      "property": "P3553",
+      "value": "19613670"
+    },
+    {
+      "property": "P361",
+      "value": "Q1140046"
+    },
+    {
+      "property": "P366",
+      "value": "Q1641420"
+    },
+    {
+      "property": "P366",
+      "value": "Q21075690"
+    },
+    {
+      "property": "P366",
+      "value": "Q1052775"
+    },
+    {
+      "property": "P366",
+      "value": "Q107968"
+    },
+    {
+      "property": "P366",
+      "value": "Q326277"
+    },
+    {
+      "property": "P366",
+      "value": "Q186152"
+    },
+    {
+      "property": "P366",
+      "value": "Q211577"
+    },
+    {
+      "property": "P373",
+      "value": "Brackets"
+    },
+    {
+      "property": "P4342",
+      "value": "parentes"
+    },
+    {
+      "property": "P5844",
+      "value": "parentesi"
+    },
+    {
+      "property": "P6104",
+      "value": "Q8487137"
+    },
+    {
+      "property": "P6366",
+      "value": "133769200"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0g58v"
+    },
+    {
+      "property": "P6706",
+      "value": "parèntesi"
+    },
+    {
+      "property": "P6781",
+      "value": "Symbols:Brackets"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/15216"
+    },
+    {
+      "property": "P8313",
+      "value": "parentes"
+    },
+    {
+      "property": "P8408",
+      "value": "Bracket-Support"
+    },
+    {
+      "property": "P9621",
+      "value": "parentesi"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "Q1848400",
+  "label": "SpiderMonkey",
+  "facts": [
+    {
+      "property": "P112",
+      "value": "Q92648"
+    },
+    {
+      "property": "P1324",
+      "value": "https://hg.mozilla.org/mozilla-central/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/mozilla/gecko-dev"
+    },
+    {
+      "property": "P138",
+      "value": "Q258244"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/spidermonkey"
+    },
+    {
+      "property": "P154",
+      "value": "SpiderMonkey Logo.png"
+    },
+    {
+      "property": "P170",
+      "value": "Q92648"
+    },
+    {
+      "property": "P170",
+      "value": "Q210057"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P2002",
+      "value": "SpiderMonkeyJS"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P31",
+      "value": "Q591919"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3417",
+      "value": "SpiderMonkey-JavaScript-engine"
+    },
+    {
+      "property": "P3442",
+      "value": "libmozjs-24-0"
+    },
+    {
+      "property": "P3442",
+      "value": "libmozjs-78-0"
+    },
+    {
+      "property": "P3454",
+      "value": "spidermonkey"
+    },
+    {
+      "property": "P3454",
+      "value": "js52"
+    },
+    {
+      "property": "P3454",
+      "value": "js60"
+    },
+    {
+      "property": "P3454",
+      "value": "js68"
+    },
+    {
+      "property": "P3454",
+      "value": "js78"
+    },
+    {
+      "property": "P3463",
+      "value": "mozjs52"
+    },
+    {
+      "property": "P3473",
+      "value": "libmozjs-52-0"
+    },
+    {
+      "property": "P348",
+      "value": "31"
+    },
+    {
+      "property": "P348",
+      "value": "38"
+    },
+    {
+      "property": "P348",
+      "value": "45"
+    },
+    {
+      "property": "P348",
+      "value": "52.7.2"
+    },
+    {
+      "property": "P3499",
+      "value": "dev-lang/spidermonkey"
+    },
+    {
+      "property": "P3553",
+      "value": "19875586"
+    },
+    {
+      "property": "P373",
+      "value": "SpiderMonkey"
+    },
+    {
+      "property": "P400",
+      "value": "Q174666"
+    },
+    {
+      "property": "P4033",
+      "value": "SpiderMonkey@mozilla.social"
+    },
+    {
+      "property": "P4162",
+      "value": "spidermonkey-git"
+    },
+    {
+      "property": "P4162",
+      "value": "spidermonkey-1.7"
+    },
+    {
+      "property": "P4162",
+      "value": "spidermonkey"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/019xbt"
+    },
+    {
+      "property": "P6765",
+      "value": "mozjs"
+    },
+    {
+      "property": "P6931",
+      "value": "spidermonkey"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/spidermonkey185"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/spidermonkey52"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/spidermonkey24"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/spidermonkey17"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/spidermonkey60"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/spidermonkey68"
+    },
+    {
+      "property": "P7427",
+      "value": "lang/spidermonkey78"
+    },
+    {
+      "property": "P7788",
+      "value": "mozjs128"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/mozjs68"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/spidermonkey52"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/spidermonkey"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/spidermonkey185"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/mozjs60"
+    },
+    {
+      "property": "P7966",
+      "value": "lang/mozjs78"
+    },
+    {
+      "property": "P7967",
+      "value": "devel/spidermonkey60"
+    },
+    {
+      "property": "P7967",
+      "value": "devel/spidermonkey"
+    },
+    {
+      "property": "P7967",
+      "value": "devel/spidermonkey68"
+    },
+    {
+      "property": "P7967",
+      "value": "devel/spidermonkey78"
+    },
+    {
+      "property": "P8443",
+      "value": "spidermonkey"
+    },
+    {
+      "property": "P856",
+      "value": "https://spidermonkey.dev/"
+    },
+    {
+      "property": "P856",
+      "value": "https://mozilla-spidermonkey.github.io/spidermonkey.dev"
+    },
+    {
+      "property": "P8687",
+      "value": "+1995"
+    },
+    {
+      "property": "P8687",
+      "value": "+1310"
+    },
+    {
+      "property": "P8687",
+      "value": "+1327"
+    },
+    {
+      "property": "P8687",
+      "value": "+1329"
+    }
+  ]
+}

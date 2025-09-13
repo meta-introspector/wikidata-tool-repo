@@ -1,0 +1,254 @@
+{
+  "id": "Q1572774",
+  "label": "Unicode Consortium",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "90606620"
+    },
+    {
+      "property": "P112",
+      "value": "Q3294042"
+    },
+    {
+      "property": "P112",
+      "value": "Q18098445"
+    },
+    {
+      "property": "P112",
+      "value": "Q6208549"
+    },
+    {
+      "property": "P11245",
+      "value": "unicode"
+    },
+    {
+      "property": "P1128",
+      "value": "+3"
+    },
+    {
+      "property": "P11496",
+      "value": "1140563741747217280"
+    },
+    {
+      "property": "P11915",
+      "value": "1122272639"
+    },
+    {
+      "property": "P1207",
+      "value": "n2009060438"
+    },
+    {
+      "property": "P121",
+      "value": "Q16866"
+    },
+    {
+      "property": "P1297",
+      "value": "77-0269756"
+    },
+    {
+      "property": "P1315",
+      "value": "1194555"
+    },
+    {
+      "property": "P13591",
+      "value": "group/623dce19-682f-45d8-b191-92603a682c89"
+    },
+    {
+      "property": "P1454",
+      "value": "Q18325436"
+    },
+    {
+      "property": "P1454",
+      "value": "Q18325460"
+    },
+    {
+      "property": "P154",
+      "value": "New Unicode logo.svg"
+    },
+    {
+      "property": "P1581",
+      "value": "http://blog.unicode.org/"
+    },
+    {
+      "property": "P159",
+      "value": "Q486860"
+    },
+    {
+      "property": "P2002",
+      "value": "unicode"
+    },
+    {
+      "property": "P2037",
+      "value": "unicode-org"
+    },
+    {
+      "property": "P213",
+      "value": "0000000110151126"
+    },
+    {
+      "property": "P2139",
+      "value": "+467576"
+    },
+    {
+      "property": "P2139",
+      "value": "+805760"
+    },
+    {
+      "property": "P2139",
+      "value": "+636698"
+    },
+    {
+      "property": "P2139",
+      "value": "+923831"
+    },
+    {
+      "property": "P214",
+      "value": "146111619"
+    },
+    {
+      "property": "P227",
+      "value": "3010826-3"
+    },
+    {
+      "property": "P2402",
+      "value": "+470257"
+    },
+    {
+      "property": "P2403",
+      "value": "+1520664"
+    },
+    {
+      "property": "P2403",
+      "value": "+1666439"
+    },
+    {
+      "property": "P2403",
+      "value": "+1682538"
+    },
+    {
+      "property": "P244",
+      "value": "n92064318"
+    },
+    {
+      "property": "P2572",
+      "value": "Unicodeふ"
+    },
+    {
+      "property": "P2650",
+      "value": "Q8819"
+    },
+    {
+      "property": "P269",
+      "value": "053334566"
+    },
+    {
+      "property": "P271",
+      "value": "DA07016519"
+    },
+    {
+      "property": "P3065",
+      "value": "A003919810"
+    },
+    {
+      "property": "P31",
+      "value": "Q194166"
+    },
+    {
+      "property": "P31",
+      "value": "Q1328899"
+    },
+    {
+      "property": "P31",
+      "value": "Q18325436"
+    },
+    {
+      "property": "P31",
+      "value": "Q18325460"
+    },
+    {
+      "property": "P3417",
+      "value": "Unicode-Consortium"
+    },
+    {
+      "property": "P373",
+      "value": "Unicode Consortium"
+    },
+    {
+      "property": "P409",
+      "value": "36033560"
+    },
+    {
+      "property": "P4629",
+      "value": "Unicode Consortium"
+    },
+    {
+      "property": "P488",
+      "value": "Q3294042"
+    },
+    {
+      "property": "P571",
+      "value": "+1991-01-03T00:00:00Z"
+    },
+    {
+      "property": "P6125",
+      "value": "+10"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01cyt1"
+    },
+    {
+      "property": "P6720",
+      "value": "unihan"
+    },
+    {
+      "property": "P6720",
+      "value": "unihan"
+    },
+    {
+      "property": "P8093",
+      "value": "+391556"
+    },
+    {
+      "property": "P8093",
+      "value": "+428666"
+    },
+    {
+      "property": "P8093",
+      "value": "+587164"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf11114627"
+    },
+    {
+      "property": "P8189",
+      "value": "987007335031705171"
+    },
+    {
+      "property": "P856",
+      "value": "https://home.unicode.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+14543"
+    },
+    {
+      "property": "P8687",
+      "value": "+17423"
+    },
+    {
+      "property": "P8687",
+      "value": "+18544"
+    },
+    {
+      "property": "P8687",
+      "value": "+1710"
+    },
+    {
+      "property": "P973",
+      "value": "https://home.unicode.org/about-unicode/"
+    }
+  ]
+}

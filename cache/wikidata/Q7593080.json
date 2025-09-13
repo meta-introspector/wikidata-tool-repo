@@ -1,0 +1,54 @@
+{
+  "id": "Q7593080",
+  "label": "add-on",
+  "facts": [
+    {
+      "property": "P1343",
+      "value": "Q604841"
+    },
+    {
+      "property": "P1889",
+      "value": "Q604841"
+    },
+    {
+      "property": "P1889",
+      "value": "Q184148"
+    },
+    {
+      "property": "P2561",
+      "value": "アドオン"
+    },
+    {
+      "property": "P279",
+      "value": "Q1663795"
+    },
+    {
+      "property": "P279",
+      "value": "Q184148"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla add-ons"
+    },
+    {
+      "property": "P527",
+      "value": "Q2467894"
+    },
+    {
+      "property": "P527",
+      "value": "Q15008061"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0659js"
+    },
+    {
+      "property": "P910",
+      "value": "Q6930603"
+    },
+    {
+      "property": "P9100",
+      "value": "firefox-extension"
+    }
+  ]
+}

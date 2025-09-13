@@ -1,0 +1,30 @@
+{
+  "id": "Q7099015",
+  "label": "option type",
+  "facts": [
+    {
+      "property": "P1813",
+      "value": "option"
+    },
+    {
+      "property": "P1813",
+      "value": "alternativ"
+    },
+    {
+      "property": "P279",
+      "value": "Q190087"
+    },
+    {
+      "property": "P6366",
+      "value": "150168168"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05zxhs9"
+    },
+    {
+      "property": "P9030",
+      "value": "Q7449618"
+    }
+  ]
+}

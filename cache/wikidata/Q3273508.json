@@ -1,0 +1,174 @@
+{
+  "id": "Q3273508",
+  "label": "MDN Web Docs",
+  "facts": [
+    {
+      "property": "P1019",
+      "value": "https://developer.mozilla.org/en-US/blog/rss.xml"
+    },
+    {
+      "property": "P1019",
+      "value": "https://developer.mozilla.org/en-US/blog/rss.xmlsource"
+    },
+    {
+      "property": "P127",
+      "value": "Q55672"
+    },
+    {
+      "property": "P137",
+      "value": "Q111743088"
+    },
+    {
+      "property": "P154",
+      "value": "MDN Web Docs logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "MDN Web Docs.svg"
+    },
+    {
+      "property": "P1547",
+      "value": "Q11691284"
+    },
+    {
+      "property": "P1581",
+      "value": "https://developer.mozilla.org/en-US/blog/"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.mozilla.org/#devmo"
+    },
+    {
+      "property": "P1661",
+      "value": "+95"
+    },
+    {
+      "property": "P1687",
+      "value": "P8205"
+    },
+    {
+      "property": "P18",
+      "value": "Screenshot of MDN Web Docs.png"
+    },
+    {
+      "property": "P2002",
+      "value": "MozDevNet"
+    },
+    {
+      "property": "P2037",
+      "value": "mdn"
+    },
+    {
+      "property": "P2561",
+      "value": "Mozilla Developer Center"
+    },
+    {
+      "property": "P31",
+      "value": "Q788790"
+    },
+    {
+      "property": "P31",
+      "value": "Q3133368"
+    },
+    {
+      "property": "P31",
+      "value": "Q1293664"
+    },
+    {
+      "property": "P31",
+      "value": "Q114955954"
+    },
+    {
+      "property": "P31",
+      "value": "Q35127"
+    },
+    {
+      "property": "P3417",
+      "value": "Mozilla-Developer-Network"
+    },
+    {
+      "property": "P373",
+      "value": "MDN Web Docs"
+    },
+    {
+      "property": "P4033",
+      "value": "MDN@mozilla.social"
+    },
+    {
+      "property": "P408",
+      "value": "Q25203556"
+    },
+    {
+      "property": "P4354",
+      "value": "https://developer.mozilla.org/en-US/search?q=$1"
+    },
+    {
+      "property": "P571",
+      "value": "+2005-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0d9b73"
+    },
+    {
+      "property": "P7101",
+      "value": "https://www.mozilla.org/en-US/privacy/websites/"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://developer.mozilla.org/en-US/"
+    },
+    {
+      "property": "P8687",
+      "value": "+31579"
+    },
+    {
+      "property": "P8687",
+      "value": "+38152"
+    },
+    {
+      "property": "P8687",
+      "value": "+42736"
+    },
+    {
+      "property": "P8687",
+      "value": "+1118"
+    },
+    {
+      "property": "P8687",
+      "value": "+1180"
+    },
+    {
+      "property": "P8687",
+      "value": "+1330"
+    },
+    {
+      "property": "P9138",
+      "value": "https://status.mozilla.org/"
+    },
+    {
+      "property": "P921",
+      "value": "Q8811"
+    },
+    {
+      "property": "P921",
+      "value": "Q2005"
+    },
+    {
+      "property": "P921",
+      "value": "Q46441"
+    },
+    {
+      "property": "P953",
+      "value": "https://developer.mozilla.org/"
+    }
+  ]
+}

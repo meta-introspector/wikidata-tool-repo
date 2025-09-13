@@ -1,0 +1,142 @@
+{
+  "id": "Q387313",
+  "label": "Mozilla Sunbird",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q284651"
+    },
+    {
+      "property": "P1073",
+      "value": "Q62626012"
+    },
+    {
+      "property": "P1073",
+      "value": "Q284651"
+    },
+    {
+      "property": "P1073",
+      "value": "Q935809"
+    },
+    {
+      "property": "P1365",
+      "value": "Q628187"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Sunbird 0.9 (cs).png"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P31",
+      "value": "Q2933820"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P348",
+      "value": "1.0b"
+    },
+    {
+      "property": "P348",
+      "value": "1.0 beta 1"
+    },
+    {
+      "property": "P366",
+      "value": "Q1568118"
+    },
+    {
+      "property": "P373",
+      "value": "Mozilla Sunbird"
+    },
+    {
+      "property": "P400",
+      "value": "Q1406"
+    },
+    {
+      "property": "P400",
+      "value": "Q189794"
+    },
+    {
+      "property": "P400",
+      "value": "Q14646"
+    },
+    {
+      "property": "P400",
+      "value": "Q307032"
+    },
+    {
+      "property": "P400",
+      "value": "Q14116"
+    },
+    {
+      "property": "P400",
+      "value": "Q388"
+    },
+    {
+      "property": "P4969",
+      "value": "Q7711535"
+    },
+    {
+      "property": "P4969",
+      "value": "Q30242799"
+    },
+    {
+      "property": "P571",
+      "value": "+2005-02-04T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+2005-02-04T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "1941"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02fh4l"
+    },
+    {
+      "property": "P856",
+      "value": "http://www.mozilla.org/projects/calendar/sunbird/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mozilla.org/en-US/projects/calendar/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www-archive.mozilla.org/projects/calendar/sunbird/download"
+    }
+  ]
+}

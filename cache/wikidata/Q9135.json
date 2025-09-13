@@ -1,0 +1,770 @@
+{
+  "id": "Q9135",
+  "label": "operating system",
+  "facts": [
+    {
+      "property": "P1014",
+      "value": "300235851"
+    },
+    {
+      "property": "P10283",
+      "value": "C111919701"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/operating-systems"
+    },
+    {
+      "property": "P10376",
+      "value": "economics-econometrics-and-finance/operating-system"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/computer-operating-systems"
+    },
+    {
+      "property": "P1051",
+      "value": "12499"
+    },
+    {
+      "property": "P10565",
+      "value": "149160"
+    },
+    {
+      "property": "P11129",
+      "value": "Betriebssystem"
+    },
+    {
+      "property": "P11302",
+      "value": "321"
+    },
+    {
+      "property": "P1151",
+      "value": "Q108630976"
+    },
+    {
+      "property": "P11514",
+      "value": "operatsionnaia-sistema-0a02e0"
+    },
+    {
+      "property": "P11567",
+      "value": "operating-system"
+    },
+    {
+      "property": "P11567",
+      "value": "os"
+    },
+    {
+      "property": "P12086",
+      "value": "Besturingssysteem"
+    },
+    {
+      "property": "P12385",
+      "value": "sistema-operatiu"
+    },
+    {
+      "property": "P1245",
+      "value": "487336"
+    },
+    {
+      "property": "P12596",
+      "value": "13142"
+    },
+    {
+      "property": "P12800",
+      "value": "en:Operating_system"
+    },
+    {
+      "property": "P12800",
+      "value": "it:Sistema_operativo"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Sistema_operativo"
+    },
+    {
+      "property": "P12800",
+      "value": "ca:Sistema_operatiu"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Système_d'exploitation"
+    },
+    {
+      "property": "P12800",
+      "value": "ru:Операционная_система"
+    },
+    {
+      "property": "P12861",
+      "value": "E102"
+    },
+    {
+      "property": "P12861",
+      "value": "E179"
+    },
+    {
+      "property": "P12946",
+      "value": "operating+system"
+    },
+    {
+      "property": "P1296",
+      "value": "0142997"
+    },
+    {
+      "property": "P13397",
+      "value": "OperatingSystem"
+    },
+    {
+      "property": "P13411",
+      "value": "Q51"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/fdd4db0c-039b-414c-8505-5c3561688acb"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/operating-system"
+    },
+    {
+      "property": "P1424",
+      "value": "Q5856866"
+    },
+    {
+      "property": "P1424",
+      "value": "Q6326708"
+    },
+    {
+      "property": "P1424",
+      "value": "Q7731997"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/operating-system"
+    },
+    {
+      "property": "P155",
+      "value": "Q9662"
+    },
+    {
+      "property": "P1687",
+      "value": "P306"
+    },
+    {
+      "property": "P1813",
+      "value": "OS"
+    },
+    {
+      "property": "P1813",
+      "value": "OS"
+    },
+    {
+      "property": "P1813",
+      "value": "ОС"
+    },
+    {
+      "property": "P1813",
+      "value": "SO"
+    },
+    {
+      "property": "P1813",
+      "value": "ΛΣ"
+    },
+    {
+      "property": "P1813",
+      "value": "SO"
+    },
+    {
+      "property": "P1813",
+      "value": "SO"
+    },
+    {
+      "property": "P1813",
+      "value": "ОС"
+    },
+    {
+      "property": "P1813",
+      "value": "ОС"
+    },
+    {
+      "property": "P1813",
+      "value": "OS"
+    },
+    {
+      "property": "P1813",
+      "value": "SO"
+    },
+    {
+      "property": "P1813",
+      "value": "OS"
+    },
+    {
+      "property": "P1813",
+      "value": "ՕՀ"
+    },
+    {
+      "property": "P1813",
+      "value": "オーエス"
+    },
+    {
+      "property": "P1813",
+      "value": "АС"
+    },
+    {
+      "property": "P1813",
+      "value": "ОС"
+    },
+    {
+      "property": "P1813",
+      "value": "ОС"
+    },
+    {
+      "property": "P1813",
+      "value": "SO"
+    },
+    {
+      "property": "P1813",
+      "value": "SE"
+    },
+    {
+      "property": "P1963",
+      "value": "P571"
+    },
+    {
+      "property": "P1963",
+      "value": "P577"
+    },
+    {
+      "property": "P1963",
+      "value": "P178"
+    },
+    {
+      "property": "P1963",
+      "value": "P400"
+    },
+    {
+      "property": "P1963",
+      "value": "P144"
+    },
+    {
+      "property": "P1963",
+      "value": "P277"
+    },
+    {
+      "property": "P1963",
+      "value": "P12561"
+    },
+    {
+      "property": "P2163",
+      "value": "1046280"
+    },
+    {
+      "property": "P2184",
+      "value": "Q1143393"
+    },
+    {
+      "property": "P2263",
+      "value": "2572"
+    },
+    {
+      "property": "P227",
+      "value": "4006216-8"
+    },
+    {
+      "property": "P2347",
+      "value": "724"
+    },
+    {
+      "property": "P2354",
+      "value": "Q756435"
+    },
+    {
+      "property": "P244",
+      "value": "sh85094982"
+    },
+    {
+      "property": "P2579",
+      "value": "Q21198"
+    },
+    {
+      "property": "P2581",
+      "value": "00059123n"
+    },
+    {
+      "property": "P2670",
+      "value": "Q30059018"
+    },
+    {
+      "property": "P268",
+      "value": "119333481"
+    },
+    {
+      "property": "P279",
+      "value": "Q676202"
+    },
+    {
+      "property": "P2924",
+      "value": "2690545"
+    },
+    {
+      "property": "P2959",
+      "value": "Q96464904"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3219",
+      "value": "systemes-d-exploitation"
+    },
+    {
+      "property": "P3219",
+      "value": "systemes-d-exploitation-informatique"
+    },
+    {
+      "property": "P3219",
+      "value": "systemes-d-exploitation-reperes-chronologiques"
+    },
+    {
+      "property": "P3365",
+      "value": "sistema-operativo"
+    },
+    {
+      "property": "P3381",
+      "value": "Operating_Systems"
+    },
+    {
+      "property": "P3417",
+      "value": "Operating-Systems"
+    },
+    {
+      "property": "P349",
+      "value": "00865121"
+    },
+    {
+      "property": "P3553",
+      "value": "19552686"
+    },
+    {
+      "property": "P3569",
+      "value": "techologie-en-techniek/operating-system"
+    },
+    {
+      "property": "P361",
+      "value": "Q241317"
+    },
+    {
+      "property": "P373",
+      "value": "Operating systems"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.3.53.2.16"
+    },
+    {
+      "property": "P3827",
+      "value": "operating-systems"
+    },
+    {
+      "property": "P3847",
+      "value": "operating_systems_(computers)"
+    },
+    {
+      "property": "P3847",
+      "value": "operating_systems"
+    },
+    {
+      "property": "P3911",
+      "value": "18139-0"
+    },
+    {
+      "property": "P3984",
+      "value": "Operatingsystems"
+    },
+    {
+      "property": "P3984",
+      "value": "operatingsystem"
+    },
+    {
+      "property": "P4212",
+      "value": "pcrtQivhypInYu"
+    },
+    {
+      "property": "P4342",
+      "value": "operativsystem"
+    },
+    {
+      "property": "P4746",
+      "value": "033834"
+    },
+    {
+      "property": "P4801",
+      "value": "preservation/environmentFunctionType/ops"
+    },
+    {
+      "property": "P4801",
+      "value": "preservation/softwareType/ops"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Concept\", \"OperatingSystem::8bhpb\"]"
+    },
+    {
+      "property": "P5008",
+      "value": "Q5460604"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P508",
+      "value": "6140"
+    },
+    {
+      "property": "P5250",
+      "value": "615"
+    },
+    {
+      "property": "P527",
+      "value": "Q9662"
+    },
+    {
+      "property": "P527",
+      "value": "Q174989"
+    },
+    {
+      "property": "P527",
+      "value": "Q3761391"
+    },
+    {
+      "property": "P527",
+      "value": "Q1123036"
+    },
+    {
+      "property": "P527",
+      "value": "Q228502"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZyYUdnU0FuSjFLQUFQAQ"
+    },
+    {
+      "property": "P5379",
+      "value": "1006"
+    },
+    {
+      "property": "P5398",
+      "value": "000000046"
+    },
+    {
+      "property": "P5437",
+      "value": "5919"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-pt.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-ru.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-pl.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-mk.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-mg.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-lv.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-kaa.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-ka.jpg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-ja.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-it.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-id.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-hu.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-hr.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-he.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-fr.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-fa.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-eu.png"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-es.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-sk.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-sl.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-sr.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-sv.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-tr.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-uk.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-uz.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-vec.jpeg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-zh-cn.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-zh-hk.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-zh-tw.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement bg.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement kor.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-af.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-ar.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-as.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-be-tarask.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-bn.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-cs.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-de.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-el.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Operating system placement-eo.svg"
+    },
+    {
+      "property": "P5555",
+      "value": "Role of the operating system sinhala.png"
+    },
+    {
+      "property": "P5922",
+      "value": "080307"
+    },
+    {
+      "property": "P6058",
+      "value": "divers/système_dexploitation/95443"
+    },
+    {
+      "property": "P6104",
+      "value": "Q15659621"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:Operating_system"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Operating_system"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Operating_System"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Operating_system"
+    },
+    {
+      "property": "P6262",
+      "value": "google:Operating_System"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Operating_system"
+    },
+    {
+      "property": "P6293",
+      "value": "Y96669"
+    },
+    {
+      "property": "P6366",
+      "value": "111919701"
+    },
+    {
+      "property": "P6385",
+      "value": "nauka_i_tehnika/tehnologiya_i_promyshlennost/OPERATSIONNAYA_SISTEMA.html"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05khh"
+    },
+    {
+      "property": "P6611",
+      "value": "1367"
+    },
+    {
+      "property": "P6706",
+      "value": "operativo,+sistèma"
+    },
+    {
+      "property": "P6900",
+      "value": "オペレーティングシステム"
+    },
+    {
+      "property": "P691",
+      "value": "ph115593"
+    },
+    {
+      "property": "P7033",
+      "value": "technicalRequirement/os"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/11683"
+    },
+    {
+      "property": "P8189",
+      "value": "987007548430005171"
+    },
+    {
+      "property": "P8309",
+      "value": "18-897"
+    },
+    {
+      "property": "P8313",
+      "value": "styresystem"
+    },
+    {
+      "property": "P8408",
+      "value": "OperatingSystem"
+    },
+    {
+      "property": "P8519",
+      "value": "80803"
+    },
+    {
+      "property": "P8529",
+      "value": "460610"
+    },
+    {
+      "property": "P8672",
+      "value": "1266428828773019648"
+    },
+    {
+      "property": "P8814",
+      "value": "06580310-n"
+    },
+    {
+      "property": "P8834",
+      "value": "operatingSystem"
+    },
+    {
+      "property": "P8855",
+      "value": "171-05-01"
+    },
+    {
+      "property": "P8885",
+      "value": "운영체제"
+    },
+    {
+      "property": "P910",
+      "value": "Q7145843"
+    },
+    {
+      "property": "P9100",
+      "value": "operating-system"
+    },
+    {
+      "property": "P9100",
+      "value": "operating-systems"
+    },
+    {
+      "property": "P9322",
+      "value": "h0000464-operacni-systemy"
+    }
+  ]
+}

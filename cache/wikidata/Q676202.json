@@ -1,0 +1,102 @@
+{
+  "id": "Q676202",
+  "label": "system software",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C2779960034"
+    },
+    {
+      "property": "P10565",
+      "value": "149202"
+    },
+    {
+      "property": "P12946",
+      "value": "system+software"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/eb936244-b9e5-4507-99f5-f5d2591bbc9d"
+    },
+    {
+      "property": "P1382",
+      "value": "Q30059018"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/system-software"
+    },
+    {
+      "property": "P227",
+      "value": "4121754-8"
+    },
+    {
+      "property": "P244",
+      "value": "sh89000200"
+    },
+    {
+      "property": "P2581",
+      "value": "00075772n"
+    },
+    {
+      "property": "P268",
+      "value": "122152640"
+    },
+    {
+      "property": "P279",
+      "value": "Q7397"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3417",
+      "value": "System-Software"
+    },
+    {
+      "property": "P3553",
+      "value": "19683591"
+    },
+    {
+      "property": "P373",
+      "value": "System software"
+    },
+    {
+      "property": "P3827",
+      "value": "systems-software"
+    },
+    {
+      "property": "P4212",
+      "value": "pcrtgzEJltKZtQ"
+    },
+    {
+      "property": "P4746",
+      "value": "077717"
+    },
+    {
+      "property": "P6366",
+      "value": "2779960034"
+    },
+    {
+      "property": "P646",
+      "value": "/m/019w4r"
+    },
+    {
+      "property": "P8189",
+      "value": "987007534296605171"
+    },
+    {
+      "property": "P8408",
+      "value": "SystemSoftware"
+    },
+    {
+      "property": "P8834",
+      "value": "systemSoftware"
+    },
+    {
+      "property": "P910",
+      "value": "Q7032259"
+    }
+  ]
+}

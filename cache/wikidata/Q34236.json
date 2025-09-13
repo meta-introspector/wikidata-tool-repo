@@ -1,0 +1,430 @@
+{
+  "id": "Q34236",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P11947",
+      "value": "freebsd@lemmy.ml"
+    },
+    {
+      "property": "P11947",
+      "value": "freebsd@midwest.social"
+    },
+    {
+      "property": "P12086",
+      "value": "FreeBSD"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:FreeBSD"
+    },
+    {
+      "property": "P1324",
+      "value": "https://svnweb.freebsd.org/"
+    },
+    {
+      "property": "P1324",
+      "value": "http://BXR.SU/FreeBSD/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/freebsd/freebsd"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/freebsd/freebsd-ports"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/freebsd/freebsd-doc"
+    },
+    {
+      "property": "P1324",
+      "value": "https://svn.freebsd.org/base/"
+    },
+    {
+      "property": "P1324",
+      "value": "https://git.freebsd.org/src.git"
+    },
+    {
+      "property": "P1324",
+      "value": "https://cgit.freebsd.org"
+    },
+    {
+      "property": "P1401",
+      "value": "https://bugs.freebsd.org/bugzilla/"
+    },
+    {
+      "property": "P144",
+      "value": "Q34264"
+    },
+    {
+      "property": "P144",
+      "value": "Q228413"
+    },
+    {
+      "property": "P154",
+      "value": "FreeBSD textlogo.svg"
+    },
+    {
+      "property": "P18",
+      "value": "FreeBSD80WellComeScreen.PNG"
+    },
+    {
+      "property": "P18",
+      "value": "KDE Plasma 5.23 on FreeBSD 13.0 screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "freebsd"
+    },
+    {
+      "property": "P2078",
+      "value": "https://docs.freebsd.org/"
+    },
+    {
+      "property": "P2078",
+      "value": "https://wiki.freebsd.org/"
+    },
+    {
+      "property": "P214",
+      "value": "184084280"
+    },
+    {
+      "property": "P227",
+      "value": "4529581-5"
+    },
+    {
+      "property": "P244",
+      "value": "no96008251"
+    },
+    {
+      "property": "P275",
+      "value": "Q21503790"
+    },
+    {
+      "property": "P275",
+      "value": "Q18491847"
+    },
+    {
+      "property": "P275",
+      "value": "Q386474"
+    },
+    {
+      "property": "P275",
+      "value": "Q18517294"
+    },
+    {
+      "property": "P3033",
+      "value": "Q4047013"
+    },
+    {
+      "property": "P31",
+      "value": "Q58636917"
+    },
+    {
+      "property": "P31",
+      "value": "Q20983788"
+    },
+    {
+      "property": "P3112",
+      "value": "freebsd"
+    },
+    {
+      "property": "P3417",
+      "value": "FreeBSD"
+    },
+    {
+      "property": "P348",
+      "value": "8.4"
+    },
+    {
+      "property": "P348",
+      "value": "9.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.0"
+    },
+    {
+      "property": "P348",
+      "value": "10.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.2"
+    },
+    {
+      "property": "P348",
+      "value": "9.3"
+    },
+    {
+      "property": "P348",
+      "value": "10.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.8"
+    },
+    {
+      "property": "P348",
+      "value": "2.2.9"
+    },
+    {
+      "property": "P348",
+      "value": "10.3"
+    },
+    {
+      "property": "P348",
+      "value": "11.0"
+    },
+    {
+      "property": "P348",
+      "value": "11.2"
+    },
+    {
+      "property": "P348",
+      "value": "12.0"
+    },
+    {
+      "property": "P348",
+      "value": "11.3"
+    },
+    {
+      "property": "P348",
+      "value": "12.1"
+    },
+    {
+      "property": "P348",
+      "value": "11.4"
+    },
+    {
+      "property": "P348",
+      "value": "12.2"
+    },
+    {
+      "property": "P348",
+      "value": "13.0"
+    },
+    {
+      "property": "P348",
+      "value": "13.1"
+    },
+    {
+      "property": "P348",
+      "value": "12.4-RC2"
+    },
+    {
+      "property": "P348",
+      "value": "12.4"
+    },
+    {
+      "property": "P348",
+      "value": "13.2-RC1"
+    },
+    {
+      "property": "P348",
+      "value": "13.2-RC2"
+    },
+    {
+      "property": "P348",
+      "value": "13.2-RC3"
+    },
+    {
+      "property": "P348",
+      "value": "13.2-RC4"
+    },
+    {
+      "property": "P348",
+      "value": "13.2-RC5"
+    },
+    {
+      "property": "P348",
+      "value": "13.2-RC6"
+    },
+    {
+      "property": "P348",
+      "value": "13.2"
+    },
+    {
+      "property": "P348",
+      "value": "14.0"
+    },
+    {
+      "property": "P348",
+      "value": "13.3"
+    },
+    {
+      "property": "P348",
+      "value": "14.1"
+    },
+    {
+      "property": "P348",
+      "value": "13.4"
+    },
+    {
+      "property": "P348",
+      "value": "14.2"
+    },
+    {
+      "property": "P348",
+      "value": "13.5"
+    },
+    {
+      "property": "P348",
+      "value": "14.3"
+    },
+    {
+      "property": "P3553",
+      "value": "19559237"
+    },
+    {
+      "property": "P3721",
+      "value": "1CF7 FF6F ADF5 CA9F BE1B  8CB2 ED67 ECD6 5DCF 6AE7"
+    },
+    {
+      "property": "P3721",
+      "value": "FA97 AA04 4DF9 0969 D5EF  4ADA 3CB2 EAFC C3D6 C666"
+    },
+    {
+      "property": "P3721",
+      "value": "C07B F5E3 10AE 64BF 6120  B0F6 36A7 C05F E1EC F9BB"
+    },
+    {
+      "property": "P3721",
+      "value": "FB37 45C8 6F15 E8ED AC81  32FC D829 4EC3 BBC4 D7D5"
+    },
+    {
+      "property": "P373",
+      "value": "FreeBSD"
+    },
+    {
+      "property": "P3847",
+      "value": "freebsd"
+    },
+    {
+      "property": "P3984",
+      "value": "freebsd"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P400",
+      "value": "Q272629"
+    },
+    {
+      "property": "P400",
+      "value": "Q273190"
+    },
+    {
+      "property": "P400",
+      "value": "Q858065"
+    },
+    {
+      "property": "P400",
+      "value": "Q209860"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P400",
+      "value": "Q527464"
+    },
+    {
+      "property": "P400",
+      "value": "Q17637401"
+    },
+    {
+      "property": "P4107",
+      "value": "freebsd"
+    },
+    {
+      "property": "P571",
+      "value": "+1993-11-01T00:00:00Z"
+    },
+    {
+      "property": "P577",
+      "value": "+1993-11-01T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02ydx"
+    },
+    {
+      "property": "P6720",
+      "value": "freebsdman"
+    },
+    {
+      "property": "P691",
+      "value": "ph182366"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf11832966"
+    },
+    {
+      "property": "P8189",
+      "value": "987007365079205171"
+    },
+    {
+      "property": "P822",
+      "value": "Q796990"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.freebsd.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+28282"
+    },
+    {
+      "property": "P8934",
+      "value": "https://lists.freebsd.org/pipermail/freebsd-announce/"
+    },
+    {
+      "property": "P8934",
+      "value": "https://lists.freebsd.org/mailman/listinfo"
+    },
+    {
+      "property": "P8934",
+      "value": "https://docs.freebsd.org/mail/"
+    },
+    {
+      "property": "P8934",
+      "value": "https://lists.freebsd.org/archives/freebsd-announce/"
+    },
+    {
+      "property": "P910",
+      "value": "Q8471857"
+    },
+    {
+      "property": "P9100",
+      "value": "freebsd"
+    },
+    {
+      "property": "P9618",
+      "value": "freebsd"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Q1199356",
+  "label": "standard library",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "computer-science/standard-library"
+    },
+    {
+      "property": "P1269",
+      "value": "Q9143"
+    },
+    {
+      "property": "P279",
+      "value": "Q188860"
+    },
+    {
+      "property": "P2888",
+      "value": "http://dbpedia.org/resource/Standard_library"
+    },
+    {
+      "property": "P2888",
+      "value": "http://yago-knowledge.org/resource/Standard_library"
+    },
+    {
+      "property": "P31",
+      "value": "Q17155032"
+    },
+    {
+      "property": "P3553",
+      "value": "19595379"
+    },
+    {
+      "property": "P646",
+      "value": "/m/020wc4"
+    }
+  ]
+}

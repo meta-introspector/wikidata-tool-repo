@@ -1,0 +1,118 @@
+{
+  "id": "Q5296",
+  "label": "Wikimedia main page",
+  "facts": [
+    {
+      "property": "P10",
+      "value": "Wikimedia Italia - WikiGuida 3 - Wikisource.ogv"
+    },
+    {
+      "property": "P11143",
+      "value": "Main Page"
+    },
+    {
+      "property": "P1204",
+      "value": "Q11439"
+    },
+    {
+      "property": "P18",
+      "value": "Wikipedia Main Page.png"
+    },
+    {
+      "property": "P279",
+      "value": "Q17379835"
+    },
+    {
+      "property": "P279",
+      "value": "Q11439"
+    },
+    {
+      "property": "P2959",
+      "value": "Q25707357"
+    },
+    {
+      "property": "P2959",
+      "value": "Q113111988"
+    },
+    {
+      "property": "P2959",
+      "value": "Q20979815"
+    },
+    {
+      "property": "P2959",
+      "value": "Q65442933"
+    },
+    {
+      "property": "P31",
+      "value": "Q17442446"
+    },
+    {
+      "property": "P31",
+      "value": "Q14204246"
+    },
+    {
+      "property": "P31",
+      "value": "Q15633587"
+    },
+    {
+      "property": "P31",
+      "value": "Q4663903"
+    },
+    {
+      "property": "P3417",
+      "value": "Wikipedia-Landing-Page"
+    },
+    {
+      "property": "P460",
+      "value": "Q20979815"
+    },
+    {
+      "property": "P460",
+      "value": "Q20981262"
+    },
+    {
+      "property": "P460",
+      "value": "Q21167895"
+    },
+    {
+      "property": "P460",
+      "value": "Q21450927"
+    },
+    {
+      "property": "P460",
+      "value": "Q21450997"
+    },
+    {
+      "property": "P460",
+      "value": "Q21450990"
+    },
+    {
+      "property": "P460",
+      "value": "Q25639764"
+    },
+    {
+      "property": "P460",
+      "value": "Q25639786"
+    },
+    {
+      "property": "P460",
+      "value": "Q105659176"
+    },
+    {
+      "property": "P460",
+      "value": "Q21169975"
+    },
+    {
+      "property": "P747",
+      "value": "Q109974408"
+    },
+    {
+      "property": "P910",
+      "value": "Q5612559"
+    },
+    {
+      "property": "P9214",
+      "value": "https://en.wikipedia.org/wiki/Wikipedia:FAQ/Main_Page"
+    }
+  ]
+}

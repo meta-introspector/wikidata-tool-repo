@@ -1,0 +1,614 @@
+{
+  "id": "Q169478",
+  "label": "MATLAB",
+  "facts": [
+    {
+      "property": "P1015",
+      "value": "90605893"
+    },
+    {
+      "property": "P10227",
+      "value": "vtls002070364"
+    },
+    {
+      "property": "P10283",
+      "value": "C2780365114"
+    },
+    {
+      "property": "P10376",
+      "value": "mathematics/matlab"
+    },
+    {
+      "property": "P1051",
+      "value": "13889"
+    },
+    {
+      "property": "P1072",
+      "value": "Q15938816"
+    },
+    {
+      "property": "P1072",
+      "value": "Q1069215"
+    },
+    {
+      "property": "P1072",
+      "value": "Q28770627"
+    },
+    {
+      "property": "P1072",
+      "value": "Q28771107"
+    },
+    {
+      "property": "P1072",
+      "value": "Q28770728"
+    },
+    {
+      "property": "P1072",
+      "value": "Q28771220"
+    },
+    {
+      "property": "P1072",
+      "value": "Q28771221"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105852739"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105861394"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105861951"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105861997"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105862193"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105864044"
+    },
+    {
+      "property": "P1072",
+      "value": "Q105864513"
+    },
+    {
+      "property": "P1072",
+      "value": "Q113046211"
+    },
+    {
+      "property": "P1072",
+      "value": "Q28206508"
+    },
+    {
+      "property": "P1073",
+      "value": "Q15938816"
+    },
+    {
+      "property": "P1073",
+      "value": "Q1069215"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105852739"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105861951"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105861997"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105862193"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105864044"
+    },
+    {
+      "property": "P1073",
+      "value": "Q105864513"
+    },
+    {
+      "property": "P1073",
+      "value": "Q113046211"
+    },
+    {
+      "property": "P11196",
+      "value": "matlab"
+    },
+    {
+      "property": "P11245",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P11686",
+      "value": "981060555939706706"
+    },
+    {
+      "property": "P1195",
+      "value": "m"
+    },
+    {
+      "property": "P1195",
+      "value": "p"
+    },
+    {
+      "property": "P1195",
+      "value": "mat"
+    },
+    {
+      "property": "P1195",
+      "value": "mlapp"
+    },
+    {
+      "property": "P1195",
+      "value": "mltbx"
+    },
+    {
+      "property": "P1195",
+      "value": "mlx"
+    },
+    {
+      "property": "P1195",
+      "value": "mlappinstall"
+    },
+    {
+      "property": "P1195",
+      "value": "mlpkginstall"
+    },
+    {
+      "property": "P12695",
+      "value": "Matlab"
+    },
+    {
+      "property": "P12873",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/MATLAB"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://psychology.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://math.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://electronics.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://scicomp.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://dsp.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://askubuntu.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://mathematica.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://tex.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://unix.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://or.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stats.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P1482",
+      "value": "https://quantumcomputing.stackexchange.com/tags/matlab"
+    },
+    {
+      "property": "P154",
+      "value": "Matlab Logo.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q1518683"
+    },
+    {
+      "property": "P178",
+      "value": "Q92871"
+    },
+    {
+      "property": "P18",
+      "value": "Matlab plot sinc.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q14943842"
+    },
+    {
+      "property": "P1889",
+      "value": "Q37805571"
+    },
+    {
+      "property": "P195",
+      "value": "Q131847864"
+    },
+    {
+      "property": "P195",
+      "value": "Q3979414"
+    },
+    {
+      "property": "P2002",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P214",
+      "value": "178697808"
+    },
+    {
+      "property": "P2283",
+      "value": "Q37805571"
+    },
+    {
+      "property": "P2347",
+      "value": "12929"
+    },
+    {
+      "property": "P2397",
+      "value": "UCgdHSFcXvkN6O3NXvif0-pA"
+    },
+    {
+      "property": "P244",
+      "value": "n92036881"
+    },
+    {
+      "property": "P268",
+      "value": "12488192g"
+    },
+    {
+      "property": "P269",
+      "value": "03409038X"
+    },
+    {
+      "property": "P275",
+      "value": "Q3238057"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q83303"
+    },
+    {
+      "property": "P277",
+      "value": "Q251"
+    },
+    {
+      "property": "P287",
+      "value": "Q92871"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14116"
+    },
+    {
+      "property": "P306",
+      "value": "Q388"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q1639024"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P3280",
+      "value": "0000443696"
+    },
+    {
+      "property": "P3348",
+      "value": "59208"
+    },
+    {
+      "property": "P3417",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P348",
+      "value": "R2015a"
+    },
+    {
+      "property": "P348",
+      "value": "R2015b"
+    },
+    {
+      "property": "P348",
+      "value": "R2016a"
+    },
+    {
+      "property": "P348",
+      "value": "R2016b"
+    },
+    {
+      "property": "P348",
+      "value": "R2017a"
+    },
+    {
+      "property": "P348",
+      "value": "R2017b"
+    },
+    {
+      "property": "P348",
+      "value": "R2018a"
+    },
+    {
+      "property": "P348",
+      "value": "R2018b"
+    },
+    {
+      "property": "P348",
+      "value": "R2019a"
+    },
+    {
+      "property": "P348",
+      "value": "R2019b"
+    },
+    {
+      "property": "P348",
+      "value": "R2020a"
+    },
+    {
+      "property": "P348",
+      "value": "R2020b"
+    },
+    {
+      "property": "P348",
+      "value": "R2021a"
+    },
+    {
+      "property": "P348",
+      "value": "R2021b"
+    },
+    {
+      "property": "P348",
+      "value": "R2022a"
+    },
+    {
+      "property": "P348",
+      "value": "R2022b"
+    },
+    {
+      "property": "P348",
+      "value": "R2023a"
+    },
+    {
+      "property": "P348",
+      "value": "R2023b"
+    },
+    {
+      "property": "P348",
+      "value": "R2023b Update 6"
+    },
+    {
+      "property": "P348",
+      "value": "R2023b Update 7"
+    },
+    {
+      "property": "P348",
+      "value": "R2024a"
+    },
+    {
+      "property": "P348",
+      "value": "R2024a Update 1"
+    },
+    {
+      "property": "P348",
+      "value": "R2024a Update 3"
+    },
+    {
+      "property": "P348",
+      "value": "R2024b"
+    },
+    {
+      "property": "P348",
+      "value": "R2025a"
+    },
+    {
+      "property": "P3553",
+      "value": "19559252"
+    },
+    {
+      "property": "P366",
+      "value": "Q11216"
+    },
+    {
+      "property": "P366",
+      "value": "Q217602"
+    },
+    {
+      "property": "P366",
+      "value": "Q6504956"
+    },
+    {
+      "property": "P373",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P3984",
+      "value": "matlab"
+    },
+    {
+      "property": "P4342",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P4644",
+      "value": "c3a03c5a-c260-4c26-9b9a-873abb396f4d"
+    },
+    {
+      "property": "P4969",
+      "value": "Q5088978"
+    },
+    {
+      "property": "P571",
+      "value": "+1984-01-01T00:00:00Z"
+    },
+    {
+      "property": "P600",
+      "value": "49"
+    },
+    {
+      "property": "P6104",
+      "value": "Q15659621"
+    },
+    {
+      "property": "P6104",
+      "value": "Q6526225"
+    },
+    {
+      "property": "P6104",
+      "value": "Q15706608"
+    },
+    {
+      "property": "P6104",
+      "value": "Q21829676"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6366",
+      "value": "2780365114"
+    },
+    {
+      "property": "P646",
+      "value": "/m/053_x"
+    },
+    {
+      "property": "P6665",
+      "value": "1470"
+    },
+    {
+      "property": "P6830",
+      "value": "558"
+    },
+    {
+      "property": "P691",
+      "value": "ph117047"
+    },
+    {
+      "property": "P7039",
+      "value": "000082367"
+    },
+    {
+      "property": "P7369",
+      "value": "000811852"
+    },
+    {
+      "property": "P7726",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf13678813"
+    },
+    {
+      "property": "P8189",
+      "value": "987007289707705171"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.mathworks.com/products/matlab.html"
+    },
+    {
+      "property": "P856",
+      "value": "https://de.mathworks.com/products/matlab.html"
+    },
+    {
+      "property": "P8687",
+      "value": "+448000"
+    },
+    {
+      "property": "P8687",
+      "value": "+505000"
+    },
+    {
+      "property": "P8687",
+      "value": "+556000"
+    },
+    {
+      "property": "P8885",
+      "value": "MATLAB"
+    },
+    {
+      "property": "P910",
+      "value": "Q26853765"
+    },
+    {
+      "property": "P9100",
+      "value": "matlab"
+    },
+    {
+      "property": "P9618",
+      "value": "matlab"
+    },
+    {
+      "property": "P973",
+      "value": "https://tapor.ca/tools/1483"
+    },
+    {
+      "property": "P973",
+      "value": "https://marketplace.sshopencloud.eu/tool-or-service/UwZT1R"
+    },
+    {
+      "property": "P9984",
+      "value": "981060555939706706"
+    }
+  ]
+}

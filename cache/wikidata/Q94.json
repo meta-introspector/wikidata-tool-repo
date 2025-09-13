@@ -1,0 +1,1234 @@
+{
+  "id": "Q94",
+  "label": "Android",
+  "facts": [
+    {
+      "property": "P10",
+      "value": "Android.webm"
+    },
+    {
+      "property": "P1015",
+      "value": "12064211"
+    },
+    {
+      "property": "P10227",
+      "value": "vtls002066420"
+    },
+    {
+      "property": "P10283",
+      "value": "C3017891749"
+    },
+    {
+      "property": "P10283",
+      "value": "C557433098"
+    },
+    {
+      "property": "P10283",
+      "value": "C2988045736"
+    },
+    {
+      "property": "P10283",
+      "value": "C2989133298"
+    },
+    {
+      "property": "P1036",
+      "value": "005.25"
+    },
+    {
+      "property": "P1036",
+      "value": "005.445"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/android"
+    },
+    {
+      "property": "P10376",
+      "value": "psychology/android"
+    },
+    {
+      "property": "P10376",
+      "value": "mathematics/android"
+    },
+    {
+      "property": "P1051",
+      "value": "13972"
+    },
+    {
+      "property": "P1072",
+      "value": "Q27863097"
+    },
+    {
+      "property": "P1072",
+      "value": "Q27863188"
+    },
+    {
+      "property": "P1072",
+      "value": "Q1194435"
+    },
+    {
+      "property": "P1072",
+      "value": "Q219848"
+    },
+    {
+      "property": "P1072",
+      "value": "Q42591"
+    },
+    {
+      "property": "P1072",
+      "value": "Q10610388"
+    },
+    {
+      "property": "P1072",
+      "value": "Q188199"
+    },
+    {
+      "property": "P1072",
+      "value": "Q217570"
+    },
+    {
+      "property": "P1072",
+      "value": "Q26329975"
+    },
+    {
+      "property": "P1072",
+      "value": "Q2192"
+    },
+    {
+      "property": "P1072",
+      "value": "Q178051"
+    },
+    {
+      "property": "P1072",
+      "value": "Q683670"
+    },
+    {
+      "property": "P1072",
+      "value": "Q309440"
+    },
+    {
+      "property": "P1072",
+      "value": "Q336316"
+    },
+    {
+      "property": "P1072",
+      "value": "Q192869"
+    },
+    {
+      "property": "P1072",
+      "value": "Q223535"
+    },
+    {
+      "property": "P1073",
+      "value": "Q336316"
+    },
+    {
+      "property": "P1073",
+      "value": "Q27863188"
+    },
+    {
+      "property": "P1073",
+      "value": "Q27996264"
+    },
+    {
+      "property": "P1073",
+      "value": "Q178051"
+    },
+    {
+      "property": "P1073",
+      "value": "Q309440"
+    },
+    {
+      "property": "P1073",
+      "value": "Q683670"
+    },
+    {
+      "property": "P1073",
+      "value": "Q223535"
+    },
+    {
+      "property": "P1073",
+      "value": "Q27863097"
+    },
+    {
+      "property": "P1073",
+      "value": "Q1194435"
+    },
+    {
+      "property": "P1073",
+      "value": "Q217570"
+    },
+    {
+      "property": "P11196",
+      "value": "android"
+    },
+    {
+      "property": "P112",
+      "value": "Q7323368"
+    },
+    {
+      "property": "P112",
+      "value": "Q49826"
+    },
+    {
+      "property": "P112",
+      "value": "Q95"
+    },
+    {
+      "property": "P112",
+      "value": "Q819702"
+    },
+    {
+      "property": "P11245",
+      "value": "android"
+    },
+    {
+      "property": "P11337",
+      "value": "1471182551540715528"
+    },
+    {
+      "property": "P11408",
+      "value": "Android(携帯情報端末)"
+    },
+    {
+      "property": "P1151",
+      "value": "Q19921452"
+    },
+    {
+      "property": "P11540",
+      "value": "android"
+    },
+    {
+      "property": "P11686",
+      "value": "981058614871106706"
+    },
+    {
+      "property": "P11947",
+      "value": "android@lemmy.world"
+    },
+    {
+      "property": "P11947",
+      "value": "android@lemdro.id"
+    },
+    {
+      "property": "P12043",
+      "value": "android"
+    },
+    {
+      "property": "P12086",
+      "value": "Android_(besturingssysteem)"
+    },
+    {
+      "property": "P12216",
+      "value": "123"
+    },
+    {
+      "property": "P12385",
+      "value": "android"
+    },
+    {
+      "property": "P1245",
+      "value": "1064559"
+    },
+    {
+      "property": "P12508",
+      "value": "176/01"
+    },
+    {
+      "property": "P12695",
+      "value": "Android"
+    },
+    {
+      "property": "P1273",
+      "value": "a12107633"
+    },
+    {
+      "property": "P12873",
+      "value": "Android"
+    },
+    {
+      "property": "P12873",
+      "value": "Android_(Suomi)"
+    },
+    {
+      "property": "P1296",
+      "value": "0516865"
+    },
+    {
+      "property": "P13087",
+      "value": "10091"
+    },
+    {
+      "property": "P13165",
+      "value": "239743"
+    },
+    {
+      "property": "P1324",
+      "value": "http://android.googlesource.com/"
+    },
+    {
+      "property": "P1324",
+      "value": "http://android-review.googlesource.com/admin/repos"
+    },
+    {
+      "property": "P13397",
+      "value": "android"
+    },
+    {
+      "property": "P1343",
+      "value": "Q130273018"
+    },
+    {
+      "property": "P13513",
+      "value": "android"
+    },
+    {
+      "property": "P13535",
+      "value": "platform-android"
+    },
+    {
+      "property": "P13572",
+      "value": "Google+Android"
+    },
+    {
+      "property": "P13599",
+      "value": "106"
+    },
+    {
+      "property": "P138",
+      "value": "Q181787"
+    },
+    {
+      "property": "P138",
+      "value": "Q49826"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Android-operating-system"
+    },
+    {
+      "property": "P1424",
+      "value": "Q6678790"
+    },
+    {
+      "property": "P1448",
+      "value": "Android"
+    },
+    {
+      "property": "P1448",
+      "value": "Android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://meta.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://reverseengineering.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://arduino.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ebooks.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://photo.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://raspberrypi.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ethereum.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://unix.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://security.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://tor.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://sqa.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://video.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://magento.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://bitcoin.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://ux.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://gamedev.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://opensource.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://softwarerecs.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://gis.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://tex.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://softwareengineering.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P1482",
+      "value": "https://bicycles.stackexchange.com/tags/android"
+    },
+    {
+      "property": "P154",
+      "value": "Android logo (2007-2014).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Android Logo (2014-2015).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Android logo (2015-2019).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Android logo (2019-2023).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Android logo 2023 (stacked).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Android logo 2023.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Android 2023 3D logo and wordmark.svg"
+    },
+    {
+      "property": "P1547",
+      "value": "Q14579"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.google/products/android/"
+    },
+    {
+      "property": "P1617",
+      "value": "fba58174-597a-4a3e-a97b-42c59e085eb2"
+    },
+    {
+      "property": "P178",
+      "value": "Q819702"
+    },
+    {
+      "property": "P178",
+      "value": "Q95"
+    },
+    {
+      "property": "P18",
+      "value": "Android Gingerbread Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Honeycomb Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Ice Cream Sandwich Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Jelly Bean Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android KitKat Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Lollipop Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Marshmallow Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Nougat Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Samsung Smartphones.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android Oreo Easter egg.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Android 10 screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Android 11 Homescreen.png"
+    },
+    {
+      "property": "P18",
+      "value": "Android 12 Homescreen Screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Android 13 Homescreen Screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Android 14 Homescreen screenshot.png"
+    },
+    {
+      "property": "P18",
+      "value": "Android 15 Homescreen Screenshot.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q181787"
+    },
+    {
+      "property": "P1972",
+      "value": "android"
+    },
+    {
+      "property": "P2002",
+      "value": "Android"
+    },
+    {
+      "property": "P2002",
+      "value": "AndroidDev"
+    },
+    {
+      "property": "P2003",
+      "value": "android"
+    },
+    {
+      "property": "P2013",
+      "value": "AndroidOfficial"
+    },
+    {
+      "property": "P2037",
+      "value": "android"
+    },
+    {
+      "property": "P214",
+      "value": "316754250"
+    },
+    {
+      "property": "P2163",
+      "value": "1776064"
+    },
+    {
+      "property": "P227",
+      "value": "7635475-1"
+    },
+    {
+      "property": "P2347",
+      "value": "25623"
+    },
+    {
+      "property": "P2397",
+      "value": "UC9M7-jzdU8CVrQo1JwmIdWA"
+    },
+    {
+      "property": "P244",
+      "value": "n2009043077"
+    },
+    {
+      "property": "P2572",
+      "value": "android"
+    },
+    {
+      "property": "P2581",
+      "value": "00430004n"
+    },
+    {
+      "property": "P268",
+      "value": "16174153f"
+    },
+    {
+      "property": "P269",
+      "value": "140430504"
+    },
+    {
+      "property": "P275",
+      "value": "Q13785927"
+    },
+    {
+      "property": "P275",
+      "value": "Q10513450"
+    },
+    {
+      "property": "P277",
+      "value": "Q15777"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q3816639"
+    },
+    {
+      "property": "P277",
+      "value": "Q16342"
+    },
+    {
+      "property": "P277",
+      "value": "Q251"
+    },
+    {
+      "property": "P277",
+      "value": "Q575650"
+    },
+    {
+      "property": "P279",
+      "value": "Q9135"
+    },
+    {
+      "property": "P2847",
+      "value": "+android"
+    },
+    {
+      "property": "P2888",
+      "value": "https://schema.org/AndroidPlatform"
+    },
+    {
+      "property": "P2910",
+      "value": "Android robot.svg"
+    },
+    {
+      "property": "P2910",
+      "value": "Android robot (2014-2019).svg"
+    },
+    {
+      "property": "P2910",
+      "value": "Android robot head.svg"
+    },
+    {
+      "property": "P2910",
+      "value": "Android Robot Head 2023.svg"
+    },
+    {
+      "property": "P3033",
+      "value": "Q79576"
+    },
+    {
+      "property": "P3033",
+      "value": "Q1386210"
+    },
+    {
+      "property": "P3033",
+      "value": "Q16723300"
+    },
+    {
+      "property": "P3033",
+      "value": "Q484531"
+    },
+    {
+      "property": "P3033",
+      "value": "Q596391"
+    },
+    {
+      "property": "P3033",
+      "value": "Q456078"
+    },
+    {
+      "property": "P3033",
+      "value": "Q95611555"
+    },
+    {
+      "property": "P31",
+      "value": "Q920890"
+    },
+    {
+      "property": "P31",
+      "value": "Q241317"
+    },
+    {
+      "property": "P3106",
+      "value": "technology/android"
+    },
+    {
+      "property": "P3222",
+      "value": "android"
+    },
+    {
+      "property": "P3381",
+      "value": "Android"
+    },
+    {
+      "property": "P3417",
+      "value": "Android-operating-system"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "3.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.4"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.1"
+    },
+    {
+      "property": "P348",
+      "value": "6.0"
+    },
+    {
+      "property": "P348",
+      "value": "2.2"
+    },
+    {
+      "property": "P348",
+      "value": "6.0.1"
+    },
+    {
+      "property": "P348",
+      "value": "7.0"
+    },
+    {
+      "property": "P348",
+      "value": "7.1"
+    },
+    {
+      "property": "P348",
+      "value": "8.0"
+    },
+    {
+      "property": "P348",
+      "value": "8.1"
+    },
+    {
+      "property": "P348",
+      "value": "9.0"
+    },
+    {
+      "property": "P348",
+      "value": "10"
+    },
+    {
+      "property": "P348",
+      "value": "11"
+    },
+    {
+      "property": "P348",
+      "value": "2.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.4.2"
+    },
+    {
+      "property": "P348",
+      "value": "12"
+    },
+    {
+      "property": "P348",
+      "value": "13"
+    },
+    {
+      "property": "P348",
+      "value": "14"
+    },
+    {
+      "property": "P348",
+      "value": "15"
+    },
+    {
+      "property": "P348",
+      "value": "16"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.0 r5"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.0 r9"
+    },
+    {
+      "property": "P348",
+      "value": "15.0.0 r12"
+    },
+    {
+      "property": "P3553",
+      "value": "19603145"
+    },
+    {
+      "property": "P373",
+      "value": "Android (operating system)"
+    },
+    {
+      "property": "P3847",
+      "value": "android_(electronic_resource)"
+    },
+    {
+      "property": "P3984",
+      "value": "Android"
+    },
+    {
+      "property": "P400",
+      "value": "Q527464"
+    },
+    {
+      "property": "P400",
+      "value": "Q16980"
+    },
+    {
+      "property": "P400",
+      "value": "Q182933"
+    },
+    {
+      "property": "P407",
+      "value": "Q20923490"
+    },
+    {
+      "property": "P407",
+      "value": "Q1860"
+    },
+    {
+      "property": "P407",
+      "value": "Q5287"
+    },
+    {
+      "property": "P407",
+      "value": "Q7737"
+    },
+    {
+      "property": "P407",
+      "value": "Q7850"
+    },
+    {
+      "property": "P407",
+      "value": "Q7033959"
+    },
+    {
+      "property": "P407",
+      "value": "Q652"
+    },
+    {
+      "property": "P407",
+      "value": "Q7026"
+    },
+    {
+      "property": "P407",
+      "value": "Q1321"
+    },
+    {
+      "property": "P4204",
+      "value": "Android"
+    },
+    {
+      "property": "P4342",
+      "value": "Android"
+    },
+    {
+      "property": "P4644",
+      "value": "d8829a1d-dbde-435b-b921-29d6462f35c9"
+    },
+    {
+      "property": "P4969",
+      "value": "Q17352119"
+    },
+    {
+      "property": "P4969",
+      "value": "Q28059734"
+    },
+    {
+      "property": "P4969",
+      "value": "Q855981"
+    },
+    {
+      "property": "P4969",
+      "value": "Q22049114"
+    },
+    {
+      "property": "P4969",
+      "value": "Q7314062"
+    },
+    {
+      "property": "P4969",
+      "value": "Q15474162"
+    },
+    {
+      "property": "P4969",
+      "value": "Q4040805"
+    },
+    {
+      "property": "P4969",
+      "value": "Q15089879"
+    },
+    {
+      "property": "P4969",
+      "value": "Q123102639"
+    },
+    {
+      "property": "P4969",
+      "value": "Q60220726"
+    },
+    {
+      "property": "P4969",
+      "value": "Q39046246"
+    },
+    {
+      "property": "P4969",
+      "value": "Q877084"
+    },
+    {
+      "property": "P4969",
+      "value": "Q28411488"
+    },
+    {
+      "property": "P4969",
+      "value": "Q21041344"
+    },
+    {
+      "property": "P4969",
+      "value": "Q124707440"
+    },
+    {
+      "property": "P4969",
+      "value": "Q97229282"
+    },
+    {
+      "property": "P4969",
+      "value": "Q39049705"
+    },
+    {
+      "property": "P4969",
+      "value": "Q28457860"
+    },
+    {
+      "property": "P4969",
+      "value": "Q85764357"
+    },
+    {
+      "property": "P4969",
+      "value": "Q111369340"
+    },
+    {
+      "property": "P4969",
+      "value": "Q111915580"
+    },
+    {
+      "property": "P4969",
+      "value": "Q89532510"
+    },
+    {
+      "property": "P5019",
+      "value": "android"
+    },
+    {
+      "property": "P5247",
+      "value": "3045-123"
+    },
+    {
+      "property": "P527",
+      "value": "Q14579"
+    },
+    {
+      "property": "P527",
+      "value": "Q4035125"
+    },
+    {
+      "property": "P527",
+      "value": "Q754752"
+    },
+    {
+      "property": "P527",
+      "value": "Q17512080"
+    },
+    {
+      "property": "P571",
+      "value": "+2008-09-23T00:00:00Z"
+    },
+    {
+      "property": "P5795",
+      "value": "android"
+    },
+    {
+      "property": "P5868",
+      "value": "android"
+    },
+    {
+      "property": "P6009",
+      "value": "14873"
+    },
+    {
+      "property": "P6078",
+      "value": "android"
+    },
+    {
+      "property": "P6200",
+      "value": "crv19w14wg8t"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6262",
+      "value": "google:Android"
+    },
+    {
+      "property": "P6262",
+      "value": "android:Android"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Android"
+    },
+    {
+      "property": "P6262",
+      "value": "gta:Android_OS"
+    },
+    {
+      "property": "P6262",
+      "value": "es.gta:Android"
+    },
+    {
+      "property": "P6262",
+      "value": "it.gta:Android_OS"
+    },
+    {
+      "property": "P6262",
+      "value": "pt.gta:Android"
+    },
+    {
+      "property": "P6262",
+      "value": "uk.gta:Android"
+    },
+    {
+      "property": "P6262",
+      "value": "fr.gta:Android"
+    },
+    {
+      "property": "P6366",
+      "value": "557433098"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02wxtgw"
+    },
+    {
+      "property": "P6541",
+      "value": "https://android.stackexchange.com/"
+    },
+    {
+      "property": "P6573",
+      "value": "Android"
+    },
+    {
+      "property": "P6611",
+      "value": "6012"
+    },
+    {
+      "property": "P6706",
+      "value": "Android"
+    },
+    {
+      "property": "P6760",
+      "value": "11358"
+    },
+    {
+      "property": "P6839",
+      "value": "UsefulNotes/AndroidGames"
+    },
+    {
+      "property": "P6900",
+      "value": "android"
+    },
+    {
+      "property": "P691",
+      "value": "ph636353"
+    },
+    {
+      "property": "P7556",
+      "value": "189"
+    },
+    {
+      "property": "P7592",
+      "value": "6063"
+    },
+    {
+      "property": "P7623",
+      "value": "4916"
+    },
+    {
+      "property": "P7666",
+      "value": "android"
+    },
+    {
+      "property": "P7757",
+      "value": "63"
+    },
+    {
+      "property": "P7788",
+      "value": "motoya-lcedar-fonts"
+    },
+    {
+      "property": "P7809",
+      "value": "4"
+    },
+    {
+      "property": "P7840",
+      "value": "Android"
+    },
+    {
+      "property": "P7914",
+      "value": "160100"
+    },
+    {
+      "property": "P8179",
+      "value": "ncf10782308"
+    },
+    {
+      "property": "P8189",
+      "value": "987007460408105171"
+    },
+    {
+      "property": "P822",
+      "value": "Q115382893"
+    },
+    {
+      "property": "P8313",
+      "value": "Android"
+    },
+    {
+      "property": "P8408",
+      "value": "GoogleAndroidOS"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.android.com/"
+    },
+    {
+      "property": "P8672",
+      "value": "10026820777"
+    },
+    {
+      "property": "P8687",
+      "value": "+940000"
+    },
+    {
+      "property": "P8687",
+      "value": "+972000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1000000"
+    },
+    {
+      "property": "P8687",
+      "value": "+1070000"
+    },
+    {
+      "property": "P8885",
+      "value": "안드로이드(운영체제)"
+    },
+    {
+      "property": "P910",
+      "value": "Q6343963"
+    },
+    {
+      "property": "P9100",
+      "value": "android"
+    },
+    {
+      "property": "P9346",
+      "value": "android"
+    },
+    {
+      "property": "P935",
+      "value": "Android"
+    },
+    {
+      "property": "P950",
+      "value": "XX4178968"
+    },
+    {
+      "property": "P9618",
+      "value": "android"
+    },
+    {
+      "property": "P9621",
+      "value": "android"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.videogameschronicle.com/?post_type=platforms&p=273"
+    },
+    {
+      "property": "P9984",
+      "value": "981058614871106706"
+    }
+  ]
+}

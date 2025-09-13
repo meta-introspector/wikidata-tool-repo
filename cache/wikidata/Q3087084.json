@@ -1,0 +1,50 @@
+{
+  "id": "Q3087084",
+  "label": "Mozilla China",
+  "facts": [
+    {
+      "property": "P1056",
+      "value": "Q698"
+    },
+    {
+      "property": "P1454",
+      "value": "Q149789"
+    },
+    {
+      "property": "P154",
+      "value": "Firefox brand logo, 2019.svg"
+    },
+    {
+      "property": "P159",
+      "value": "Q956"
+    },
+    {
+      "property": "P17",
+      "value": "Q148"
+    },
+    {
+      "property": "P31",
+      "value": "Q149789"
+    },
+    {
+      "property": "P3553",
+      "value": "19642766"
+    },
+    {
+      "property": "P571",
+      "value": "+2005-00-00T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/05cf11"
+    },
+    {
+      "property": "P856",
+      "value": "http://mozilla.com.cn/moz-portal.html"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.firefox.com.cn"
+    }
+  ]
+}

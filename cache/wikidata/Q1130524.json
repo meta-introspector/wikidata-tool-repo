@@ -1,0 +1,246 @@
+{
+  "id": "Q1130524",
+  "label": "Pucciniales",
+  "facts": [
+    {
+      "property": "P10376",
+      "value": "agricultural-and-biological-sciences/pucciniales"
+    },
+    {
+      "property": "P10376",
+      "value": "biochemistry-genetics-and-molecular-biology/pucciniales"
+    },
+    {
+      "property": "P105",
+      "value": "Q36602"
+    },
+    {
+      "property": "P10565",
+      "value": "120124"
+    },
+    {
+      "property": "P10585",
+      "value": "3XG"
+    },
+    {
+      "property": "P12385",
+      "value": "uredinals"
+    },
+    {
+      "property": "P1296",
+      "value": "0149427"
+    },
+    {
+      "property": "P1343",
+      "value": "Q16387823"
+    },
+    {
+      "property": "P1343",
+      "value": "Q19219752"
+    },
+    {
+      "property": "P1343",
+      "value": "Q16082057"
+    },
+    {
+      "property": "P1391",
+      "value": "501535"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Pucciniales"
+    },
+    {
+      "property": "P1417",
+      "value": "science/rust"
+    },
+    {
+      "property": "P1542",
+      "value": "Q4273292"
+    },
+    {
+      "property": "P171",
+      "value": "Q132006"
+    },
+    {
+      "property": "P18",
+      "value": "Bruine roest op tarwe (Puccinia recondita f.sp. tritici on Triticum aestivum).jpg"
+    },
+    {
+      "property": "P1843",
+      "value": "Uredinals"
+    },
+    {
+      "property": "P1843",
+      "value": "rzi"
+    },
+    {
+      "property": "P1843",
+      "value": "Rustsvampe"
+    },
+    {
+      "property": "P1843",
+      "value": "Rostpilze"
+    },
+    {
+      "property": "P1843",
+      "value": "Rusts"
+    },
+    {
+      "property": "P1843",
+      "value": "Rustofungoj"
+    },
+    {
+      "property": "P1843",
+      "value": "Ruostesienet"
+    },
+    {
+      "property": "P1843",
+      "value": "Rouille"
+    },
+    {
+      "property": "P1843",
+      "value": "サビキン目"
+    },
+    {
+      "property": "P1843",
+      "value": "rdzowce"
+    },
+    {
+      "property": "P1843",
+      "value": "Рђа"
+    },
+    {
+      "property": "P1843",
+      "value": "rje"
+    },
+    {
+      "property": "P1939",
+      "value": "3000402"
+    },
+    {
+      "property": "P225",
+      "value": "Pucciniales"
+    },
+    {
+      "property": "P2347",
+      "value": "2300"
+    },
+    {
+      "property": "P2579",
+      "value": "Q127388251"
+    },
+    {
+      "property": "P2752",
+      "value": "afe1e8b3-76ea-434a-96cd-4dc147dee766"
+    },
+    {
+      "property": "P2892",
+      "value": "C0319862"
+    },
+    {
+      "property": "P3031",
+      "value": "1UREDO"
+    },
+    {
+      "property": "P31",
+      "value": "Q16521"
+    },
+    {
+      "property": "P3151",
+      "value": "69968"
+    },
+    {
+      "property": "P3240",
+      "value": "NHMSYS0020536006"
+    },
+    {
+      "property": "P3405",
+      "value": "183955"
+    },
+    {
+      "property": "P373",
+      "value": "Pucciniales"
+    },
+    {
+      "property": "P3827",
+      "value": "rust-fungi"
+    },
+    {
+      "property": "P4342",
+      "value": "rustsopper"
+    },
+    {
+      "property": "P5055",
+      "value": "10874"
+    },
+    {
+      "property": "P6061",
+      "value": "parasites/fungi/basidiomycota/pucciniomycotina/pucciniales"
+    },
+    {
+      "property": "P6268",
+      "value": "66170"
+    },
+    {
+      "property": "P6366",
+      "value": "2910836268"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0g5r0"
+    },
+    {
+      "property": "P685",
+      "value": "5258"
+    },
+    {
+      "property": "P691",
+      "value": "ph116100"
+    },
+    {
+      "property": "P815",
+      "value": "936406"
+    },
+    {
+      "property": "P830",
+      "value": "6877107"
+    },
+    {
+      "property": "P8313",
+      "value": "rustsvampe"
+    },
+    {
+      "property": "P8408",
+      "value": "Pucciniales"
+    },
+    {
+      "property": "P846",
+      "value": "1126"
+    },
+    {
+      "property": "P850",
+      "value": "988595"
+    },
+    {
+      "property": "P8707",
+      "value": "122232"
+    },
+    {
+      "property": "P9076",
+      "value": "60013246"
+    },
+    {
+      "property": "P910",
+      "value": "Q8807231"
+    },
+    {
+      "property": "P9157",
+      "value": "234865"
+    },
+    {
+      "property": "P962",
+      "value": "501535"
+    }
+  ]
+}

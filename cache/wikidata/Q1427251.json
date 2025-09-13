@@ -1,0 +1,42 @@
+{
+  "id": "Q1427251",
+  "label": "lock",
+  "facts": [
+    {
+      "property": "P1269",
+      "value": "Q1047554"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/locking"
+    },
+    {
+      "property": "P1889",
+      "value": "Q454979"
+    },
+    {
+      "property": "P2579",
+      "value": "Q232661"
+    },
+    {
+      "property": "P279",
+      "value": "Q96359153"
+    },
+    {
+      "property": "P31",
+      "value": "Q1074854"
+    },
+    {
+      "property": "P366",
+      "value": "Q1047554"
+    },
+    {
+      "property": "P6366",
+      "value": "27738082"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01kf9t"
+    }
+  ]
+}

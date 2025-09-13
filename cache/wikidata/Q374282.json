@@ -1,0 +1,46 @@
+{
+  "id": "Q374282",
+  "label": "duck typing",
+  "facts": [
+    {
+      "property": "P138",
+      "value": "Q1324171"
+    },
+    {
+      "property": "P1552",
+      "value": "Q573952"
+    },
+    {
+      "property": "P1813",
+      "value": "duck"
+    },
+    {
+      "property": "P1813",
+      "value": "løpende"
+    },
+    {
+      "property": "P279",
+      "value": "Q865760"
+    },
+    {
+      "property": "P279",
+      "value": "Q1268978"
+    },
+    {
+      "property": "P279",
+      "value": "Q936724"
+    },
+    {
+      "property": "P31",
+      "value": "Q122624423"
+    },
+    {
+      "property": "P6366",
+      "value": "22811154"
+    },
+    {
+      "property": "P646",
+      "value": "/m/028r8_"
+    }
+  ]
+}

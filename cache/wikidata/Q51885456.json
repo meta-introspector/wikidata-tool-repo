@@ -1,0 +1,294 @@
+{
+  "id": "Q51885456",
+  "label": "Zig",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q131454123"
+    },
+    {
+      "property": "P1073",
+      "value": "Q131454123"
+    },
+    {
+      "property": "P1195",
+      "value": "zig"
+    },
+    {
+      "property": "P12873",
+      "value": "Zig"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/zig"
+    },
+    {
+      "property": "P154",
+      "value": "Zig logo 2020.svg"
+    },
+    {
+      "property": "P1613",
+      "value": "irc://irc.libera.chat/#zig"
+    },
+    {
+      "property": "P178",
+      "value": "Q62470811"
+    },
+    {
+      "property": "P1889",
+      "value": "Q104604630"
+    },
+    {
+      "property": "P2037",
+      "value": "ziglang"
+    },
+    {
+      "property": "P2078",
+      "value": "https://ziglang.org/documentation/master/"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11fmgrsx_v"
+    },
+    {
+      "property": "P275",
+      "value": "Q334661"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q951497"
+    },
+    {
+      "property": "P31",
+      "value": "Q651794"
+    },
+    {
+      "property": "P31",
+      "value": "Q4117397"
+    },
+    {
+      "property": "P31",
+      "value": "Q12772052"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922885"
+    },
+    {
+      "property": "P31",
+      "value": "Q3839507"
+    },
+    {
+      "property": "P348",
+      "value": "0.3.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.1.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.2.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.4.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.5.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.6.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.7.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.7.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.8.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.8.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.9.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.10.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.10.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.11.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.12.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.13.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.14.0"
+    },
+    {
+      "property": "P348",
+      "value": "0.14.1"
+    },
+    {
+      "property": "P348",
+      "value": "0.15.1"
+    },
+    {
+      "property": "P373",
+      "value": "Zig (programming language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q128392"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q193076"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1051282"
+    },
+    {
+      "property": "P3984",
+      "value": "Zig"
+    },
+    {
+      "property": "P571",
+      "value": "+2015-00-00T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P6949",
+      "value": "+2016-02-08T00:00:00Z"
+    },
+    {
+      "property": "P7078",
+      "value": "Q1940914"
+    },
+    {
+      "property": "P7078",
+      "value": "Q991202"
+    },
+    {
+      "property": "P7078",
+      "value": "Q586459"
+    },
+    {
+      "property": "P7078",
+      "value": "Q936724"
+    },
+    {
+      "property": "P737",
+      "value": "Q15777"
+    },
+    {
+      "property": "P737",
+      "value": "Q2407"
+    },
+    {
+      "property": "P737",
+      "value": "Q37227"
+    },
+    {
+      "property": "P737",
+      "value": "Q575650"
+    },
+    {
+      "property": "P737",
+      "value": "Q2005"
+    },
+    {
+      "property": "P7788",
+      "value": "zig"
+    },
+    {
+      "property": "P822",
+      "value": "Q124816713"
+    },
+    {
+      "property": "P822",
+      "value": "Q124816720"
+    },
+    {
+      "property": "P822",
+      "value": "Q131451117"
+    },
+    {
+      "property": "P856",
+      "value": "https://ziglang.org/"
+    },
+    {
+      "property": "P8885",
+      "value": "Zig"
+    },
+    {
+      "property": "P9100",
+      "value": "zig"
+    },
+    {
+      "property": "P9100",
+      "value": "ziglang"
+    },
+    {
+      "property": "P9100",
+      "value": "zig-language"
+    },
+    {
+      "property": "P9100",
+      "value": "zig-lang"
+    },
+    {
+      "property": "P973",
+      "value": "https://andrewkelley.me/post/intro-to-zig.html"
+    }
+  ]
+}

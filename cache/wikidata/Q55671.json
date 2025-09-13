@@ -1,0 +1,222 @@
+{
+  "id": "Q55671",
+  "label": "Bugzilla",
+  "facts": [
+    {
+      "property": "P10",
+      "value": "How to file a report in Bugzilla.webm"
+    },
+    {
+      "property": "P12695",
+      "value": "Bugzilla"
+    },
+    {
+      "property": "P12873",
+      "value": "Bugzilla"
+    },
+    {
+      "property": "P1324",
+      "value": "https://github.com/bugzilla/bugzilla"
+    },
+    {
+      "property": "P1424",
+      "value": "Q4481730"
+    },
+    {
+      "property": "P154",
+      "value": "Bugzilla logo (2022).svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Bugzilla.mozilla.org screenshot.png"
+    },
+    {
+      "property": "P1972",
+      "value": "bugzilla"
+    },
+    {
+      "property": "P2002",
+      "value": "bugzilla"
+    },
+    {
+      "property": "P2013",
+      "value": "BugzillaProject"
+    },
+    {
+      "property": "P2537",
+      "value": "Bugzilla"
+    },
+    {
+      "property": "P275",
+      "value": "Q25428413"
+    },
+    {
+      "property": "P277",
+      "value": "Q42478"
+    },
+    {
+      "property": "P306",
+      "value": "Q1406"
+    },
+    {
+      "property": "P306",
+      "value": "Q14656"
+    },
+    {
+      "property": "P31",
+      "value": "Q956086"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P3417",
+      "value": "Bugzilla"
+    },
+    {
+      "property": "P3454",
+      "value": "bugzilla"
+    },
+    {
+      "property": "P3463",
+      "value": "bugzilla"
+    },
+    {
+      "property": "P348",
+      "value": "4.5.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.2"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.3"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.1"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.4"
+    },
+    {
+      "property": "P348",
+      "value": "5.1.2"
+    },
+    {
+      "property": "P348",
+      "value": "1.0"
+    },
+    {
+      "property": "P348",
+      "value": "5.0.6"
+    },
+    {
+      "property": "P348",
+      "value": "5.2"
+    },
+    {
+      "property": "P3499",
+      "value": "www-apps/bugzilla"
+    },
+    {
+      "property": "P366",
+      "value": "Q956086"
+    },
+    {
+      "property": "P373",
+      "value": "Bugzilla"
+    },
+    {
+      "property": "P443",
+      "value": "LL-Q9288 (heb)-Uziel302-באגזילה.wav"
+    },
+    {
+      "property": "P571",
+      "value": "+1998-08-26T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/01ghy"
+    },
+    {
+      "property": "P6665",
+      "value": "3611"
+    },
+    {
+      "property": "P6931",
+      "value": "bugzilla"
+    },
+    {
+      "property": "P7427",
+      "value": "japanese/bugzilla50"
+    },
+    {
+      "property": "P7427",
+      "value": "russian/bugzilla44"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/bugzilla50"
+    },
+    {
+      "property": "P7427",
+      "value": "devel/bugzilla44"
+    },
+    {
+      "property": "P7427",
+      "value": "german/bugzilla44"
+    },
+    {
+      "property": "P7427",
+      "value": "japanese/bugzilla44"
+    },
+    {
+      "property": "P7788",
+      "value": "bugzilla"
+    },
+    {
+      "property": "P7966",
+      "value": "devel/bugzilla3"
+    },
+    {
+      "property": "P7966",
+      "value": "devel/bugzilla"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.bugzilla.org"
+    },
+    {
+      "property": "P8687",
+      "value": "+1007"
+    },
+    {
+      "property": "P910",
+      "value": "Q9698727"
+    },
+    {
+      "property": "P9602",
+      "value": "freshmeat_bugzilla"
+    },
+    {
+      "property": "P9618",
+      "value": "bugzilla"
+    },
+    {
+      "property": "P973",
+      "value": "https://wiki.archiveteam.org/index.php/Bugzilla"
+    }
+  ]
+}

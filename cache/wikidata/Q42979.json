@@ -1,0 +1,278 @@
+{
+  "id": "Q42979",
+  "label": "Unknown",
+  "facts": [
+    {
+      "property": "P1051",
+      "value": "12484"
+    },
+    {
+      "property": "P11046",
+      "value": "basic"
+    },
+    {
+      "property": "P1195",
+      "value": "bas"
+    },
+    {
+      "property": "P12204",
+      "value": "10265"
+    },
+    {
+      "property": "P12596",
+      "value": "14681"
+    },
+    {
+      "property": "P12695",
+      "value": "BASIC"
+    },
+    {
+      "property": "P13520",
+      "value": "2539"
+    },
+    {
+      "property": "P13520",
+      "value": "112"
+    },
+    {
+      "property": "P13572",
+      "value": "BASIC"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/a1d2ee7c-34c0-4525-bd96-50c47e43127c"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/BASIC"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/basic"
+    },
+    {
+      "property": "P1617",
+      "value": "ca7655e1-dc59-4781-b741-55c80f64f467"
+    },
+    {
+      "property": "P178",
+      "value": "Q1387801"
+    },
+    {
+      "property": "P178",
+      "value": "Q28900"
+    },
+    {
+      "property": "P178",
+      "value": "Q11752"
+    },
+    {
+      "property": "P18",
+      "value": "AtariBasic.png"
+    },
+    {
+      "property": "P1889",
+      "value": "Q12442667"
+    },
+    {
+      "property": "P227",
+      "value": "4004624-2"
+    },
+    {
+      "property": "P2347",
+      "value": "10681"
+    },
+    {
+      "property": "P244",
+      "value": "sh85012076"
+    },
+    {
+      "property": "P268",
+      "value": "11939574k"
+    },
+    {
+      "property": "P269",
+      "value": "027330176"
+    },
+    {
+      "property": "P287",
+      "value": "Q28900"
+    },
+    {
+      "property": "P31",
+      "value": "Q9143"
+    },
+    {
+      "property": "P31",
+      "value": "Q28922854"
+    },
+    {
+      "property": "P31",
+      "value": "Q21562092"
+    },
+    {
+      "property": "P31",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P31",
+      "value": "Q79872"
+    },
+    {
+      "property": "P3381",
+      "value": "BASIC"
+    },
+    {
+      "property": "P3417",
+      "value": "Basic-Computer-Language"
+    },
+    {
+      "property": "P3553",
+      "value": "19927834"
+    },
+    {
+      "property": "P373",
+      "value": "BASIC (programming language)"
+    },
+    {
+      "property": "P3847",
+      "value": "basic_(computer_program_language)"
+    },
+    {
+      "property": "P3966",
+      "value": "Q905156"
+    },
+    {
+      "property": "P3966",
+      "value": "Q275596"
+    },
+    {
+      "property": "P3966",
+      "value": "Q1418502"
+    },
+    {
+      "property": "P3966",
+      "value": "Q79872"
+    },
+    {
+      "property": "P4342",
+      "value": "Basic"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P503",
+      "value": "10279"
+    },
+    {
+      "property": "P571",
+      "value": "+1964-00-00T00:00:00Z"
+    },
+    {
+      "property": "P5844",
+      "value": "basic"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:BASIC"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:BASIC"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:BASIC"
+    },
+    {
+      "property": "P6262",
+      "value": "code:BASIC"
+    },
+    {
+      "property": "P6293",
+      "value": "Y105385"
+    },
+    {
+      "property": "P6366",
+      "value": "2780323391"
+    },
+    {
+      "property": "P646",
+      "value": "/m/019p2"
+    },
+    {
+      "property": "P6611",
+      "value": "22180"
+    },
+    {
+      "property": "P6706",
+      "value": "BASIC"
+    },
+    {
+      "property": "P6857",
+      "value": "C6207"
+    },
+    {
+      "property": "P6857",
+      "value": "X3003"
+    },
+    {
+      "property": "P691",
+      "value": "ph117376"
+    },
+    {
+      "property": "P7305",
+      "value": "3874851"
+    },
+    {
+      "property": "P737",
+      "value": "Q83303"
+    },
+    {
+      "property": "P737",
+      "value": "Q28555914"
+    },
+    {
+      "property": "P737",
+      "value": "Q974083"
+    },
+    {
+      "property": "P737",
+      "value": "Q188436"
+    },
+    {
+      "property": "P7726",
+      "value": "BASIC"
+    },
+    {
+      "property": "P8189",
+      "value": "987007284639805171"
+    },
+    {
+      "property": "P8313",
+      "value": "BASIC"
+    },
+    {
+      "property": "P8408",
+      "value": "Basic-ComputerLanguage"
+    },
+    {
+      "property": "P8669",
+      "value": "basic"
+    },
+    {
+      "property": "P8814",
+      "value": "06915685-n"
+    },
+    {
+      "property": "P910",
+      "value": "Q7061610"
+    },
+    {
+      "property": "P9621",
+      "value": "basic"
+    }
+  ]
+}

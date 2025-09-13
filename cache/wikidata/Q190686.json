@@ -1,0 +1,146 @@
+{
+  "id": "Q190686",
+  "label": "subroutine",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C96147967"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/subroutine"
+    },
+    {
+      "property": "P10376",
+      "value": "engineering/subroutine"
+    },
+    {
+      "property": "P10376",
+      "value": "earth-and-planetary-sciences/subroutine"
+    },
+    {
+      "property": "P11567",
+      "value": "function"
+    },
+    {
+      "property": "P11567",
+      "value": "procedure"
+    },
+    {
+      "property": "P12385",
+      "value": "procediment-0"
+    },
+    {
+      "property": "P12946",
+      "value": "subroutine"
+    },
+    {
+      "property": "P1296",
+      "value": "0203716"
+    },
+    {
+      "property": "P1296",
+      "value": "0144027"
+    },
+    {
+      "property": "P1296",
+      "value": "0134643"
+    },
+    {
+      "property": "P1343",
+      "value": "Q47755251"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/0364aa7b-d81d-4172-b468-85bb69d70c39"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/subprogram"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/function"
+    },
+    {
+      "property": "P1535",
+      "value": "Q110940720"
+    },
+    {
+      "property": "P227",
+      "value": "4253859-2"
+    },
+    {
+      "property": "P244",
+      "value": "sh85129527"
+    },
+    {
+      "property": "P279",
+      "value": "Q11491547"
+    },
+    {
+      "property": "P279",
+      "value": "Q868299"
+    },
+    {
+      "property": "P279",
+      "value": "Q6486712"
+    },
+    {
+      "property": "P279",
+      "value": "Q11348"
+    },
+    {
+      "property": "P31",
+      "value": "Q66747126"
+    },
+    {
+      "property": "P361",
+      "value": "Q40056"
+    },
+    {
+      "property": "P3827",
+      "value": "subroutines"
+    },
+    {
+      "property": "P5047",
+      "value": "Call_a_function"
+    },
+    {
+      "property": "P527",
+      "value": "Q1410440"
+    },
+    {
+      "property": "P527",
+      "value": "Q16706151"
+    },
+    {
+      "property": "P6366",
+      "value": "96147967"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0b750"
+    },
+    {
+      "property": "P6564",
+      "value": "subroutines"
+    },
+    {
+      "property": "P6611",
+      "value": "60582"
+    },
+    {
+      "property": "P8189",
+      "value": "987007543737405171"
+    },
+    {
+      "property": "P8855",
+      "value": "171-05-43"
+    },
+    {
+      "property": "P910",
+      "value": "Q8823514"
+    }
+  ]
+}

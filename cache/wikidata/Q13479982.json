@@ -1,0 +1,310 @@
+{
+  "id": "Q13479982",
+  "label": "cryptocurrency",
+  "facts": [
+    {
+      "property": "P10283",
+      "value": "C180706569"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/cryptocurrency"
+    },
+    {
+      "property": "P10376",
+      "value": "economics-econometrics-and-finance/cryptocurrency"
+    },
+    {
+      "property": "P10376",
+      "value": "computer-science/crypto-currency"
+    },
+    {
+      "property": "P10376",
+      "value": "social-sciences/crypto-currencies"
+    },
+    {
+      "property": "P10707",
+      "value": "170500"
+    },
+    {
+      "property": "P10715",
+      "value": "c/cryptocurrency"
+    },
+    {
+      "property": "P11093",
+      "value": "kripto_para"
+    },
+    {
+      "property": "P11137",
+      "value": "cryptocurrency"
+    },
+    {
+      "property": "P1245",
+      "value": "1666409"
+    },
+    {
+      "property": "P1282",
+      "value": "Key:payment:cryptocurrencies"
+    },
+    {
+      "property": "P12861",
+      "value": "E82"
+    },
+    {
+      "property": "P13591",
+      "value": "concept/999702f3-53c3-46e1-b0c1-43dc814ffe0b"
+    },
+    {
+      "property": "P1424",
+      "value": "Q15311993"
+    },
+    {
+      "property": "P1424",
+      "value": "Q47457747"
+    },
+    {
+      "property": "P144",
+      "value": "Q20514253"
+    },
+    {
+      "property": "P144",
+      "value": "Q8789"
+    },
+    {
+      "property": "P144",
+      "value": "Q161410"
+    },
+    {
+      "property": "P144",
+      "value": "Q85914626"
+    },
+    {
+      "property": "P144",
+      "value": "Q25110971"
+    },
+    {
+      "property": "P1482",
+      "value": "https://quantumcomputing.stackexchange.com/tags/cryptocurrency"
+    },
+    {
+      "property": "P1617",
+      "value": "70acd001-37cd-48e1-899c-6a4a1e98b729"
+    },
+    {
+      "property": "P1687",
+      "value": "P5810"
+    },
+    {
+      "property": "P18",
+      "value": "Cryptocurrency logos.jpg"
+    },
+    {
+      "property": "P18",
+      "value": "Cryptocurrency Regulation & Laws.jpg"
+    },
+    {
+      "property": "P1889",
+      "value": "Q4112083"
+    },
+    {
+      "property": "P2226",
+      "value": "+241270000000"
+    },
+    {
+      "property": "P2226",
+      "value": "+850350059131"
+    },
+    {
+      "property": "P2283",
+      "value": "Q20514253"
+    },
+    {
+      "property": "P2283",
+      "value": "Q1195339"
+    },
+    {
+      "property": "P2283",
+      "value": "Q40186999"
+    },
+    {
+      "property": "P2283",
+      "value": "Q85922388"
+    },
+    {
+      "property": "P2283",
+      "value": "Q85824083"
+    },
+    {
+      "property": "P2283",
+      "value": "Q85824276"
+    },
+    {
+      "property": "P2354",
+      "value": "Q15369810"
+    },
+    {
+      "property": "P244",
+      "value": "sh2018001347"
+    },
+    {
+      "property": "P2572",
+      "value": "crypto"
+    },
+    {
+      "property": "P2572",
+      "value": "cryptocurrency"
+    },
+    {
+      "property": "P268",
+      "value": "17721173g"
+    },
+    {
+      "property": "P279",
+      "value": "Q10836209"
+    },
+    {
+      "property": "P279",
+      "value": "Q986008"
+    },
+    {
+      "property": "P279",
+      "value": "Q19892282"
+    },
+    {
+      "property": "P31",
+      "value": "Q1047113"
+    },
+    {
+      "property": "P31",
+      "value": "Q2267705"
+    },
+    {
+      "property": "P3222",
+      "value": "kryptovaluta"
+    },
+    {
+      "property": "P3417",
+      "value": "Cryptocurrencies"
+    },
+    {
+      "property": "P373",
+      "value": "Cryptocurrency"
+    },
+    {
+      "property": "P3984",
+      "value": "CryptoCurrency"
+    },
+    {
+      "property": "P3984",
+      "value": "CryptoMarkets"
+    },
+    {
+      "property": "P3984",
+      "value": "CryptoCurrencies"
+    },
+    {
+      "property": "P4527",
+      "value": "440444"
+    },
+    {
+      "property": "P508",
+      "value": "67965"
+    },
+    {
+      "property": "P527",
+      "value": "Q96460525"
+    },
+    {
+      "property": "P571",
+      "value": "+2009-00-00T00:00:00Z"
+    },
+    {
+      "property": "P5844",
+      "value": "criptovaluta_res-016bf79f-8997-11e8-a7cb-00271042e8d9_(Neologismi)"
+    },
+    {
+      "property": "P6200",
+      "value": "cyd7z4rvdm3t"
+    },
+    {
+      "property": "P6366",
+      "value": "180706569"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0vpj4_b"
+    },
+    {
+      "property": "P7033",
+      "value": "scot/16861"
+    },
+    {
+      "property": "P7502",
+      "value": "Cryptocurrency"
+    },
+    {
+      "property": "P7749",
+      "value": "13822"
+    },
+    {
+      "property": "P7870",
+      "value": "83971"
+    },
+    {
+      "property": "P793",
+      "value": "Q1668020"
+    },
+    {
+      "property": "P793",
+      "value": "Q146071"
+    },
+    {
+      "property": "P793",
+      "value": "Q151900"
+    },
+    {
+      "property": "P8189",
+      "value": "987007400698305171"
+    },
+    {
+      "property": "P8309",
+      "value": "18-89989"
+    },
+    {
+      "property": "P8313",
+      "value": "kryptovaluta"
+    },
+    {
+      "property": "P8408",
+      "value": "Cryptocurrency"
+    },
+    {
+      "property": "P8672",
+      "value": "913142676819648512"
+    },
+    {
+      "property": "P9084",
+      "value": "cryptocurrency"
+    },
+    {
+      "property": "P910",
+      "value": "Q15281348"
+    },
+    {
+      "property": "P9100",
+      "value": "cryptocurrency"
+    },
+    {
+      "property": "P9346",
+      "value": "cryptomonnaie"
+    },
+    {
+      "property": "P9368",
+      "value": "cryptocurrency"
+    },
+    {
+      "property": "P950",
+      "value": "XX5827916"
+    }
+  ]
+}

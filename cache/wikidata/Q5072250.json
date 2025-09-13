@@ -1,0 +1,26 @@
+{
+  "id": "Q5072250",
+  "label": "channel",
+  "facts": [
+    {
+      "property": "P1268",
+      "value": "Q751436"
+    },
+    {
+      "property": "P1482",
+      "value": "https://stackoverflow.com/tags/channel"
+    },
+    {
+      "property": "P279",
+      "value": "Q193946"
+    },
+    {
+      "property": "P6366",
+      "value": "45746551"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03d6bq8"
+    }
+  ]
+}

@@ -1,0 +1,3102 @@
+{
+  "id": "Q95",
+  "label": "Google",
+  "facts": [
+    {
+      "property": "P10046",
+      "value": "13012628869081955587"
+    },
+    {
+      "property": "P10068",
+      "value": "433216"
+    },
+    {
+      "property": "P1015",
+      "value": "4092379"
+    },
+    {
+      "property": "P10225",
+      "value": "https://store.google.com"
+    },
+    {
+      "property": "P10283",
+      "value": "I1291425158"
+    },
+    {
+      "property": "P10311",
+      "value": "https://careers.google.com"
+    },
+    {
+      "property": "P10457",
+      "value": "google"
+    },
+    {
+      "property": "P1056",
+      "value": "Q9366"
+    },
+    {
+      "property": "P1056",
+      "value": "Q111897729"
+    },
+    {
+      "property": "P1056",
+      "value": "Q51712"
+    },
+    {
+      "property": "P1056",
+      "value": "Q271982"
+    },
+    {
+      "property": "P1056",
+      "value": "Q19834616"
+    },
+    {
+      "property": "P1056",
+      "value": "Q4182287"
+    },
+    {
+      "property": "P1056",
+      "value": "Q12013"
+    },
+    {
+      "property": "P1056",
+      "value": "Q9334"
+    },
+    {
+      "property": "P10565",
+      "value": "130534"
+    },
+    {
+      "property": "P10565",
+      "value": "49544"
+    },
+    {
+      "property": "P10757",
+      "value": "182746"
+    },
+    {
+      "property": "P10780",
+      "value": "google"
+    },
+    {
+      "property": "P10804",
+      "value": "42906849"
+    },
+    {
+      "property": "P10859",
+      "value": "Google"
+    },
+    {
+      "property": "P10871",
+      "value": "3582691"
+    },
+    {
+      "property": "P11137",
+      "value": "google"
+    },
+    {
+      "property": "P112",
+      "value": "Q92764"
+    },
+    {
+      "property": "P112",
+      "value": "Q4934"
+    },
+    {
+      "property": "P11245",
+      "value": "Google"
+    },
+    {
+      "property": "P11245",
+      "value": "googleru"
+    },
+    {
+      "property": "P11245",
+      "value": "GoogleArabia"
+    },
+    {
+      "property": "P11245",
+      "value": "GoogleAustralia"
+    },
+    {
+      "property": "P11266",
+      "value": "https://about.google/contact-google/"
+    },
+    {
+      "property": "P1128",
+      "value": "+47756"
+    },
+    {
+      "property": "P1128",
+      "value": "+53861"
+    },
+    {
+      "property": "P1128",
+      "value": "+53600"
+    },
+    {
+      "property": "P1151",
+      "value": "Q7850593"
+    },
+    {
+      "property": "P11615",
+      "value": "for-profit/google"
+    },
+    {
+      "property": "P11632",
+      "value": "5876"
+    },
+    {
+      "property": "P1167",
+      "value": "18d1"
+    },
+    {
+      "property": "P11686",
+      "value": "981058614824906706"
+    },
+    {
+      "property": "P11924",
+      "value": "reference-to-google"
+    },
+    {
+      "property": "P11947",
+      "value": "google@lemmy.world"
+    },
+    {
+      "property": "P11961",
+      "value": "6518679690484165796"
+    },
+    {
+      "property": "P12086",
+      "value": "Google_LLC"
+    },
+    {
+      "property": "P12252",
+      "value": "google"
+    },
+    {
+      "property": "P12385",
+      "value": "google"
+    },
+    {
+      "property": "P12412",
+      "value": "Google"
+    },
+    {
+      "property": "P1245",
+      "value": "963341"
+    },
+    {
+      "property": "P12521",
+      "value": "Google"
+    },
+    {
+      "property": "P1273",
+      "value": "a10914717"
+    },
+    {
+      "property": "P1278",
+      "value": "7ZW8QJWVPR4P1J1KQY45"
+    },
+    {
+      "property": "P12800",
+      "value": "en:Google"
+    },
+    {
+      "property": "P12800",
+      "value": "es:Google"
+    },
+    {
+      "property": "P12800",
+      "value": "eu:Google"
+    },
+    {
+      "property": "P12800",
+      "value": "fr:Google"
+    },
+    {
+      "property": "P12896",
+      "value": "google"
+    },
+    {
+      "property": "P12946",
+      "value": "Google"
+    },
+    {
+      "property": "P1296",
+      "value": "0279410"
+    },
+    {
+      "property": "P1297",
+      "value": "77-0493581"
+    },
+    {
+      "property": "P13092",
+      "value": "K000361461"
+    },
+    {
+      "property": "P13113",
+      "value": "google"
+    },
+    {
+      "property": "P1315",
+      "value": "1521844"
+    },
+    {
+      "property": "P1320",
+      "value": "us_id/D158010"
+    },
+    {
+      "property": "P1320",
+      "value": "us_de/3582691"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ad"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ae"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.af"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ag"
+    },
+    {
+      "property": "P13337",
+      "value": "google.al"
+    },
+    {
+      "property": "P13337",
+      "value": "google.am"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.ao"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ar"
+    },
+    {
+      "property": "P13337",
+      "value": "google.as"
+    },
+    {
+      "property": "P13337",
+      "value": "google.at"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.au"
+    },
+    {
+      "property": "P13337",
+      "value": "google.az"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ba"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.bd"
+    },
+    {
+      "property": "P13337",
+      "value": "google.be"
+    },
+    {
+      "property": "P13337",
+      "value": "google.bf"
+    },
+    {
+      "property": "P13337",
+      "value": "google.bg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.bh"
+    },
+    {
+      "property": "P13337",
+      "value": "google.bi"
+    },
+    {
+      "property": "P13337",
+      "value": "google.bj"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.bn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.bo"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.br"
+    },
+    {
+      "property": "P13337",
+      "value": "google.bs"
+    },
+    {
+      "property": "P13337",
+      "value": "google.bt"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.bw"
+    },
+    {
+      "property": "P13337",
+      "value": "google.by"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.bz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ca"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cd"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cf"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ch"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ci"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.ck"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cl"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.co"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.cr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.cu"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cv"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.cy"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.de"
+    },
+    {
+      "property": "P13337",
+      "value": "google.dj"
+    },
+    {
+      "property": "P13337",
+      "value": "google.dk"
+    },
+    {
+      "property": "P13337",
+      "value": "google.dm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.do"
+    },
+    {
+      "property": "P13337",
+      "value": "google.dz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ec"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ee"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.eg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.es"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.et"
+    },
+    {
+      "property": "P13337",
+      "value": "google.fi"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.fj"
+    },
+    {
+      "property": "P13337",
+      "value": "google.fm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.fr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ga"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ge"
+    },
+    {
+      "property": "P13337",
+      "value": "google.gg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.gh"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.gi"
+    },
+    {
+      "property": "P13337",
+      "value": "google.gl"
+    },
+    {
+      "property": "P13337",
+      "value": "google.gm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.gr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.gt"
+    },
+    {
+      "property": "P13337",
+      "value": "google.gy"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.hk"
+    },
+    {
+      "property": "P13337",
+      "value": "google.hn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.hr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ht"
+    },
+    {
+      "property": "P13337",
+      "value": "google.hu"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.id"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ie"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.il"
+    },
+    {
+      "property": "P13337",
+      "value": "google.im"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.in"
+    },
+    {
+      "property": "P13337",
+      "value": "google.iq"
+    },
+    {
+      "property": "P13337",
+      "value": "google.is"
+    },
+    {
+      "property": "P13337",
+      "value": "google.it"
+    },
+    {
+      "property": "P13337",
+      "value": "google.je"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.jm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.jo"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.jp"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.ke"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.kh"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ki"
+    },
+    {
+      "property": "P13337",
+      "value": "google.kg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.kr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.kw"
+    },
+    {
+      "property": "P13337",
+      "value": "google.kz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.la"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.lb"
+    },
+    {
+      "property": "P13337",
+      "value": "google.li"
+    },
+    {
+      "property": "P13337",
+      "value": "google.lk"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.ls"
+    },
+    {
+      "property": "P13337",
+      "value": "google.lt"
+    },
+    {
+      "property": "P13337",
+      "value": "google.lu"
+    },
+    {
+      "property": "P13337",
+      "value": "google.lv"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ly"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.ma"
+    },
+    {
+      "property": "P13337",
+      "value": "google.md"
+    },
+    {
+      "property": "P13337",
+      "value": "google.me"
+    },
+    {
+      "property": "P13337",
+      "value": "google.mg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.mk"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ml"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.mm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.mn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.mt"
+    },
+    {
+      "property": "P13337",
+      "value": "google.mu"
+    },
+    {
+      "property": "P13337",
+      "value": "google.mv"
+    },
+    {
+      "property": "P13337",
+      "value": "google.mw"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.mx"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.my"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.mz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.na"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ng"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ni"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ne"
+    },
+    {
+      "property": "P13337",
+      "value": "google.nl"
+    },
+    {
+      "property": "P13337",
+      "value": "google.no"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.np"
+    },
+    {
+      "property": "P13337",
+      "value": "google.nr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.nu"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.nz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.om"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.pa"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.pe"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.pg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ph"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.pk"
+    },
+    {
+      "property": "P13337",
+      "value": "google.pl"
+    },
+    {
+      "property": "P13337",
+      "value": "google.pn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.pr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ps"
+    },
+    {
+      "property": "P13337",
+      "value": "google.pt"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.py"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.qa"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ro"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ru"
+    },
+    {
+      "property": "P13337",
+      "value": "google.rw"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.sa"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.sb"
+    },
+    {
+      "property": "P13337",
+      "value": "google.sc"
+    },
+    {
+      "property": "P13337",
+      "value": "google.se"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.sg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.sh"
+    },
+    {
+      "property": "P13337",
+      "value": "google.si"
+    },
+    {
+      "property": "P13337",
+      "value": "google.sk"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.sl"
+    },
+    {
+      "property": "P13337",
+      "value": "google.sn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.so"
+    },
+    {
+      "property": "P13337",
+      "value": "google.sm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.sr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.st"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.sv"
+    },
+    {
+      "property": "P13337",
+      "value": "google.td"
+    },
+    {
+      "property": "P13337",
+      "value": "google.tg"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.th"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.tj"
+    },
+    {
+      "property": "P13337",
+      "value": "google.tl"
+    },
+    {
+      "property": "P13337",
+      "value": "google.tm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.tn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.to"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.tr"
+    },
+    {
+      "property": "P13337",
+      "value": "google.tt"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.tw"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.tz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.ua"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.ug"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.uk"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.uy"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.uz"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.vc"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.ve"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.vi"
+    },
+    {
+      "property": "P13337",
+      "value": "google.com.vn"
+    },
+    {
+      "property": "P13337",
+      "value": "google.vu"
+    },
+    {
+      "property": "P13337",
+      "value": "google.ws"
+    },
+    {
+      "property": "P13337",
+      "value": "google.rs"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.za"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.zm"
+    },
+    {
+      "property": "P13337",
+      "value": "google.co.zw"
+    },
+    {
+      "property": "P13337",
+      "value": "google.cat"
+    },
+    {
+      "property": "P13337",
+      "value": "googleapis.com"
+    },
+    {
+      "property": "P13337",
+      "value": "gstatic.com"
+    },
+    {
+      "property": "P13337",
+      "value": "com.google"
+    },
+    {
+      "property": "P13337",
+      "value": "googleusercontent.com"
+    },
+    {
+      "property": "P13355",
+      "value": "1289"
+    },
+    {
+      "property": "P1343",
+      "value": "Q17290934"
+    },
+    {
+      "property": "P1344",
+      "value": "Q24632656"
+    },
+    {
+      "property": "P13561",
+      "value": "89900"
+    },
+    {
+      "property": "P13572",
+      "value": "Google"
+    },
+    {
+      "property": "P13591",
+      "value": "group/f8acfe5c-7696-45d1-8ee2-edd5781b4452"
+    },
+    {
+      "property": "P13601",
+      "value": "11129"
+    },
+    {
+      "property": "P13738",
+      "value": "1ae0"
+    },
+    {
+      "property": "P13746",
+      "value": "GOOGLE"
+    },
+    {
+      "property": "P138",
+      "value": "Q507"
+    },
+    {
+      "property": "P138",
+      "value": "Q58454545"
+    },
+    {
+      "property": "P1417",
+      "value": "topic/Google-Inc"
+    },
+    {
+      "property": "P1424",
+      "value": "Q4461755"
+    },
+    {
+      "property": "P1448",
+      "value": "Google LLC"
+    },
+    {
+      "property": "P1448",
+      "value": "Google Inc."
+    },
+    {
+      "property": "P1451",
+      "value": "Don't be evil"
+    },
+    {
+      "property": "P1451",
+      "value": "Do the right thing"
+    },
+    {
+      "property": "P1454",
+      "value": "Q57655560"
+    },
+    {
+      "property": "P1454",
+      "value": "Q149789"
+    },
+    {
+      "property": "P1454",
+      "value": "Q891723"
+    },
+    {
+      "property": "P1454",
+      "value": "Q88537331"
+    },
+    {
+      "property": "P154",
+      "value": "Google 2015 logo.svg"
+    },
+    {
+      "property": "P154",
+      "value": "Google logo (2013-2015).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Google logo (2010-2013).svg"
+    },
+    {
+      "property": "P154",
+      "value": "Google.png"
+    },
+    {
+      "property": "P154",
+      "value": "Google 1998 logo.png"
+    },
+    {
+      "property": "P1546",
+      "value": "Q1209731"
+    },
+    {
+      "property": "P1581",
+      "value": "https://blog.google/"
+    },
+    {
+      "property": "P159",
+      "value": "Q486860"
+    },
+    {
+      "property": "P1617",
+      "value": "4795be02-dfe8-4a8d-b318-0609533ae17a"
+    },
+    {
+      "property": "P166",
+      "value": "Q110530811"
+    },
+    {
+      "property": "P166",
+      "value": "Q3323451"
+    },
+    {
+      "property": "P166",
+      "value": "Q20104576"
+    },
+    {
+      "property": "P166",
+      "value": "Q115621517"
+    },
+    {
+      "property": "P166",
+      "value": "Q2586695"
+    },
+    {
+      "property": "P166",
+      "value": "Q4905345"
+    },
+    {
+      "property": "P169",
+      "value": "Q4934"
+    },
+    {
+      "property": "P169",
+      "value": "Q92747"
+    },
+    {
+      "property": "P169",
+      "value": "Q3503829"
+    },
+    {
+      "property": "P169",
+      "value": "Q4934"
+    },
+    {
+      "property": "P17",
+      "value": "Q30"
+    },
+    {
+      "property": "P1705",
+      "value": "Google"
+    },
+    {
+      "property": "P18",
+      "value": "Googleplex HQ (cropped).jpg"
+    },
+    {
+      "property": "P1813",
+      "value": "Google"
+    },
+    {
+      "property": "P1830",
+      "value": "Q7854718"
+    },
+    {
+      "property": "P1830",
+      "value": "Q7948665"
+    },
+    {
+      "property": "P1830",
+      "value": "Q10847349"
+    },
+    {
+      "property": "P1830",
+      "value": "Q14799884"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15023900"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15733006"
+    },
+    {
+      "property": "P1830",
+      "value": "Q16049689"
+    },
+    {
+      "property": "P1830",
+      "value": "Q16638513"
+    },
+    {
+      "property": "P1830",
+      "value": "Q16927666"
+    },
+    {
+      "property": "P1830",
+      "value": "Q16927802"
+    },
+    {
+      "property": "P1830",
+      "value": "Q16972647"
+    },
+    {
+      "property": "P1830",
+      "value": "Q17081187"
+    },
+    {
+      "property": "P1830",
+      "value": "Q17385422"
+    },
+    {
+      "property": "P1830",
+      "value": "Q648625"
+    },
+    {
+      "property": "P1830",
+      "value": "Q18275458"
+    },
+    {
+      "property": "P1830",
+      "value": "Q18357313"
+    },
+    {
+      "property": "P1830",
+      "value": "Q18859887"
+    },
+    {
+      "property": "P1830",
+      "value": "Q19758689"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20007086"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20573011"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20573262"
+    },
+    {
+      "property": "P1830",
+      "value": "Q20671898"
+    },
+    {
+      "property": "P1830",
+      "value": "Q21614062"
+    },
+    {
+      "property": "P1830",
+      "value": "Q22077991"
+    },
+    {
+      "property": "P1830",
+      "value": "Q22906681"
+    },
+    {
+      "property": "P1830",
+      "value": "Q25422520"
+    },
+    {
+      "property": "P1830",
+      "value": "Q28000367"
+    },
+    {
+      "property": "P1830",
+      "value": "Q41750199"
+    },
+    {
+      "property": "P1830",
+      "value": "Q48817537"
+    },
+    {
+      "property": "P1830",
+      "value": "Q56512593"
+    },
+    {
+      "property": "P1830",
+      "value": "Q79564"
+    },
+    {
+      "property": "P1830",
+      "value": "Q135622"
+    },
+    {
+      "property": "P1830",
+      "value": "Q164203"
+    },
+    {
+      "property": "P1830",
+      "value": "Q166561"
+    },
+    {
+      "property": "P1830",
+      "value": "Q170438"
+    },
+    {
+      "property": "P1830",
+      "value": "Q171186"
+    },
+    {
+      "property": "P1830",
+      "value": "Q183480"
+    },
+    {
+      "property": "P1830",
+      "value": "Q185179"
+    },
+    {
+      "property": "P1830",
+      "value": "Q206033"
+    },
+    {
+      "property": "P1830",
+      "value": "Q207656"
+    },
+    {
+      "property": "P1830",
+      "value": "Q213602"
+    },
+    {
+      "property": "P1830",
+      "value": "Q219885"
+    },
+    {
+      "property": "P1830",
+      "value": "Q220577"
+    },
+    {
+      "property": "P1830",
+      "value": "Q231396"
+    },
+    {
+      "property": "P1830",
+      "value": "Q239516"
+    },
+    {
+      "property": "P1830",
+      "value": "Q271982"
+    },
+    {
+      "property": "P1830",
+      "value": "Q305910"
+    },
+    {
+      "property": "P1830",
+      "value": "Q306623"
+    },
+    {
+      "property": "P1830",
+      "value": "Q328216"
+    },
+    {
+      "property": "P1830",
+      "value": "Q369089"
+    },
+    {
+      "property": "P1830",
+      "value": "Q371060"
+    },
+    {
+      "property": "P1830",
+      "value": "Q431241"
+    },
+    {
+      "property": "P1830",
+      "value": "Q473873"
+    },
+    {
+      "property": "P1830",
+      "value": "Q476786"
+    },
+    {
+      "property": "P1830",
+      "value": "Q494817"
+    },
+    {
+      "property": "P1830",
+      "value": "Q509284"
+    },
+    {
+      "property": "P1830",
+      "value": "Q521550"
+    },
+    {
+      "property": "P1830",
+      "value": "Q540202"
+    },
+    {
+      "property": "P1830",
+      "value": "Q623456"
+    },
+    {
+      "property": "P1830",
+      "value": "Q664672"
+    },
+    {
+      "property": "P1830",
+      "value": "Q694178"
+    },
+    {
+      "property": "P1830",
+      "value": "Q776845"
+    },
+    {
+      "property": "P1830",
+      "value": "Q840820"
+    },
+    {
+      "property": "P1830",
+      "value": "Q844992"
+    },
+    {
+      "property": "P1830",
+      "value": "Q847115"
+    },
+    {
+      "property": "P1830",
+      "value": "Q848618"
+    },
+    {
+      "property": "P1830",
+      "value": "Q913902"
+    },
+    {
+      "property": "P1830",
+      "value": "Q963120"
+    },
+    {
+      "property": "P1830",
+      "value": "Q974700"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1011979"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1011981"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1012004"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1047941"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1122325"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1138257"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1139551"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1198691"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1211075"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1296464"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1424622"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1433417"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1537675"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1537673"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1575434"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1816282"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1827543"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1983108"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2067785"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2233943"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2327932"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2334242"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2452519"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2605933"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2673730"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2736257"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2737191"
+    },
+    {
+      "property": "P1830",
+      "value": "Q2737647"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3110754"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3110761"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3235742"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3238742"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3306902"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3630287"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3631285"
+    },
+    {
+      "property": "P1830",
+      "value": "Q3773423"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4039596"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4605228"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4759462"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4860420"
+    },
+    {
+      "property": "P1830",
+      "value": "Q4904867"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5090112"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5583801"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5583816"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5583830"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5583836"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5583843"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5583847"
+    },
+    {
+      "property": "P1830",
+      "value": "Q5583854"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6547045"
+    },
+    {
+      "property": "P1830",
+      "value": "Q6994244"
+    },
+    {
+      "property": "P1830",
+      "value": "Q7333756"
+    },
+    {
+      "property": "P1830",
+      "value": "Q9340"
+    },
+    {
+      "property": "P1830",
+      "value": "Q9366"
+    },
+    {
+      "property": "P1830",
+      "value": "Q12013"
+    },
+    {
+      "property": "P1830",
+      "value": "Q12020"
+    },
+    {
+      "property": "P1830",
+      "value": "Q15330"
+    },
+    {
+      "property": "P1830",
+      "value": "Q42274"
+    },
+    {
+      "property": "P1830",
+      "value": "Q51712"
+    },
+    {
+      "property": "P1830",
+      "value": "Q58508"
+    },
+    {
+      "property": "P1830",
+      "value": "Q356"
+    },
+    {
+      "property": "P1830",
+      "value": "Q866"
+    },
+    {
+      "property": "P1830",
+      "value": "Q9334"
+    },
+    {
+      "property": "P1830",
+      "value": "Q63481268"
+    },
+    {
+      "property": "P1830",
+      "value": "Q11775280"
+    },
+    {
+      "property": "P1830",
+      "value": "Q1537691"
+    },
+    {
+      "property": "P1830",
+      "value": "Q110544181"
+    },
+    {
+      "property": "P1870",
+      "value": "78319"
+    },
+    {
+      "property": "P1889",
+      "value": "Q507"
+    },
+    {
+      "property": "P1889",
+      "value": "Q961680"
+    },
+    {
+      "property": "P1889",
+      "value": "Q9366"
+    },
+    {
+      "property": "P2002",
+      "value": "Google"
+    },
+    {
+      "property": "P2002",
+      "value": "madebygoogle"
+    },
+    {
+      "property": "P2002",
+      "value": "Google_Comms"
+    },
+    {
+      "property": "P2002",
+      "value": "googleeurope"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleForEdu"
+    },
+    {
+      "property": "P2002",
+      "value": "googlerussia"
+    },
+    {
+      "property": "P2002",
+      "value": "googlearabia"
+    },
+    {
+      "property": "P2002",
+      "value": "googledownunder"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleIndia"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleOSS"
+    },
+    {
+      "property": "P2002",
+      "value": "googleafrica"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleUK"
+    },
+    {
+      "property": "P2002",
+      "value": "googlecanada"
+    },
+    {
+      "property": "P2002",
+      "value": "GooglePH"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleMsia"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleInCA"
+    },
+    {
+      "property": "P2002",
+      "value": "googleitalia"
+    },
+    {
+      "property": "P2002",
+      "value": "googlefr"
+    },
+    {
+      "property": "P2002",
+      "value": "googleargentina"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleDE"
+    },
+    {
+      "property": "P2002",
+      "value": "GoogleColombia"
+    },
+    {
+      "property": "P2002",
+      "value": "googlebrasil"
+    },
+    {
+      "property": "P2003",
+      "value": "google"
+    },
+    {
+      "property": "P2011",
+      "value": "18059025"
+    },
+    {
+      "property": "P2013",
+      "value": "google"
+    },
+    {
+      "property": "P2013",
+      "value": "Google-Россия-648637565338744"
+    },
+    {
+      "property": "P2013",
+      "value": "GoogleArabia"
+    },
+    {
+      "property": "P2037",
+      "value": "google"
+    },
+    {
+      "property": "P2037",
+      "value": "googlearchive"
+    },
+    {
+      "property": "P2037",
+      "value": "googleprojectzero"
+    },
+    {
+      "property": "P2088",
+      "value": "google"
+    },
+    {
+      "property": "P213",
+      "value": "0000000406356729"
+    },
+    {
+      "property": "P214",
+      "value": "124291214"
+    },
+    {
+      "property": "P2174",
+      "value": "33342"
+    },
+    {
+      "property": "P2184",
+      "value": "Q1145634"
+    },
+    {
+      "property": "P227",
+      "value": "10122609-3"
+    },
+    {
+      "property": "P2283",
+      "value": "Q65042425"
+    },
+    {
+      "property": "P2347",
+      "value": "22952"
+    },
+    {
+      "property": "P2397",
+      "value": "UCK8sQmJBp8GCxrOtXWBpyEA"
+    },
+    {
+      "property": "P2397",
+      "value": "UCXRWXI7lyRMwn6PkuyHrhgA"
+    },
+    {
+      "property": "P2397",
+      "value": "UCcg16ODvF6o1bd3nXIBw_Jw"
+    },
+    {
+      "property": "P2397",
+      "value": "UCvuDhrMwzIwRZd1dj9bXsBQ"
+    },
+    {
+      "property": "P2397",
+      "value": "UCoVwq0vh-XD8RrEyDZ0KeJw"
+    },
+    {
+      "property": "P2427",
+      "value": "grid.420451.6"
+    },
+    {
+      "property": "P244",
+      "value": "no00095539"
+    },
+    {
+      "property": "P2541",
+      "value": "Q13780930"
+    },
+    {
+      "property": "P2572",
+      "value": "Google"
+    },
+    {
+      "property": "P2572",
+      "value": "جوجل"
+    },
+    {
+      "property": "P2572",
+      "value": "جوجليات"
+    },
+    {
+      "property": "P2572",
+      "value": "гугл"
+    },
+    {
+      "property": "P2581",
+      "value": "00212508n"
+    },
+    {
+      "property": "P2612",
+      "value": "Google"
+    },
+    {
+      "property": "P2627",
+      "value": "GOOGUS66XXX"
+    },
+    {
+      "property": "P2652",
+      "value": "Q5380446"
+    },
+    {
+      "property": "P2652",
+      "value": "Q82151"
+    },
+    {
+      "property": "P2657",
+      "value": "03181945560-59"
+    },
+    {
+      "property": "P268",
+      "value": "15026135n"
+    },
+    {
+      "property": "P269",
+      "value": "110886259"
+    },
+    {
+      "property": "P2740",
+      "value": "Google_Inc"
+    },
+    {
+      "property": "P2924",
+      "value": "1934685"
+    },
+    {
+      "property": "P2959",
+      "value": "Q25556329"
+    },
+    {
+      "property": "P31",
+      "value": "Q4830453"
+    },
+    {
+      "property": "P31",
+      "value": "Q18388277"
+    },
+    {
+      "property": "P31",
+      "value": "Q5988403"
+    },
+    {
+      "property": "P31",
+      "value": "Q891723"
+    },
+    {
+      "property": "P31",
+      "value": "Q19967801"
+    },
+    {
+      "property": "P3106",
+      "value": "technology/google"
+    },
+    {
+      "property": "P3153",
+      "value": "100006785"
+    },
+    {
+      "property": "P3185",
+      "value": "googlerussia"
+    },
+    {
+      "property": "P3193",
+      "value": "08653210001"
+    },
+    {
+      "property": "P3222",
+      "value": "google-inc"
+    },
+    {
+      "property": "P3222",
+      "value": "google"
+    },
+    {
+      "property": "P3225",
+      "value": "3700150072195"
+    },
+    {
+      "property": "P3347",
+      "value": "4295899948"
+    },
+    {
+      "property": "P3393",
+      "value": "151"
+    },
+    {
+      "property": "P3417",
+      "value": "Google-company-5"
+    },
+    {
+      "property": "P3417",
+      "value": "Google-70"
+    },
+    {
+      "property": "P3417",
+      "value": "Google-the-Google"
+    },
+    {
+      "property": "P3417",
+      "value": "Google-Google+-Privacy"
+    },
+    {
+      "property": "P345",
+      "value": "co0123378"
+    },
+    {
+      "property": "P3500",
+      "value": "93176"
+    },
+    {
+      "property": "P3544",
+      "value": "46293"
+    },
+    {
+      "property": "P355",
+      "value": "Q1318441"
+    },
+    {
+      "property": "P355",
+      "value": "Q1053674"
+    },
+    {
+      "property": "P355",
+      "value": "Q1816282"
+    },
+    {
+      "property": "P355",
+      "value": "Q1114200"
+    },
+    {
+      "property": "P355",
+      "value": "Q112247183"
+    },
+    {
+      "property": "P355",
+      "value": "Q942327"
+    },
+    {
+      "property": "P355",
+      "value": "Q171186"
+    },
+    {
+      "property": "P355",
+      "value": "Q15732990"
+    },
+    {
+      "property": "P355",
+      "value": "Q2298325"
+    },
+    {
+      "property": "P355",
+      "value": "Q4997299"
+    },
+    {
+      "property": "P355",
+      "value": "Q15733006"
+    },
+    {
+      "property": "P355",
+      "value": "Q7950747"
+    },
+    {
+      "property": "P355",
+      "value": "Q164203"
+    },
+    {
+      "property": "P355",
+      "value": "Q133928"
+    },
+    {
+      "property": "P355",
+      "value": "Q934853"
+    },
+    {
+      "property": "P355",
+      "value": "Q1377855"
+    },
+    {
+      "property": "P355",
+      "value": "Q19758689"
+    },
+    {
+      "property": "P355",
+      "value": "Q6398293"
+    },
+    {
+      "property": "P355",
+      "value": "Q1011981"
+    },
+    {
+      "property": "P355",
+      "value": "Q5974704"
+    },
+    {
+      "property": "P355",
+      "value": "Q6002082"
+    },
+    {
+      "property": "P355",
+      "value": "Q6354493"
+    },
+    {
+      "property": "P355",
+      "value": "Q776845"
+    },
+    {
+      "property": "P355",
+      "value": "Q2119882"
+    },
+    {
+      "property": "P355",
+      "value": "Q6994244"
+    },
+    {
+      "property": "P355",
+      "value": "Q7157796"
+    },
+    {
+      "property": "P355",
+      "value": "Q772783"
+    },
+    {
+      "property": "P355",
+      "value": "Q5583798"
+    },
+    {
+      "property": "P355",
+      "value": "Q5205667"
+    },
+    {
+      "property": "P355",
+      "value": "Q509284"
+    },
+    {
+      "property": "P355",
+      "value": "Q17054505"
+    },
+    {
+      "property": "P355",
+      "value": "Q2591662"
+    },
+    {
+      "property": "P355",
+      "value": "Q3054039"
+    },
+    {
+      "property": "P355",
+      "value": "Q3297298"
+    },
+    {
+      "property": "P355",
+      "value": "Q4985941"
+    },
+    {
+      "property": "P355",
+      "value": "Q29000317"
+    },
+    {
+      "property": "P355",
+      "value": "Q30338080"
+    },
+    {
+      "property": "P355",
+      "value": "Q30338099"
+    },
+    {
+      "property": "P355",
+      "value": "Q51712"
+    },
+    {
+      "property": "P355",
+      "value": "Q15330"
+    },
+    {
+      "property": "P355",
+      "value": "Q2119882"
+    },
+    {
+      "property": "P355",
+      "value": "Q271982"
+    },
+    {
+      "property": "P355",
+      "value": "Q3552257"
+    },
+    {
+      "property": "P355",
+      "value": "Q9274518"
+    },
+    {
+      "property": "P355",
+      "value": "Q5455414"
+    },
+    {
+      "property": "P355",
+      "value": "Q111351974"
+    },
+    {
+      "property": "P355",
+      "value": "Q13462819"
+    },
+    {
+      "property": "P355",
+      "value": "Q123570040"
+    },
+    {
+      "property": "P355",
+      "value": "Q124060721"
+    },
+    {
+      "property": "P3553",
+      "value": "19565870"
+    },
+    {
+      "property": "P3575",
+      "value": "+15000000000000000000"
+    },
+    {
+      "property": "P3579",
+      "value": "googlev"
+    },
+    {
+      "property": "P361",
+      "value": "Q30748112"
+    },
+    {
+      "property": "P361",
+      "value": "Q134661623"
+    },
+    {
+      "property": "P3721",
+      "value": "E331 7DB0 4D39 58FD 5F66 2C37 B8E4 105C C9DE DC77"
+    },
+    {
+      "property": "P373",
+      "value": "Google"
+    },
+    {
+      "property": "P3743",
+      "value": "1.3.6.1.4.1.11129"
+    },
+    {
+      "property": "P3762",
+      "value": "128608"
+    },
+    {
+      "property": "P3762",
+      "value": "158906"
+    },
+    {
+      "property": "P3762",
+      "value": "162037"
+    },
+    {
+      "property": "P3793",
+      "value": "2001:668:1f:4a::/64"
+    },
+    {
+      "property": "P3793",
+      "value": "2001:668:1f:4c::/62"
+    },
+    {
+      "property": "P3793",
+      "value": "2001:668:1f:52::/63"
+    },
+    {
+      "property": "P3793",
+      "value": "2a00:c38:121:1::/64"
+    },
+    {
+      "property": "P3797",
+      "value": "15169"
+    },
+    {
+      "property": "P3797",
+      "value": "13949"
+    },
+    {
+      "property": "P3797",
+      "value": "16550"
+    },
+    {
+      "property": "P3797",
+      "value": "19425"
+    },
+    {
+      "property": "P3797",
+      "value": "19527"
+    },
+    {
+      "property": "P3797",
+      "value": "22577"
+    },
+    {
+      "property": "P3797",
+      "value": "22859"
+    },
+    {
+      "property": "P3797",
+      "value": "26684"
+    },
+    {
+      "property": "P3797",
+      "value": "26910"
+    },
+    {
+      "property": "P3797",
+      "value": "36039"
+    },
+    {
+      "property": "P3797",
+      "value": "36040"
+    },
+    {
+      "property": "P3797",
+      "value": "36383"
+    },
+    {
+      "property": "P3797",
+      "value": "36384"
+    },
+    {
+      "property": "P3797",
+      "value": "36385"
+    },
+    {
+      "property": "P3797",
+      "value": "36411"
+    },
+    {
+      "property": "P3797",
+      "value": "36492"
+    },
+    {
+      "property": "P3797",
+      "value": "36520"
+    },
+    {
+      "property": "P3797",
+      "value": "36561"
+    },
+    {
+      "property": "P3797",
+      "value": "40873"
+    },
+    {
+      "property": "P3797",
+      "value": "55023"
+    },
+    {
+      "property": "P3797",
+      "value": "394089"
+    },
+    {
+      "property": "P3797",
+      "value": "394507"
+    },
+    {
+      "property": "P3797",
+      "value": "394639"
+    },
+    {
+      "property": "P3797",
+      "value": "395973"
+    },
+    {
+      "property": "P3797",
+      "value": "396982"
+    },
+    {
+      "property": "P3847",
+      "value": "google"
+    },
+    {
+      "property": "P3847",
+      "value": "google_(firm)"
+    },
+    {
+      "property": "P3861",
+      "value": "284815942"
+    },
+    {
+      "property": "P3875",
+      "value": "google"
+    },
+    {
+      "property": "P3979",
+      "value": "356531"
+    },
+    {
+      "property": "P3984",
+      "value": "google"
+    },
+    {
+      "property": "P4013",
+      "value": "google"
+    },
+    {
+      "property": "P4073",
+      "value": "google"
+    },
+    {
+      "property": "P409",
+      "value": "50414901"
+    },
+    {
+      "property": "P414",
+      "value": "Q82059"
+    },
+    {
+      "property": "P414",
+      "value": "Q82059"
+    },
+    {
+      "property": "P4204",
+      "value": "Google"
+    },
+    {
+      "property": "P4264",
+      "value": "google"
+    },
+    {
+      "property": "P4265",
+      "value": "google"
+    },
+    {
+      "property": "P4290",
+      "value": "Q125851407"
+    },
+    {
+      "property": "P4293",
+      "value": "co/010206"
+    },
+    {
+      "property": "P4342",
+      "value": "Google"
+    },
+    {
+      "property": "P4342",
+      "value": "Google_Inc."
+    },
+    {
+      "property": "P4354",
+      "value": "https://www.google.com/search?q=$1"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-22nd-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-4th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-21st-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-20th-birthday-us"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-20th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-19th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-18th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-17th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-16th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-15th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-14th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-13th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-12th-birthday-by-wayne-thiebaud"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-10th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-11th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-5th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-9th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-6th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-7th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-8th-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-23rd-birthday"
+    },
+    {
+      "property": "P4431",
+      "value": "googles-25th-birthday"
+    },
+    {
+      "property": "P4486",
+      "value": "5700313618786177705"
+    },
+    {
+      "property": "P452",
+      "value": "Q56611700"
+    },
+    {
+      "property": "P452",
+      "value": "Q880371"
+    },
+    {
+      "property": "P452",
+      "value": "Q189507"
+    },
+    {
+      "property": "P452",
+      "value": "Q11661"
+    },
+    {
+      "property": "P452",
+      "value": "Q75"
+    },
+    {
+      "property": "P4527",
+      "value": "36764"
+    },
+    {
+      "property": "P463",
+      "value": "Q125339558"
+    },
+    {
+      "property": "P463",
+      "value": "Q3685364"
+    },
+    {
+      "property": "P463",
+      "value": "Q135419551"
+    },
+    {
+      "property": "P4776",
+      "value": "001A11"
+    },
+    {
+      "property": "P4776",
+      "value": "089E08"
+    },
+    {
+      "property": "P4776",
+      "value": "20DFB9"
+    },
+    {
+      "property": "P4776",
+      "value": "30FD38"
+    },
+    {
+      "property": "P4776",
+      "value": "3C5AB4"
+    },
+    {
+      "property": "P4776",
+      "value": "48D6D5"
+    },
+    {
+      "property": "P4776",
+      "value": "546009"
+    },
+    {
+      "property": "P4776",
+      "value": "703ACB"
+    },
+    {
+      "property": "P4776",
+      "value": "7C2EBD"
+    },
+    {
+      "property": "P4776",
+      "value": "883D24"
+    },
+    {
+      "property": "P4776",
+      "value": "9495A0"
+    },
+    {
+      "property": "P4776",
+      "value": "94EB2C"
+    },
+    {
+      "property": "P4776",
+      "value": "98D293"
+    },
+    {
+      "property": "P4776",
+      "value": "A47733"
+    },
+    {
+      "property": "P4776",
+      "value": "D86C63"
+    },
+    {
+      "property": "P4776",
+      "value": "E4F042"
+    },
+    {
+      "property": "P4776",
+      "value": "F40304"
+    },
+    {
+      "property": "P4776",
+      "value": "F4F5D8"
+    },
+    {
+      "property": "P4776",
+      "value": "F4F5E8"
+    },
+    {
+      "property": "P4776",
+      "value": "F88FCA"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"Company\", \"Google::d4462\"]"
+    },
+    {
+      "property": "P4839",
+      "value": "Entity[\"HistoricalEvent\", \"GoogleIncorporated\"]"
+    },
+    {
+      "property": "P5008",
+      "value": "Q6173448"
+    },
+    {
+      "property": "P5008",
+      "value": "Q123694075"
+    },
+    {
+      "property": "P5009",
+      "value": "Q1999831"
+    },
+    {
+      "property": "P5009",
+      "value": "Q1999831"
+    },
+    {
+      "property": "P5063",
+      "value": "i71028"
+    },
+    {
+      "property": "P5084",
+      "value": "2115500141"
+    },
+    {
+      "property": "P5125",
+      "value": "Q7112274"
+    },
+    {
+      "property": "P5163",
+      "value": "googlerussia"
+    },
+    {
+      "property": "P5256",
+      "value": "Google"
+    },
+    {
+      "property": "P5260",
+      "value": "281956209"
+    },
+    {
+      "property": "P5337",
+      "value": "CAAqBwgKMOjY3gow0cTWAQ"
+    },
+    {
+      "property": "P5531",
+      "value": "0001824723"
+    },
+    {
+      "property": "P5531",
+      "value": "0001288776"
+    },
+    {
+      "property": "P5551",
+      "value": "google"
+    },
+    {
+      "property": "P5587",
+      "value": "75knrlmr1lk1wsg"
+    },
+    {
+      "property": "P571",
+      "value": "+1998-09-04T00:00:00Z"
+    },
+    {
+      "property": "P6009",
+      "value": "5359"
+    },
+    {
+      "property": "P6058",
+      "value": "divers/Google/183811"
+    },
+    {
+      "property": "P6182",
+      "value": "198984"
+    },
+    {
+      "property": "P6182",
+      "value": "89304"
+    },
+    {
+      "property": "P6200",
+      "value": "c8nq32jw83wt"
+    },
+    {
+      "property": "P6262",
+      "value": "youtube:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "logos:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "es.youtube:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "htmlcss:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "code:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "computer:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "android:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "microsoft:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "google:Google"
+    },
+    {
+      "property": "P6262",
+      "value": "apple:Google"
+    },
+    {
+      "property": "P6293",
+      "value": "Y158826"
+    },
+    {
+      "property": "P6363",
+      "value": "http://data.thenextweb.com/tnw/entity/google"
+    },
+    {
+      "property": "P6366",
+      "value": "1291425158"
+    },
+    {
+      "property": "P6379",
+      "value": "Q188740"
+    },
+    {
+      "property": "P6379",
+      "value": "Q7605588"
+    },
+    {
+      "property": "P6451",
+      "value": "google-gu-ge"
+    },
+    {
+      "property": "P646",
+      "value": "/m/045c7b"
+    },
+    {
+      "property": "P6573",
+      "value": "Google"
+    },
+    {
+      "property": "P6640",
+      "value": "197075"
+    },
+    {
+      "property": "P6760",
+      "value": "7972"
+    },
+    {
+      "property": "P6782",
+      "value": "00njsd438"
+    },
+    {
+      "property": "P6839",
+      "value": "Website/Google"
+    },
+    {
+      "property": "P6849",
+      "value": "google"
+    },
+    {
+      "property": "P6900",
+      "value": "google"
+    },
+    {
+      "property": "P691",
+      "value": "kn20050213003"
+    },
+    {
+      "property": "P7014",
+      "value": "https://policies.google.com/terms"
+    },
+    {
+      "property": "P7085",
+      "value": "google"
+    },
+    {
+      "property": "P7101",
+      "value": "https://policies.google.com/privacy"
+    },
+    {
+      "property": "P7140",
+      "value": "Google"
+    },
+    {
+      "property": "P7157",
+      "value": "3196"
+    },
+    {
+      "property": "P7264",
+      "value": "A4R"
+    },
+    {
+      "property": "P740",
+      "value": "Q74195"
+    },
+    {
+      "property": "P749",
+      "value": "Q20800404"
+    },
+    {
+      "property": "P7502",
+      "value": "Google-MYW"
+    },
+    {
+      "property": "P7502",
+      "value": "Google"
+    },
+    {
+      "property": "P7763",
+      "value": "Q73555012"
+    },
+    {
+      "property": "P7784",
+      "value": "14836"
+    },
+    {
+      "property": "P8060",
+      "value": "9079"
+    },
+    {
+      "property": "P8189",
+      "value": "987007311977205171"
+    },
+    {
+      "property": "P8253",
+      "value": "google-4a77e8"
+    },
+    {
+      "property": "P8253",
+      "value": "google-918717"
+    },
+    {
+      "property": "P8309",
+      "value": "18-190147"
+    },
+    {
+      "property": "P8313",
+      "value": "Google"
+    },
+    {
+      "property": "P8317",
+      "value": "63756"
+    },
+    {
+      "property": "P8501",
+      "value": "BAB368AC-F53E-4B01-A4D9-23CBC4A1996D"
+    },
+    {
+      "property": "P8501",
+      "value": "7D1FF4C7-DD25-4073-920E-B040B150B711"
+    },
+    {
+      "property": "P856",
+      "value": "https://about.google/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.google.com/"
+    },
+    {
+      "property": "P856",
+      "value": "https://blog.google/"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.google.es"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.google.co.uk/"
+    },
+    {
+      "property": "P8687",
+      "value": "+10100000"
+    },
+    {
+      "property": "P8814",
+      "value": "06591081-n"
+    },
+    {
+      "property": "P8939",
+      "value": "Google LLC"
+    },
+    {
+      "property": "P8972",
+      "value": "Google Favicon 2025.svg"
+    },
+    {
+      "property": "P906",
+      "value": "293303"
+    },
+    {
+      "property": "P910",
+      "value": "Q4004268"
+    },
+    {
+      "property": "P9100",
+      "value": "google"
+    },
+    {
+      "property": "P9214",
+      "value": "https://policies.google.com/faq"
+    },
+    {
+      "property": "P9318",
+      "value": "google"
+    },
+    {
+      "property": "P9346",
+      "value": "google"
+    },
+    {
+      "property": "P935",
+      "value": "Google"
+    },
+    {
+      "property": "P9368",
+      "value": "google"
+    },
+    {
+      "property": "P9629",
+      "value": "13231"
+    },
+    {
+      "property": "P9650",
+      "value": "google"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:opensource@google.com"
+    },
+    {
+      "property": "P968",
+      "value": "mailto:support-deutschland@google.com"
+    },
+    {
+      "property": "P973",
+      "value": "https://about.google/"
+    },
+    {
+      "property": "P973",
+      "value": "https://www.globaldata.com/data-insights/technology--media-and-telecom/googles-employee-headcount/"
+    },
+    {
+      "property": "P9832",
+      "value": "4176"
+    },
+    {
+      "property": "P9885",
+      "value": "f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0"
+    },
+    {
+      "property": "P9984",
+      "value": "981058614824906706"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "Q3064524",
+  "label": "WebDINO Japan",
+  "facts": [
+    {
+      "property": "P1320",
+      "value": "jp/8010005007692"
+    },
+    {
+      "property": "P1454",
+      "value": "Q22130673"
+    },
+    {
+      "property": "P17",
+      "value": "Q17"
+    },
+    {
+      "property": "P2002",
+      "value": "mozillajp"
+    },
+    {
+      "property": "P31",
+      "value": "Q43229"
+    },
+    {
+      "property": "P3225",
+      "value": "8010005007692"
+    },
+    {
+      "property": "P571",
+      "value": "+2004-07-19T00:00:00Z"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03pj0s"
+    },
+    {
+      "property": "P856",
+      "value": "https://www.webdino.org/"
+    },
+    {
+      "property": "P8687",
+      "value": "+13109"
+    },
+    {
+      "property": "P8687",
+      "value": "+14362"
+    },
+    {
+      "property": "P8687",
+      "value": "+12648"
+    },
+    {
+      "property": "P8687",
+      "value": "+12405"
+    }
+  ]
+}

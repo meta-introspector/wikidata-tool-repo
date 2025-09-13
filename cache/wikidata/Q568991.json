@@ -1,0 +1,70 @@
+{
+  "id": "Q568991",
+  "label": "Mozilla Prism",
+  "facts": [
+    {
+      "property": "P154",
+      "value": "Mozilla Prism logo and wordmark.png"
+    },
+    {
+      "property": "P178",
+      "value": "Q169925"
+    },
+    {
+      "property": "P275",
+      "value": "Q308915"
+    },
+    {
+      "property": "P277",
+      "value": "Q2407"
+    },
+    {
+      "property": "P277",
+      "value": "Q2005"
+    },
+    {
+      "property": "P31",
+      "value": "Q166142"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q15008073"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P348",
+      "value": "1.0b3"
+    },
+    {
+      "property": "P348",
+      "value": "1.0b4"
+    },
+    {
+      "property": "P4945",
+      "value": "https://addons.mozilla.org/firefox/addon/mozilla-labs-prism/"
+    },
+    {
+      "property": "P646",
+      "value": "/m/03cp6n1"
+    },
+    {
+      "property": "P856",
+      "value": "http://prism.mozilla.com/"
+    },
+    {
+      "property": "P973",
+      "value": "https://wiki.mozilla.org/Prism"
+    },
+    {
+      "property": "P973",
+      "value": "https://developer.mozilla.org/en-US/docs/Archive/Mozilla/Prism"
+    }
+  ]
+}

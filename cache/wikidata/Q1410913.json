@@ -1,0 +1,158 @@
+{
+  "id": "Q1410913",
+  "label": "Netscape Communicator",
+  "facts": [
+    {
+      "property": "P1072",
+      "value": "Q1066897"
+    },
+    {
+      "property": "P1417",
+      "value": "technology/Netscape-Communicator"
+    },
+    {
+      "property": "P154",
+      "value": "Netscape icon.svg"
+    },
+    {
+      "property": "P178",
+      "value": "Q210057"
+    },
+    {
+      "property": "P18",
+      "value": "Netscape Communicator 4.8 Screenshot.png"
+    },
+    {
+      "property": "P214",
+      "value": "174692995"
+    },
+    {
+      "property": "P227",
+      "value": "4468465-4"
+    },
+    {
+      "property": "P31",
+      "value": "Q7397"
+    },
+    {
+      "property": "P348",
+      "value": "4.0"
+    },
+    {
+      "property": "P348",
+      "value": "4.01"
+    },
+    {
+      "property": "P348",
+      "value": "4.01a"
+    },
+    {
+      "property": "P348",
+      "value": "4.02"
+    },
+    {
+      "property": "P348",
+      "value": "4.03"
+    },
+    {
+      "property": "P348",
+      "value": "4.04"
+    },
+    {
+      "property": "P348",
+      "value": "4.05"
+    },
+    {
+      "property": "P348",
+      "value": "4.06"
+    },
+    {
+      "property": "P348",
+      "value": "4.07"
+    },
+    {
+      "property": "P348",
+      "value": "4.5"
+    },
+    {
+      "property": "P348",
+      "value": "4.08"
+    },
+    {
+      "property": "P348",
+      "value": "4.51"
+    },
+    {
+      "property": "P348",
+      "value": "4.6"
+    },
+    {
+      "property": "P348",
+      "value": "4.61"
+    },
+    {
+      "property": "P348",
+      "value": "4.7"
+    },
+    {
+      "property": "P348",
+      "value": "4.71"
+    },
+    {
+      "property": "P348",
+      "value": "4.72"
+    },
+    {
+      "property": "P348",
+      "value": "4.73"
+    },
+    {
+      "property": "P348",
+      "value": "4.74"
+    },
+    {
+      "property": "P348",
+      "value": "4.75"
+    },
+    {
+      "property": "P348",
+      "value": "4.76"
+    },
+    {
+      "property": "P348",
+      "value": "4.77"
+    },
+    {
+      "property": "P348",
+      "value": "4.78"
+    },
+    {
+      "property": "P348",
+      "value": "4.79"
+    },
+    {
+      "property": "P348",
+      "value": "4.8"
+    },
+    {
+      "property": "P366",
+      "value": "Q955452"
+    },
+    {
+      "property": "P600",
+      "value": "224"
+    },
+    {
+      "property": "P646",
+      "value": "/m/0q6qg"
+    },
+    {
+      "property": "P691",
+      "value": "ph166236"
+    },
+    {
+      "property": "P856",
+      "value": "http://wp.netscape.com/browsers/4/"
+    }
+  ]
+}

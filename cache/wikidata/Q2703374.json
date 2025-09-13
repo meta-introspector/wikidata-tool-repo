@@ -1,0 +1,50 @@
+{
+  "id": "Q2703374",
+  "label": "Mozilla Composer",
+  "facts": [
+    {
+      "property": "P18",
+      "value": "Moscompos.PNG"
+    },
+    {
+      "property": "P275",
+      "value": "Q192897"
+    },
+    {
+      "property": "P275",
+      "value": "Q7603"
+    },
+    {
+      "property": "P31",
+      "value": "Q341"
+    },
+    {
+      "property": "P31",
+      "value": "Q726761"
+    },
+    {
+      "property": "P348",
+      "value": "1.7.13"
+    },
+    {
+      "property": "P348",
+      "value": "1.8b1"
+    },
+    {
+      "property": "P361",
+      "value": "Q538588"
+    },
+    {
+      "property": "P6216",
+      "value": "Q50423863"
+    },
+    {
+      "property": "P646",
+      "value": "/m/02d67j"
+    },
+    {
+      "property": "P856",
+      "value": "https://www-archive.mozilla.org/editor/"
+    }
+  ]
+}

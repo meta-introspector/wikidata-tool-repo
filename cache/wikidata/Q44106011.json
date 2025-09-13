@@ -1,0 +1,90 @@
+{
+  "id": "Q44106011",
+  "label": "Common Voice",
+  "facts": [
+    {
+      "property": "P11254",
+      "value": "https://crowdin.com/project/common-voice-android"
+    },
+    {
+      "property": "P1343",
+      "value": "Q79020060"
+    },
+    {
+      "property": "P137",
+      "value": "Q55672"
+    },
+    {
+      "property": "P154",
+      "value": "CV Logo.png"
+    },
+    {
+      "property": "P176",
+      "value": "Q55672"
+    },
+    {
+      "property": "P18",
+      "value": "Common Voice home page 04-2021.png"
+    },
+    {
+      "property": "P2671",
+      "value": "/g/11gfj__djh"
+    },
+    {
+      "property": "P275",
+      "value": "Q6938433"
+    },
+    {
+      "property": "P31",
+      "value": "Q44106130"
+    },
+    {
+      "property": "P31",
+      "value": "Q275969"
+    },
+    {
+      "property": "P3418",
+      "value": "org.commonvoice.saverio"
+    },
+    {
+      "property": "P3597",
+      "value": "org.commonvoice.saverio"
+    },
+    {
+      "property": "P373",
+      "value": "Common Voice"
+    },
+    {
+      "property": "P407",
+      "value": "Q20923490"
+    },
+    {
+      "property": "P479",
+      "value": "Q165970"
+    },
+    {
+      "property": "P5009",
+      "value": "Q102442905"
+    },
+    {
+      "property": "P571",
+      "value": "+2017-06-19T00:00:00Z"
+    },
+    {
+      "property": "P6216",
+      "value": "Q88088423"
+    },
+    {
+      "property": "P750",
+      "value": "Q79576"
+    },
+    {
+      "property": "P856",
+      "value": "https://voice.mozilla.org/"
+    },
+    {
+      "property": "P856",
+      "value": "https://commonvoice.mozilla.org/"
+    }
+  ]
+}
