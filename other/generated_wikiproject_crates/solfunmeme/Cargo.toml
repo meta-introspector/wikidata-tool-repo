@@ -1,0 +1,8 @@
+[package]
+name = "wikiproject_solfunmeme"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Add any common dependencies here, e.g., wikimedia-template-introspector-core
+# wikimedia-template-introspector-core = { path = "../../wikimedia-template-introspector-core" }
