@@ -4,29 +4,54 @@ use std::path::{Path, PathBuf};
 use std::fs;
 use regex::Regex;
 use lazy_static::lazy_static;
+use clap::Parser;
+use serde::{Serialize, Deserialize};
 
 lazy_static! {
     static ref CRQ_REGEX: Regex = Regex::new(r"CRQ-\d+").unwrap();
+    static ref URL_REGEX: Regex = Regex::new(r"https?://[\w./?=#&%~-]+[^\.,\s\n\r)]").unwrap();
+    static ref WORD_REGEX: Regex = Regex::new(r"\b[a-zA-Z_][a-zA-Z0-9_]*\b").unwrap();
+}
+
+#[derive(Parser, Debug)]
+#[command(author, version, about, long_about = None)]
+struct Args {
+    /// The path to the repository to scan (defaults to current directory)
+    #[arg(long, default_value = ".")]
+    repo_to_scan_path: PathBuf,
+}
+
+#[derive(Serialize, Deserialize, Debug, Default)]
+struct ScanCache {
+    last_scanned_commit: Option<String>,
+    found_crq_links: Vec<String>,
+    found_urls: Vec<String>,
+    found_terms: Vec<String>,
 }
 
 fn main() -> Result<()> {
-    let repo_path = PathBuf::from("."); // Current directory is the wikidata-tool submodule
-    let repo = Repository::open(&repo_path)
-        .context(format!("Failed to open repository at: {}", repo_path.display()))?;
+    let args = Args::parse();
+    let repo_to_scan_path = args.repo_to_scan_path;
 
-    let cache_dir = repo_path.join("cache");
+    let repo = Repository::open(&repo_to_scan_path)
+        .context(format!("Failed to open repository at: {}", repo_to_scan_path.display()))?;
+
+    let cache_dir = repo_to_scan_path.join(".wikidata_cache"); // Use a hidden directory for cache
     fs::create_dir_all(&cache_dir)
         .context(format!("Failed to create cache directory: {}", cache_dir.display()))?;
 
-    let last_scanned_commit_path = cache_dir.join("last_scanned_commit.txt");
-    let mut last_scanned_commit_oid: Option<Oid> = None;
+    let cache_file_path = cache_dir.join("scan_cache.json");
+    let mut scan_cache: ScanCache = if cache_file_path.exists() {
+        let cache_content = fs::read_to_string(&cache_file_path)
+            .context("Failed to read scan_cache.json")?;
+        serde_json::from_str(&cache_content)
+            .context("Failed to deserialize scan_cache.json")?
+    } else {
+        ScanCache::default()
+    };
 
-    if last_scanned_commit_path.exists() {
-        let oid_str = fs::read_to_string(&last_scanned_commit_path)
-            .context("Failed to read last_scanned_commit.txt")?;
-        last_scanned_commit_oid = Some(Oid::from_str(oid_str.trim())
-            .context("Failed to parse OID from last_scanned_commit.txt")?);
-    }
+    let last_scanned_commit_oid: Option<Oid> = scan_cache.last_scanned_commit.as_ref()
+        .and_then(|s| Oid::from_str(s).ok());
 
     let head_commit = repo.head()?.peel_to_commit()?;
     let mut revwalk = repo.revwalk()?;
@@ -36,60 +61,64 @@ fn main() -> Result<()> {
         revwalk.hide(last_oid)?;
     }
 
-    println!("Scanning for CRQ links since last scan...");
+    println!("Scanning for changes since last scan...");
 
-    let mut found_crq_links = Vec::new();
-    let mut current_head_oid = head_commit.id();
+    let mut new_crq_links = Vec::new();
+    let mut new_urls = Vec::new();
+    let mut new_terms = Vec::new();
 
     for oid in revwalk {
         let oid = oid?;
         let commit = repo.find_commit(oid)?;
 
         // Compare with parent to get changes in this commit
-        if commit.parent_count() > 0 {
+        let diff = if commit.parent_count() > 0 {
             let parent = commit.parent(0)?;
-            let diff = repo.diff_tree_to_tree(Some(&parent.tree()?), Some(&commit.tree()?), None)?;
-
-            diff.print(DiffFormat::Patch, |delta, hunk, line| {
-                if line.new_file_line_number() > 0 && (line.origin() == DiffLineType::Addition || line.origin() == DiffLineType::Context) {
-                    if let Some(content) = std::str::from_utf8(line.content()).ok() {
-                        for mat in CRQ_REGEX.find_iter(content) {
-                            found_crq_links.push(mat.as_str().to_string());
-                        }
-                    }
-                }
-                Ok(true)
-            })?;
+            repo.diff_tree_to_tree(Some(&parent.tree()?), Some(&commit.tree()?), None)?;
         } else {
             // Initial commit, diff against empty tree
-            let diff = repo.diff_tree_to_tree(None, Some(&commit.tree()?), None)?;
-            diff.print(DiffFormat::Patch, |delta, hunk, line| {
-                if line.new_file_line_number() > 0 && (line.origin() == DiffLineType::Addition || line.origin() == DiffLineType::Context) {
-                    if let Some(content) = std::str::from_utf8(line.content()).ok() {
-                        for mat in CRQ_REGEX.find_iter(content) {
-                            found_crq_links.push(mat.as_str().to_string());
-                        }
+            repo.diff_tree_to_tree(None, Some(&commit.tree()?), None)?;
+        };
+
+        diff.print(DiffFormat::Patch, |delta, hunk, line| {
+            if line.new_file_line_number() > 0 && (line.origin() == DiffLineType::Addition || line.origin() == DiffLineType::Context) {
+                if let Some(content) = std::str::from_utf8(line.content()).ok() {
+                    // Extract CRQ links
+                    for mat in CRQ_REGEX.find_iter(content) {
+                        new_crq_links.push(mat.as_str().to_string());
+                    }
+                    // Extract URLs
+                    for mat in URL_REGEX.find_iter(content) {
+                        new_urls.push(mat.as_str().to_string());
+                    }
+                    // Extract terms (simple word extraction for now)
+                    for mat in WORD_REGEX.find_iter(content) {
+                        new_terms.push(mat.as_str().to_string());
                     }
                 }
-                Ok(true)
-            })?;
-        }
+            }
+            Ok(true)
+        })?;
     }
 
-    if found_crq_links.is_empty() {
-        println!("No new CRQ links found.");
-    } else {
-        println!("Found CRQ links:");
-        for link in found_crq_links {
-            println!("- {}", link);
-        }
-    }
+    // Aggregate new findings into the cache
+    scan_cache.found_crq_links.extend(new_crq_links.into_iter().filter(|link| !scan_cache.found_crq_links.contains(link)));
+    scan_cache.found_urls.extend(new_urls.into_iter().filter(|url| !scan_cache.found_urls.contains(url)));
+    scan_cache.found_terms.extend(new_terms.into_iter().filter(|term| !scan_cache.found_terms.contains(term)));
 
     // Update last scanned commit
-    fs::write(&last_scanned_commit_path, head_commit.id().to_string())
-        .context("Failed to write last_scanned_commit.txt")?;
+    scan_cache.last_scanned_commit = Some(head_commit.id().to_string());
 
-    println!("Updated last scanned commit to: {}", head_commit.id());
+    // Write updated cache to file
+    let updated_cache_content = serde_json::to_string_pretty(&scan_cache)
+        .context("Failed to serialize scan_cache.json")?;
+    fs::write(&cache_file_path, updated_cache_content)
+        .context("Failed to write scan_cache.json")?;
+
+    println!("Scan complete for repository: {}", repo_to_scan_path.display());
+    println!("Total CRQ links found: {}", scan_cache.found_crq_links.len());
+    println!("Total URLs found: {}", scan_cache.found_urls.len());
+    println!("Total terms found: {}", scan_cache.found_terms.len());
 
     Ok(())
 }
