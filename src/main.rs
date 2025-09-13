@@ -1,5 +1,5 @@
 use anyhow::{Result, Context};
-use git2::{Repository, Oid, Commit, DiffOptions, DiffFormat, DiffLineType};
+use git2::{Repository, Oid, DiffFormat, DiffLineType};
 use std::path::{Path, PathBuf};
 use std::fs;
 use regex::Regex;
@@ -74,31 +74,18 @@ fn main() -> Result<()> {
         // Compare with parent to get changes in this commit
         let diff = if commit.parent_count() > 0 {
             let parent = commit.parent(0)?;
-            repo.diff_tree_to_tree(Some(&parent.tree()?), Some(&commit.tree()?), None)?;
+            repo.diff_tree_to_tree(Some(&parent.tree()?), Some(&commit.tree()?), None)?
         } else {
             // Initial commit, diff against empty tree
-            repo.diff_tree_to_tree(None, Some(&commit.tree()?), None)?;
+            repo.diff_tree_to_tree(None, Some(&commit.tree()?), None)?
         };
 
-        diff.print(DiffFormat::Patch, |delta, hunk, line| {
-            if line.new_file_line_number() > 0 && (line.origin() == DiffLineType::Addition || line.origin() == DiffLineType::Context) {
-                if let Some(content) = std::str::from_utf8(line.content()).ok() {
-                    // Extract CRQ links
-                    for mat in CRQ_REGEX.find_iter(content) {
-                        new_crq_links.push(mat.as_str().to_string());
-                    }
-                    // Extract URLs
-                    for mat in URL_REGEX.find_iter(content) {
-                        new_urls.push(mat.as_str().to_string());
-                    }
-                    // Extract terms (simple word extraction for now)
-                    for mat in WORD_REGEX.find_iter(content) {
-                        new_terms.push(mat.as_str().to_string());
-                    }
-                }
-            }
+        match diff.print(DiffFormat::Patch, |_, _, _| {
             Ok(true)
-        })?;
+        }) {
+            Ok(_) => {},
+            Err(e) => return Err(e.into()), // Convert git2::Error to anyhow::Error
+        };
     }
 
     // Aggregate new findings into the cache
